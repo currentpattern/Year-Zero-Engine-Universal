@@ -183,26 +183,16 @@ Once per game session, you can use your Pride when you have failed a skill roll.
 This section describes the 17 skills in this game.
 [Working out the skills and specialties](Working%20out%20the%20skills%20and%20specialties.md)
 
-==Which games have extra effects?
-Alien, War Stories, Year Zero, Coreolis==
-
-| Rank | DN         |
-| ---- | ---------- |
-| 1    | -2 / XX    |
-| 2    | -3 / XXX   |
-| 3    | -4 / XXX   |
-| 4    | -5 / XXXX  |
-| 5    | -7 / XXXXX |
 ## **STRENGTH**
 #### **MIGHT**
 You use MIGHT to lift, pull, push, or hold tight to something. If your roll succeeds, you perform this feat of strength.
 
 Might Specializations
-	Grappler: Grapple attacks, Breaking free or holding an opponent in Grapple
-	Lifter: Lifting or holding heavy objects
-	Hard Hitter: When using Swing Weapon action. (Heavy Weapon Fighter)
-	Intimidating: When using Might instead of Influence to intimidate (Threatening) 
-	Steady: When resisting tackles or disarms (Firm Grip)
+	Grappler: Grapple attacks, Breaking free or holding an opponent in Grapple  
+	Lifter: Lifting or holding heavy objects  
+	Hard Hitter: When using Swing Weapon action. (Heavy Weapon Fighter)  
+	Intimidating: When using Might instead of Influence to intimidate (Threatening)   
+	Steady: When resisting tackles or disarms (Firm Grip)  
 
 GRAPPLING: Engaging into a grapple is a MELEE roll, but when a grapple has succeeded, the only action a grappled person can perform is **BREAK FREE** – which is a slow action and requires them winning an opposed MELEE or MIGHT: Grappler  roll. While you are grappling, the only action you can perform is a **GRAPPLE ATTACK.** It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
 
