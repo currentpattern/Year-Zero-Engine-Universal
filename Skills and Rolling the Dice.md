@@ -285,14 +285,6 @@ Slow Action. Melee -3 / XXX. Tackle an opponent within SHORT range to the ground
 **Charge Attack**
 Move from 10m to Engaged (fast action) then performing a SLASH, STAB, PUNCH, or SHOVE (slow action). This combination is recognized in order to give the Charger specialization a die bonus.
 
-| Rank | DN         |
-| ---- | ---------- |
-| 1    | -2 / XX    |
-| 2    | -3 / XXX   |
-| 3    | -4 / XXX   |
-| 4    | -5 / XXXX  |
-| 5    | -7 / XXXXX |
-
 OTHER EXTRA EFFECTS:
 For every extra X, choose 1 applicable effect:
 - You disarm your opponent.
@@ -302,11 +294,14 @@ For every extra X, choose 1 applicable effect:
 - You impress someone. +1 to one INFLEUNCE roll on them later.
 ## **AGILITY**
 #### **STEALTH**
-	Sleight of Hand- Picking pockets, picking locks, or sneak attacks
+It is often wise to avoid combat and sneak past the enemy instead. Roll an opposed roll with your STEALTH skill against your adversary’s OBSERVATION. If you win, you manage to sneak past them without being spotted. You can also use this skill to remain hidden and avoid discovery when you are stationary. A third way to use this skill is to make a **Sneak Attacks** and **Ambushes** (see [Combat and Damage](Combat%20and%20Damage.md)).
+
+Stealth specialties
+	Sleight of Hand- Picking pockets, picking locks, or distraction-based sneak attacks
 	Guerilla- Ambushes and Sneak Attacks
-	Disguise
-	Burglar: urban stealth
-	Ranger: wilderness stealth
+	Disguise- when disguising yourself as someone else
+	Burglar- urban stealth
+	Ranger- wilderness stealth
 
 When using STEALTH, each of the following external factors gives you a +1 on the roll:
 - You blend into your surroundings (some gear may be already granting this bonus, in that case, ignore this)
@@ -321,8 +316,7 @@ Each of the following factors results in a -1 difficulty modifier on the roll:
 - Your opponent knows you're coming
 - You try to move undetected into Arm's Reach.
 
-**Sneak Attacks**
-Every success beyond the first may add +1 to damage.
+GROUP STEALTH: When you and the other adventurers use STEALTH side by side, each of you don’t roll for the skill. Instead, only the PC with the lowest skill level rolls, and the result applies to the whole group. Helping is not allowed.
 
 | STEALTH Effects                                                                                                         | DM        |
 | ----------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -339,6 +333,9 @@ For every extra X, choose 1 applicable effect:
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
 #### **MOVE**
+When you are going to dodge, jump, climb, move fast, or perform any other action that requires speed or motor control, you roll MOVE .
+
+Move specialties
 	Diver: Swimming
 	Climber: rappelling, climbing, knot-tying (Mountaineer)
 	Acrobat: Escaping restraints, or reducing fall damage  (Acrobat)
@@ -373,6 +370,9 @@ For every extra X, choose 1 applicable effect:
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
 #### **MARKSMANSHIP**
+Using a firearm, bow and arrow, sling, or a simple rock, you can stop enemies at a distance and can avoid bloodying your hands. Roll MARKSMANSHIP when you throw or fire a weapon at an enemy at a distance. If you succeed, the shot hits its target and you do weapon damage to your enemy. Read more about ranged combat in [Combat and Damage](Combat%20and%20Damage.md).
+
+Marksmanship Specialties
 	Thrower: thrown weapons: knifes, grenades, spears (throwing arm)
 	Archer: Bows and crossbows
 	Rifleman: Firing Assault rifles, carbines, SMGs, and shotguns
@@ -394,6 +394,9 @@ If you want your attack to hit a specific part of your target’s body – the h
 | Choose to hit an eyeball-sized area of the body                                                                                                                                                 | -4 / XXXX |
 
 #### **DRIVING**
+Roll this skill when you are the one controlling the movement of any ground or water-based vehicle.
+
+Driving Specialties
 	Full Throttle: Accelerate or Decelerate actions
 	Biker: motorcycles & bicycles
 	Motorist: covers cars, pickups, vans, buses, etc.
@@ -409,6 +412,9 @@ For every extra X, choose 1 applicable effect:
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
 #### **PILOTING** (adv. Req. Driving 2)
+Roll this skill when you are the one controlling any air or space vehicle. Gaining 1 rank in this skill requires you to already have 2 ranks in the DRIVING skill.
+
+Piloting Specialties
 	Full Throttle: Accelerate or Decelerate actions
 	Aviator: winged airplanes of all types
 	Rotorpilot: all types of helicopters 
@@ -422,16 +428,16 @@ For every extra X, choose 1 applicable effect:
 - Give 1 success to another PC in a similar situation before your next turn. 
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
-
-| Rank | DN         |
-| ---- | ---------- |
-| 1    | -2 / XX    |
-| 2    | -3 / XXX   |
-| 3    | -4 / XXX   |
-| 4    | -5 / XXXX  |
-| 5    | -7 / XXXXX |
 ## **WITS**
 #### **OBSERVATION**
+You use your OBSERVATION skill to discover anyone sneaking up on you (opposed roll, see above). You can also use this skill when you see something or someone at a distance, and want to know more about it. If the roll is successful, you see what it is and can determine whether or not it is a threat to you. The GM decides exactly what you see. OBSERVATION can be used to fight in the dark ([Combat and Damage](Combat%20and%20Damage.md)), Keep Watch ([Journeys](Journeys.md)), Surveying new land ([Journeys](Journeys.md)), and investigating mysterious scenes.
+
+DON’T USE OBSERVATION TO FIND HIDDEN THINGS: The OBSERVATION skill is not used to find hidden things like secret doors or hidden clues. If you describe how your PC searches the right place, the GM should simply let you discover what you are looking for if it is possible to find.
+
+GROUP OBSERVATION  
+When you and other adventurers OBSERVE at the same time, you do not roll separately. Instead, only one PC rolls. You decide together who should roll. Helping is not allowed. The result applies to the whole group.
+
+Observation Specialties
 	Forward Observer: Directing indirect fire
 	Military Intel: Knowing stats of military weapons, troops, vehicles
 	Investigator: Invesigating scene of crime or battle
@@ -452,6 +458,10 @@ For every extra X, choose 1 applicable effect:
 - Useful information about your location is gathered. The GM will let you know if this is possible and what the information is.
 - Gain +1 modification to a later skill roll relating to this one
 #### **SURVIVAL**
+In the wilderness, or the city, the ignorant can lose their lives by making the wrong choices. You can roll SURVIVAL in a number of different situations when you are traveling in the wilderness (finding your way, building a camp, hunting for food, tracking prey, even basic farming and cooking, etc.) See [Journeys](Journeys.md) for more detail on these. You can even use SURVIVAL for First Aid, which incurs a -3 penalty compared to the MEDICAL AID skill.
+
+Survival Specialties
+	First Aid: when using SURVIVAL to heal someone. This use incurs a -3 penalty compared to the MEDICAL AID skill
 	Cook: Turning raw food into rations
 	Farmer: farming
 	Fisher: fishing
@@ -463,11 +473,10 @@ For every extra X, choose 1 applicable effect:
 	Scrounger: Scrounging urban areas or ruins for useful scrap
 	(CHOOSE ENVIRONMENT): Forest, Desert, Mountains, Plains, etc. Use this specialization when FORAGING, HUNTING, LEADING THE WAY, or rolling for ENDURANCE in this chosen environment
 
-
-| Survival Effects                                                                                  | DM        |
-| ------------------------------------------------------------------------------------------------- | --------- |
-| All characters in a camp you build gain 2 temporary Willpower Points until dawn (Quartermaster 3) | -4 / XXX  |
-| Sleeping on your mount during a Quarter Day riding, or stationary without setting up camp.        | -5 / XXXX |
+| Survival Effects                                                                                                        | DM        |
+| ----------------------------------------------------------------------------------------------------------------------- | --------- |
+| When setting up camp, all characters in a camp you build gain 2 temporary Willpower Points until dawn (Quartermaster 3) | -4 / XXX  |
+| Sleeping on your mount during a Quarter Day riding, or stationary without setting up camp.                              | -5 / XXXX |
 OTHER EXTRA EFFECTS:
 For every extra X, choose 1 applicable effect:
 - Give 1 success to another PC in a similar situation before your next turn. 
@@ -476,6 +485,9 @@ For every extra X, choose 1 applicable effect:
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
 #### **CRAFTING**
+A catch-all skill covering the know-how and attention to detail required for crafts common to pre-modern eras. For modern or high-tech items, the skill to use is TECHNICAL.
+
+Crafting Specialties
 	Blacksmith: metalworking, forging, casting, molding, and smelting.
 	Builder: Masonry/carpentry, base/stronghold building
 	Apothecary
@@ -486,6 +498,27 @@ For every extra X, choose 1 applicable effect:
 	Tailor: crafting cloth or clothes
 	Demolitions: placing and disarming mines and explosive devices
 	Jerry Rigging: Crafting makeshift items
+
+REPAIR: Repairing a broken item generally takes a few hours and a successful CRAFTING roll. If the roll succeeds, the item is repaired. If the item has a Gear Bonus, it will increase one step for every x rolled. You cannot go above the original Gear Bonus. If you fail at your task, you may not try again on this item until it has been repaired by someone else. The item is unaffected. BANES when PUSHING a repair roll mean if you did not completely fix the item, the item’s Gear Bonus is permanently decreased to the current level. Every BANE beyond the first one lowers the Gear Bonus permanently by 1. If the Gear Bonus has been decreased to zero, the item is permanently destroyed. Advanced items require specific talents to repair (see the boxed text).
+
+CRAFT: Creating new items requires far more work than repairing existing ones does. It re-quires a CRAFTING roll (and the right talent, for ADVANCED items) just like repairing, but you also need raw material, in most cases special tools, and usually a lot more time. Some items are very complicated to craft and the roll will be modified negatively. All these requirements and prerequisites can be found in the gear tables in Chapter 9. Note that some raw materials might be items which in turn must be crafted.
+
+If your roll is **successful**, you make the item, of the same quality as listed in the equipment lists. You may push any CRAFTING roll, but after a push, all banes count against the item’s gear bonus. If the roll is **failed** and the gear bonus has been pushed to 0, the materials are destroyed. If you are crafting an item that doesn’t posess “gear bonus”, 2 banes will destroy the materials after a failed roll. If successful, but you still have banes after a push (on an item with no “gear bonus”) the item is simply of inferior quality. If you **fail**, take a -2 penalty on your next crafting roll to create the same type of item for a week, unless you can change or improve the circumstances, like getting better at crafting, getting better assistance or better tools.
+
+CRAFTING CONSUMABLES: Some craftable items, like poisons, are going to use up materials on a regular failure. In this case, the crafter looses 1/2 of the starting materials.
+
+ADDITIONAL TIME: By spending more time than the minimum required to craft an item, you increase your chance of success. If you spend twice as much time as the require- ment, you get a +1 modification on your roll, and if you spend four times as much time, you get a +2 modification. You cannot get a higher modification than +2 by spending ad- ditional time.
+
+MASTER CRAFTING: Skilled craftsmen can create items above and beyond what a normal craftsman can. Using talents, you can create items with better game stats than normal. Read more in Chapter 4.
+
+NEW ITEMS: You can attempt to craft items that are not listed in the weapons and gear lists. You can determine the item’s properties and the require- ments to craft it in consultation with the GM. The GM has the final word.
+
+**INVENTING NEW TECHNOLOGY:** Some unlisted items may require more technical knowledge than currently exists in this world. e.g. printing press, glider, cannon, microscope, etc. Creating a complex new invention requires rank 3 in a specialty most relevant to the machine, building material, or technique that you’re trying to invent. If the GM determines that there is no specialty relevant to what you’re trying to create, the alternative prerequisite is to have the base CRAFTING skill at rank 5. If you only have rank 5 CRAFTING, your initial attempt will be at a -4 penalty, and all subsequent attempts will be at -2.  
+But if you get rank 3 in the relevant specialty, your initial attempt will be at a -2 penalty due to the difficulty of making something that’s never been done before, and all subsequent attempts will have no penalty.
+
+The following are example specialties that are related to technical expertise which can be used to push beyond the age’s tech level: Alchemist, Apothecary, Bowyer, Builder, Cartography, Chef, Physician, Smith, Tailor, Tanner.
+
+The GM will determine the material and tool requirements as well as time-taken to create your prototype.
 
 | CRAFTING Effect                                                                                                                                                        | DM        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -519,7 +552,6 @@ For every extra X, choose 1 applicable effect:
 | Brewing alcohol that is so delicious that whoever drinks it immediately recovers a point of lost Empathy.                                                                                      | -4 / XXXX |
 | Crafting Quality 3 Advanced Meals                                                                                                                                                              | -4 / XXXX |
 
-
 | CRAFTING Effects                                                                                                                                                                                                                                  | DM        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | Create a **makeshift item** that can only be used once. These items require a successful Forage roll (or raw materials in your inventory) and one Quarter Day for CRAFTING them, but no special tools. These items have no Gear Bonus.            | -3 / XXX  |
@@ -534,6 +566,9 @@ For every extra X, choose 1 applicable effect:
 
 
 #### **SCHOLAR**
+Roll for SCHOLAR when you want to know more about a subject, site, an important NPC or artifact. If you succeed, you will remember something important about it. Often, success in SCHOLAR will grant a die bonus to a related practical skill
+
+Scholar Specialties
 	Natural Sciences: situations requiring knowledge of physics, biology, geology, or any other natural science.
 	Social Sciences
 	Psychology: Add Scholar (Psychology) to certain rolls?
@@ -553,7 +588,10 @@ For every extra X, choose 1 applicable effect:
 - Give 1 success to another PC in a similar situation before your next turn. 
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
-#### **TECHNICAL** 	
+#### **TECHNICAL**
+Roll TECHNICAL when repairing, crafting, or modifying modern or high technology. In almost every case, specialized tools are absolutely necessary. 
+
+Technical Specialties
 	Chemist: crafting or identifying chemicals
 	Demolitions: placing and disarming mines and explosive devices
 	Communications: using radios, boosting signals, morse code, setting up antennae, using encryption equipment
@@ -568,7 +606,6 @@ For every extra X, choose 1 applicable effect:
 | Refining Gold Ore, mixing gun powder, crafting small explosives, fire/explosive arrows. | -2 / XX    |
 | Crafting match cords, perfume and acids.                                                | -3 / XXX   |
 | Producing Alchemist Fire                                                                | -4 / XXX   |
-|                                                                                         |            |
 | Crafting detonators and explosives.                                                     | -7 / XXXXX |
 
 | LOCKPICKING Effects                                                                   | DM       |
@@ -582,26 +619,16 @@ For every extra X, choose 1 applicable effect:
 - You get new or unexpected information (computers)
 - You act quietly (physical), or hide your tracks (computer)
 - You impress someone. +1 to one INFLEUNCE roll on them later.
-
-| Rank | DN         |
-| ---- | ---------- |
-| 1    | -2 / XX    |
-| 2    | -3 / XXX   |
-| 3    | -4 / XXX   |
-| 4    | -5 / XXXX  |
-| 5    | -7 / XXXXX |
-|      |            |
-
 ## **EMPATHY**
 #### **INSIGHT**
+INSIGHT is a versatile skill involving neuroception, intereception, and not a little bit of wisdom. Roll INSIGHT when someone is trying to INFLUENCE you (opposed roll), when trying to read another's motivations, read an enemy in combat (see "Read Enemy" action in [Combat and Damage](Combat%20and%20Damage.md)), or even for keeping calm under extremely stressful or terrifying situations.
+
+Insight Specialties
 	Incorruptable: Resisting unwanted Influence
 	Calm: rolling for stress and panic
 	Mindful: rolling for Meditation attempts
 	Magician: rolling for Magic spells
 	Tactician: Using the Read Enemy action during Combat
-
-**Read Enemy**
-Fast action. -3 / XXX. Foresee how an opponent will act in the coming round. All your attack and defense rolls against this opponent get a +1 modification until it is your turn again in the next round. Every success beyond what is needed grants an additional +1 modification. 
 
 | INSIGHT Effect                                                                                                                                                                                                                                                                                                                                                                                     | DM         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -621,6 +648,9 @@ For every extra X, choose 1 applicable effect:
 	- Any/all INSIGHT or INFLUENCE specialties, and their ranks.
 - Gain +1 to any future test that benefits from the knowledge gained.
 #### **INFLUENCE**
+INFLUENCE ranges from manipulating people to see things your way, to teaching, to being a moving performer, to being a soothing councilor, or an inspiring commander.
+
+Influence Specialties
 	Dominator: causing damage to Wits or Empathy 
 	Manipulator: Changing someone's mind about a particular issue
 	Teacher: Teaching someone a skill or specialty
@@ -630,6 +660,59 @@ For every extra X, choose 1 applicable effect:
 	Counselor: Reducing stress level of one other character
 	Command: using Influence on allies. Make a Plan action, Command action
 
+MANIPULATION
+Make an opposed roll with your INFLUENCE: Manipulation against your adversary’s INSIGHT. Your chances are affected both by your negotiating position. What you ask of your opponent or what you want them to do must be within reason – **no NPC will agree to do anything or act completely against their own interests**, no matter how good your roll is.
+
+RESOLUTION  
+If you succeed, your adversary must either do what you want or immediately attack you physically. Even if your adversary chooses to do what you want, he can still demand something in return. The GM decides what that entails, but it should be reasonable enough for you to be able to meet those demands. It is up to you to accept the agreement or not.
+
+NEGOTIATING POSITION  
+Your chances of MANIPULATING someone successfully are affected by your negotiating position, which is determined by the GM. Each of following factors modifies your roll by +1:  
++ You have more people on your side.  
++ What you ask for doesn’t cost your opponent anything.  
++ Your opponent has suffered damage to any attribute.  
++ You have helped your opponent previously.  
++ You present your case very well (determined by the GM)  
++ You have more reputation (Village or Regional, whichever is highest) than your opponent.  
++ You have twice the reputation (Village or Regional, whichever is highest) than your opponent.  
++ You have more Global reputation than your opponent
+
+Each of the following factors modifies your roll by –1.  
+- Your opponent has more people on their side.  
++ Your opponent has more reputation (Village or Regional, whichever is highest) than you.  
++ Your opponent has twice the reputation (Village or Regional, whichever is highest) than you.  
++ Your opponent has more Global reputation than you.
+- You ask for something valuable or dangerous.  
+- Your opponent has nothing to gain by helping you.  
+- You are having trouble understanding each other.  
+- The range between you is SHORT or longer.
+
+MANIPULATE A GROUP  
+When you want to MANIPULATE a whole group, you usually address the group’s leader or spokesperson. Remember that your roll is modified by –1 if your opponent has more people on their side. If you reach an agreement with the leader, the rest of the group usually follows. If there is no given leader it’s harder — every single opponent acts individually.
+
+BEING MANIPULATED  
+NPCs and other PCs can MANIPULATE you. If their roll succeeds, you must attack or offer a deal of some kind. Then it is up to the GM (or the other player) whether your adversary accepts or not.
+
+NOT MIND CONTROL  
+When you MANIPULATE someone, you do not take control of their mind. What you are trying to convince your adversary about must be somewhat reasonable, otherwise the GM can disallow it.
+
+Other ways of using Manipulation:
+
+TRAINING TROOPS: When training a Platoon of troops to increase their “Grit,” you may roll Manipulation. See TROOPS CHAPTER
+
+FINDING FOLLOWERS & COHORTS: Once per week, anyone can try to recruit followers by rolling Manopulation + Global Reputation + ½ Local Justice Reputation. At 7 Global Reputation, you may roll performance to try to find a Cohort. See SECTION ON HIRELINGS, FOLLOWERS, AND COHORTS.
+
+BUYING & SELLING: Roll Manipulation vs. Insight when buying or selling in order to modify the price. Every success modifies the price by 20% of the standard market value. See BUYING AND SELLING for more info.
+
+| Manipulation effects                                                                                                                                                                                      | DM        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| If you succeed at this DM, the NPC will believe what you are saying (regardless of whether it’s true or not), you can spend a WP to succeed automatically.                                                | -4 / XXX  |
+| If you succeed at this DM, you can avoid doing something in return and your opponent also loses the ability to attack you. What you are asking must still be reasonable according to the GM’s assessment. | -5 / XXXX |
+
+| INFLUENCE: Dominator Effects                                                                                                                                                                                                                   | DM        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Inflict 1 point of Empathy damage. +1 per extra success                                                                                                                                                                                        | -3 / XXX  |
+| Rolling Influence: Dominator after a successful coup de grace attacks counts as a fear attack against enemies in 20m. Success and any extras are then distributed evenly as Wits damage amongst your targets. Animals and monsters are immune. | -5 / XXXX |
 
 | INFLUENCE: Command Effects (Fast Action)                                                                                                                                                                                                                                                                                                                            | DM        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -638,11 +721,6 @@ For every extra X, choose 1 applicable effect:
 | Allowing one **ally within 20m to take a free fast action.**                                                                                                                                                                                                                                                                                                        | -3 / XXX  |
 | **Rally**. When allies within 10m range are Broken from a FEAR attack, negate the horror critical, but they remain Broken. Every extra success can reduce an ally Broken from FEAR to 1 Wits instead of them being Broken.                                                                                                                                          | -4 / XXX  |
 | Allowing an 20m range **ally to take a free slow action**.                                                                                                                                                                                                                                                                                                          | -5 / XXXX |
-
-| Manipulation effects                                                                                                                                                                                      |           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| If you succeed at this DM, the NPC will believe what you are saying (regardless of whether it’s true or not), you can spend a WP to succeed automatically.                                                | -4 / XXX  |
-| If you succeed at this DM, you can avoid doing something in return and your opponent also loses the ability to attack you. What you are asking must still be reasonable according to the GM’s assessment. | -5 / XXXX |
 
 | INFLUENCE: Performance effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | DM         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -655,12 +733,6 @@ For every extra X, choose 1 applicable effect:
 | **Transfer Willpower:** Your song **grants a portion of your Willpower** to one of your comrades within 100m. You simply give a number of WP of your choice to your friend.                                                                                                                                                                                                                                                                                                                                                   | -5 / XXXX  |
 | Forcing and NPC to perform a specific action at a time of your choosing after a successful Manipulation. You must speak to the NPC for a few minutes. You cannot force them to hurt themselves.                                                                                                                                                                                                                                                                                                                               | -5 / XXXX  |
 | **Dishearten Foes:** Roll an opposed roll for INFLUENCE -6 versus INSIGHT. You can perform so powerfully that your song cuts into the hearts of any listeners within 20m. Your **song causes one point of damage Empathy**, +1 per extra success. You can distribute the damage across as many opponents as you want. No effect against monsters.                                                                                                                                                                             | -6 / XXXXX |
-
-| INFLUENCE: Dominator Effects                                                                                                                                                                                                                   | DM        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Inflict 1 point of Empathy damage. +1 per extra success                                                                                                                                                                                        | -3 / XXX  |
-| Rolling Influence: Dominator after a successful coup de grace attacks counts as a fear attack against enemies in 20m. Success and any extras are then distributed evenly as Wits damage amongst your targets. Animals and monsters are immune. | -5 / XXXX |
-
 OTHER EXTRA EFFECTS:
 For every extra X, choose 1 applicable effect:
 - Target character goes even further, now, toward pleasing your PC.
@@ -668,8 +740,27 @@ For every extra X, choose 1 applicable effect:
 - Sow doubt in the mind of the target, causing them to suffer +1 Stress point.
 
 #### **ANIMAL HANDLING**
+Animals are either wild or tame. The ANIMAL HANDLING skill can be used in several ways, including riding an animal, commanding tame animals, discouraging wild animals from attacking, or even taming wild animals.
+
+Animal Handling Specializations
+	Rider: Riding tame animals like horses
 	Tamer: Taming a non-domesticated animal
 	Trainer: Training a tamed animal useful skills like reviving you or fighting for you.
+	Commander: Commanding tame animals to take actions other than riding.
+
+RIDE: Any adventurer can sit on a horse or another type of mount without falling off, but more advanced maneuvers can require a skill roll. ANI- MAL HANDLING replaces MOVE when you attempt difficult jumps or other maneuvers on beast back. Use the mount’s AGILITY in these cases to determine the number of Base Dice for the roll, not your EMPATHY.  
+You can push the roll, but you  
+run the risk of exhausting the mount.
+
+COMMAND TAME ANIMALS: Using ANIMAL HANDLING, you can attempt to command a tame animal to do your bidding. The actions you want it to perform must be simple and within the framework of the animal’s normal behavior. The GM decides what is reasonable. An attempt to do this takes at least a few minutes.
+
+TAME WILD ANIMALS: When you encounter a wild animal, you can attempt to discourage it from attacking by communicating on a primal level. You must be at CLOSE range or closer, and you must be aware of the animal’s presence. Roll an opposed roll for ANIMAL HANDLING against the animal’s STRENGTH – larger ani- mals are harder to frighten off.  
+Through a longer period of work, you can also use ANIMAL HANDLING to tame a wild animal. The animal must be caught, and to successfully tame it you must use ANIMAL HANDLING successfully as many times as the animal’s STRENGTH, spread out over an equal number of days. You must spend a Quarter Day (see page 144) every day taming the animal, or the process begins anew. It is possible to tame SOME non-demonic monsters. There will be a penalty ranging from -1 to -3.
+
+FAILING A TAMING ROLL  
+This doesn’t stop the taming process, just slows it down by a day where no progress was made. The process continues as long as you spend a Quarter Day working on it. If a failure includes a SKULL result, mark it as a CRITICAL FAILURE.
+
+Each time you accrue a critical failure, roll 1D6. If the roll is equal to or less than the number of CRITICAL FAILURES you have, the taming process is botched and the animal is now too traumatized to continue.
 
 Factors granting a +1 to an ANIMAL HANDLING roll:
 - The task has a low risk of harm.
@@ -692,11 +783,19 @@ Factors leading to a -1 to an ANIMAL HANDLING roll:
 | **Training your animal to fight for you**. When it is your turn to fight, the animal will also fight and follow your orders for one round, at your turn in the initiative order. For every success beyond what was necessary to succeed, grant +1 to all your animal's combat rolls. (Training time TBA) | -5 / XXXX |
 | Using **animal handling against unintelligent monsters**. This is then always an opposed roll vs their Strength. If you use this to train a young monster, it can be intelligent, but you need to reroll every time its Strength increases with age – but only once per Strength increase.               | -5 / XXXX |
 
-#### **MEDICAL AID** (adv. Req Scholar (medicine) 2)
+#### **MEDICAL AID** (adv. Req Scholar: medicine 2)
+there is a significant risk that you and your friends will be injured, sooner or later. This is when the HEALING skill is useful. It can be used in two different ways:
+
+Medical Aid Specializations
 	Combat medic: helping an incapacitated character recover. Not for treating critical injuries.
 	Field Surgeon: Stabilizing fatal critical injuries
 	General Practitioner: Long-term treatment of critical injuries, treating disease, poison, and rad/bio/chem damage.
 	Veterinarian: healing animals
+
+
+RECOVERY: A person who has had their Strength or Agility reduced to zero is Broken, and cannot act any further. If you apply your HEALING skills to her (slow action) and your roll succeeds, they get back on their feet and immediately recover a number of attribute points equal to the number of x you roll. This can also be applied to characters who are not broken, but BANDAGES are required. You may heal yourself with this skill.
+
+SAVE A LIFE: The most important application of HEALING is giving first aid and saving the life of a fallen comrade who has suffered a critical injury. A failed roll at this point could mean the end for your patient, so be careful! Read more about critical injuries in that section.
 
 | MEDICAL AID Effect                                                                                                                                                                  | DM       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
