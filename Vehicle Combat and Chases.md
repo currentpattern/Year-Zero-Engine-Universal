@@ -39,7 +39,7 @@ A critical hit from a close combat attack against a vehicle is always rolled wit
 
 **PASSENGERS**: The driver and passengers in a vehicle can be hit by critical damage to a vehicle. If they are visible, they can also be targeted directly by a ranged attack. In a ground car, this counts as cover and counts as armor. A person riding on a cycle of some kind does not benefit from cover.
 
-![[Pasted image 20241113205702.png]]
+![alt text](https://raw.githubusercontent.com/currentpattern/Year-Zero-Engine-Universal/refs/heads/main/Pasted%20image%2020241113205702.png)
 
 
 ## AERIAL VEHICLES
