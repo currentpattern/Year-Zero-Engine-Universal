@@ -42,7 +42,7 @@ You are allowed to push rolls even after a successful roll, but only if rolling 
 
 SKILL DICE: When you push a roll, ones from the Skill Dice do not count as BANE and can be re- rolled even if they do come up as a one. Hence, the BANE does not appear on the Skill Dice in the custom dice set for the game.
 
-GEAR DICE: If you push your roll, you must also push any Gear Dice. If the gear is a modern tool such as a firearm or vehicle using Reliability Rating instead of Gear Dice, any damage from pushing will affect the item instead of yourself and decrease its reliability rating by 1 per BANE.
+GEAR DICE: If you push your roll, you must also push any Gear Dice. If the gear is a modern tool such as a firearm or vehicle using **Reliability Rating** instead of Gear Dice, any damage from pushing will decrease its reliability rating by 1 per BANE.
 
 AMMO DICE: If you push your roll, you must also re-roll any ammo dice that aren't a SUCCESS or BANE. BANE  on ammo dice will damage your firearm and decrease its reliability rating, just like rolled on your base dice.
 
@@ -71,10 +71,10 @@ Mark your WP on your character sheet. You can never have more than ten (10) WP a
 
 USING WILLPOWER
 There are several potential uses for Willpower:
-- Convert 1 WP to 1 XP for the purpose of training skills.
-- Ignore Suppression (see [[Combat and Damage]]).
+- Convert 1 WP to 2 XP for the purpose of training skills.
+- Ignore Suppression (see [Combat and Damage](Combat%20and%20Damage.md)).
 - +2D to a roll per WP spent (max 4 per round). These can be granted to a fellow character if you are helping. 
-- Re-rolling a critical damage result (once per injury)
+- Re-rolling a critical damage result (once per injury), must use the new result.
 - Remove 1 Stress Point. Must be done before GM calls for Panic roll.
 - Buying success: If you are rolling 6+ dice (including Gear Dice), you may spend Willpower to buy 1 success. The cost is 3 WP. You may only buy the success before you’ve rolled the skill, and you may not subsequently roll the skill.
 
@@ -131,9 +131,9 @@ Gear can get worn in one of two ways: 1) Reduced Gear Dice, 2) Reduced Reliable 
 GEAR DICE
 When you use gear and push your roll (see above), there is a risk your gear may be damaged. For every SKULL you roll with your Gear Dice when pushing the roll, the item’s Gear Bonus is decreased by one. It simply doesn’t work as well anymore – a weapon dulls, a rope frays, the fragile pages of a book fall out and crumble to pieces. If the Gear Bonus reaches zero, the item is broken and cannot be used again until repaired.  
 
-"RELIABLE" RATING
+RELIABILITY RATING
 Some gear, like modern firearms, are more complex tools are more reliable, and banes on their pushed Gear Dice decrease their "Reliable" rating instead of reduce Gear Dice. This kind of gear can suffer damage and be broken through use or attacks. Each point of damage from pushing rolls or outside force will reduce the Reliable
-rating by 1. When it reaches zero, the item is broken and can no longer be used. A typical piece of sturdy, mechanical gear in good condition has a reliability rating of 5, but delicate or badly built gear can start with a lower rating. **If the item has no Gear Dice, and no hit reliability is listed, assume Reliability to be 5. (fix this)**
+rating by 1. When it reaches zero, the item is broken and can no longer be used. A typical piece of sturdy, mechanical gear in good condition has a reliability rating of 5, but delicate or badly built gear can start with a lower rating. **If the item has no Gear Dice, and no reliability is listed, assume Reliability to be 5.**
 
 REPAIRS
 Luckily, damaged gear can be repaired. It takes about a quarter day of work, tools (T2K p130) of some sort, and a successful roll with the TECHNICAL or CRAFTING skill. For modern machinery, you'll also need a **spare part** (page 130) of the relevant type: vehicle, weapon, electronic – or general, if none of the others apply.
@@ -142,40 +142,6 @@ If a TECHNICAL roll fails, you can simply try again next quarter day. Banes on a
 If a CRAFTING roll fails, the Gear Bonus is permanently decreased to its current score. If the Gear Bonus has been reduced to zero and the attempt at repair fails, the item is permanently destroyed. 
 
 More on worn gear and repairing it can be found in the [Gear](Gear.md) section.
-
-==**WHAT IF?**==
-==What if ammo dice and gear dice were the same.==
-==Don't ammo dice act the same as gear dice? Sort of: successes don't mean hits, they they only mean more damage on a hit, or suppression on a miss.== 
-==Ammo dice are optional, you can add up to the ROF in dice, which on max is:== 
-	==Pistols 2==
-	==Hunting rifles 1==
-	==Shotguns 2==
-	==Assault rifles 6==
-==Bows and thrown weapons don't have ammo dice.==
-
-==**Making ammo dice function the same as gear dice would mean**==
-- ==hitting would be harder than FL if they're optional (just make 1-2 of them not optional)==
-- ~~==Assault rifles would be easier to hit with at high ROF~~ (Not if I said using extra Gear Dice from ROF converts all Gear Dice into "ammo dice." )==
-	- ==**Perhaps**:  When someone chooses rapid fire, all Gear Dice go to 0, and any further Gear Dice rolled work like "ammo dice")
-	- To make using rapid fire with low ROF weapons worthwhile, there must be more options from successes.
-		- ON HIT: Every X can a) increase damage, b) hit another body part, c) hit another target w/in 5m **d) pin your enemy triggering panic roll e) You position yourself and may exchange initiative score with your enemy, taking effect next turn. You can't go back to your earlier initiative. f) disarm target g) Opponent falls prone or is pushed back 1 meter.**==
-- ==Hit + damage/spread is the same.== 
-- ==Without the reliability rating, firearms would STILL need an extra stat for how many Gear Dice represent their durability. (Keep "Reliable #" as a Feature which says this # gets degraded instead of Gear Dice)==
-- ==You'd never encounter Miss + Suppression (unless there was a special rule for firearms that successes on Gear Dice alone don't count as hits)==
-	==What does War Stories have to say about miss + suppression? They don't have Ammo Dice.==
-		==War Stories:== 
-		==1) Suppression is a chosen mode of fire. You spray a general area, and grants attacker extra dice for it depending on fire rate: rapid +2, burst +3, full auto +4. Visibility, obstructions, target movement don't modify. Each X is a "Suppression Success" (or spend a WP then roll a D6 for each success, and each X is now a hit), each imposes a penalty to avoid Suppression.== 
-		==2) Terrifying: The use of this weapon immediately imposes a Stress test when it is first fired into your Zone or an adjacent Zone, regardless of success. The number of Auto-Hits imposed equals the value of X in the Quality.==
-			==MG 42: Terrifying 1==
-			==Flamethrowers: Terrifying 2==
-==**Keeping Ammo Dice + Reliability separate would mean**==
-- ==Shooting single shots is somehow more difficult than shooting with a bow/crossbow. (this could be solved by forcing the use of at least 1 Ammo die)==
-- ==Slightly more complex/confusing game design.==
-- ==Pushing BANES on a firearm doesn't mysteriously damage your agility.== 
-==(We can keep the name Gear Dice. Only recognize that due to the ease of use of the weapon, all banes only damage the weapon's new stat, Reliability. Instead, Gear Dice above 1 represent the high rate of fire of the weapon. )== 
-==PERHAPS I can avoid requiring the use of a Gear Die if I generally make guns easier to use by giving them BETTER RANGE? This can be figured out when working out WEAPON RANGE.==
-==OR, all firearms could have 1-2 Gear Dice + the choice to use Ammo Dice (decrease that stat by 1 from TW2K)==
-
 ### **PRIDE**  
 Once per game session, you can use your Pride when you have failed a skill roll. When you use your Pride, roll a D12 and add the result to your roll. You can activate your Pride no matter whether you have pushed the roll or not, but you cannot push the roll after using your Pride. If you fail despite using your Pride, you must erase your Pride. You must play a whole game session without Pride, then you can choose a new one.
 
@@ -256,6 +222,8 @@ Melee Specialties
 	Spear: When using spears, Halberds, and the like (spear fighter)
 	Sword: When using swords, of all kinds (sword fighter)
 	Whip: Using a whip (whip fighter)
+	Monster Hunter: engaging in combat against horrifying and unnatural creatures
+	Mounted melee: When fighting from a mount or vehicle
 
 | MELEE Effect                                                                                                                              | DM       |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -333,6 +301,7 @@ Move specialties
 	Bodyguard: Defend Other action to protect someone from harm
 	Zero G: Moving in zero G
 	Fast Footwork: Dodge actions (fast footwork, Acrobat)
+	Dirty Fighter: Feint actions in combat
 
 | MOVE Effect                                                                                                              | DM       |
 | ------------------------------------------------------------------------------------------------------------------------ | -------- |
@@ -353,6 +322,22 @@ Move specialties
 | **Bodily Replace**. Immediately switch places with an ally within 10m engaged in battle. The movement can’t be made through walls or in other ways that would break the laws of physics. Does not count as an action for your ally.                                                  | -4 / XXX  |
 | **Body Block**. You may attempt this action at any time, throwing yourself in front of an ally within 10m distance who is being attacked, and suffer 1 damage instead of your friend. If successful, you may add Willpower points, taking on 1 more damage for every Willpower used. | -5 / XXXX |
 
+| Rank | DN         |
+| ---- | ---------- |
+| 1    | -2 / XX    |
+| 2    | -3 / XXX   |
+| 3    | -4 / XXX   |
+| 4    | -5 / XXXX  |
+| 5    | -7 / XXXXX |
+
+| MOVE: Dirty Fighter Effects                                                                                                                                                                                                                                                                           | DN         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| As a fast action with no roll, trade Initiatives with a particular opponent                                                                                                                                                                                                                           | -          |
+| When you use the feint action, roll MOVE, and you may instead of trading initiative cards, have the target lose all actions if you damage it with the next attack you take this round.                                                                                                                | -2 / XX    |
+| Use the feint action within Short range of your enemy. Also, when you use the feint action, you may instead of trading initiative cards, have the target be unable to dodge or parry the next action you take this round.                                                                             | -3 / XXX   |
+| When you use the feint action, you may instead of trading initiative cards, throw dust in your opponents’ eyes as a sleight of hands roll. It counts as a piercing projectile attack for the purpose of parry/dodge. On a success the tar- get is blinded, as if in total darkness for 1 round per x. | -4 / XXX   |
+
+
 OTHER EXTRA EFFECTS:
 For every extra X, choose 1 applicable effect:
 - Give 1 success to another PC in a similar situation before your next turn. 
@@ -366,10 +351,11 @@ Marksmanship Specialties
 	Thrower: thrown weapons: knifes, grenades, spears (throwing arm)
 	Archer: Bows and crossbows
 	Rifleman: Firing Assault rifles, carbines, SMGs, and shotguns
-	Sidearms: Firing pistols
+	Pistols: Firing pistols
 	Sniper: Firing sniper rifles and hunting rifles
 	Assassin: Firing guns at Engaged Range
-	Machinegunner: firing on full auto does not increase your stress level
+	Machinegunner: Firing weapons at ROF 4 or higher 
+	Mounted shooter: When fighting from a mount or vehicle
 
 **Called Shot**
 If you want your attack to hit a specific part of your target’s body – the head, the torso, a leg or an arm – you need to make a called shot. Called shots suffer a –2 modifier. If the body part has no armor, you bypass any armor rolls. If the body part is partially armored, the GM rolls for whether the armor was hit. To intentionally hit an exposed body part smaller than the major categories, suffer -3 (face-sized area), or -4 (eyeball-sized area).
@@ -387,7 +373,6 @@ If you want your attack to hit a specific part of your target’s body – the h
 Roll this skill when you are the one controlling the movement of any ground or water-based vehicle.
 
 Driving Specialties
-	Full Throttle: Accelerate or Decelerate actions
 	Biker: motorcycles & bicycles
 	Motorist: covers cars, pickups, vans, buses, etc.
 	Trucker: Driving vehicles with trailers, or more than 4 wheels.
@@ -444,6 +429,9 @@ For every extra X, choose 1 applicable effect:
 	- Is it coming for me?
 	- Are there more of them close by?
 	- How do I get in/past/away?
+	- What happened here? (takes 15 min)
+	- Is there anything hidden here, and if so, where? (takes 15 min)
+	-  Are there any details here that are out of place, something that's out of the ordinary? (takes 15 min)
 - Give 1 success to another PC in a similar situation before your next turn. 
 - Useful information about your location is gathered. The GM will let you know if this is possible and what the information is.
 - Gain +1 modification to a later skill roll relating to this one
@@ -568,6 +556,27 @@ Scholar Specialties
 	Language
 	Engineering: Designing or understanding structures and machines of either premodern civic-scale context, or any structures or non-computer machines of early modern or later periods.
 	Medicine: This specialty is useful for making the Medical Aid Requirement cheaper. 
+	Streetwise: Knowing how things work on the streets/underworld
+
+
+CONTACTS
+In any given faction or group, a character might know people- how to acquire information, items, or favors. When attempting to inquire into specific contacts that have not been already narratively established, a character may roll SCHOLAR: Streetwise (or any other specialty that seems relevant, e.g. Business for corporate contacts). Their roll is then modified by their FACTION SCORE: a dice number representing how well they connected in good terms with the faction. 
+
+| Level of Familiarity / Good-Standing | Description                                                                                  | Modifier |
+| ------------------------------------ | -------------------------------------------------------------------------------------------- | -------- |
+| 1. Outsider                          | Basic awareness of the faction; limited understanding of its inner workings.                 | +1       |
+| 2. Observer                          | Some familiarity with faction customs and dynamics; can recognize key figures occasionally.  | +2       |
+| 3. Familiar                          | Good grasp of the faction's structure and interactions; has a sense of who holds influence.  | +3       |
+| 4. Insider                           | Strong understanding of the faction’s politics and social order; recognizes subtle dynamics. | +4       |
+| 5. Embedded                          | Deeply attuned to the faction’s culture; effortlessly interprets power shifts and nuances.   | +5       |
+For factions that they don't have explicit connections to, judge the modifier based on the size and type of faction:
+
+| Faction size <br>and type | Public | Illegal | Secret |
+| ------------------------- | ------ | ------- | ------ |
+| **Small**                     | -1     | -4      | -5     |
+| **Medium**                    | 0      | -3      | -4     |
+| **Large**                     | +2     | -2      | -3     |
+
 
 | SCHOLAR Effect                                                                                                                                                                                             | DM       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -585,7 +594,7 @@ Technical Specialties
 	Chemist: crafting or identifying chemicals
 	Demolitions: placing and disarming mines and explosive devices
 	Communications: using radios, boosting signals, morse code, setting up antennae, using encryption equipment
-	Computers: using computers
+	Computers: using computers, programming, hacking, etc.
 	Electrician: wiring, soldering, disabling, and repairing electrical devices.
 	Gunsmith: repairing firearms
 	Locksmith: picking locks, cracking safes, and disarming alarms.
@@ -625,6 +634,22 @@ Insight Specialties
 | In you succeed at this DM, the GM must reveal if the NPC is lying or not. The GM does not have to reveal what exactly the NPC is lying about.                                                                                                                                                                                                                                                      | -3 / XXX   |
 | Whenever you could Help someone, **you can inspire them instead**. Roll INSIGHT. Success provides a +2 modifier to that person’s next roll, with every consecutive success providing +1. You must make your INSIGHT roll before the other person makes their own roll. If your INSIGHT roll fails, you get in the way of the action you were trying to help, and suffer the adverse effects of it. | -4 / XXX   |
 | Resist any degree of manipulation                                                                                                                                                                                                                                                                                                                                                                  | -7 / XXXXX |
+
+| INSIGHT: Mindful Effects                                                                                                                 | DN         | Required Duration                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -1 Stress Point                                                                                                                          | -1 / XX    | 15 min                                                                                                                                                                                                                                                                                                    |
+| Recover 1 point of Wits unless recovery is hindered.                                                                                     | -2 / XX    | 15 min                                                                                                                                                                                                                                                                                                    |
+| For 1 quarter day, roll an INSIGHT roll as “armor” against Empathy attacks. May begin meditation during Empathy attack.                  | -3 / XXX   | 15 min                                                                                                                                                                                                                                                                                                    |
+| Recover 1 point of Wits, Empathy, Strength, and Agility during meditation.                                                               | -4 / XXX   | 15 min                                                                                                                                                                                                                                                                                                    |
+| Once a week you can go an extra day without becoming sleepy, hungry or thirsty                                                           | -4 / XXX   | 15 min                                                                                                                                                                                                                                                                                                    |
+| Gain 1 Willpower, the first attempt at this in 1 day.                                                                                    | -5 / XXXX  | Length of Med depending on environmental danger. 1 QD in a safe place with no danger. 3h in a potentially dangerous location (where random encounters are rolled). 15 min with an armed & threatening enemy within Long range. 30 seconds with an armed & threatening, unimprisoned enemy at short range. |
+| +1D to all Endurance and Insight rolls for the purpose of resisting negative effects for ½ the amount of time you just spent meditating. | -5 / XXXX  | Any                                                                                                                                                                                                                                                                                                       |
+| Enter Astral Plane from waking state                                                                                                     | -5 / XXXX  | 5 min                                                                                                                                                                                                                                                                                                     |
+| Meditation counts as a full night’s sleep                                                                                                | -5 / XXXX  | 3h                                                                                                                                                                                                                                                                                                        |
+| Halve the Healing Time of a Trauma Effect.                                                                                               | -7 / XXXXX | 1 QD (6h)                                                                                                                                                                                                                                                                                                 |
+| Gain 1 Willpower, 2nd time in day                                                                                                        | -7 / XXXXX | Variable (see above)                                                                                                                                                                                                                                                                                      |
+| Improve WITS: Succeed 3 times: permanent +1 to WITS                                                                                      | -7 / XXXXX | 1 QD                                                                                                                                                                                                                                                                                                      |
+
 OTHER EXTRA EFFECTS:
 For every extra X, choose 1 applicable effect:
 - Learn 2 pieces of below information about a character:
@@ -698,6 +723,7 @@ BUYING & SELLING: Roll Manipulation vs. Insight when buying or selling in order 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | If you succeed at this DM, the NPC will believe what you are saying (regardless of whether it’s true or not), you can spend a WP to succeed automatically.                                                | -4 / XXX  |
 | If you succeed at this DM, you can avoid doing something in return and your opponent also loses the ability to attack you. What you are asking must still be reasonable according to the GM’s assessment. | -5 / XXXX |
+| Forcing and NPC to perform a specific action at a time of your choosing after a successful Manipulation. You must speak to the NPC for a few minutes. You cannot force them to hurt themselves.           | -5 / XXXX |
 
 | INFLUENCE: Dominator Effects                                                                                                                                                                                                                   | DM        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -721,7 +747,6 @@ BUYING & SELLING: Roll Manipulation vs. Insight when buying or selling in order 
 | Draw attention as above, but also **persuade your audience to pay** for your performance. They will pay what they can, up to $10 per extra success. The targets may attempt to resist the effect by rolling for INSIGHT – each x rolled negates one point of damage.                                                                                                                                                                                                                                                          | -4 / XXXX  |
 | **Distracting Warcry:** Roll an opposed roll for INFLUENCE -4 versus INSIGHT. Emit a **roar that causes a penalty** to close combat attacks from all opponents within 20m until it’s your turn to act again in the next round. Their rolls are modified by -1, with another -1 for every extra success.                                                                                                                                                                                                                       | -4 / XXXX  |
 | **Transfer Willpower:** Your song **grants a portion of your Willpower** to one of your comrades within 100m. You simply give a number of WP of your choice to your friend.                                                                                                                                                                                                                                                                                                                                                   | -5 / XXXX  |
-| Forcing and NPC to perform a specific action at a time of your choosing after a successful Manipulation. You must speak to the NPC for a few minutes. You cannot force them to hurt themselves.                                                                                                                                                                                                                                                                                                                               | -5 / XXXX  |
 | **Dishearten Foes:** Roll an opposed roll for INFLUENCE -6 versus INSIGHT. You can perform so powerfully that your song cuts into the hearts of any listeners within 20m. Your **song causes one point of damage Empathy**, +1 per extra success. You can distribute the damage across as many opponents as you want. No effect against monsters.                                                                                                                                                                             | -6 / XXXXX |
 OTHER EXTRA EFFECTS:
 For every extra X, choose 1 applicable effect:
@@ -795,14 +820,14 @@ SAVE A LIFE: The most important application of HEALING is giving first aid and s
 # **TALENTS**
 COMBAT
 	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.
-	**Cold-Blooded**: Kill a helpless person without a roll.
+	**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1
 	**Combat Awareness**: Roll initiative twice and choose the highest result
 	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. When triggering Overkill, you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.
 	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take. 
 	**Pain Resistant:** You suffer no pain penalty when you take damage.
-	**Merciless**: kill without a roll. Breaking an enemy reduces stress level by 1
 	**Second Wind**: When Broken, roll Stamina- every x gains back 1 STR. Once per turn, no effect against critical injuries
-	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reduce the Crit Die to make the crit less lethal.
+	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.
+	**Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.
 	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.
 ATTRIBUTE SWAPS
 	**Barge Through**: using Move with Strength instead of Agility
@@ -826,8 +851,9 @@ STRESS AND HEALING
 	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place. 
 	**Fast Healer**: Healing time for critical injuries is halved
 	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.
+	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.
 OTHER
-	**Load Carrier/Packrat**: (T2K) +4 units in combat gear, +4 units in backpack
+	**Packrat**: May carry +4 additional Weight.
 	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.
 	**Breakthrough**: Once per session, you may automatically succeed on some investigation roll.
 	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere. 
@@ -835,6 +861,6 @@ OTHER
 	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time. 
 CHARACTER TRAITS
 	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.
-	**Item**
-	**Wealth Level**
 
+
+[Explaining this to AI prompt](Explaining%20this%20to%20AI%20prompt.md)

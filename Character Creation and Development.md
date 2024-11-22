@@ -267,6 +267,7 @@ How well known you are across the larger known world.
 # USING YOUR CHARACTER
 Using Reputation
 being recognized
+In Contacts
 in Manipulation
 Other benefits of reputation
 Reputation's effects on followers
