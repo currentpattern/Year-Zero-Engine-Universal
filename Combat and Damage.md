@@ -1,11 +1,19 @@
 [Rounds and Initiative](#rounds-and-initiative)
+
 [Slow Actions and Fast Actions](#slow-actions-and-fast-actions)
+
 [Zones & Ranges](#zones-&-ranges)
+
 [Ambushes & Sneak Attacks](#ambushes-&-sneak-attacks)
+
 [Close Combat](#close-combat)
+
 [Ranged Combat](#ranged-combat)
+
 [Explosions](#explosions)
+
 [Actions](#actions)
+
 [Stress](#stress)
 
 ### **ROUNDS AND INITIATIVE**
