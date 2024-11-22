@@ -400,7 +400,7 @@ battle map. (Except for hand-thrown grenades,) you get no bonus for firing at la
 RELOADING: Heavy weapons do not use ammo dice (except for rare exceptions). Generally, heavy weapons must be reloaded after each shot fired. This is a slow action, and no roll is allowed to reload faster. Reloading can be done by another person (a loader) or an autoloader (if the weapon is equipped with one), allowing the weapon to be fired every round.
 
 DEVIATION: If an attack with an explosive effect fails – no matter if it was aimed at a 10m area or a specific target – roll two D6s to see where the round lands. The first D6 determines the direction of deviation (see the diagram to the right). The second D6 determines how far from the target area that the round lands, in 10m increments. The deviation cannot exceed half of the distance to the target (rounding up).
-![[Pasted image 20241104172336.png]]
+!(https://raw.githubusercontent.com/currentpattern/Year-Zero-Engine-Universal/refs/heads/main/Pasted%20image%2020241104172336.png)
 
 INDIRECT FIRE
 Grenade launchers, thrown grenades, and mortars are capable of indirect fire – firing in an upward arc to hit targets not visible from the firing position. You may either aim for a general 10m area, or for a specific target. To hit a specific target with indirect fire, you need a FORWARD OBSERVER who does have line of sight to the target and is able to communicate with you.
