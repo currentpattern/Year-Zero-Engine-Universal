@@ -1,0 +1,32 @@
+| Weapon           | Typ      | Price | Gear Bonus | Damage | Ammo       | Reliability | ROF                                  | Max Range | MAG | Features           |
+| ---------------- | -------- | ----- | ---------- | ------ | ---------- | ----------- | ------------------------------------ | --------- | --- | ------------------ |
+| Police pistol    | Pistol   | 125   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 17  | smallarm           |
+| Combat pistol    | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 15  | smallarm           |
+| Zip gun*         | Pistol   | 25    | 0          | 1      | Any pistol | 3           | 1                                    | Medium    | 1   | Jurryrigm smallarm |
+| PSM              | Pistol   | 75    | 0          | 1      | 5.7mm      | 5           | 2                                    | Long      | 8   | smallarm           |
+| Desert Eagle     | Pistol   | 1000  | 2          | 3      | .50 AE     | 5           | 2                                    | Long      | 7   | AP, smallarm       |
+| Police Pistol    | Pistol   | 125   | 1          | 1      | 9mm        | 5           | 2                                    | Medium    | 17  | smallarm           |
+| M1911A1          | Pistol   | 100   | 0          | 2      | 0.45 ACP   | 5           | 2                                    | Long      | 7   | smallarm           |
+| M1933            | Pistol   | 100   | 1          | 1      | 7.62mm     | 5           | 2                                    | Long      | 8   | smallarm           |
+| Cz-52            | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 8   | smallarm           |
+| HP-35            | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 13  | smallarm           |
+| Walther P-38     | Pistol   | 200   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 8   | smallarm           |
+| Walther PPK      | Pistol   | 200   | 1          | 1      | 0.38 SPC   | 5           | 2                                    | Long      | 6   | smallarm           |
+| Ruger Mk II      | Pistol   | 200   | 0          | 1 -1   | .22 LR     | 5           | 2                                    | Long      | 10  | smallarm           |
+| Desert Eagle     | Pistol   | 600   | 2          | 2      | .357 MAG   | 5           | 2                                    | Long      | 9   | smallarm           |
+| Flintlock Pistol | Pistol   | 100   | 1          | 2      | .50 BALL   | 5           | Requires two slow actions to reload. | Long      | 1   | Load, smallarm     |
+| P-83             | Pistol   | 75    | 0          | 1      | 9mm        | 5           | 2                                    | Long      | 8   | smallarm           |
+| PM               | Pistol   | 75    | 0          | 1      | 9mm        | 5           | 2                                    | Long      | 8   | smallarm           |
+| Mk 25            | Pistol   | 100   | 1          | 1      | 9mm        | 6           | 2                                    | Long      | 15  | smallarm           |
+| M9               | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 15  | smallarm           |
+| Combat Pistol    | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 15  | smallarm           |
+| HK P7            | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 13  | smallarm           |
+| M11              | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 13  | smallarm           |
+| M9               | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 15  | smallarm           |
+| PA-15            | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 15  | smallarm           |
+| Pist 88          | Pistol   | 100   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 17  | smallarm           |
+| Steyr GB         | Pistol   | 200   | 1          | 1      | 9mm        | 5           | 2                                    | Long      | 18  | smallarm           |
+| Service Revolver | Revolver | 75    | 1          | 1      | 0.38 SPC   | 5           | 2                                    | Long      | 6   | smallarm           |
+| Colt Python      | Revolver | 600   | 3          | 2      | .357 MAG   | 5           | 2                                    | Long      | 6   | smallarm           |
+| S&W Model 49     | Revolver | 150   | 1          | 1      | 0.38 SPC   | 5           | 2                                    | Medium    | 5   | smallarm           |
+| Taurus Judge     | Revolver | 200   | 2          | 2      | 0.45 ACP   | 5           | 2                                    | Medium    | 5   | smallarm           |
