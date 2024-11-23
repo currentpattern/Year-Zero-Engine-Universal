@@ -54,6 +54,8 @@ To find a restricted item without the required legal authorization, first an Ava
 | Colt Python      | 600       | 3              | 2          | .357 MAG      | 5               | 2       | Long          | 6           | smallarm     | 0.5        | 2/F    |
 | Desert Eagle     | 1000      | 2              | 3          | .50 AE        | 5               | 2       | Long          | 7           | AP, smallarm | 0.75       | 2/F    |
 
+[Extra Pistols](Extra%20Pistols.md)
+
 **RIFLES**
 
 | **Weapon**        | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**         | **Weight** | Supply |
