@@ -829,6 +829,7 @@ COMBAT
 	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
 	**Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.  
 	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.  
+
 ATTRIBUTE SWAPS  
 	**Barge Through**: using Move with Strength instead of Agility  
 	**Menacing**: Threaten using Influence with Strength instead of Empathy. Loser cannot make demands, may still attack.  
@@ -839,11 +840,13 @@ ATTRIBUTE SWAPS
 	**Take Control**: you may use Influence with Wits instead of Empathy  
 	**Stoic**: you can use Endurance using Wits instead of Strength  
 	**Bad Omens**: You can Scout using Empathy instead of Wits  
+
 EXTRA PUSHES  
 	**Influence**: You may push any Empathy roll twice. Extra push increases your stress by 1  
 	**Nimble/Reckless**: You may push any Agility roll twice. Extra push increases your stress by 1  
 	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1  
 	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1  
+
 STRESS AND HEALING  
 	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor. You do not have to handle your fear if any of them die, so long as at least one of them is left standing.  
 	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
@@ -852,6 +855,7 @@ STRESS AND HEALING
 	**Fast Healer**: Healing time for critical injuries is halved  
 	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.  
 	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
+
 OTHER  
 	**Packrat**: May carry +4 additional Weight.  
 	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  
@@ -859,6 +863,7 @@ OTHER
 	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere.   
 	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
 	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
+
 CHARACTER TRAITS  
 	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.  
 
