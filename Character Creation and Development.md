@@ -92,15 +92,18 @@ Depending on your age and social class, you start with a certain degree of Regio
 ### **Gear**
 The last step in the PC creation process is for you to pick your starting gear. The GM might assign gear to you, or might let you pick 1D6+1 non-rare items from a list of gear, or allow you to purchase gear before play using your Starting Capital.
 
-STARTING CAPITAL: The currency in the setting may take many forms, though for the sake of generics, we will call the currency (be it copper coins, dollars) "credits" for character creation. Your social class determines how many credits you start the game with, along with your starting gear. If appropriate, your GM may decide to give you a savings. Based on setting, class, story factors and GM fiat, monthly wages are decided upon. Every success on a SCHOLAR: Business roll indicates how many months worth of wages you have in your savings. 
+STARTING CAPITAL: The currency in the setting may take many forms, though for the sake of generics, we will call the currency (be it copper coins, dollars) "credits" for character creation. Your social class determines how many credits you start the game with, along with your starting gear. If appropriate, your GM may decide to give you a savings. Based on setting, class, story factors and GM fiat, monthly wages are decided upon. **Every success on a SCHOLAR: Business roll indicates how many months worth of wages you have in your savings.** 
 
 TRACKING MONEY: As a rule of thumb, during play, if a character is above Lower class, and an expense is less than 3% of their actual monthly earnings, it does not need to be kept track of. You'll spend 90% (-10% per X of a SCHOLAR: Business roll) of monthly wages at the beginning of the month as "upkeep" cost for basic necessities. 
 
-| Social Class | Starting Credits | Monthly Wages,<br>Malthusian setting | Monthly Wages,<br>Modern setting |
-| ------------ | ---------------- | ------------------------------------ | -------------------------------- |
-| Lower        | 2D6 x 100        | 0-200                                | 0-600                            |
-| Middle       | 4D6 X 100        | 300-1500                             | 700-4,000                        |
-| Upper        | 2D6 x 1000       | 2000-5000                            | 5,000-8,000                      |
+| Wealth Level       | Gear Buy Credits            | Monthly Wages,<br>Malthusian setting | Monthly Wages,<br>Modern setting | Monthly Living Expenses<br>(-10% per  SCHOLAR: Business X) | Current Savings: Monthly Wages x M x (M per SCHOLAR: Business X) |
+| ------------------ | --------------------------- | ------------------------------------ | -------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| 0. Extreme Poverty | 1D6 x 100                   | 0-100                                | 4D6 x 50<br>(0-1,000 )           | 100% Income                                                | None                                                             |
+| 1. Lower Class     | 2D6 x 100 <br>(600-800)     | 100-200                              | 4D6 x 100<br>(1,000-2,000)       | 90% Income                                                 | M = .3                                                           |
+| 2. Middle Class    | 4D6 X 100 <br>(1,000-1,400) | 300-1500                             | 4D6 x 250<br>(2,000-5,000)       | 75% Income                                                 | M = .75                                                          |
+| 3. Upper Class     | 2D6 x 1000<br>(6000-8000)   | 2000-5000                            | 4D6 x 625<br>(5,000- 12,000)     | 60% Income                                                 | M = 2                                                            |
+
+
 
 ### **Encumbrance**  
 You can carry a number of regular items equal to double your Strength attribute. This is not reduced if you take damage to your strength, so you don’t suddenly drop everything if you take damage.

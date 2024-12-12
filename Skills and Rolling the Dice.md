@@ -40,7 +40,7 @@ You cannot choose which dice to reroll. When you push, you must roll all dice th
 
 You are allowed to push rolls even after a successful roll, but only if rolling additional x will increase the effect of the roll in some way. The GM has final say on this. Pushing a roll is not without risk – more on that below. How a pushed roll plays out in story terms depends on what kind of action you are per- forming. It doesn’t have to be a physical effort, it might be about complete mental focus or an emotional struggle.
 
-SKILL DICE: When you push a roll, ones from the Skill Dice do not count as BANE and can be re- rolled even if they do come up as a one. Hence, the BANE does not appear on the Skill Dice in the custom dice set for the game.
+SKILL DICE: When you push a roll, ones from the Skill Dice do not count as BANE and can be re- rolled even if they do come up as a one.
 
 GEAR DICE: If you push your roll, you must also push any Gear Dice. If the gear is a modern tool such as a firearm or vehicle using **Reliability Rating** instead of Gear Dice, any damage from pushing will decrease its reliability rating by 1 per BANE.
 
