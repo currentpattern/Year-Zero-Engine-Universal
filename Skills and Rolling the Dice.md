@@ -819,8 +819,8 @@ SAVE A LIFE: The most important application of HEALING is giving first aid and s
 
 # **TALENTS**
 COMBAT
-	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.
-	**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1
+	>**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.
+	>**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1
 	**Combat Awareness**: Roll initiative twice and choose the highest result
 	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. When triggering Overkill, you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.
 	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take. 
