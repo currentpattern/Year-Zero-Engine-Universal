@@ -819,48 +819,89 @@ SAVE A LIFE: The most important application of HEALING is giving first aid and s
 
 # **TALENTS**
 COMBAT
-	>**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.
-	>**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1
-	**Combat Awareness**: Roll initiative twice and choose the highest result
-	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. When triggering Overkill, you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.
-	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take. 
-	**Pain Resistant:** You suffer no pain penalty when you take damage.
-	**Second Wind**: When Broken, roll Stamina- every x gains back 1 STR. Once per turn, no effect against critical injuries
-	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.
-	**Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.
-	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.
+	
+ **Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.
+	
+ **Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1
+	
+ **Combat Awareness**: Roll initiative twice and choose the highest result
+	
+ **Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. When triggering Overkill, you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.
+	
+ **Resilient**: By spending a WP, you may roll Strength to reduce any damage you take. 
+	
+ **Pain Resistant:** You suffer no pain penalty when you take damage.
+	
+ **Second Wind**: When Broken, roll Stamina- every x gains back 1 STR. Once per turn, no effect against critical injuries
+	
+ **Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.
+	
+ **Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.
+	
+ **Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.
+
 ATTRIBUTE SWAPS
-	**Barge Through**: using Move with Strength instead of Agility
-	**Menacing**: Threaten using Influence with Strength instead of Empathy. Loser cannot make demands, may still attack.
-	**Flyweight**: Defend using Melee with Agility instead of Strength
-	**Agile Fighter**: Attack using Melee with Agility instead of Strength
-	**Cool Head**: You can use Move with Wits instead of Agility
-	**Personal Arithmetic**: you can use Insight with Wits instead of Empathy
-	**Take Control**: you may use Influence with Wits instead of Empathy
-	**Stoic**: you can use Endurance using Wits instead of Strength
-	**Bad Omens**: You can Scout using Empathy instead of Wits
+
+ **Barge Through**: using Move with Strength instead of Agility
+	
+ **Menacing**: Threaten using Influence with Strength instead of Empathy. Loser cannot make demands, may still attack.
+
+ **Flyweight**: Defend using Melee with Agility instead of Strength
+
+ **Agile Fighter**: Attack using Melee with Agility instead of Strength
+	
+ **Cool Head**: You can use Move with Wits instead of Agility
+	
+ **Personal Arithmetic**: you can use Insight with Wits instead of Empathy
+	
+ **Take Control**: you may use Influence with Wits instead of Empathy
+
+ **Stoic**: you can use Endurance using Wits instead of Strength
+
+ **Bad Omens**: You can Scout using Empathy instead of Wits
+
 EXTRA PUSHES
-	**Influence**: You may push any Empathy roll twice. Extra push increases your stress by 1
-	**Nimble/Reckless**: You may push any Agility roll twice. Extra push increases your stress by 1
-	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1
-	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1
+
+
+ **Influence**: You may push any Empathy roll twice. Extra push increases your stress by 1
+
+ **Nimble/Reckless**: You may push any Agility roll twice. Extra push increases your stress by 1
+
+ **Cunning**: May push any Wits roll twice. Extra push increases your stress by 1
+
+ **True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1
+
 STRESS AND HEALING
-	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor. You do not have to handle your fear if any of them die, so long as at least one of them is left standing.
-	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.
-	**Seen it all**: Once per session, you may ignore all rolled banes
-	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place. 
-	**Fast Healer**: Healing time for critical injuries is halved
-	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.
-	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.
+
+ **Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor. You do not have to handle your fear if any of them die, so long as at least one of them is left standing.
+
+ **Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.
+	
+ **Seen it all**: Once per session, you may ignore all rolled banes
+
+ **Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place. 
+
+ **Fast Healer**: Healing time for critical injuries is halved
+
+ **Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.
+
+ **Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.
 OTHER
-	**Packrat**: May carry +4 additional Weight.
-	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.
-	**Breakthrough**: Once per session, you may automatically succeed on some investigation roll.
-	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere. 
-	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress
-	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time. 
+	
+ **Packrat**: May carry +4 additional Weight.
+	
+ **Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.
+	
+ **Breakthrough**: Once per session, you may automatically succeed on some investigation roll.
+	
+ **Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere. 
+	
+ **Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress
+	
+ **Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time. 
 CHARACTER TRAITS
-	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.
+	
+ **Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.
 
 
 [Explaining this to AI prompt](Explaining%20this%20to%20AI%20prompt.md)
