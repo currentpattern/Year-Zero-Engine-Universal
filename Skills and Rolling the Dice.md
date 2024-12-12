@@ -886,6 +886,7 @@ STRESS AND HEALING
  **Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.
 
  **Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.
+
 OTHER
 	
  **Packrat**: May carry +4 additional Weight.
