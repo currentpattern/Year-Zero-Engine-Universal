@@ -212,6 +212,8 @@ Endurance Specialties
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | Choose 1 applicable Bonus Effect: <br>- Give 1 success to another PC in a similar situation before your next turn. <br>- One less round wherein you must test ENDURANCE | -2 / XX  |
 | Chose 2 applicable Bonus Effects                                                                                                                                        | -3 / XXX |  
+
+
 **Special ENDURANCE Actions**
 
 RESISTING TORTURE: Some may attempt to inflict pain compliance upon you without injuring you, they must roll MELEE, CRAFTING, or MEDICAL AID vs. your ENDURANCE successfully as many times as the your ENDURANCE skill, spread out over an equal number of hours. They must spend 15 minutes every hour torturing you, or the process begins anew. 
