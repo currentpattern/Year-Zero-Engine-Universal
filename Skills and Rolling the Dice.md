@@ -1,4 +1,4 @@
-There are 17 skills in this game, and each has many specialties. They are all described later in this chapter. Every skill is connected to one of the four attributes: Strength, Agility, Wits, and Empathy. When you perform an action, you first describe what your player character does or says. Then you grab a number of six-sided dice equal to your skill level plus your current score in the attribute that is connected to that skill. If you have some sort of gear that may be helpful, you will get extra dice from that as well. Then you roll all the dice at once.
+0.There are 17 skills in this game, and each has many specialties. They are all described later in this chapter. Every skill is connected to one of the four attributes: Strength, Agility, Wits, and Empathy. When you perform an action, you first describe what your player character does or says. Then you grab a number of six-sided dice equal to your skill level plus your current score in the attribute that is connected to that skill. If you have some sort of gear that may be helpful, you will get extra dice from that as well. Then you roll all the dice at once.
 
 **SIXES MEAN SUCCESS**  
 To succeed with your action, you must roll at least one six. A six is called a success, and these are marked in the rules with a symbol of two crossed swords: X. If you roll more than one X you can achieve additional effects in some cases – this is specified by each skill.
@@ -10,7 +10,7 @@ Ones can be bad for you – they can mean that you suffer damage, exhaustion, fe
 Whether a certain die you have rolled originates from your attribute, your skill, or your gear, may be important. For that reason, you should use dice of three different colors. The dice from attributes are called Base Dice, the dice from skills are called Skill Dice, the dice from gear are called Gear Dice, and the dice from firearms ammo are called Ammo Dice.
 
 **ROLLS WITHOUT SKILL**  
-If you don’t have the skill required for the par- ticular action you want to perform, you can roll anyway – simply roll your Base Dice and any applicable Gear Dice.
+If you don’t have the skill required for the particular action you want to perform, you can roll anyway – simply roll your Base Dice and any applicable Gear Dice.
 
 **THE ART OF FAILURE**  
 If you roll no X something goes wrong. For some reason, you failed to achieve your goal. Feel free to elaborate on why with the help of the GM. She might even let a failed roll have further consequences to move the story for- ward in a dramatic way.  
@@ -105,9 +105,10 @@ Trivial +3
 Simple +2  
 Easy +1  
 Average 0  
-Demanding -1  
-Hard -2  
-Formidable -3
+Moderate -1    
+Difficult -3
+Very Difficult -5
+Heroic -7
 
 There are also cases when modifications are imposed by the rules, like when you aim carefully with a ranged weapon, shoot at long distance, or if you’re in a bad bargaining position when you attempt to MANIPULATE someone.
 
@@ -147,7 +148,6 @@ Once per game session, you can use your Pride when you have failed a skill roll.
 
 # **THE SKILLS**  
 This section describes the 17 skills in this game.
-[Working out the skills and specialties](Working%20out%20the%20skills%20and%20specialties.md)
 
 ## **STRENGTH**
 #### **MIGHT**
@@ -160,7 +160,16 @@ Might Specializations
 >Intimidating: When using Might instead of Influence to intimidate (Threatening)   
 >Steady: When resisting tackles or disarms (Firm Grip)  
 
-GRAPPLING: Engaging into a grapple is a MELEE roll, but when a grapple has succeeded, the only action a grappled person can perform is **BREAK FREE** – which is a slow action and requires them winning an opposed MELEE or MIGHT: Grappler  roll. While you are grappling, the only action you can perform is a **GRAPPLE ATTACK.** It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
+| General MIGHT Effects                                                                                                                                                                                                                                                                                                                                                                             | DM         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Choose 1 applicable Bonus Effect: <br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Gain +1 modification to a later skill roll relating to this one<br>- You impress someone. +1 to one INFLEUNCE roll on them later.<br>- You push or throw an object with great force. One target of your choice within Arm's Length suffers +1 damage, modified by armor. | -2 / XX    |
+| Chose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                  | -3 / XXX   |
+|                                                                                                                                                                                                                                                                                                                                                                                                   | -4 / XXX   |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                 | -5 / XXXX  |
+| Choose 4 applicable Bonus Effects.                                                                                                                                                                                                                                                                                                                                                                | -7 / XXXXX |
+
+
+GRAPPLING: Engaging into a grapple is a MELEE roll, but when a grapple has succeeded, the only action a grappled person can perform is BREAK FREE – which is a slow action and requires them winning an opposed MELEE or MIGHT: Grappler  roll. While you are grappling, the only action you can perform is a GRAPPLE ATTACK. It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
 
 LIFTING: Rolling MIGHT for lifting is only necessary if the attempt is significant or under pressure. One successful roll allows them to carry the object for up to 6 rounds (30 seconds). One success means you can do nothing but carry the weight. More successes, you can do other actions as well. Failure means they must put the object down or suffer 1 Stress Point
 
@@ -185,12 +194,7 @@ You may optionally perform a "Mighty Swing" by roll MIGHT during this action. Th
 
 INTIMIDATING: At a -3 penalty (or rolling XXX successes), you may use MIGHT instead of INFLUENCE when you threaten someone to make them do what you want. If successful, they cannot demand anything in return but can choose to attack. 
 
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- Give 1 success to another PC in a similar situation before your next turn. 
-- Gain +1 modification to a later skill roll relating to this one
-- You impress someone. +1 to one INFLEUNCE roll on them later.
-- You push or throw an object with great force. One target of your choice within Arm's Length suffers +1 damage, modified by armor. 
+
 
 #### **ENDURANCE**
 When the road is long and hard, when your legs can’t carry you any longer, roll for ENDURANCE. Roll for this skill when you travel in extreme weather or when you are forced to suffer bitter cold. If you succeed, you push through the pain and can fight on for a while longer.
@@ -829,7 +833,6 @@ COMBAT
 	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
 	**Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.  
 	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.  
-
 ATTRIBUTE SWAPS  
 	**Barge Through**: using Move with Strength instead of Agility  
 	**Menacing**: Threaten using Influence with Strength instead of Empathy. Loser cannot make demands, may still attack.  
@@ -840,13 +843,11 @@ ATTRIBUTE SWAPS
 	**Take Control**: you may use Influence with Wits instead of Empathy  
 	**Stoic**: you can use Endurance using Wits instead of Strength  
 	**Bad Omens**: You can Scout using Empathy instead of Wits  
-
 EXTRA PUSHES  
 	**Influence**: You may push any Empathy roll twice. Extra push increases your stress by 1  
 	**Nimble/Reckless**: You may push any Agility roll twice. Extra push increases your stress by 1  
 	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1  
 	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1  
-
 STRESS AND HEALING  
 	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor. You do not have to handle your fear if any of them die, so long as at least one of them is left standing.  
 	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
@@ -855,7 +856,6 @@ STRESS AND HEALING
 	**Fast Healer**: Healing time for critical injuries is halved  
 	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.  
 	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
-
 OTHER  
 	**Packrat**: May carry +4 additional Weight.  
 	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  
@@ -863,7 +863,6 @@ OTHER
 	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere.   
 	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
 	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
-
 CHARACTER TRAITS  
 	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.  
 
