@@ -292,6 +292,8 @@ Stealth specialties
 | There is nothing to hide behind                                                                            | -1             |
 | Your opponent knows you're coming                                                                          | -1             |
 | You try to move undetected into Arm's Reach.                                                               | -1             |
+
+
 GROUP STEALTH: When you and the other adventurers use STEALTH side by side, each of you don’t roll for the skill. Instead, only the PC with the lowest skill level rolls, and the result applies to the whole group. Helping is not allowed.
 
 | General STEALTH Effects                                                                                                                                                                                                                                                                                                        | DM        |
@@ -338,6 +340,8 @@ ACROBATIC FEATS: Fast Actions. Specialization MOVE: Acrobat
 | **Ground:** You cannot be shoved to the ground (Steady Feet 2)                                                                                                                                                                      | -5 / XXXX |
 | **Fast Kip:** Allows you to get up from prone position without spending an action. If successful, you are standing, and may now perform a Kick as a Fast Action. Failure means you've used a Fast Action, and remain on the ground. | -5 / XXXX |
 | **Fall roll:** Reduce the damage taken from a fall. Reduce 4 damage, and you may use up to 4 Willpower, each reducing 1 more damage.                                                                                                | -5 / XXXX |
+
+
 DEFEND OTHER: Fast Action. Reaction. You may use MOVE to defend allies. Specialization MOVE: Body Guard.
 
 | MOVE: Body Guard Effects                                                                                                                                                                                                                                                             | DM        |
@@ -369,6 +373,8 @@ DIRTY FIGHTING: Essentially the FEINT Action. Fast Action. Specialization MOVE: 
 | **Hard Feint**: When you use the feint action, roll MOVE, and you may instead of trading initiative cards, have the target lose all actions if you damage it with the next attack you take this round.                                                                                                                | -2 / XX  |
 | **Distant Feint**: Use the feint action within Short range of your enemy. Also, when you use the feint action, you may instead of trading initiative cards, have the target be unable to dodge or parry the next action you take this round.                                                                          | -3 / XXX |
 | **Blind Target**: When you use the feint action, you may instead of trading initiative cards, throw dust in your opponents’ eyes as a sleight of hands roll. It counts as a piercing projectile attack for the purpose of parry/dodge. On a success the target is blinded, as if in total darkness for 1 round per x. | -4 / XXX |
+
+
 SEEK COVER: Fast action. Reactive. Roll MOVE: Fast Footwork. Requires terrain within 10m that can provide cover. This will provide protective cover against gunfire. 
 #### **MARKSMANSHIP**
 Using a firearm, bow and arrow, sling, or a simple rock, you can stop enemies at a distance and can avoid bloodying your hands. Roll MARKSMANSHIP when you throw or fire a weapon at an enemy at a distance. If you succeed, the shot hits its target and you do weapon damage to your enemy. Read more about ranged combat in [Combat and Damage](Combat%20and%20Damage.md).
