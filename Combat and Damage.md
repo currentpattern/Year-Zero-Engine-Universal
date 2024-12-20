@@ -46,7 +46,6 @@ A slow action usually consists of rolling for a skill. A fast action is quicker 
 | **NON-ATTACKS** | **PREREQUISITE**          | **SKILL**                                     |          |              |               |              | **EFFECT**                        |
 | Persuade        | The opponent can hear you | Influence                                     | -        | -            | -             | —            | GM’s call                         |
 | Warrior's Voice | Various                   | Influence: Performance (often vs Insight)     | -        | -            | -             | -            | Various                           |
-| Flee            | No enemy at Arm’s Length  | Move                                          | -        | -            | -             | -            | Leave Combat                      |
 | Crawl           | You are prone             | None                                          | -        | -            | -             | -            | Move while prone                  |
 | Heal other      | No enemy at Arm’s Length  | Healing                                       | -        | -            | -             | -            | Each X = 1pt Healed               |
 | Remove <br>Gear | None                      | None                                          | -        | -            | -             | -            | Up to 2 items removed.            |
@@ -61,12 +60,13 @@ A slow action usually consists of rolling for a skill. A fast action is quicker 
 | **NON-ATTACKS** | **PREREQUISITE**                                                   | **SKILL**                                 |        |              |               |              | **EFFECT**                                               |
 | Dodge           | –                                                                  | Move                                      | -      | -            | -             | -            | X = 1 less damage. Fall prone, or -2 to remain standing. |
 | Seek Cover      | Terrain in 10m providing cover                                     | Move                                      | -      | -            | -             | -            |                                                          |
+| Hit the Dirt    | Fast Action only if Reactive                                       | -                                         | -      | -            | -             | -            | Go prone.                                                |
 | Parry           | Shield or Weapon                                                   | Melee                                     | —      | -            | -             | -            | X = 1 less damage.                                       |
 | Defend Other    | -                                                                  | Move or Parry -3,-4,-5                    | -      | -            | -             | -            | Reaction. Defends other from damage                      |
 | Draw Weapon     | –                                                                  | –                                         | -      | -            | -             | -            | Weapon Drawn                                             |
 | Swing Weapon    | Heavy weapon, must be performed right before a close combat attack | None (Optional: Might for "Mighty Swing") | -      | -            | -             | -            | +1 Damage (other effects for "Mighty Swing")             |
 | Stand Up        | You are prone                                                      | –                                         | -      | -            | -             | -            | Stand up                                                 |
-| Fast Kip        | You are prone                                                      | Move -5                                   | -      | -            | -             | -            | Stand for free, and Fast kick                            |
+| Fast Kip        | You are prone                                                      | Move -5                                   | -      | -            | -             | -            | Stand as Free Action, and Fast Action kick               |
 | Feint           | Enemy at Arm’s Length                                              | None, or Move                             | -      | -            | -             | -            | Swap Initiative, Various                                 |
 | Run             | No enemy at Arm’s Length                                           | Move (in Rough zone)                      | -      | -            | -             | -            | Move 10m (1 zone)                                        |
 | Retreat         | Enemy at Arm’s Length                                              | Move                                      | -      | -            | -             | -            | Move from Arm’s reach to Near Range.                     |
@@ -124,6 +124,11 @@ SHIELD: Carrying a shield is also very useful in close combat. You can PARRY att
 SACRIFICING SHIELD: When using a PARRY action with a shield, the character can choose to discard the shield to reduce all damage from the parried attack to zero if it had at least one success on the PARRY roll. This leaves the shield completely broken.
 
 STANCE: It is recommended that you stand on your feet when you attack. If you are prone, you must spend a Fast Action to GET UP. While prone, you may use the SHOVE attack. You may still attack with weapons that have NEAR range, however while prone it’s range is now ARM’S LENGTH and you suffer a -1 penalty. Standing enemies get a +2 modification on all melee attacks against a prone enemy.
+
+ATTACKS OF OPPORTUNITY
+Under 2 circumstances, an enemy may attack out of turn as a Reactive Action (counting against their action economy):
+1) If they possess a melee weapon with SHORT range, and they are aware of an enemy **entering** the range of the melee weapon.
+2) Not prone, and in possession of any melee weapon (not brawling), and they are aware of an enemy **leaving** the range of their weapon. 
 
 ### **RANGED COMBAT**
 
@@ -205,10 +210,15 @@ FULL COVER: Full cover breaks line of sight and typically makes it impossible to
 
 **Heavy Protection** represents the armor you would find on a tank or protection provided by a solid wall, or a concrete casemate. Heavy Protection is so tough that it cannot be penetrated by a weapon unless the weapon possesses the Armor-Piercing feature. Against Armor-Piercing weaponry, the target will roll its full Armor + Cover pool to defend against the attack.
 
-DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to dodge. Note that if their gunfire is what is alerting you to being targeted, it is too late to dodge. If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:
-	a) Keep moving. An attacker suffers a -1 penalty if you've moved since their last round.
-	b) Hit the dirt. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.
-	c) Seek cover. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
+DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to dodge. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE, but as a Reaction, you may still:
+	a) Hit the dirt. Fast Action. No roll needed. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).
+	b) Seek Cover. Fast Action. Roll MOVE. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you. 
+	
+If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:
+	a) Dodge pre-emptively. Your dodge roll will apply to the next ranged attack against you.
+	b) Keep moving. An attacker suffers a -1 penalty if you've moved since their last round.
+	c) Hit the dirt. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.
+	d) Seek cover. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
 #### FRIENDLY FIRE
 You can fire at a target even if your line of fire passes within 5m of one or more friendly fighters are located, but these friendlies must all immediately make INSIGHT: Calm rolls to avoid being SUPPRESSED. Also, if your
 shot misses, roll two D6 base dice – any X means a random friendly is hit instead, and a second X will increase the damage by 1.
@@ -425,6 +435,16 @@ Remember, beyond your two available actions, a Fast Action suffers -1 penalty, a
 
 #### **SLOW ACTIONS**
 
+SHOOT: Slow action. Roll for MARKSMANSHIP and the weapon’s Gear Bonus, or Ammo Dice as the case may be. Modified by lots of factors. See RANGED COMBAT section. Bladed ranged attacks be DODGED under certain circumstances, but to PARRY a ranged attack the target must have a shield, or be very good with a melee weapon.  If you hit, your target takes Weapon Damage on his Strength. For every additional x rolled, the damage increases by one. If the target suffers a critical injury, roll on the table for stab wounds if you used a firearm or projectile blade, and use the table for blunt force if you used a sling or a thrown rock.
+
+SLASH: SLASH and STAB will do the same amount of damage if they hit. SLASHING requires a weapon with the EDGED or BLUNT features. DODGING a SLASH gets a +2 bonus. If the enemy takes a critical injury roll on the table for slash wounds (for EDGED weapons) or blunt trauma (for BLUNT weapons).
+
+STAB: STAB and SLASH will do the same amount of damage if they hit. Requires a weapon with the POINTED feature. PARRYING a STAB with a weapon suffers -2 penalty, but using a shield gains a +2 bonus. If the enemy suffers a critical injury, roll on the table for stab wounds. Stabbing is good for enemies without shields.
+
+PUNCH/KICK/BITE: Does not require a weapon. Roll for MELEE. Can be DODGED or PARRIED, and any attempt to PARRY gets a +2 bonus. If you hit, your opponent takes 1 point of damage to his Strength. If you roll multiple x, the damage increases by one for each additional x. If the enemy suffers a critical injury, roll on the table for blunt force wounds (unless you have fangs – in that case, use the table for slash wounds).
+
+GRAPPLE: You grab hold of your opponent. Roll for MELEE, as no weapon can be used. Can be DODGED or PARRIED. If the attack succeeds, both you and your opponent fall to the ground. The opponent drops any weapon they were hold- ing, and cannot move. The only action they can perform is **BREAK FREE** – which is a slow action and requires them winning an opposed MELEE or MIGHT against you. While you are grappling, the only action you can perform is a **GRAPPLE ATTACK.** It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
+
 TACKLE: Slow Action. Melee -3 / XXX. Tackle an opponent within 10m range to the ground. If the opponent’s Strength is higher than yours, he can make a MIGHT roll (not an action) to stay on his feet. You both drop what you’re holding, both on ground, they’re now considered GRAPPLED. No effect on creatures with STR 8+.
 
 WARRIOR'S VOICE: Slow action. INFLUENCE: Performance. Through song, cries, biting remarks, and unearthly wails, your voice inspires your comrades and strikes rage and distraction into the minds of your enemies. You may either intentionally choose which effect you're doing, and achieve 1 success (incurring an appropriate Difficulty Modifier), or roll without penalty, and choose the effect based on how many successes you've rolled. Consult the table of effects below.
@@ -461,16 +481,22 @@ DEFEND OTHER: MOVE or PARRY roll. Fast Action. Reactive Action. When attempting 
 | **Protective Parry**. When a friend within 10m range is attacked, you may PARRY the attack for him. Your PARRY follows the normal rules and counts as one of your actions in the round. Any unparried damage continues to the intended target, not you.                              | -3 / XX   |
 | **Bodily Replace**. Immediately switch places with an ally within 10m engaged in battle. The movement can’t be made through walls or in other ways that would break the laws of physics. Does not count as an action for your ally.                                                  | -4 / XXX  |
 | **Body Block**. You may attempt this action at any time, throwing yourself in front of an ally within 10m distance who is being attacked, and suffer 1 damage instead of your friend. If successful, you may add Willpower points, taking on 1 more damage for every Willpower used. | -5 / XXXX |
-DISARM: You try to knock the weapon from your opponent’s hands. Roll MELEE and your weapon’s Gear Bonus vs the opponent's MIGHT. An opponent wielding a 2-Handed weapon grants them +2 to their MIGHT roll. If you succeed, your opponent drops their weapon, which lands at ARM’S LENGTH. Any excess X have no effect. You cannot DISARM a shield. Your enemy can PARRY or DODGE your DISARM.
+DISARM: You try to knock the weapon from your opponent’s hands. Roll MELEE and your weapon’s Gear Bonus. Disarming an opponent wielding a one-handed weapon requires one X, a two-handed weapon requires XX. If you succeed, your opponent drops their weapon, which lands at ARM’S LENGTH. You cannot DISARM a shield. Your enemy can PARRY or DODGE your DISARM.
 
-DODGE: You throw yourself out of the way of your opponent’s melee or ranged attack. Fast action, Reactive action. Roll MOVE. You cannot use a weapon. If the attacker SLASHES, you get a +2 bonus. Every X you roll eliminates a X from the attacker’s roll. When you DODGE, you fall prone. You can choose to remain standing, at the cost of a –2 penalty. If you remain standing and you've negated all damage with a -3 penalty, OR roll XX beyond all damage negation, you may at the same time move 10m. Acrobatic flip!
-
-FLYING DODGE: You dive from danger. This takes you out of combat-range, and you land prone. Roll MOVE +2. You can take no more actions during the round (or next round if a reaction) besides stand up, and the dodge counts against all attacks made on you during this duration.  
-.  
-This in effect makes 3 kinds of dodging:  
-1) Standing Dodge. MOVE -2 vs 1 attack, remain standing.
-2) Dropping Dodge. MOVE vs 1 attack, fall prone, imposing a -1 penalty on all attacks beyond 10m.
+DODGE: You throw yourself out of the way of your opponent’s melee or ranged attack. Fast action, Reactive action. Roll MOVE. You cannot use a weapon. If the attacker SLASHES, you get a +2 bonus. Every X you roll eliminates a X from the attacker’s roll. There are 3 kinds of Dodge:
+1) Standing Dodge. MOVE -2 vs 1 attack, remain standing. If you remain standing and you've negated all damage with a -3 penalty, OR roll XX beyond all damage negation, you may at the same time move 10m. Acrobatic flip!
+2) Dropping Dodge. MOVE vs 1 attack, fall prone, imposing an additional -1 penalty on all attacks beyond 10m.
 3) Flying Dodge. MOVE +2 vs all attacks, fall prone 3m away, take no actions (besides stand) next round if it’s a reaction.
+
+DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to DODGE their attack. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE their first attack, but as a Reaction, you may still:
+	a) Hit the dirt. Fast Action. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).
+	b) Seek Cover. Fast Action. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you. 
+
+If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:
+	a) Dodge pre-emptively. Your dodge roll will apply to the next ranged attack against you.
+	b) Keep moving. An attacker suffers a -1 penalty if you've moved since their last round.
+	c) Hit the dirt. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.
+	d) Seek cover. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
 
 FAST KIP: Move -5. Allows you to get up from prone position without spending an action. If successful, you are standing, and may now perform a Kick as a Fast Action. Failure means you've used a Fast Action, and remain on the ground.
 
@@ -481,9 +507,15 @@ LOSING OVERWATCH: You keep your overwatch position until you break it, or any of
 - You suffer damage.
 - You are suppressed.
 
+PARRY: You block your opponent’s attack. Fast Reactive action. Requires a shield or a weapon. Roll MELEE and the Gear Bonus of the shield or weapon used. If you PARRY with a weapon that lacks the PARRYING feature, you get a –2 penalty. If the attacker STABS you, you get a +2 bonus when you PARRY with a shield but a –2 penalty if you parry with a weapon. Every X you roll eliminates a X from the attacker’s roll. Any excess X have no effect.  
+- Parrying Ranged Attacks: you must either have a weapon with the PARRYING feature and take a -3 penalty, or use a shield. Roll using MELEE and the Gear Bonus. Every X you roll eliminates one X from the attacker’s roll. Any excess X have no effect. Only shields can parry firearm attacks. 
+- Sacrificing Shield: When using a PARRY action with a shield, the character can choose to discard the shield to reduce all damage from the parried attack to zero if it had at least one success on the PARRY roll. This leaves the shield completely broken.
+
 READ ENEMY: INSIGHT roll, Fast action. -3 / XXX. Foresee how one opponent will act in the coming round. All your attack and defense rolls against this opponent get a +1 modification until it is your turn again in the next round. Every success beyond what is needed grants an additional +1 modification. 
 
-SEEK COVER: Fast action. Requires terrain within 10m that can provide cover. 
+SEEK COVER: Fast action. Reactive. Roll MOVE. Requires terrain within 10m that can provide cover. 
+
+SHOVE: You try to push your enemy to the ground. Roll MELEE. A weapon with the HOOK feature or a shield can be used (add the item’s Gear Bonus). If your opponent has higher Strength than you, two X are required to succeed, otherwise one is enough. If they roll MOVE at -5 / XXXX, any shove attempt fails. If the attack is successful, your opponent falls to the ground and is prone. Any additional X have no effect. Your opponent can DODGE to avoid your SHOVE. PARRYING a SHOVE requires a shield.
 
 SWING WEAPON: A Fast action that must be performed directly before a SLASH or STAB, in the same round. You swing your HEAVY melee weapon to make your upcoming strike more powerful. No roll is required, and grants your next successful strike +1 damage
 You may optionally perform a "Mighty Swing" by roll MIGHT during this action. The result of successes can be varied. Refer to the table below for effects, which may be intended (1 success, including the appropriate modifier), or lucky (no modifiers, but you've rolled the appropriate number of successes). Note that if you roll MIGHT with no modifiers, 1 success has no effect.

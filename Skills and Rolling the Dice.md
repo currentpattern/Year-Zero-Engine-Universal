@@ -98,7 +98,7 @@ You can get modifications in several different ways: through talents, through th
 
 ### **DIFFICULTY**
 
-Normally, the GM doesn’t assess how difficult an action is. You only roll dice in challenging situations – period. But sometimes, the GM might want to underscore that external factors either help or hinder an action. Use the following table for guidance:
+The GM will only call for a die roll if the difficulty level is average or greater, and success or failure would lead to interesting game outcomes. The GM might want to underscore that external factors either help or hinder an action. Use the following table for guidance:
 
 DIFFICULTY MODIFICATION  
 Trivial +3  
@@ -111,6 +111,9 @@ Very Difficult -5
 Heroic -7
 
 There are also cases when modifications are imposed by the rules, like when you aim carefully with a ranged weapon, shoot at long distance, or if you’re in a bad bargaining position when you attempt to MANIPULATE someone.
+
+Under each skill, more difficult uses of the skill are described. Each section lists a DM "Difficulty Modifier" in the form of a die penalty and a number of successes, e.g. "-3 / XXX". This indicates that there are two routes of achieving the difficult effect: 1) intentionally attempting that difficult effect will result in a die penalty to your roll. 2) rolling your full die pool and "accidentally" achieving a difficult feat by achieving multiple successes. 
+>Note that the probability of achieving a difficult feat is higher if you intentionally aim for it (choosing the die penalty). With 7 dice, achieving 1 success at -3 is 52%. With 7 dice, achieving XXX is 10%.
 
 **HELP FROM OTHERS**  
 Other PCs or NPCs can help you succeed at a skill roll. This must be declared right away, before you roll your dice. It must also make sense in the story – the individual helping you must be physically present and have the capacity to support your action. The GM has the final say. For each person helping you, you get a +1 modification. No more than three people can help you with a single roll, meaning your maximum modification from assistance is +3. In combat, helping counts as the same type of action as the one you are supporting (fast or slow). NPCs can help each other in the same way as player characters. Letting NPCs act in groups instead of individually is often an easy way to manage large numbers of NPCs in conflicts.
@@ -149,6 +152,8 @@ Once per game session, you can use your Pride when you have failed a skill roll.
 # **THE SKILLS**  
 This section describes the 17 skills in this game.
 
+**Difficulty Modifiers**: Under each skill, more difficult uses of the skill are described. Each section lists a DM "Difficulty Modifier" in the form of a die penalty and a number of successes, e.g. "-3 / XXX". This indicates that there are two routes of achieving the difficult effect: 1) intentionally attempting that difficult effect will result in a die penalty to your roll. 2) rolling your full die pool and "accidentally" achieving a difficult feat by achieving multiple successes. 
+>Note that the probability of achieving a difficult feat is higher if you intentionally aim for it (choosing the die penalty). With 7 dice, achieving 1 success at -3 is 52%. With 7 dice, achieving XXX is 10%.
 ## **STRENGTH**
 #### **MIGHT**
 You use MIGHT to lift, pull, push, or hold tight to something. If your roll succeeds, you perform this feat of strength.
@@ -164,10 +169,10 @@ Might Specializations
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | Choose 1 applicable Bonus Effect: <br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Gain +1 modification to a later skill roll relating to this one<br>- You impress someone. +1 to one INFLEUNCE roll on them later.<br>- You push or throw an object with great force. One target of your choice within Arm's Length suffers +1 damage, modified by armor. | -2 / XX    |
 | Chose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                  | -3 / XXX   |
-|                                                                                                                                                                                                                                                                                                                                                                                                   | -4 / XXX   |
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                 | -5 / XXXX  |
 | Choose 4 applicable Bonus Effects.                                                                                                                                                                                                                                                                                                                                                                | -7 / XXXXX |
 
+**Special MIGHT Actions**
 
 GRAPPLING: Engaging into a grapple is a MELEE roll, but when a grapple has succeeded, the only action a grappled person can perform is BREAK FREE – which is a slow action and requires them winning an opposed MELEE or MIGHT: Grappler  roll. While you are grappling, the only action you can perform is a GRAPPLE ATTACK. It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
 
@@ -194,8 +199,6 @@ You may optionally perform a "Mighty Swing" by roll MIGHT during this action. Th
 
 INTIMIDATING: At a -3 penalty (or rolling XXX successes), you may use MIGHT instead of INFLUENCE when you threaten someone to make them do what you want. If successful, they cannot demand anything in return but can choose to attack. 
 
-
-
 #### **ENDURANCE**
 When the road is long and hard, when your legs can’t carry you any longer, roll for ENDURANCE. Roll for this skill when you travel in extreme weather or when you are forced to suffer bitter cold. If you succeed, you push through the pain and can fight on for a while longer.
 
@@ -205,13 +208,15 @@ Endurance Specialties
 >Sere training: Resist torture  
 >Diver: Swimming (diver)  
 
-RESISTING TORTURE: If some may attempt to inflict pain compliance upon you without injuring you, they must roll MELEE, CRAFTING, or MEDICAL AID vs. your ENDURANCE successfully as many times as the your ENDURANCE skill, spread out over an equal number of hours. They must spend 15 minutes every hour torturing you, or the process begins anew. 
-Failure will lead you (the subject) to become STR BROKEN and pass out. Success leads you (the subject) to PANIC: you begin begging pathetically, you tell them whatever the fuck will make them happy, and must roll for a permanent mental trauma. 
+| General ENDURANCE Effects                                                                                                                                               | DM       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Choose 1 applicable Bonus Effect: <br>- Give 1 success to another PC in a similar situation before your next turn. <br>- One less round wherein you must test ENDURANCE | -2 / XX  |
+| Chose 2 applicable Bonus Effects                                                                                                                                        | -3 / XXX |
+**Special ENDURANCE Actions**
 
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- Give 1 success to another PC in a similar situation before your next turn. 
-- One less round wherein you must test ENDURANCE
+RESISTING TORTURE: Some may attempt to inflict pain compliance upon you without injuring you, they must roll MELEE, CRAFTING, or MEDICAL AID vs. your ENDURANCE successfully as many times as the your ENDURANCE skill, spread out over an equal number of hours. They must spend 15 minutes every hour torturing you, or the process begins anew. 
+The torturer's Failure will lead the subject to become STR BROKEN and pass out. Success leads the subject to PANIC: begin begging pathetically, and tell them whatever the fuck will make them happy, and must roll for a permanent mental trauma. 
+
 #### **MELEE**
 To be able to defend yourself with weapon in hand, or barehanded. Roll MELEE when you attack or parry in close combat. If the roll succeeds, you hit your adversary and do Weapon Damage. Read more about close combat in [Combat and Damage](Combat%20and%20Damage.md). How weapons are used is also described there.
 
@@ -229,31 +234,39 @@ Melee Specialties
 >Monster Hunter: engaging in combat against horrifying and unnatural creatures  
 >Mounted melee: When fighting from a mount or vehicle  
 
-| MELEE Effect                                                                                                                              | DM       |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **Strike two enemies** with a single Slash attack, or unarmed attack.                                                                     | -3 / XXX |
-| **Shield Attack:** Using your **shield to SLASH** as a fast action. The Weapon Damage is 1 (blunt trauma).                                | -3 / XXX |
-| **Axe Crit:** When you hit an enemy with your axe and inflicts at least one point of damage, you automatically inflict a critical injury. | -3 / XXX |
-| **Blunt Crit:** An attack with a blunt weapon inflicts at least 1 point of damage, even if the target’s armor absorbs all damage          | -3 / XXX |
-| **Choke Hold**: choke Grapple to deal damage to Agility instead of Strength. Inflict 1 damage, +1 for every X beyond what's necessary.    | -4 / XXX |
-| **Grapple with a whip** at 10m                                                                                                            | -4 / XXX |
+| General MELEE Effects                                                                                                                                                                                                                                                                                                                                                                     | DM         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Choose 1 applicable Bonus Effect<br>- You disarm an opponent's 2-handed weapon.<br>- Your opponent (even with higher STR than you) falls Prone or is pushed back 1 meter.<br>- You hold your opponent in a Grapple.<br>- You outmaneuver your opponent and trade Initiative scores with them, taking effect next round.<br>- You impress someone. +1 to one INFLUENCE roll on them later. | -2 / XX    |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                         | -3 / XXX   |
+| **Strike two enemies** with a single Slash or unarmed attack.                                                                                                                                                                                                                                                                                                                             | -3 / XXX   |
+| **Shield Attack:** Using your **shield to SLASH** as a fast action. The Weapon Damage is 1 (blunt trauma).                                                                                                                                                                                                                                                                                | -3 / XXX   |
+| **Axe Crit:** When you hit an enemy with your axe and inflicts at least one point of damage, you automatically inflict a critical injury.                                                                                                                                                                                                                                                 | -3 / XXX   |
+| **Blunt Crit:** An attack with a blunt weapon inflicts at least 1 point of damage, even if the target’s armor absorbs all damage                                                                                                                                                                                                                                                          | -3 / XXX   |
+| **Choke Hold**: choke Grapple to deal damage to Agility instead of Strength. Inflict 1 damage, +1 for every X beyond what's necessary.                                                                                                                                                                                                                                                    | -4 / XXX   |
+| **Grapple with a whip** at 10m                                                                                                                                                                                                                                                                                                                                                            | -4 / XXX   |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                         | -5 / XXXX  |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                         | -7 / XXXXX |
+**Special MELEE Actions**
 
-**Attacks of Opportunity**
-As soon as one enters the range of an enemy's melee weapon, the enemy may attack the intruder as a Reactive Action, so long as the enemy is aware of one's approach.
+CHARGE ATTACK: Move from 10m to Engaged (fast action) then performing a SLASH, STAB, PUNCH, or SHOVE (slow action). This combination is recognized in order to give the Charger specialization a die bonus.
 
-**Tackle Action**
-Slow Action. Melee -3 / XXX. Tackle an opponent within SHORT range to the ground. If the opponent’s Strength is higher than yours, he can make a MIGHT roll (not an action) to stay on his feet. You both drop what you’re holding, both on ground, they’re now considered GRAPPLED. No effect on creatures with STR 8+.
+DISARM: You try to knock the weapon from your opponent’s hands. Roll MELEE and your weapon’s Gear Bonus. Disarming an opponent wielding a one-handed weapon requires one X, a two-handed weapon requires XX. If you succeed, your opponent drops their weapon, which lands at ARM’S LENGTH. You cannot DISARM a shield. Your enemy can PARRY or DODGE your DISARM.
 
-**Charge Attack**
-Move from 10m to Engaged (fast action) then performing a SLASH, STAB, PUNCH, or SHOVE (slow action). This combination is recognized in order to give the Charger specialization a die bonus.
+GRAPPLE: You grab hold of your opponent. Roll for MELEE, as no weapon can be used. Can be DODGED or PARRIED. If the attack succeeds, both you and your opponent fall to the ground. The opponent drops any weapon they were hold- ing, and cannot move. The only action they can perform is **BREAK FREE** – which is a slow action and requires them winning an opposed MELEE or MIGHT against you. While you are grappling, the only action you can perform is a **GRAPPLE ATTACK.** It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
 
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- You disarm your opponent.
-- Your opponent falls Prone or is pushed back 1 meter.
-- You hold your opponent in a Grapple.
-- You outmaneuver your opponent and trade Initiative scores with them, taking effect next round.
-- You impress someone. +1 to one INFLEUNCE roll on them later.
+PARRY: You block your opponent’s attack. Fast Reactive action. Requires a shield or a weapon. Roll MELEE and the Gear Bonus of the shield or weapon used. If you PARRY with a weapon that lacks the PARRYING feature, you get a –2 penalty. If the attacker STABS you, you get a +2 bonus when you PARRY with a shield but a –2 penalty if you parry with a weapon. Every X you roll eliminates a X from the attacker’s roll. Any excess X have no effect.  
+- Parrying Ranged Attacks: you must either have a weapon with the PARRYING feature and take a -3 penalty, or use a shield. Roll using MELEE and the Gear Bonus. Every X you roll eliminates one X from the attacker’s roll. Any excess X have no effect. Only shields can parry firearm attacks. 
+- Sacrificing Shield: When using a PARRY action with a shield, the character can choose to discard the shield to reduce all damage from the parried attack to zero if it had at least one success on the PARRY roll. This leaves the shield completely broken.
+
+PUNCH/KICK/BITE: Slow Action. Does not require a weapon. Roll for MELEE. Can be DODGED or PARRIED, and any attempt to PARRY gets a +2 bonus. If you hit, your opponent takes 1 point of damage to his Strength. If you roll multiple x, the damage increases by one for each additional x. If the enemy suffers a critical injury, roll on the table for blunt force wounds (unless you have fangs – in that case, use the table for slash wounds).
+
+SHOVE: You try to push your enemy prone, or back 1 meter. Roll MELEE. A weapon with the HOOK feature or a shield can be used (add the item’s Gear Bonus). If your opponent has higher Strength than you, two X are required to succeed, otherwise one is enough. If they roll MOVE at -5 / XXXX, any shove attempt fails. If the attack is successful, your opponent falls to the ground and is prone. Any additional X have no effect. Your opponent can DODGE to avoid your SHOVE. PARRYING a SHOVE requires a shield.
+
+SLASH: Slow Action. SLASH and STAB will do the same amount of damage if they hit. SLASHING requires a weapon with the EDGED or BLUNT features. DODGING a SLASH gets a +2 bonus. If the enemy takes a critical injury roll on the table for slash wounds (for EDGED weapons) or blunt trauma (for BLUNT weapons).
+
+STAB: Slow Action. STAB and SLASH will do the same amount of damage if they hit. Requires a weapon with the POINTED feature. PARRYING a STAB with a weapon suffers -2 penalty, but using a shield gains a +2 bonus. If the enemy suffers a critical injury, roll on the table for stab wounds. Stabbing is good for enemies without shields.
+
+TACKLE ACTION: Slow Action. Melee -3 / XXX. Tackle an opponent within SHORT range to the ground. If the opponent’s Strength is higher than yours, he can make a MIGHT roll (not an action) to stay on his feet. You both drop what you’re holding, both on ground, they’re now considered GRAPPLED. No effect on creatures with STR 8+.
 ## **AGILITY**
 #### **STEALTH**
 It is often wise to avoid combat and sneak past the enemy instead. Roll an opposed roll with your STEALTH skill against your adversary’s OBSERVATION. If you win, you manage to sneak past them without being spotted. You can also use this skill to remain hidden and avoid discovery when you are stationary. A third way to use this skill is to make a **Sneak Attacks** and **Ambushes** (see [Combat and Damage](Combat%20and%20Damage.md)).
@@ -265,35 +278,32 @@ Stealth specialties
 >Burglar- urban stealth  
 >Ranger- wilderness stealth  
 
-When using STEALTH, each of the following external factors gives you a +1 on the roll:
-- You blend into your surroundings (some gear may be already granting this bonus, in that case, ignore this)
-- The area is dark or dimly lit.
-- The area is crowded or noisy.
-- Your opponent is distracted by something.
-- You stay at Long range (100m) or more.
-
-Each of the following factors results in a -1 difficulty modifier on the roll:
-- You stand out against the surroundings
-- There is nothing to hide behind
-- Your opponent knows you're coming
-- You try to move undetected into Arm's Reach.
-
+| STEALTH Conditions                                                                                         | DM on the Roll |
+| ---------------------------------------------------------------------------------------------------------- | -------------- |
+| You blend into your surroundings (some gear may be already granting this bonus, in that case, ignore this) | +1             |
+| The area is dark or dimly lit.                                                                             | +1             |
+| The area is crowded or noisy.                                                                              | +1             |
+| Your opponent is distracted by something.                                                                  | +1             |
+| You stay at Long range (100m) or more.                                                                     | +1             |
+| You stand out against the surroundings                                                                     | -1             |
+| There is nothing to hide behind                                                                            | -1             |
+| Your opponent knows you're coming                                                                          | -1             |
+| You try to move undetected into Arm's Reach.                                                               | -1             |
 GROUP STEALTH: When you and the other adventurers use STEALTH side by side, each of you don’t roll for the skill. Instead, only the PC with the lowest skill level rolls, and the result applies to the whole group. Helping is not allowed.
 
-| STEALTH Effects                                                                                                         | DM        |
-| ----------------------------------------------------------------------------------------------------------------------- | --------- |
-| Using STEALTH: Sleight of Hand to pick locks                                                                            | -2 / XX   |
-| Using STEALTH: Sleight of Hand instead of Technical to get out of chains or ropes, even when you are bound              | -3 / XXX  |
-| Use STEALTH: Sleight of Hand in place of MELEE in combat, but only for Light melee or thrown weapons.                   | -4 / XXX  |
-| Inflict a critical injury after dealing any damage using STEALTH: Guerilla/Sleight of Hand to attack in a sneak attack. | -4 / XXX  |
-| Guide the party in a STEALTH maneuver, even if you don't have the lowest skill.                                         | -5 / XXXX |
+| General STEALTH Effects                                                                                                                                                                                                                                                                                                        | DM        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| Choose 1 applicable Bonus Effect<br>- +1 to any attack that benefits from being hidden by this action.<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Gain +1 modification to a later skill roll relating to this one<br>- You impress someone. +1 to one INFLEUNCE roll on them later. | -2 / XX   |
+| Using STEALTH: Sleight of Hand to pick locks                                                                                                                                                                                                                                                                                   | -2 / XX   |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                              | -3 / XXX  |
+| Using STEALTH: Sleight of Hand instead of Technical to get out of chains or ropes, even when you are bound                                                                                                                                                                                                                     | -3 / XXX  |
+| Use STEALTH: Sleight of Hand in place of MELEE in combat, but only for Light melee or thrown weapons.                                                                                                                                                                                                                          | -4 / XXX  |
+| Inflict a critical injury after dealing any damage using STEALTH: Guerilla/Sleight of Hand to attack in a sneak attack.                                                                                                                                                                                                        | -4 / XXX  |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                              | -5 / XXXX |
+| Guide the party in a STEALTH maneuver, even if you don't have the lowest skill.                                                                                                                                                                                                                                                | -5 / XXXX |
 
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- +1 to any attack that benefits from being hidden by this action.
-- Give 1 success to another PC in a similar situation before your next turn. 
-- Gain +1 modification to a later skill roll relating to this one
-- You impress someone. +1 to one INFLEUNCE roll on them later.
+
+
 #### **MOVE**
 When you are going to dodge, jump, climb, move fast, or perform any other action that requires speed or motor control, you roll MOVE .
 
@@ -307,47 +317,56 @@ Move specialties
 >Fast Footwork: Dodge actions (fast footwork, Acrobat)  
 >Dirty Fighter: Feint actions in combat  
 
-| MOVE Effect                                                                                                              | DM       |
-| ------------------------------------------------------------------------------------------------------------------------ | -------- |
-| Moving one further distance when you move twice, or retreat and move.                                                    | -3 / XXX |
-| If your MOVE: Climber roll succeeds at this DM, 1 friend also makes the climb without rolling                            | -3 / XXX |
+| General MOVE Effects                                                                                                                                                                                                                                                                                                                                      | DM        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Choose 1 applicable Bonus Effect<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Cancel additional Suppression successes when moving through a Field of Fire (OPTIONAL RULE)<br>- Gain +1 modification to a later skill roll relating to this one<br>- You impress someone. +1 to one INFLEUNCE roll on them later. | -2 / XX   |
+| Choose 2 applicable Bonus Effects.                                                                                                                                                                                                                                                                                                                        | -3 / XXX  |
+| Moving one further distance when you move twice.                                                                                                                                                                                                                                                                                                          | -3 / XXX  |
+| Choose 2 applicable Bonus Effects.                                                                                                                                                                                                                                                                                                                        | -5 / XXXX |
 
-| MOVE: Acrobatic Feats                                                                                                                                                                                                               | DM        |
+**Special MOVE actions**
+
+ACROBATIC FEATS: Fast Actions. Specialization MOVE: Acrobat
+
+| MOVE: Acrobat Effects                                                                                                                                                                                                               | DM        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Flip:** If you successfully negate an attack by dodging and remaining standing, you may at the same time move 10m                                                                                                                 | -3 / XXX  |
 | **Contort:** Slither your way out of extreme restraints or push yourself through the smallest of openings, down to a few inches wide.                                                                                               | -4 / XXX  |
 | **Ground:** You cannot be shoved to the ground (Steady Feet 2)                                                                                                                                                                      | -5 / XXXX |
 | **Fast Kip:** Allows you to get up from prone position without spending an action. If successful, you are standing, and may now perform a Kick as a Fast Action. Failure means you've used a Fast Action, and remain on the ground. | -5 / XXXX |
 | **Fall roll:** Reduce the damage taken from a fall. Reduce 4 damage, and you may use up to 4 Willpower, each reducing 1 more damage.                                                                                                | -5 / XXXX |
+DEFEND OTHER: Fast Action. Reaction. You may use MOVE to defend allies. Specialization MOVE: Body Guard.
 
-| **Defend Other**<br>Fast Action. May be used as a reaction outside of your turn. <br><br>DEFEND OTHER Effects                                                                                                                                                                        | DM        |
+| MOVE: Body Guard Effects                                                                                                                                                                                                                                                             | DM        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
 | **Protective Parry**. When a friend within 10m range is attacked, you may PARRY the attack for him. Your PARRY follows the normal rules and counts as one of your actions in the round. Any unparried damage continues to the intended target, not you.                              | -3 / XX   |
 | **Bodily Replace**. Immediately switch places with an ally within 10m engaged in battle. The movement can’t be made through walls or in other ways that would break the laws of physics. Does not count as an action for your ally.                                                  | -4 / XXX  |
 | **Body Block**. You may attempt this action at any time, throwing yourself in front of an ally within 10m distance who is being attacked, and suffer 1 damage instead of your friend. If successful, you may add Willpower points, taking on 1 more damage for every Willpower used. | -5 / XXXX |
 
-| Rank | DN         |
-| ---- | ---------- |
-| 1    | -2 / XX    |
-| 2    | -3 / XXX   |
-| 3    | -4 / XXX   |
-| 4    | -5 / XXXX  |
-| 5    | -7 / XXXXX |
+DODGE: You throw yourself out of the way of your opponent’s melee or ranged attack. Fast action, Reactive action. Roll MOVE: Fast Footwork. You cannot use a weapon. If the attacker SLASHES, you get a +2 bonus. Every X you roll eliminates a X from the attacker’s roll. There are 3 kinds of Dodge:
+1) Standing Dodge. MOVE -2 vs 1 attack, remain standing. If you remain standing and you've negated all damage with a -3 penalty, OR roll XX beyond all damage negation, you may at the same time move 10m. Acrobatic flip!
+2) Dropping Dodge. MOVE vs 1 attack, fall prone, imposing an additional -1 penalty on all attacks beyond 10m.
+3) Flying Dodge. MOVE +2 vs all attacks, fall prone 3m away, take no actions (besides stand) next round if it’s a reaction.
 
-| MOVE: Dirty Fighter Effects                                                                                                                                                                                                                                                                           | DN         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| As a fast action with no roll, trade Initiatives with a particular opponent                                                                                                                                                                                                                           | -          |
-| When you use the feint action, roll MOVE, and you may instead of trading initiative cards, have the target lose all actions if you damage it with the next attack you take this round.                                                                                                                | -2 / XX    |
-| Use the feint action within Short range of your enemy. Also, when you use the feint action, you may instead of trading initiative cards, have the target be unable to dodge or parry the next action you take this round.                                                                             | -3 / XXX   |
-| When you use the feint action, you may instead of trading initiative cards, throw dust in your opponents’ eyes as a sleight of hands roll. It counts as a piercing projectile attack for the purpose of parry/dodge. On a success the tar- get is blinded, as if in total darkness for 1 round per x. | -4 / XXX   |
+DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to DODGE their attack. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE their first attack, but as a Reaction, you may still:
+	a) Hit the dirt. Fast Action, no roll needed. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).  
+	b) Seek Cover. Fast Action. Roll MOVE. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.   
 
+If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:
+	a) Dodge pre-emptively. Your dodge roll will apply to the next ranged attack against you.  
+	b) Keep moving. An attacker suffers a -1 penalty if you've moved since their last round.  
+	c) Hit the dirt. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.  
+	d) Seek cover. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.  
 
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- Give 1 success to another PC in a similar situation before your next turn. 
-- Cancel additional Suppression successes when moving through a Field of Fire (OPTIONAL RULE)
-- Gain +1 modification to a later skill roll relating to this one
-- You impress someone. +1 to one INFLEUNCE roll on them later.
+DIRTY FIGHTING: Essentially the FEINT Action. Fast Action. Specialization MOVE: Dirty Fighter.
+
+| MOVE: Dirty Fighter Effects                                                                                                                                                                                                                                                                                           | DN       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| **Feint**: As a fast action with no roll, trade Initiatives with a particular opponent                                                                                                                                                                                                                                | -        |
+| **Hard Feint**: When you use the feint action, roll MOVE, and you may instead of trading initiative cards, have the target lose all actions if you damage it with the next attack you take this round.                                                                                                                | -2 / XX  |
+| **Distant Feint**: Use the feint action within Short range of your enemy. Also, when you use the feint action, you may instead of trading initiative cards, have the target be unable to dodge or parry the next action you take this round.                                                                          | -3 / XXX |
+| **Blind Target**: When you use the feint action, you may instead of trading initiative cards, throw dust in your opponents’ eyes as a sleight of hands roll. It counts as a piercing projectile attack for the purpose of parry/dodge. On a success the target is blinded, as if in total darkness for 1 round per x. | -4 / XXX |
+SEEK COVER: Fast action. Reactive. Roll MOVE: Fast Footwork. Requires terrain within 10m that can provide cover. This will provide protective cover against gunfire. 
 #### **MARKSMANSHIP**
 Using a firearm, bow and arrow, sling, or a simple rock, you can stop enemies at a distance and can avoid bloodying your hands. Roll MARKSMANSHIP when you throw or fire a weapon at an enemy at a distance. If you succeed, the shot hits its target and you do weapon damage to your enemy. Read more about ranged combat in [Combat and Damage](Combat%20and%20Damage.md).
 
