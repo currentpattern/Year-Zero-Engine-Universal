@@ -1,4 +1,31 @@
-0.There are 17 skills in this game, and each has many specialties. They are all described later in this chapter. Every skill is connected to one of the four attributes: Strength, Agility, Wits, and Empathy. When you perform an action, you first describe what your player character does or says. Then you grab a number of six-sided dice equal to your skill level plus your current score in the attribute that is connected to that skill. If you have some sort of gear that may be helpful, you will get extra dice from that as well. Then you roll all the dice at once.
+[Pushing Your Roll](#pushing-your-roll)  
+Using Willpower  
+Group Rolls  
+Difficulty Modifiers  
+Gear Dice and Gear Wear  
+Pride  
+The Skills  
+>Might (STR)  
+>Endurance (STR)  
+>Melee (STR)  
+>Stealth (AGIL)  
+>Move (AGIL)  
+>Marksmanship (AGIL)  
+>Driving (AGIL)  
+>Piloting (Adv) (AGIL)  
+>Observation (WITS)  
+>Survival (WITS)  
+>Crafting (WITS)  
+>Scholar (WITS)  
+>[Technical (WITS)](#technical)  
+>Insight (EMP)  
+>Influence (EMP)  
+>Animal Handling (EMP)  
+>Medical Aid (Adv.) (EMP)  
+
+Talents  
+
+There are 17 skills in this game, and each has many specialties. They are all described later in this chapter. Every skill is connected to one of the four attributes: Strength, Agility, Wits, and Empathy. When you perform an action, you first describe what your player character does or says. Then you grab a number of six-sided dice equal to your skill level plus your current score in the attribute that is connected to that skill. If you have some sort of gear that may be helpful, you will get extra dice from that as well. Then you roll all the dice at once.
 
 **SIXES MEAN SUCCESS**  
 To succeed with your action, you must roll at least one six. A six is called a success, and these are marked in the rules with a symbol of two crossed swords: X. If you roll more than one X you can achieve additional effects in some cases – this is specified by each skill.
@@ -69,7 +96,7 @@ You can gain additional Willpower Points in two ways:
 
 Mark your WP on your character sheet. You can never have more than ten (10) WP at any one time.
 
-USING WILLPOWER
+### **USING WILLPOWER**
 There are several potential uses for Willpower:
 - Convert 1 WP to 2 XP for the purpose of training skills.
 - Ignore Suppression (see [Combat and Damage](Combat%20and%20Damage.md)).
@@ -77,6 +104,7 @@ There are several potential uses for Willpower:
 - Re-rolling a critical damage result (once per injury), must use the new result.
 - Remove 1 Stress Point. Must be done before GM calls for Panic roll.
 - Buying success: If you are rolling 6+ dice (including Gear Dice), you may spend Willpower to buy 1 success. The cost is 3 WP. You may only buy the success before you’ve rolled the skill, and you may not subsequently roll the skill.
+
 
 ### **ONLY ONE CHANCE**  
 As a rule, you only have one chance to succeed with any action. Once you have rolled the dice – and pushed the roll – you may not roll again to achieve the same goal. You need to try some- thing different or wait until the circumstances have changed in a substantial way. Or let an- other player character try.  
@@ -211,8 +239,7 @@ Endurance Specialties
 | General ENDURANCE Effects                                                                                                                                               | DM       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | Choose 1 applicable Bonus Effect: <br>- Give 1 success to another PC in a similar situation before your next turn. <br>- One less round wherein you must test ENDURANCE | -2 / XX  |
-| Chose 2 applicable Bonus Effects                                                                                                                                        | -3 / XXX |  
-
+| Chose 2 applicable Bonus Effects                                                                                                                                        | -3 / XXX |
 
 **Special ENDURANCE Actions**
 
@@ -247,7 +274,7 @@ Melee Specialties
 | **Choke Hold**: choke Grapple to deal damage to Agility instead of Strength. Inflict 1 damage, +1 for every X beyond what's necessary.                                                                                                                                                                                                                                                    | -4 / XXX   |
 | **Grapple with a whip** at 10m                                                                                                                                                                                                                                                                                                                                                            | -4 / XXX   |
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                         | -5 / XXXX  |
-| Choose 4 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                         | -7 / XXXXX |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                         | -7 / XXXXX |
 
 **Special MELEE Actions**
 
@@ -293,7 +320,6 @@ Stealth specialties
 | Your opponent knows you're coming                                                                          | -1             |
 | You try to move undetected into Arm's Reach.                                                               | -1             |
 
-
 GROUP STEALTH: When you and the other adventurers use STEALTH side by side, each of you don’t roll for the skill. Instead, only the PC with the lowest skill level rolls, and the result applies to the whole group. Helping is not allowed.
 
 | General STEALTH Effects                                                                                                                                                                                                                                                                                                        | DM        |
@@ -306,8 +332,6 @@ GROUP STEALTH: When you and the other adventurers use STEALTH side by side, each
 | Inflict a critical injury after dealing any damage using STEALTH: Guerilla/Sleight of Hand to attack in a sneak attack.                                                                                                                                                                                                        | -4 / XXX  |
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                              | -5 / XXXX |
 | Guide the party in a STEALTH maneuver, even if you don't have the lowest skill.                                                                                                                                                                                                                                                | -5 / XXXX |
-
-
 
 #### **MOVE**
 When you are going to dodge, jump, climb, move fast, or perform any other action that requires speed or motor control, you roll MOVE .
@@ -340,8 +364,6 @@ ACROBATIC FEATS: Fast Actions. Specialization MOVE: Acrobat
 | **Ground:** You cannot be shoved to the ground (Steady Feet 2)                                                                                                                                                                      | -5 / XXXX |
 | **Fast Kip:** Allows you to get up from prone position without spending an action. If successful, you are standing, and may now perform a Kick as a Fast Action. Failure means you've used a Fast Action, and remain on the ground. | -5 / XXXX |
 | **Fall roll:** Reduce the damage taken from a fall. Reduce 4 damage, and you may use up to 4 Willpower, each reducing 1 more damage.                                                                                                | -5 / XXXX |
-
-
 DEFEND OTHER: Fast Action. Reaction. You may use MOVE to defend allies. Specialization MOVE: Body Guard.
 
 | MOVE: Body Guard Effects                                                                                                                                                                                                                                                             | DM        |
@@ -373,7 +395,6 @@ DIRTY FIGHTING: Essentially the FEINT Action. Fast Action. Specialization MOVE: 
 | **Hard Feint**: When you use the feint action, roll MOVE, and you may instead of trading initiative cards, have the target lose all actions if you damage it with the next attack you take this round.                                                                                                                | -2 / XX  |
 | **Distant Feint**: Use the feint action within Short range of your enemy. Also, when you use the feint action, you may instead of trading initiative cards, have the target be unable to dodge or parry the next action you take this round.                                                                          | -3 / XXX |
 | **Blind Target**: When you use the feint action, you may instead of trading initiative cards, throw dust in your opponents’ eyes as a sleight of hands roll. It counts as a piercing projectile attack for the purpose of parry/dodge. On a success the target is blinded, as if in total darkness for 1 round per x. | -4 / XXX |
-
 
 SEEK COVER: Fast action. Reactive. Roll MOVE: Fast Footwork. Requires terrain within 10m that can provide cover. This will provide protective cover against gunfire. 
 #### **MARKSMANSHIP**
@@ -894,5 +915,3 @@ OTHER
 CHARACTER TRAITS  
 	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.  
 
-
-[Explaining this to AI prompt](Explaining%20this%20to%20AI%20prompt.md)
