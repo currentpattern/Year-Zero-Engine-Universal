@@ -1,29 +1,28 @@
 [Pushing Your Roll](#pushing-your-roll)  
-Using Willpower  
-Group Rolls  
-Difficulty Modifiers  
-Gear Dice and Gear Wear  
-Pride  
+[Using Willpower](#using-willpower)  
+[Group Rolls](#group-rolls)  
+[Difficulty Modifiers](#modification)  
+[Gear Dice and Gear Wear](#gear-dice-and-wear)  
+[Pride](#pride)  
 The Skills  
->Might (STR)  
->Endurance (STR)  
->Melee (STR)  
->Stealth (AGIL)  
->Move (AGIL)  
->Marksmanship (AGIL)  
->Driving (AGIL)  
->Piloting (Adv) (AGIL)  
->Observation (WITS)  
->Survival (WITS)  
->Crafting (WITS)  
->Scholar (WITS)  
+>[Might (STR)](#might)  
+>[Endurance (STR)](#endurance)  
+>[Melee (STR)](#melee)  
+>[Stealth (AGIL)](#stealth)  
+>[Move (AGIL)](#move)  
+>[Marksmanship (AGIL)](#marksmanship)  
+>[Driving (AGIL)](#driving)  
+>[Piloting (Adv) (AGIL)](#piloting)  
+>[Observation (WITS)](#observation)  
+>[Survival (WITS)](#survival)  
+>[Crafting (WITS)](#crafting)  
+>[Scholar (WITS)](#scholar)  
 >[Technical (WITS)](#technical)  
->Insight (EMP)  
->Influence (EMP)  
->Animal Handling (EMP)  
->Medical Aid (Adv.) (EMP)  
-
-Talents  
+>[Insight (EMP)](#insight)  
+>[Influence (EMP)](#influence)  
+>[Animal Handling (EMP)](#animal-handling)  
+>[Medical Aid (Adv.) (EMP)](#medical-aid)  
+[Talents](#talents)  
 
 There are 17 skills in this game, and each has many specialties. They are all described later in this chapter. Every skill is connected to one of the four attributes: Strength, Agility, Wits, and Empathy. When you perform an action, you first describe what your player character does or says. Then you grab a number of six-sided dice equal to your skill level plus your current score in the attribute that is connected to that skill. If you have some sort of gear that may be helpful, you will get extra dice from that as well. Then you roll all the dice at once.
 
@@ -439,7 +438,8 @@ For every extra X, choose 1 applicable effect:
 - Give 1 success to another PC in a similar situation before your next turn. 
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
-#### **PILOTING** (adv. Req. Driving 2)
+#### **PILOTING**
+**(Advanced Skill. Requirement: Driving 2)**
 Roll this skill when you are the one controlling any air or space vehicle. Gaining 1 rank in this skill requires you to already have 2 ranks in the DRIVING skill.
 
 Piloting Specialties
@@ -851,7 +851,8 @@ Factors leading to a -1 to an ANIMAL HANDLING roll:
 | **Training your animal to fight for you**. When it is your turn to fight, the animal will also fight and follow your orders for one round, at your turn in the initiative order. For every success beyond what was necessary to succeed, grant +1 to all your animal's combat rolls. (Training time TBA) | -5 / XXXX |
 | Using **animal handling against unintelligent monsters**. This is then always an opposed roll vs their Strength. If you use this to train a young monster, it can be intelligent, but you need to reroll every time its Strength increases with age – but only once per Strength increase.               | -5 / XXXX |
 
-#### **MEDICAL AID** (adv. Req Scholar: medicine 2)
+#### **MEDICAL AID**
+**(Advanced Skill. Requirement: Scholar: Medicine 2)**
 there is a significant risk that you and your friends will be injured, sooner or later. This is when the HEALING skill is useful. It can be used in two different ways:
 
 Medical Aid Specializations
