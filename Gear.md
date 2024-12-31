@@ -8,9 +8,9 @@ Item availability indicates how easily equipment can be obtained within the metr
 4. **Rare item**, extremely difficult to obtain through any means. Roll 1D6 per level of Wealth of a settlement/district. If any dice result in a **6, roll again. A result of 5, or 6** means this item is available. A new roll can be made each week. Finding it will take 1D6 hours, reduced by 1 per SCHOLAR success.
 ## Restriction
 Certain items require permits to own or operate, or are limited to authorized organizations and individuals. For restricted items, a permit fee must be paid for legal ownership. A permit fee is calculated separately from the item's base cost.
-F. **Fee**, permit and/or background check commonly required for purchase.
-R. **Restricted** item typically requires special licensing such as law-enforcement or government sanction.
-X. **Illegal** for any non-millitary. Possession and use typically violates federal law except for specifically authorized personnel.
+F. **Fee**, permit and/or background check commonly required for purchase.  
+R. **Restricted** item typically requires special licensing such as law-enforcement or government sanction.  
+X. **Illegal** for any non-millitary. Possession and use typically violates federal law except for specifically authorized personnel.  
 ### The Black Market
 To find a restricted item without the required legal authorization, first an Availability Roll must be made. If it's available, only a successful SCHOLAR: Streetwise or INFLUENCE: Trader roll determines if you can find a seller.
 **If you fail**, roll for Mishaps: 1D6 per level of Wealth of a settlement/district (1D6 Poor, 2D6 Moderate, 3D6 Wealthy). If an X is rolled during the Mishap roll, roll 1D6 on the mishap table below, referencing Restriction Level
