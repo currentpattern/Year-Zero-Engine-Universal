@@ -35,20 +35,21 @@ A slow action usually consists of rolling for a skill. A fast action is quicker 
 
 #### **SLOW ACTIONS**
 
-| ATTACKS         | PREREQUISITE              | SKILL                                         | DODGE    | PARRYING WPN | NON-PARRY WPN | SHIELD PARRY | EFFECT                            |
-| --------------- | ------------------------- | --------------------------------------------- | -------- | ------------ | ------------- | ------------ | --------------------------------- |
-| Shoot           | Ranged weapon             | Marksmanship                                  | /        | cannot parry | cannot parry  | /            | Damage to Str, Stab Wounds        |
-| Slash           | Edged or Blunt weapon     | Melee                                         | +2 Dodge | /            | -2 parry      | /            | Damage to Str, Slash Wounds       |
-| Stab            | Pointed weapon            | Melee                                         | /        | -2 parry     | -4 parry      | +2 Parry     | Damage to Str, Stab Wounds        |
-| Punch/<br>Kick  | Unarmed                   | Melee                                         | /        | +2 Parry     | +2 Parry      | +2 Parry     | Damage to Str, Blunt Force        |
-| Grapple         | Unarmed                   | Melee                                         | /        | /            | /             | /            | Target drops wpn, both fall prone |
-| Tackle          | 1-10m away                | Melee -3 / XXX<br>(vs Might if str is higher) | Yes      | No           | No            | Yes          | Both drop wpn, both fall prone    |
-| **NON-ATTACKS** | **PREREQUISITE**          | **SKILL**                                     |          |              |               |              | **EFFECT**                        |
-| Persuade        | The opponent can hear you | Influence                                     | -        | -            | -             | —            | GM’s call                         |
-| Warrior's Voice | Various                   | Influence: Performance (often vs Insight)     | -        | -            | -             | -            | Various                           |
-| Crawl           | You are prone             | None                                          | -        | -            | -             | -            | Move while prone                  |
-| Heal other      | No enemy at Arm’s Length  | Healing                                       | -        | -            | -             | -            | Each X = 1pt Healed               |
-| Remove <br>Gear | None                      | None                                          | -        | -            | -             | -            | Up to 2 items removed.            |
+| ATTACKS          | PREREQUISITE                                       | SKILL                                         | DODGE    | PARRYING WPN | NON-PARRY WPN | SHIELD PARRY | EFFECT                            |
+| ---------------- | -------------------------------------------------- | --------------------------------------------- | -------- | ------------ | ------------- | ------------ | --------------------------------- |
+| Shoot            | Ranged weapon                                      | Marksmanship                                  | /        | cannot parry | cannot parry  | /            | Damage to Str, Stab Wounds        |
+| Slash            | Edged or Blunt weapon                              | Melee                                         | +2 Dodge | /            | -2 parry      | /            | Damage to Str, Slash Wounds       |
+| Stab             | Pointed weapon                                     | Melee                                         | /        | -2 parry     | -4 parry      | +2 Parry     | Damage to Str, Stab Wounds        |
+| Punch/<br>Kick   | Unarmed                                            | Melee                                         | /        | +2 Parry     | +2 Parry      | +2 Parry     | Damage to Str, Blunt Force        |
+| Grapple          | Unarmed                                            | Melee                                         | /        | /            | /             | /            | Target drops wpn, both fall prone |
+| Tackle           | 1-10m away                                         | Melee -3 / XXX<br>(vs Might if str is higher) | Yes      | No           | No            | Yes          | Both drop wpn, both fall prone    |
+| **NON-ATTACKS**  | **PREREQUISITE**                                   | **SKILL**                                     |          |              |               |              | **EFFECT**                        |
+| Persuade         | The opponent can hear you                          | Influence                                     | -        | -            | -             | —            | GM’s call                         |
+| Forward Observer | Spotter can see target, can communicate w marksman | Observation                                   | -        | -            | -             | -            |                                   |
+| Warrior's Voice  | Various                                            | Influence: Performance (often vs Insight)     | -        | -            | -             | -            | Various                           |
+| Crawl            | You are prone                                      | None                                          | -        | -            | -             | -            | Move while prone                  |
+| Heal other       | No enemy at Arm’s Length                           | Healing                                       | -        | -            | -             | -            | Each X = 1pt Healed               |
+| Remove <br>Gear  | None                                               | None                                          | -        | -            | -             | -            | Up to 2 items removed.            |
 #### **FAST ACTIONS**
 
 | ATTACKS         | PREREQUISITE                                                       | SKILL                                     | DODGE? | PARRYING WPN | NON-PARRY WPN | SHIELD PARRY | EFFECT                                                   |
@@ -435,15 +436,17 @@ Remember, beyond your two available actions, a Fast Action suffers -1 penalty, a
 
 #### **SLOW ACTIONS**
 
+FORWARD OBSERVER: Slow Action. OBSERVATION: Forward Observer. Communicating with a marksman while their directing indirect fire (parabolic ranged attacks on targets outside marksman's line of sight). It needs to be done before the weapon is aimed (this can be a good opportunity to exchange initiatives). If the spotter’s roll fails, the indirect fire will automatically deviate. If the spotter succeeds, the gunner resolves the attack normally. Extra X on the spotter’s roll have no effect. The spotter can call in corrections (each correction gives a +1 to the next attack against the same target, up to a maximum bonus of +3). This is a slow action and requires no dice roll. After corrections have been called in, the gunner needs to spend a slow action correcting their aim.
+
+GRAPPLE: You grab hold of your opponent. Roll for MELEE, as no weapon can be used. Can be DODGED or PARRIED. If the attack succeeds, both you and your opponent fall to the ground. The opponent drops any weapon they were hold- ing, and cannot move. The only action they can perform is **BREAK FREE** – which is a slow action and requires them winning an opposed MELEE or MIGHT against you. While you are grappling, the only action you can perform is a **GRAPPLE ATTACK.** It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
+
+PUNCH/KICK/BITE: Does not require a weapon. Roll for MELEE. Can be DODGED or PARRIED, and any attempt to PARRY gets a +2 bonus. If you hit, your opponent takes 1 point of damage to his Strength. If you roll multiple x, the damage increases by one for each additional x. If the enemy suffers a critical injury, roll on the table for blunt force wounds (unless you have fangs – in that case, use the table for slash wounds).
+
 SHOOT: Slow action. Roll for MARKSMANSHIP and the weapon’s Gear Bonus, or Ammo Dice as the case may be. Modified by lots of factors. See RANGED COMBAT section. Bladed ranged attacks be DODGED under certain circumstances, but to PARRY a ranged attack the target must have a shield, or be very good with a melee weapon.  If you hit, your target takes Weapon Damage on his Strength. For every additional x rolled, the damage increases by one. If the target suffers a critical injury, roll on the table for stab wounds if you used a firearm or projectile blade, and use the table for blunt force if you used a sling or a thrown rock.
 
 SLASH: SLASH and STAB will do the same amount of damage if they hit. SLASHING requires a weapon with the EDGED or BLUNT features. DODGING a SLASH gets a +2 bonus. If the enemy takes a critical injury roll on the table for slash wounds (for EDGED weapons) or blunt trauma (for BLUNT weapons).
 
 STAB: STAB and SLASH will do the same amount of damage if they hit. Requires a weapon with the POINTED feature. PARRYING a STAB with a weapon suffers -2 penalty, but using a shield gains a +2 bonus. If the enemy suffers a critical injury, roll on the table for stab wounds. Stabbing is good for enemies without shields.
-
-PUNCH/KICK/BITE: Does not require a weapon. Roll for MELEE. Can be DODGED or PARRIED, and any attempt to PARRY gets a +2 bonus. If you hit, your opponent takes 1 point of damage to his Strength. If you roll multiple x, the damage increases by one for each additional x. If the enemy suffers a critical injury, roll on the table for blunt force wounds (unless you have fangs – in that case, use the table for slash wounds).
-
-GRAPPLE: You grab hold of your opponent. Roll for MELEE, as no weapon can be used. Can be DODGED or PARRIED. If the attack succeeds, both you and your opponent fall to the ground. The opponent drops any weapon they were hold- ing, and cannot move. The only action they can perform is **BREAK FREE** – which is a slow action and requires them winning an opposed MELEE or MIGHT against you. While you are grappling, the only action you can perform is a **GRAPPLE ATTACK.** It works like PUNCH/KICK/BITE, but is a fast action and cannot be DODGED or PARRIED.
 
 TACKLE: Slow Action. Melee -3 / XXX. Tackle an opponent within 10m range to the ground. If the opponent’s Strength is higher than yours, he can make a MIGHT roll (not an action) to stay on his feet. You both drop what you’re holding, both on ground, they’re now considered GRAPPLED. No effect on creatures with STR 8+.
 

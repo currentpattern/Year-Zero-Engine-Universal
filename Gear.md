@@ -39,6 +39,8 @@ To find a restricted item without the required legal authorization, first an Ava
 **Smallarm**: -1 (instead of -2) when shooting targets at Arms Length. May be fired with 1 hand without penalty
 **Terrifying**: The use of this weapon immediately imposes a Stress test when it is first fired into your Zone or an adjacent Zone, regardless of success. 
 
+New rule: get rid of "1H-3". Instead, firing one-handed incurs a -3 penalty unless the weapon has a 1H or 2H feature. 
+
 **PISTOLS**
 
 | **Weapon**       | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features** | **Weight** | Supply |
@@ -48,6 +50,17 @@ To find a restricted item without the required legal authorization, first an Ava
 | Glock 17         | 125       | 1              | 1          | 9mm           | 5               | 2       | Medium        | 17          | smallarm     | 0.5        | 1/F    |
 | Colt Python      | 600       | 3              | 2          | .357 MAG      | 5               | 2       | Long          | 6           | smallarm     | 0.5        | 2/F    |
 | Desert Eagle     | 1000      | 2              | 3          | .50 AE        | 5               | 2       | Long          | 7           | AP, smallarm | 0.75       | 2/F    |
+
+
+| **Weapon**       | **Price** | **Gear Dice** | **DMG** | **Ammo Type** | **ROF** | **Range** | **Mag** | **Features**  | **Hide** | **Str** | **Weight** | Supply |     |
+| ---------------- | --------- | ------------- | ------- | ------------- | ------- | --------- | ------- | ------------- | -------- | ------- | ---------- | ------ | --- |
+| Pocket Pistol    | 75        | 0             | 1       | .380 AUTO     | 3       | Medium    | 8+1     | Arm, 1H       | +3       | 1       | 0.25       | 1/F    |     |
+| Service Revolver | 75        | 1             | 1       | 0.38 SPC      | 2       | Medium    | 6       | Arm, 1H       | +3       | 2       | 0.5        | 1/F    |     |
+| Compact          | 100       | 1             | 1       | 9mm           | 2       | Long      | 7+1     | Arm, 1H-1     | +2       | 2       | 0.5        | 1/F    |     |
+| Glock 17         | 125       | 1             | 1       | 9mm           | 2       | Long      | 17+1    | Arm, 1H-1     | +1       | 2       | 0.5        | 1/F    |     |
+| Colt .45         | 200       | 2             | 2       | .45 ACP       | 2       | Long      | 7+1     | Arm, 1H-2     | +1       | 2       | 0.5        | 1/F    |     |
+| Colt Python      | 600       | 2             | 2       | .357 MAG      | 1       | Long      | 6       | Arm, 1H-1     | 0        | 2       | 0.5        | 2/F    |     |
+| Desert Eagle     | 1000      | 3             | 3       | .50 AE        | 1       | Long      | 7+1     | AP, arm, 1H-3 | -1       | 3       | 0.75       | 3/F    |     |
 
 [Extra Pistols](Extra%20Pistols.md)
 

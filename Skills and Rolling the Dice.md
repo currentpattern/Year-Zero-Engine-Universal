@@ -22,6 +22,7 @@ The Skills
 >[Influence (EMP)](#influence)  
 >[Animal Handling (EMP)](#animal-handling)  
 >[Medical Aid (Adv.) (EMP)](#medical-aid)  
+
 [Talents](#talents)  
 
 There are 17 skills in this game, and each has many specialties. They are all described later in this chapter. Every skill is connected to one of the four attributes: Strength, Agility, Wits, and Empathy. When you perform an action, you first describe what your player character does or says. Then you grab a number of six-sided dice equal to your skill level plus your current score in the attribute that is connected to that skill. If you have some sort of gear that may be helpful, you will get extra dice from that as well. Then you roll all the dice at once.
@@ -216,7 +217,7 @@ LIFTING: Rolling MIGHT for lifting is only necessary if the attempt is signific
 SWING WEAPON ACTION: A Fast action that must be performed directly before a SLASH or STAB, in the same round. You swing your HEAVY melee weapon to make your upcoming strike more powerful. No roll is required, and grants your next successful strike +1 damage
 You may optionally perform a "Mighty Swing" by roll MIGHT during this action. The result of successes can be varied. Refer to the table below for effects, which may be intended (1 success, including the appropriate modifier), or lucky (no modifiers, but you've rolled the appropriate number of successes). Note that if you roll MIGHT with no modifiers, 1 success has no effect.
 
-| MIGHTY SWING Effects (MIGHT roll)                                                                                                                                                                                    | DM         |
+| MIGHTY SWING: MIGHT: Hard Hitter Effects                                                                                                                                                                             | DM         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | **Extra Damage:** Replace the +1 damage bonus with the rolled result. Gain a +2 bonus to the Might roll if you use both hands.                                                                                       | -2 / XX    |
 | **Disrupt Parry:** Opponents suffer a penalty to parry your swing weapon attacks equal to the number of hands you are holding it with.                                                                               | -3 / XXX   |
@@ -356,16 +357,17 @@ Move specialties
 
 ACROBATIC FEATS: Fast Actions. Specialization MOVE: Acrobat
 
-| MOVE: Acrobat Effects                                                                                                                                                                                                               | DM        |
+| ACROBATIC FEATS: MOVE: Acrobat Effects                                                                                                                                                                                              | DM        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Flip:** If you successfully negate an attack by dodging and remaining standing, you may at the same time move 10m                                                                                                                 | -3 / XXX  |
 | **Contort:** Slither your way out of extreme restraints or push yourself through the smallest of openings, down to a few inches wide.                                                                                               | -4 / XXX  |
 | **Ground:** You cannot be shoved to the ground (Steady Feet 2)                                                                                                                                                                      | -5 / XXXX |
 | **Fast Kip:** Allows you to get up from prone position without spending an action. If successful, you are standing, and may now perform a Kick as a Fast Action. Failure means you've used a Fast Action, and remain on the ground. | -5 / XXXX |
 | **Fall roll:** Reduce the damage taken from a fall. Reduce 4 damage, and you may use up to 4 Willpower, each reducing 1 more damage.                                                                                                | -5 / XXXX |
+
 DEFEND OTHER: Fast Action. Reaction. You may use MOVE to defend allies. Specialization MOVE: Body Guard.
 
-| MOVE: Body Guard Effects                                                                                                                                                                                                                                                             | DM        |
+| DEFEND OTHER: MOVE: Body Guard Effects                                                                                                                                                                                                                                               | DM        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
 | **Protective Parry**. When a friend within 10m range is attacked, you may PARRY the attack for him. Your PARRY follows the normal rules and counts as one of your actions in the round. Any unparried damage continues to the intended target, not you.                              | -3 / XX   |
 | **Bodily Replace**. Immediately switch places with an ally within 10m engaged in battle. The movement can’t be made through walls or in other ways that would break the laws of physics. Does not count as an action for your ally.                                                  | -4 / XXX  |
@@ -399,7 +401,7 @@ SEEK COVER: Fast action. Reactive. Roll MOVE: Fast Footwork. Requires terrain wi
 #### **MARKSMANSHIP**
 Using a firearm, bow and arrow, sling, or a simple rock, you can stop enemies at a distance and can avoid bloodying your hands. Roll MARKSMANSHIP when you throw or fire a weapon at an enemy at a distance. If you succeed, the shot hits its target and you do weapon damage to your enemy. Read more about ranged combat in [Combat and Damage](Combat%20and%20Damage.md).
 
-Marksmanship Specialties
+Marksmanship Specialties  
 >Thrower: thrown weapons: knifes, grenades, spears (throwing arm)  
 >Archer: Bows and crossbows  
 >Rifleman: Firing Assault rifles, carbines, SMGs, and shotguns  
@@ -409,10 +411,7 @@ Marksmanship Specialties
 >Machinegunner: Firing weapons at ROF 4 or higher  
 >Mounted shooter: When fighting from a mount or vehicle  
 
-**Called Shot**
-If you want your attack to hit a specific part of your target’s body – the head, the torso, a leg or an arm – you need to make a called shot. Called shots suffer a –2 modifier. If the body part has no armor, you bypass any armor rolls. If the body part is partially armored, the GM rolls for whether the armor was hit. To intentionally hit an exposed body part smaller than the major categories, suffer -3 (face-sized area), or -4 (eyeball-sized area).
-
-| MARKSMANSHIP Effect                                                                                                                                                                             | DM        |
+| General MARKSMANSHIP Effects                                                                                                                                                                    | DM        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | Choose whether the shot hits the head, torso, leg, or arm.                                                                                                                                      | -2 / XX   |
 | If explosive, increase the Blast Radius by 2 meters                                                                                                                                             | -2 / XX   |
@@ -420,6 +419,21 @@ If you want your attack to hit a specific part of your target’s body – the h
 | When you hit an enemy with a harpoon or throwing spear and inflict at least one point of damage, the victim begins to bleed, suffering one point of damage per round until broken (Harpooner 2) | -3 / XXX  |
 | Throwing a thrown weapon long (100m) range                                                                                                                                                      | -3 / XXX  |
 | Choose to hit an eyeball-sized area of the body                                                                                                                                                 | -4 / XXXX |
+
+**Special MARKSMANSHIP Actions**
+
+CALLED SHOT: If you want your attack to hit a specific part of your target’s body – the head, the torso, a leg or an arm – you need to make a called shot. Called shots suffer a –2 modifier. If the body part has no armor, you bypass any armor rolls. If the body part is partially armored, the GM rolls for whether the armor was hit. To intentionally hit an exposed body part smaller than the major categories, suffer -3 (face-sized area), or -4 (eyeball-sized area).
+
+| Target Size                 | DM  |
+| --------------------------- | --- |
+| house                       | +3  |
+| car / bus / 10m area        | +2  |
+| horse                       | +1  |
+| human body                  | 0   |
+| full torso                  | -1  |
+| head, limb, suitcase, rifle | -2  |
+| face, smallarm              | -3  |
+| eyeball                     | -4  |
 
 #### **DRIVING**
 Roll this skill when you are the one controlling the movement of any ground or water-based vehicle.
@@ -430,16 +444,15 @@ Driving Specialties
 >Trucker: Driving vehicles with trailers, or more than 4 wheels.
 >Tanker: Tracked vehicles from tanks to bulldozers
 >Boatman: boats, motor, sail & rowed
-	
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- If being pursued, create an obstacle (-1 penalty) for your pursuer.
-- Provide +1 bonus to a gunner who fires this round after your action.
-- Give 1 success to another PC in a similar situation before your next turn. 
-- Gain +1 modification to a later skill roll relating to this one
-- You impress someone. +1 to one INFLEUNCE roll on them later.
-#### **PILOTING**
-**(Advanced Skill. Requirement: Driving 2)**
+
+| General DRIVING Effects                                                                                                                                                                                                                                                                                                                                                                                     | DM        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Choose 1 applicable Bonus Effect<br>- If being pursued, create an obstacle (-1 penalty) for your pursuer.<br>- Provide +1 bonus to a gunner who fires this round after your action.<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Gain +1 modification to a later skill roll relating to this one<br>- You impress someone. +1 to one INFLEUNCE roll on them later. | -2 / XX   |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -3 / XXX  |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -5 / XXXX |
+
+#### **PILOTING**  
+**(Advanced Skill. Requirement: Driving 2)**  
 Roll this skill when you are the one controlling any air or space vehicle. Gaining 1 rank in this skill requires you to already have 2 ranks in the DRIVING skill.
 
 Piloting Specialties
@@ -449,13 +462,11 @@ Piloting Specialties
 >Areal Operator: specialized aircraft such as gliders, balloons, drones, ultralights  
 >Astronaut: piloting spacecraft  
 
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- If being pursued, create an obstacle (-1 penalty) for your pursuer.
-- Provide +1 bonus to a gunner who fires this round after your action.
-- Give 1 success to another PC in a similar situation before your next turn. 
-- Gain +1 modification to a later skill roll relating to this one
-- You impress someone. +1 to one INFLEUNCE roll on them later.
+| General PILOTING Effects                                                                                                                                                                                                                                                                                                                                                                                    | DM        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Choose 1 applicable Bonus Effect<br>- If being pursued, create an obstacle (-1 penalty) for your pursuer.<br>- Provide +1 bonus to a gunner who fires this round after your action.<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Gain +1 modification to a later skill roll relating to this one<br>- You impress someone. +1 to one INFLEUNCE roll on them later. | -2 / XX   |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -3 / XXX  |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -5 / XXXX |
 ## **WITS**
 #### **OBSERVATION**
 You use your OBSERVATION skill to discover anyone sneaking up on you (opposed roll, see above). You can also use this skill when you see something or someone at a distance, and want to know more about it. If the roll is successful, you see what it is and can determine whether or not it is a threat to you. The GM decides exactly what you see. OBSERVATION can be used to fight in the dark ([Combat and Damage](Combat%20and%20Damage.md)), Keep Watch ([Journeys](Journeys.md)), Surveying new land ([Journeys](Journeys.md)), and investigating mysterious scenes.
@@ -468,53 +479,84 @@ When you and other adventurers OBSERVE at the same time, you do not roll separat
 Observation Specialties
 >Forward Observer: Directing indirect fire  
 >Military Intel: Knowing stats of military weapons, troops, vehicles  
->Investigator: Invesigating scene of crime or battle  
+>Investigator: Investigating scene of crime or battle  
 >Scout: spotting others or avoiding danger, ambushes and sneak attacks (sixth sense)  
+>Surveyor: When using the Survey The Land action.
 >Monster Hunter: when hunting for a beast of any kind  
 
-| OBSERVATION Effect                                                                                                             | DM       |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| When you spot an ambush or sneak attack, see how many attackers there are, what kin they belong to, and what weapons they use. | -3 / XXX |
+| General OBSERVATION Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | DM        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Choose 1 applicable Bonus Effect<br>- Answer one of these questions: <br>	- Is it coming for me?<br>	- Are there more of them close by?<br>	- How do I get in/past/away?<br>	- What happened here? (takes 15 min)<br>	- Is there anything hidden here, and if so, where? (takes 15 min)<br>	-  Are there any details here that are out of place, something that's out of the ordinary? (takes 15 min)<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Useful information about your location is gathered. The GM will let you know if this is possible and what the information is.<br>- Gain +1 modification to a later skill roll relating to this one | -2 / XX   |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | -3 / XXX  |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | -5 / XXXX |
 
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- Answer one of these questions: 
-	- Is it coming for me?
-	- Are there more of them close by?
-	- How do I get in/past/away?
-	- What happened here? (takes 15 min)
-	- Is there anything hidden here, and if so, where? (takes 15 min)
-	-  Are there any details here that are out of place, something that's out of the ordinary? (takes 15 min)
-- Give 1 success to another PC in a similar situation before your next turn. 
-- Useful information about your location is gathered. The GM will let you know if this is possible and what the information is.
-- Gain +1 modification to a later skill roll relating to this one
+**Special OBSERVATION Actions**
+
+FORWARD OBSERVER: Slow Action. Communicating with a marksman while directing indirect fire (parabolic ranged attacks on targets outside marksman's line of sight). It needs to be done before the weapon is aimed (this can be a good opportunity to exchange initiatives). If the spotter’s roll fails, the indirect fire will automatically deviate. If the spotter succeeds, the gunner resolves the attack normally. Extra X on the spotter’s roll have no effect. The spotter can call in corrections (each correction gives a +1 to the next attack against the same target, up to a maximum bonus of +3). This is a slow action and requires no dice roll. After corrections have been called in, the gunner needs to spend a slow action correcting their aim.
+
+SURVEY THE LAND: 1 QD. OBSERVATION: Surveyor. Modified by visibility. You can survey a hex for valuable features of the terrain or interesting hidden locales. Only one individual becomes the lead surveyor. Others may assist in this roll, but note that this roll does NOT have the same effect as KEEP WATCH. It’s a good idea to retain a lookout. Surveyor may KEEP WATCH as well, with -1 penalty for both rolls. On a success, find a hidden adventure site in the hex and roll on the Feature Table. The GM makes a roll for a complication AND a regular encounter roll. You will find tracks or other signs from any complication in time, unless otherwise stated by in the description of the complication. The first successful survey rolls D66. The 2nd successful survey rolls D66 twice and takes the lowest roll. Roll as many D66 as the number of Surveys, always taking the lowest result. Same with Complications. On a failed roll, nothing happens. You will automatically fail any further attempts to survey the same area for a week. A BANE/SKULL on a PUSHED roll: Any complication spots the party before they spot it or any tracks of it. It can choose to ambush the party, or make itself known. A complication that can call for aid within the Quarter day, may do so, becoming larger or more organized. See [Journeys](Journeys.md) for more info.
 #### **SURVIVAL**
 In the wilderness, or the city, the ignorant can lose their lives by making the wrong choices. You can roll SURVIVAL in a number of different situations when you are traveling in the wilderness (finding your way, building a camp, hunting for food, tracking prey, even basic farming and cooking, etc.) See [Journeys](Journeys.md) for more detail on these. You can even use SURVIVAL for First Aid, which incurs a -3 penalty compared to the MEDICAL AID skill.
 
 Survival Specialties
->First Aid: when using SURVIVAL to heal someone. This use incurs a -3 penalty compared to the MEDICAL AID skill  
 >Cook: Turning raw food into rations  
+>First Aid: when using SURVIVAL to heal someone. This use incurs a -3 penalty compared to the MEDICAL AID skill  
 >Farmer: farming  
->Fisher: fishing  
+>Angler: fishing  
 >Forager: foraging for food or herbs  
->Pathfinder: Leading the way on land  
->Navigator: Leading the way by water or air  
 >Hunter: Hunting for food  
+>Navigator: Leading the way by water or air
+>Pathfinder: Leading the way on land    
 >Quartermaster: Making camp and establishing a home base.   
 >Scrounger: Scrounging urban areas or ruins for useful scrap  
 >(CHOOSE ENVIRONMENT): Forest, Desert, Mountains, Plains, etc. Use this specialization when FORAGING, HUNTING, LEADING THE WAY, or rolling for ENDURANCE in this chosen environment  
 
-| Survival Effects                                                                                                        | DM        |
-| ----------------------------------------------------------------------------------------------------------------------- | --------- |
-| When setting up camp, all characters in a camp you build gain 2 temporary Willpower Points until dawn (Quartermaster 3) | -4 / XXX  |
-| Sleeping on your mount during a Quarter Day riding, or stationary without setting up camp.                              | -5 / XXXX |
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- Give 1 success to another PC in a similar situation before your next turn. 
-- More or different items than expected are found. The GM will let you know if this is possible and what is located.
-- Useful information about your location is gathered. The GM will let you know if this is possible and what the info is.
-- Gain +1 modification to a later skill roll relating to this one
-- You impress someone. +1 to one INFLEUNCE roll on them later.
+| General SURVIVAL Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | DM        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| Choose 1 applicable Bonus Effect<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- More or different items than expected are found. The GM will let you know if this is possible and what is located.<br>- Useful information about your location is gathered. The GM will let you know if this is possible and what the info is.<br>- Gain +1 modification to a later skill roll relating to this one<br>- You impress someone. +1 to one INFLEUNCE roll on them later. | -2 / XX   |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | -3 / XXX  |
+| When setting up camp, all characters in a camp you build gain 2 temporary Willpower Points until dawn (Quartermaster 3)                                                                                                                                                                                                                                                                                                                                                                                      | -4 / XXX  |
+| Sleeping on your mount during a Quarter Day riding, or stationary without setting up camp.                                                                                                                                                                                                                                                                                                                                                                                                                   | -5 / XXXX |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | -5 / XXXX |
+
+**Special SURVIVAL Actions**
+
+COOKING: With 1 roll, turn 1 unit of raw Meat, Fish, or Vegetables becomes 3 Field Rations. Over a campfire takes 1QD. In a proper kitchen, takes 30 minutes, though 1 single roll can count for a full QD, turning into 4 units of raw food into 12 Rations.  
+For Brewing and more advanced meals, see CRAFTING; Chef. You may use SURVIVAL: Cook to attempt brewing or advanced meals rolls, but they incur a -3 penalty.
+
+FIRST AID: Slow Action. Gear required. You may use SURVIVAL: First Aid for rolls to revive a Broken character. However, using SURVIVAL: First Aid in order to stabilize fatal critical injuries, treat long-term critical injuries, or illnesses, poisons, and other damage incurs a -3 penalty compared to the MEDICAL AID skill.   
+
+FARMING: More info later.
+
+FISHING: 1 QD. Gear required. SURVIVAL: Angler. Catch a number of units of FISH equal to the number of x you rolled. You cannot HIKE while FISHING, but you can FISH from a moving boat. If your roll fails, you don’t catch any FISH and if failure includes a SKULL/BANE, roll on the Fishing Mishap Table. See [Journeys](Journeys.md) for more info.
+
+FORAGING: 1QD. SURVIVAL: Forager. Modified by environmental conditions. Searching for food, water, or herbs (-2 / XX). Success for food means that you find a number of units of VEGETABLES in the form of edible roots or plants, equal to the number of X you rolled. Success for water means you find drinkable water. Success for herbs means you've found 1/4 unit of Herbs. If your FORAGE roll fails, you don’t find any anything. If failure includes a SKULL/BANE result, roll on the FORAGING MISHAPS TABLE. See [Journeys](Journeys.md) for more info.
+
+| SURVIVAL: Forager Effects             | DM       |
+| ------------------------------------- | -------- |
+| Foraging for Herbs                    | -2 / XX  |
+| Double the amount of vegetables found | -4 / XXX |
+
+HUNTING: 1 QD. Modified by environmental conditions. HUNTING and HIKING at the same time yields a -1 DM. You need some form of gear to HUNT- either a ranged weapon or a hunting trap of some type. First, you must find your prey, which you can do by making a SURVIVAL: Hunter roll. Success means that you find some kind of prey. Roll on the PREY TABLE in [Journeys](Journeys.md) to see what type of animal it is. If you roll multiple X, you can re-roll on the hunting table once per extra X. To kill your prey you must roll again, this time for MARKSMANSHIP (if using a weapon) or SURVIVAL again (if you are using a trap). Modify the roll with the difficulty of the animal, according to the table. You don’t need to fight the animal, rolling once is enough. Note that some animals cannot be caught with a trap. If a failure includes a SKULL, roll on the Hunting Mishaps table. If your second roll fails to kill your prey, and the prey is an aggressive creature, it immediately attacks you. See [Journeys](Journeys.md) for more info.
+
+| SURVIVAL: Hunter Effects                                                           | DM       |
+| ---------------------------------------------------------------------------------- | -------- |
+| Re-roll on the hunting table once                                                  | -2 / XX  |
+| Re-roll on the hunting table twice.                                                | -3 / XXX |
+| You may roll two D6s on the animals table and choose which result you want to use. | -4 / XXX |
+
+PATHFINDING/NAVIGATING: 1 QD. Modified by visibility conditions. PATHFINDING/NAVIGATING and doing anything else at the same time yields a -1 DM for both actions. Every time you enter a new hexagon on the map, the pathfinder makes a SURVIVAL: Pathfinder (SURVIVAL: Navigator for water travel) roll. Success means you find a viable path into the hexagon and you move on without any problems. Failure means that you still enter the hexagon, but you suffer a mishap and must immediately roll on the appropriate travel mishap table. If heading toward a visible landmark, there is no chance of the “Lost” result in the mishap table. Traveling on trails grants +2 DM. Travel on roads requires no roll. See [Journeys](Journeys.md) for more info.
+
+MAKE CAMP: 1QD. Modified by weather conditions. When the journey of the day is over, it’s time to MAKE CAMP. Finding a good location for a camp, making a fire, shelter, and preparing where to SLEEP. Only one person rolls to MAKE CAMP , but others can help. Make a SURVIVAL: Quartermaster roll. If your roll succeeds, you find a sheltered and comfortable place to spend the night, where you can all rest up before the next day’s journey. If your roll fails, your camp is less pleasant; you may still REST, but SLEEP requires another SURVIVAL roll (see SLEEPING ON BARE GROUND). If failure includes a SKULL/BANE, roll on the Make Camp Mishap Table. When making camp for more than 10 travelers, MAKING CAMP takes +2h for every 5 more travelers. See [Journeys](Journeys.md) for more info.
+
+| SURVIVAL: Quartermaster Effects                                               | DM        |
+| ----------------------------------------------------------------------------- | --------- |
+| -2h from the time it takes to MAKE CAMP. Minimum 3h.                          | -3 / XXX  |
+| When you have MADE CAMP, the person KEEPINGWATCH gets a +2 bonus to SCOUTING. | -3 / XXX  |
+| -3h from the time it takes to MAKE CAMP. Minimum 3h.                          | -4 / XXXX |
+| -4h from the time it takes to MAKE CAMP. Minumum 3h.                          | -5 / XXXX |
+
+SCROUNGING: 1 QD. SURVIVAL: Scrounger. Modified by terrain type. Scrounging involves searching the refuse of civilization for useful items, material, and spare parts. This can be done in the streets of a living city, the ruins of a dead one (1 km area), or in rural areas (10km area), but not in the wilderness. Every X allows a roll on [the scrap table](the%20scrap%20table.md). Failure yields nothing. See [Journeys](Journeys.md) for more info.
 #### **CRAFTING**
 A catch-all skill covering the know-how and attention to detail required for crafts common to pre-modern eras. For modern or high-tech items, the skill to use is TECHNICAL.
 
@@ -528,7 +570,7 @@ Crafting Specialties
 >Tanner: turning pelts into leather, or leather into clothes and armor  
 >Tailor: crafting cloth or clothes  
 >Demolitions: placing and disarming mines and explosive devices  
->Jerry Rigging: Crafting makeshift items  
+>Jury-Rigging: Crafting makeshift items  
  
 REPAIR: Repairing a broken item generally takes a few hours and a successful CRAFTING roll. If the roll succeeds, the item is repaired. If the item has a Gear Bonus, it will increase one step for every x rolled. You cannot go above the original Gear Bonus. If you fail at your task, you may not try again on this item until it has been repaired by someone else. The item is unaffected. BANES when PUSHING a repair roll mean if you did not completely fix the item, the item’s Gear Bonus is permanently decreased to the current level. Every BANE beyond the first one lowers the Gear Bonus permanently by 1. If the Gear Bonus has been decreased to zero, the item is permanently destroyed. Advanced items require specific talents to repair (see the boxed text).
 
@@ -551,49 +593,29 @@ The following are example specialties that are related to technical expertise wh
 
 The GM will determine the material and tool requirements as well as time-taken to create your prototype.
 
-| CRAFTING Effect                                                                                                                                                        | DM        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Crafting poisons and antidotes (Apothecary 1)                                                                                                                          | -2 / XX   |
-| Crafting ranged weapons (Bowyer 1)                                                                                                                                     | -2 / XX   |
-| Crafting basic weapons, shields, and armor from iron (Smith 1)                                                                                                         | -2 / XX   |
-| Turning 1D6 pelts into leather (Tanner 1)                                                                                                                              | -2 / XX   |
-| You can make maps, gaining +1 to Crafting rolls when making maps. Maps grant +2 gear bonus when Leading the Way (Cartography 1)                                        | -2 / XX   |
-| When you build in a stronghold, you gain an extra resource per Quarter Day of work (Builder 1)                                                                         | -2 / XX   |
-| Crafting healing ointments and remedies for disease (Apothecary 2)                                                                                                     | -3 / XXX  |
-| Crafting ranged weapons with a weapon bonus of +1 (Bowyer 2)                                                                                                           | -3 / XXX  |
-| Crafting leather armor with +1 Armor Rating (Tanner 2)                                                                                                                 | -3 / XXX  |
-| Crafting superior quality clothes (Tailor 2)                                                                                                                           | -3 / XXX  |
-| Crafting a map that eliminates the need to roll Lead the Way for the mapped region.                                                                                    | -3 / XXX  |
-| Crafting a map that grants a +2 Gear Bonus to Survey the Land rolls in the mapped region.                                                                              | -4 / XXX  |
-| Crafting poisons, antidotes, or stimulants that grant +1 to an attribute for hours equal to the successes rolled, but cause damage to another attribute (Apothecary 3) | -4 / XXX  |
-| Crafting ranged weapons with a weapon bonus of +2 (Bowyer 3)                                                                                                           | -4 / XXX  |
-| Crafting leather armor with +2 Armor Rating (Tanner 3)                                                                                                                 | -4 / XXX  |
-| Crafting exceptional quality clothes (Tailor 3)                                                                                                                        | -4 / XXX  |
-| Maps grant +2 gear bonus to Survey the Land rolls for the mapped region (Cartography 3)                                                                                | -4 / XXX  |
-| You can supervise multiple constructions, and all projects benefit from your Builder rank (Builder 4)                                                                  | -5 / XXXX |
+==Some items in the original rules required to talents. In this system, the difficulty is according to the highest Talent requirement, and if one were to try to use a specialty for it it would be an average of those two specialties. For example, something requiring Smith one and Alchemist for. The difficulty would be equivalent to a rank for talent, and to use a specialty for it, they would have to roll the average between their Smith specialty and Alchemist specialty.==
+
+| General CRAFTING Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | DM         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ITEMS<br>{Apothecary) Poisons, antidotes   <br>(Bowyer) slings, bows, crossbows, arrows  <br>(Chef) Vegetables or meat into food, Quality 1 Advanced Meal, Distilling alcohol from grain <br>(Smith) basic melee weapons, shields, iron armor, cutlery, pots, lantern, glasswear, scales, bear trap, distiller, iron arrowheads, caltrops, arrow ampules, tools, ore to iron, ore to copper, copper to brass, stone to glass, ore to silver, steel  <br>(Tanner) turning 3 pelts into 3 leather, lamp oil, quiver, tent, sleeping fur, waterskin, parchment, book, ink and quill, whip, leather vest, full leather armor, boots, tallow  <br>(Cartography) Maps  <br>(Tailor) Wool to cloth, fishing net, blanket, bags, rope, tents, bandages, gambeson, good clothes and furs, | -2 / XX    |
+| (Builder) When you build in a stronghold, you gain an extra resource per Quarter Day of work                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | -2 / XX    |
+| ITEMS<br>(Apothecary) healing ointments and remedies for disease   <br>(Bowyer) ranged weapons with a +1 bonus  <br>(Tanner) leather armor with +1 bonus  <br>(Tailor) Superior quality clothes which can be sold at twice the normal price, fine garments, flax to linen  <br>(Cartographer) Map that eliminates need to roll SURVIVAL in mapped region  <br>                                                                                                                                                                                                                                                                                                                                                                                                                   | -3 / XXX   |
+| (Jury-Riggin) Create a **makeshift item** that can only be used once. These items require a successful Forage roll (or raw materials in your inventory) and one Quarter Day for CRAFTING them, but no special tools. These items have no Gear Bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | -3 / XXX   |
+| ITEMS<br>(Apothecary) Stimulants  <br>(Bowyer) Ranged weapons with +2 bonus  <br>(Tanner) Leather armor with +2 bonus  <br>(Cartography) Map that grants a +2 Gear Bonus to OBSERVATION to Survey the Land rolls in mapped region.  <br>(Tailor) exceptional quality clothes which can be sold at four times the normal price, silk cloth<br>(Jury-Rigging) Makeshift item with 1 Gear Die.                                                                                                                                                                                                                                                                                                                                                                                      | -4 / XXX   |
+| (Smith or Tanner) **Harden an item**, allowing it to ignore the first point of damage that it would get when pushing. Requires time and a unit of raw material.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | -4 / XXX   |
+| (Apothecary) Stimulants that ignore the first X Quarter Days of a condition (hungry, thirsty, sleepy, cold, or intoxicated) instead of increasing an attribute. The stimulants stop working if the condition reappears.<br>(Builder)  supervise multiple Building constructions<br>(Avg Smith & TECHNICAL: Chemist) Flintlock firearms<br>(Jury-Rigging) Makeshift item with 2 Gear Dice<br>                                                                                                                                                                                                                                                                                                                                                                                     | -5  / XXXX |
+| **Increase the Gear Bonus** (or damage rating) of a normal item (or weapon). This can only be done once to any item. Follow the CRAFTING rules for repairing an item. Increasing the damage rating of a weapon requires ½ unit iron, and a Forge.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | -5 / XXXX  |
+| (Apothecary) Stimulants that grant either a) +3 in Move: Running, b) temporary use of either Second Wind, Combat Awareness, or Pain Resistant talents. The effect lasts for 1 turn, +1 per extra success.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | -7 / XXXXX |
 
 | CRAFTING: Chef Effects                                                                                                                                                                         | DM        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Turning up to 3 units of VEGETABLES, MEAT, or FISH into FOOD. Cooking requires a fire and takes a Quarter Day. In a proper kitchen, you can cook up to a dozen units of FOOD in a Quarter Day. | -2 / XX   |
-| Crafting Quality 1 Advanced Meals                                                                                                                                                              | -2 / XX   |
-| Distilling alcohol from grain                                                                                                                                                                  | -2 / XX   |
 | Creating an extra unit of food when cooking for a QD                                                                                                                                           | -3 / XXX  |
 | Crafting Quality 2 Advanced Meals                                                                                                                                                              | -3 / XXX  |
 | Cooking food that is so delicious that whoever eats it immediately recovers a point of lost Empathy.                                                                                           | -4 / XXXX |
 | Brewing alcohol that is so delicious that whoever drinks it immediately recovers a point of lost Empathy.                                                                                      | -4 / XXXX |
 | Crafting Quality 3 Advanced Meals                                                                                                                                                              | -4 / XXXX |
 
-| CRAFTING Effects                                                                                                                                                                                                                                  | DM        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Create a **makeshift item** that can only be used once. These items require a successful Forage roll (or raw materials in your inventory) and one Quarter Day for CRAFTING them, but no special tools. These items have no Gear Bonus.            | -3 / XXX  |
-| Your **makeshift item** lasts longer. It has 1 Gear Bonus. It cannot be repaired when damaged, and the usual requirements (materials and one Quarter Day) are still required.                                                                     | -4 / XXX  |
-| **Harden an item**, allowing it to ignore the first point of damage that it would get when pushing. Requires time and a unit of raw material.                                                                                                     | -4 / XXX  |
-| **Concoct stimulants** using Crafting: Apothecary that grant +1 to an attribute for a number of hours equal to X rolled, but cause 1 damage to another attribute                                                                                  | -4 / XXX  |
-| Your **makeshift item** may have 2 Gear Bonus.                                                                                                                                                                                                    | -5 / XXXX |
-| **Increase the Gear Bonus** (or damage rating) of a normal item (or weapon). This can only be done once to any item. Follow the CRAFTING rules for repairing an item. Increasing the damage rating of a weapon requires ½ unit iron, and a Forge. | -5 / XXXX |
-| Crafting **flintlock** firearms                                                                                                                                                                                                                   | -5 / XXXX |
-| **Concoct stimulants** using Crafting: Apothecary that ignore the first X Quarter Days of a condition (hungry, thirsty, sleepy, cold, or intoxicated) instead of increasing an attribute. The stimulants stop working if the condition reappears. | -5 / XXXX |
-| Use Crafting: Apothecary to **brew stimulants** that grant either a) +3 in Move: Running, b) temporary use of either Second Wind, Combat Awareness, or Pain Resistant talents. The effect lasts for 1 turn, +1 per extra success.                 | -7 / XXXX |
+
 
 
 #### **SCHOLAR**
@@ -852,8 +874,8 @@ Factors leading to a -1 to an ANIMAL HANDLING roll:
 | Using **animal handling against unintelligent monsters**. This is then always an opposed roll vs their Strength. If you use this to train a young monster, it can be intelligent, but you need to reroll every time its Strength increases with age – but only once per Strength increase.               | -5 / XXXX |
 
 #### **MEDICAL AID**
-**(Advanced Skill. Requirement: Scholar: Medicine 2)**
-there is a significant risk that you and your friends will be injured, sooner or later. This is when the HEALING skill is useful. It can be used in two different ways:
+**(Advanced Skill. Requirement: Scholar: Medicine 2)**  
+there is a significant risk that you and your friends will be injured, sooner or later. This is when the HEALING skill is useful. It can be used in two different ways:  
 
 Medical Aid Specializations
 >Combat medic: helping an incapacitated character recover. Not for treating critical injuries.  
@@ -862,7 +884,7 @@ Medical Aid Specializations
 >Veterinarian: healing animals  
 
 
-RECOVERY: A person who has had their Strength or Agility reduced to zero is Broken, and cannot act any further. If you apply your HEALING skills to her (slow action) and your roll succeeds, they get back on their feet and immediately recover a number of attribute points equal to the number of x you roll. This can also be applied to characters who are not broken, but BANDAGES are required. You may heal yourself with this skill.
+RECOVERY: A person who has had their Strength or Agility reduced to zero is Broken, and cannot act any further. If you apply your MEDICAL AID skills to her (slow action) and your roll succeeds, they get back on their feet and immediately recover a number of attribute points equal to the number of x you roll. This can also be applied to characters who are not broken, but BANDAGES are required. You may heal yourself with this skill.
 
 SAVE A LIFE: The most important application of HEALING is giving first aid and saving the life of a fallen comrade who has suffered a critical injury. A failed roll at this point could mean the end for your patient, so be careful! Read more about critical injuries in that section.
 
