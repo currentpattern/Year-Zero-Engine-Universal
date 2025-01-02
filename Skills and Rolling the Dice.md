@@ -183,7 +183,7 @@ This section describes the 17 skills in this game.
 **Difficulty Modifiers**: Under each skill, more difficult uses of the skill are described. Each section lists a DM "Difficulty Modifier" in the form of a die penalty and a number of successes, e.g. "-3 / XXX". This indicates that there are two routes of achieving the difficult effect: 1) intentionally attempting that difficult effect will result in a die penalty to your roll. 2) rolling your full die pool and "accidentally" achieving a difficult feat by achieving multiple successes. 
 >Note that the probability of achieving a difficult feat is higher if you intentionally aim for it (choosing the die penalty). With 7 dice, achieving 1 success at -3 is 52%. With 7 dice, achieving XXX is 10%.
 ## **STRENGTH**
-### **MIGHT**
+## **MIGHT**
 You use MIGHT to lift, pull, push, or hold tight to something. If your roll succeeds, you perform this feat of strength.
 
 Might Specializations
@@ -227,7 +227,7 @@ You may optionally perform a "Mighty Swing" by roll MIGHT during this action. Th
 
 INTIMIDATING: At a -3 penalty (or rolling XXX successes), you may use MIGHT instead of INFLUENCE when you threaten someone to make them do what you want. If successful, they cannot demand anything in return but can choose to attack. 
 
-#### **ENDURANCE**
+## **ENDURANCE**
 When the road is long and hard, when your legs can’t carry you any longer, roll for ENDURANCE. Roll for this skill when you travel in extreme weather or when you are forced to suffer bitter cold. If you succeed, you push through the pain and can fight on for a while longer.
 
 Endurance Specialties
@@ -246,7 +246,7 @@ Endurance Specialties
 RESISTING TORTURE: Some may attempt to inflict pain compliance upon you without injuring you, they must roll MELEE, CRAFTING, or MEDICAL AID vs. your ENDURANCE successfully as many times as the your ENDURANCE skill, spread out over an equal number of hours. They must spend 15 minutes every hour torturing you, or the process begins anew. 
 The torturer's Failure will lead the subject to become STR BROKEN and pass out. Success leads the subject to PANIC: begin begging pathetically, and tell them whatever the fuck will make them happy, and must roll for a permanent mental trauma. 
 
-#### **MELEE**
+## **MELEE**
 To be able to defend yourself with weapon in hand, or barehanded. Roll MELEE when you attack or parry in close combat. If the roll succeeds, you hit your adversary and do Weapon Damage. Read more about close combat in [Combat and Damage](Combat%20and%20Damage.md). How weapons are used is also described there.
 
 Melee Specialties
@@ -298,7 +298,7 @@ STAB: Slow Action. STAB and SLASH will do the same amount of damage if they hit.
 
 TACKLE ACTION: Slow Action. Melee -3 / XXX. Tackle an opponent within SHORT range to the ground. If the opponent’s Strength is higher than yours, he can make a MIGHT roll (not an action) to stay on his feet. You both drop what you’re holding, both on ground, they’re now considered GRAPPLED. No effect on creatures with STR 8+.
 ## **AGILITY**
-#### **STEALTH**
+## **STEALTH**
 It is often wise to avoid combat and sneak past the enemy instead. Roll an opposed roll with your STEALTH skill against your adversary’s OBSERVATION. If you win, you manage to sneak past them without being spotted. You can also use this skill to remain hidden and avoid discovery when you are stationary. A third way to use this skill is to make a **Sneak Attacks** and **Ambushes** (see [Combat and Damage](Combat%20and%20Damage.md)).
 
 Stealth specialties
@@ -333,7 +333,7 @@ GROUP STEALTH: When you and the other adventurers use STEALTH side by side, each
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                              | -5 / XXXX |
 | Guide the party in a STEALTH maneuver, even if you don't have the lowest skill.                                                                                                                                                                                                                                                | -5 / XXXX |
 
-#### **MOVE**
+## **MOVE**
 When you are going to dodge, jump, climb, move fast, or perform any other action that requires speed or motor control, you roll MOVE .
 
 Move specialties
@@ -398,7 +398,7 @@ DIRTY FIGHTING: Essentially the FEINT Action. Fast Action. Specialization MOVE: 
 | **Blind Target**: When you use the feint action, you may instead of trading initiative cards, throw dust in your opponents’ eyes as a sleight of hands roll. It counts as a piercing projectile attack for the purpose of parry/dodge. On a success the target is blinded, as if in total darkness for 1 round per x. | -4 / XXX |
 
 SEEK COVER: Fast action. Reactive. Roll MOVE: Fast Footwork. Requires terrain within 10m that can provide cover. This will provide protective cover against gunfire. 
-#### **MARKSMANSHIP**
+## **MARKSMANSHIP**
 Using a firearm, bow and arrow, sling, or a simple rock, you can stop enemies at a distance and can avoid bloodying your hands. Roll MARKSMANSHIP when you throw or fire a weapon at an enemy at a distance. If you succeed, the shot hits its target and you do weapon damage to your enemy. Read more about ranged combat in [Combat and Damage](Combat%20and%20Damage.md).
 
 Marksmanship Specialties  
@@ -435,7 +435,7 @@ CALLED SHOT: If you want your attack to hit a specific part of your target’s b
 | face, smallarm              | -3  |
 | eyeball                     | -4  |
 
-#### **DRIVING**
+## **DRIVING**
 Roll this skill when you are the one controlling the movement of any ground or water-based vehicle.
 
 Driving Specialties
@@ -451,7 +451,7 @@ Driving Specialties
 | Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -3 / XXX  |
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -5 / XXXX |
 
-#### **PILOTING**  
+## **PILOTING**  
 **(Advanced Skill. Requirement: Driving 2)**  
 Roll this skill when you are the one controlling any air or space vehicle. Gaining 1 rank in this skill requires you to already have 2 ranks in the DRIVING skill.
 
@@ -468,7 +468,7 @@ Piloting Specialties
 | Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -3 / XXX  |
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                           | -5 / XXXX |
 ## **WITS**
-#### **OBSERVATION**
+## **OBSERVATION**
 You use your OBSERVATION skill to discover anyone sneaking up on you (opposed roll, see above). You can also use this skill when you see something or someone at a distance, and want to know more about it. If the roll is successful, you see what it is and can determine whether or not it is a threat to you. The GM decides exactly what you see. OBSERVATION can be used to fight in the dark ([Combat and Damage](Combat%20and%20Damage.md)), Keep Watch ([Journeys](Journeys.md)), Surveying new land ([Journeys](Journeys.md)), and investigating mysterious scenes.
 
 DON’T USE OBSERVATION TO FIND HIDDEN THINGS: The OBSERVATION skill is not used to find hidden things like secret doors or hidden clues. If you describe how your PC searches the right place, the GM should simply let you discover what you are looking for if it is possible to find.
@@ -495,7 +495,7 @@ Observation Specialties
 FORWARD OBSERVER: Slow Action. Communicating with a marksman while directing indirect fire (parabolic ranged attacks on targets outside marksman's line of sight). It needs to be done before the weapon is aimed (this can be a good opportunity to exchange initiatives). If the spotter’s roll fails, the indirect fire will automatically deviate. If the spotter succeeds, the gunner resolves the attack normally. Extra X on the spotter’s roll have no effect. The spotter can call in corrections (each correction gives a +1 to the next attack against the same target, up to a maximum bonus of +3). This is a slow action and requires no dice roll. After corrections have been called in, the gunner needs to spend a slow action correcting their aim.
 
 SURVEY THE LAND: 1 QD. OBSERVATION: Surveyor. Modified by visibility. You can survey a hex for valuable features of the terrain or interesting hidden locales. Only one individual becomes the lead surveyor. Others may assist in this roll, but note that this roll does NOT have the same effect as KEEP WATCH. It’s a good idea to retain a lookout. Surveyor may KEEP WATCH as well, with -1 penalty for both rolls. On a success, find a hidden adventure site in the hex and roll on the Feature Table. The GM makes a roll for a complication AND a regular encounter roll. You will find tracks or other signs from any complication in time, unless otherwise stated by in the description of the complication. The first successful survey rolls D66. The 2nd successful survey rolls D66 twice and takes the lowest roll. Roll as many D66 as the number of Surveys, always taking the lowest result. Same with Complications. On a failed roll, nothing happens. You will automatically fail any further attempts to survey the same area for a week. A BANE/SKULL on a PUSHED roll: Any complication spots the party before they spot it or any tracks of it. It can choose to ambush the party, or make itself known. A complication that can call for aid within the Quarter day, may do so, becoming larger or more organized. See [Journeys](Journeys.md) for more info.
-#### **SURVIVAL**
+## **SURVIVAL**
 In the wilderness, or the city, the ignorant can lose their lives by making the wrong choices. You can roll SURVIVAL in a number of different situations when you are traveling in the wilderness (finding your way, building a camp, hunting for food, tracking prey, even basic farming and cooking, etc.) See [Journeys](Journeys.md) for more detail on these. You can even use SURVIVAL for First Aid, which incurs a -3 penalty compared to the MEDICAL AID skill.
 
 Survival Specialties
@@ -557,7 +557,7 @@ MAKE CAMP: 1QD. Modified by weather conditions. When the journey of the day is o
 | -4h from the time it takes to MAKE CAMP. Minumum 3h.                          | -5 / XXXX |
 
 SCROUNGING: 1 QD. SURVIVAL: Scrounger. Modified by terrain type. Scrounging involves searching the refuse of civilization for useful items, material, and spare parts. This can be done in the streets of a living city, the ruins of a dead one (1 km area), or in rural areas (10km area), but not in the wilderness. Every X allows a roll on [the scrap table](the%20scrap%20table.md). Failure yields nothing. See [Journeys](Journeys.md) for more info.
-#### **CRAFTING**
+## **CRAFTING**
 A catch-all skill covering the know-how and attention to detail required for crafts common to pre-modern eras. For modern or high-tech items, the skill to use is TECHNICAL.
 
 Crafting Specialties
@@ -610,7 +610,7 @@ Still need ALCHEMIST GEAR==
 | **Increase the Gear Bonus** (or damage rating) of a normal item (or weapon). This can only be done once to any item. Follow the CRAFTING rules for repairing an item. Increasing the damage rating of a weapon requires ½ unit iron, and a Forge.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | -5 / XXXX  |
 | ITEMS<br>(Apothecary) Stimulants that grant either a) +3 in Move: Running, b) temporary use of either Second Wind, Combat Awareness, or Pain Resistant talents. The effect lasts for 1 turn, +1 per extra success.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | -7 / XXXXX |
 
-#### **SCHOLAR**
+## **SCHOLAR**
 Roll for SCHOLAR when you want to know more about a subject, site, an important NPC or artifact. If you succeed, you will remember something important about it. Often, success in SCHOLAR will grant a die bonus to a related practical skill
 
 Scholar Specialties
@@ -654,7 +654,7 @@ For every extra X, choose 1 applicable effect:
 - Give 1 success to another PC in a similar situation before your next turn. 
 - Gain +1 modification to a later skill roll relating to this one
 - You impress someone. +1 to one INFLEUNCE roll on them later.
-#### **TECHNICAL**
+## **TECHNICAL**
 Roll TECHNICAL when repairing, crafting, or modifying modern or high technology. In almost every case, specialized tools are absolutely necessary. 
 
 Technical Specialties
@@ -686,7 +686,7 @@ For every extra X, choose 1 applicable effect:
 - You act quietly (physical), or hide your tracks (computer)
 - You impress someone. +1 to one INFLEUNCE roll on them later.
 ## **EMPATHY**
-#### **INSIGHT**
+## **INSIGHT**
 INSIGHT is a versatile skill involving neuroception, intereception, and wisdom. Roll INSIGHT when someone is trying to INFLUENCE you (opposed roll), when trying to read another's motivations, read an enemy in combat (see "Read Enemy" action in [Combat and Damage](Combat%20and%20Damage.md)), or even for keeping calm under extremely stressful or terrifying situations.
 
 Insight Specialties
@@ -729,7 +729,7 @@ For every extra X, choose 1 applicable effect:
 	- Total INFLUENCE dice  
 	- Any/all INSIGHT or INFLUENCE specialties, and their ranks.
 - Gain +1 to any future test that benefits from the knowledge gained.
-#### **INFLUENCE**
+## **INFLUENCE**
 INFLUENCE ranges from manipulating people to see things your way, to teaching, to being a moving performer, to being a soothing councilor, or an inspiring commander.
 
 Influence Specialties
@@ -821,7 +821,7 @@ For every extra X, choose 1 applicable effect:
 - Target is impressed and will try to help you later in some way. Details are up the the GM.
 - Sow doubt in the mind of the target, causing them to suffer +1 Stress point.
 
-#### **ANIMAL HANDLING**
+## **ANIMAL HANDLING**
 Animals are either wild or tame. The ANIMAL HANDLING skill can be used in several ways, including riding an animal, commanding tame animals, discouraging wild animals from attacking, or even taming wild animals.
 
 Animal Handling Specializations
@@ -865,7 +865,7 @@ Factors leading to a -1 to an ANIMAL HANDLING roll:
 | **Training your animal to fight for you**. When it is your turn to fight, the animal will also fight and follow your orders for one round, at your turn in the initiative order. For every success beyond what was necessary to succeed, grant +1 to all your animal's combat rolls. (Training time TBA) | -5 / XXXX |
 | Using **animal handling against unintelligent monsters**. This is then always an opposed roll vs their Strength. If you use this to train a young monster, it can be intelligent, but you need to reroll every time its Strength increases with age – but only once per Strength increase.               | -5 / XXXX |
 
-#### **MEDICAL AID**
+## **MEDICAL AID**
 **(Advanced Skill. Requirement: Scholar: Medicine 2)**  
 there is a significant risk that you and your friends will be injured, sooner or later. This is when the HEALING skill is useful. It can be used in two different ways:  
 
@@ -887,46 +887,46 @@ SAVE A LIFE: The most important application of HEALING is giving first aid and s
 
 # **TALENTS**
 COMBAT  
-	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.  
-	**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1  
-	**Combat Awareness**: Roll initiative twice and choose the highest result  
-	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. When triggering Overkill, you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
-	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take.   
-	**Pain Resistant:** You suffer no pain penalty when you take damage.  
-	**Second Wind**: When Broken, roll Stamina- every x gains back 1 STR. Once per turn, no effect against critical injuries  
-	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
-	**Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.  
-	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.  
+>	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.  
+>	**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1  
+>	**Combat Awareness**: Roll initiative twice and choose the highest result  
+>	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. When triggering Overkill, you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
+>	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take.   
+>	**Pain Resistant:** You suffer no pain penalty when you take damage.  
+>	**Second Wind**: When Broken, roll Stamina- every x gains back 1 STR. Once per turn, no effect against critical injuries  
+>	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
+>	**Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.  
+>	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.  
 ATTRIBUTE SWAPS  
-	**Barge Through**: using Move with Strength instead of Agility  
-	**Menacing**: Threaten using Influence with Strength instead of Empathy. Loser cannot make demands, may still attack.  
-	**Flyweight**: Defend using Melee with Agility instead of Strength  
-	**Agile Fighter**: Attack using Melee with Agility instead of Strength  
-	**Cool Head**: You can use Move with Wits instead of Agility  
-	**Personal Arithmetic**: you can use Insight with Wits instead of Empathy  
-	**Take Control**: you may use Influence with Wits instead of Empathy  
-	**Stoic**: you can use Endurance using Wits instead of Strength  
-	**Bad Omens**: You can Scout using Empathy instead of Wits  
+>	**Barge Through**: using Move with Strength instead of Agility  
+>	**Menacing**: Threaten using Influence with Strength instead of Empathy. Loser cannot make demands, may still attack.  
+>	**Flyweight**: Defend using Melee with Agility instead of Strength  
+>	**Agile Fighter**: Attack using Melee with Agility instead of Strength  
+>	**Cool Head**: You can use Move with Wits instead of Agility  
+>	**Personal Arithmetic**: you can use Insight with Wits instead of Empathy  
+>	**Take Control**: you may use Influence with Wits instead of Empathy  
+>	**Stoic**: you can use Endurance using Wits instead of Strength  
+>	**Bad Omens**: You can Scout using Empathy instead of Wits  
 EXTRA PUSHES  
-	**Influence**: You may push any Empathy roll twice. Extra push increases your stress by 1  
-	**Nimble/Reckless**: You may push any Agility roll twice. Extra push increases your stress by 1  
-	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1  
-	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1  
+>	**Influence**: You may push any Empathy roll twice. Extra push increases your stress by 1  
+>	**Nimble/Reckless**: You may push any Agility roll twice. Extra push increases your stress by 1  
+>	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1  
+>	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1  
 STRESS AND HEALING  
-	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor. You do not have to handle your fear if any of them die, so long as at least one of them is left standing.  
-	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
-	**Seen it all**: Once per session, you may ignore all rolled banes  
-	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place.   
-	**Fast Healer**: Healing time for critical injuries is halved  
-	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.  
-	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
+>	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor. You do not have to handle your fear if any of them die, so long as at least one of them is left standing.  
+>	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
+>	**Seen it all**: Once per session, you may ignore all rolled banes  
+>	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place.   
+>	**Fast Healer**: Healing time for critical injuries is halved  
+>	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.  
+>	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
 OTHER  
-	**Packrat**: May carry +4 additional Weight.  
-	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  
-	**Breakthrough**: Once per session, you may automatically succeed on some investigation roll.  
-	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere.   
-	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
-	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
+>	**Packrat**: May carry +4 additional Weight.  
+>	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  
+>	**Breakthrough**: Once per session, you may automatically succeed on some investigation roll.  
+>	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere.   
+>	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
+>	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
 CHARACTER TRAITS  
-	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.  
+>	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.  
 
