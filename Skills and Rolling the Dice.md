@@ -134,6 +134,7 @@ Simple +2
 Easy +1  
 Average 0  
 Moderate -1    
+Challenging -2
 Difficult -3
 Very Difficult -5
 Heroic -7
@@ -439,11 +440,11 @@ CALLED SHOT: If you want your attack to hit a specific part of your target’s b
 Roll this skill when you are the one controlling the movement of any ground or water-based vehicle.
 
 Driving Specialties
->Biker: motorcycles & bicycles
->Motorist: covers cars, pickups, vans, buses, etc.
->Trucker: Driving vehicles with trailers, or more than 4 wheels.
->Tanker: Tracked vehicles from tanks to bulldozers
->Boatman: boats, motor, sail & rowed
+>Biker: motorcycles & bicycles  
+>Motorist: covers cars, pickups, vans, buses, etc.  
+>Trucker: Driving vehicles with trailers, or more than 4 wheels.  
+>Tanker: Tracked vehicles from tanks to bulldozers  
+>Boatman: boats, motor, sail & rowed  
 
 | General DRIVING Effects                                                                                                                                                                                                                                                                                                                                                                                     | DM        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -481,8 +482,8 @@ Observation Specialties
 >Military Intel: Knowing stats of military weapons, troops, vehicles  
 >Investigator: Investigating scene of crime or battle  
 >Scout: spotting others or avoiding danger, ambushes and sneak attacks (sixth sense)  
->Surveyor: When using the Survey The Land action.
->Monster Hunter: when hunting for a beast of any kind  
+>Surveyor: When using the Survey The Land action.  
+>Monster Hunter: when hunting for a beast of any kind    
 
 | General OBSERVATION Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | DM        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -572,8 +573,6 @@ Crafting Specialties
 >Demolitions: placing and disarming mines and explosive devices  
 >Jury-Rigging: Crafting makeshift items  
  
-REPAIR: Repairing a broken item generally takes a few hours and a successful CRAFTING roll. If the roll succeeds, the item is repaired. If the item has a Gear Bonus, it will increase one step for every x rolled. You cannot go above the original Gear Bonus. If you fail at your task, you may not try again on this item until it has been repaired by someone else. The item is unaffected. BANES when PUSHING a repair roll mean if you did not completely fix the item, the item’s Gear Bonus is permanently decreased to the current level. Every BANE beyond the first one lowers the Gear Bonus permanently by 1. If the Gear Bonus has been decreased to zero, the item is permanently destroyed. Advanced items require specific talents to repair (see the boxed text).
-
 CRAFT: Creating new items requires far more work than repairing existing ones does. It re-quires a CRAFTING roll (and the right talent, for ADVANCED items) just like repairing, but you also need raw material, in most cases special tools, and usually a lot more time. Some items are very complicated to craft and the roll will be modified negatively. All these requirements and prerequisites can be found in the gear tables in Chapter 9. Note that some raw materials might be items which in turn must be crafted.
 
 If your roll is **successful**, you make the item, of the same quality as listed in the equipment lists. You may push any CRAFTING roll, but after a push, all banes count against the item’s gear bonus. If the roll is **failed** and the gear bonus has been pushed to 0, the materials are destroyed. If you are crafting an item that doesn’t posess “gear bonus”, 2 banes will destroy the materials after a failed roll. If successful, but you still have banes after a push (on an item with no “gear bonus”) the item is simply of inferior quality. If you **fail**, take a -2 penalty on your next crafting roll to create the same type of item for a week, unless you can change or improve the circumstances, like getting better at crafting, getting better assistance or better tools.
@@ -585,16 +584,6 @@ ADDITIONAL TIME: By spending more time than the minimum required to craft an ite
 MASTER CRAFTING: Skilled craftsmen can create items above and beyond what a normal craftsman can. Using talents, you can create items with better game stats than normal. Read more in Chapter 4.
 
 NEW ITEMS: You can attempt to craft items that are not listed in the weapons and gear lists. You can determine the item’s properties and the require- ments to craft it in consultation with the GM. The GM has the final word.
-
-**INVENTING NEW TECHNOLOGY:** Some unlisted items may require more technical knowledge than currently exists in this world. e.g. printing press, glider, cannon, microscope, etc. Creating a complex new invention requires rank 3 in a specialty most relevant to the machine, building material, or technique that you’re trying to invent. If the GM determines that there is no specialty relevant to what you’re trying to create, the alternative prerequisite is to have the base CRAFTING skill at rank 5. If you only have rank 5 CRAFTING, your initial attempt will be at a -4 penalty, and all subsequent attempts will be at -2.  
-But if you get rank 3 in the relevant specialty, your initial attempt will be at a -2 penalty due to the difficulty of making something that’s never been done before, and all subsequent attempts will have no penalty.
-
-The following are example specialties that are related to technical expertise which can be used to push beyond the age’s tech level: Alchemist, Apothecary, Bowyer, Builder, Cartography, Chef, Physician, Smith, Tailor, Tanner.
-
-The GM will determine the material and tool requirements as well as time-taken to create your prototype.
-
-==Some items in the original rules required to talents. In this system, the difficulty is according to the highest Talent requirement, and if one were to try to use a specialty for it it would be an average of those two specialties. For example, something requiring Smith one and Alchemist for. The difficulty would be equivalent to a rank for talent, and to use a specialty for it, they would have to roll the average between their Smith specialty and Alchemist specialty.
-Still need ALCHEMIST GEAR==
 
 | General CRAFTING Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | DM         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -610,21 +599,42 @@ Still need ALCHEMIST GEAR==
 | **Increase the Gear Bonus** (or damage rating) of a normal item (or weapon). This can only be done once to any item. Follow the CRAFTING rules for repairing an item. Increasing the damage rating of a weapon requires ½ unit iron, and a Forge.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | -5 / XXXX  |
 | ITEMS<br>(Apothecary) Stimulants that grant either a) +3 in Move: Running, b) temporary use of either Second Wind, Combat Awareness, or Pain Resistant talents. The effect lasts for 1 turn, +1 per extra success.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | -7 / XXXXX |
 
+**Special CRAFTING Actions**
+
+DEMOLITIONS: Placing and disarming mines and explosive devices using CRAFTING: Demolitions incurs a -1 DM when compared to using the more appropriate skill, TECHNICAL: Demolitions. This increased DM is reflected in the chart below. See [Combat and Damage](Combat%20and%20Damage.md) for more in Explosives. 
+
+| **CRAFTING: Demolitions Effects**                                                                                                               | DM       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Turning a 10m area into a minefield (15 min), Placing a single directional mine, clearing a 10m area of mines (15 min), crafting an IED (1 QD), | -1 / XX  |
+| Crafting an IED with extra shrapnel (1 QD)                                                                                                      | -2 / XX  |
+| Setting a shaped charge                                                                                                                         | -3 / XXX |
+REPAIR: Repairing a broken item generally takes a few hours and a successful CRAFTING roll at the same DM as it took to craft the item. If the roll succeeds, the item is repaired. If the item has a Gear Bonus, it will increase one step for every x rolled. You cannot go above the original Gear Bonus. If you fail at your task, you may not try again on this item until it has been repaired by someone else. The item is unaffected. BANES when PUSHING a repair roll mean if you did not completely fix the item, the item’s Gear Bonus is permanently decreased to the current level. Every BANE beyond the first one lowers the Gear Bonus permanently by 1. If the Gear Bonus has been decreased to zero, the item is permanently destroyed. 
+
+**INVENTING NEW TECHNOLOGY:** The case may be that a PC in a premodern setting wishes to create an item that may require more technical knowledge than currently exists in their setting. e.g. for a 12th Century setting,  printing press, glider, cannon, microscope, etc.  
+Creating a complex new invention requires rank 3 in a specialty most relevant to the machine, building material, or technique that you’re trying to invent. If the GM determines that there is no specialty relevant to what you’re trying to create, the alternative prerequisite is to have the base CRAFTING skill at rank 5. If you only have rank 5 CRAFTING, your initial attempt will be at a -4 penalty, and all subsequent attempts will be at -2. But if you get rank 3 in the relevant specialty, your initial attempt will be at a -2 penalty due to the difficulty of making something that’s never been done before, and all subsequent attempts will have no penalty.  
+- The following are example specialties that are related to technical expertise which can be used to push beyond the age’s tech level: Alchemist, Apothecary, Bowyer, Builder, Cartography, Chef, Physician, Smith, Tailor, Tanner.  
+- The GM will determine the material and tool requirements as well as time-taken to create your prototype.
 ## **SCHOLAR**
-Roll for SCHOLAR when you want to know more about a subject, site, an important NPC or artifact. If you succeed, you will remember something important about it. Often, success in SCHOLAR will grant a die bonus to a related practical skill
+Roll for SCHOLAR when you want to know more about a subject, site, an important NPC or artifact. If you succeed, you will remember something important about it. With specialized subjects, a challenging roll (-2, or XX) will grant a +1 modification for another skill roll related to the subject, or a skill roll saliently enhanced by knowledge of the subject.
 
 Scholar Specialties
 >Natural Sciences: situations requiring knowledge of physics, biology, geology, or any other natural science.  
->Social Sciences  
->Psychology: Add Scholar: Psychology to certain rolls
->Business  
->History  
->Law  
->Language  
+>Social Sciences: understanding different cultural groups, patterns of social behavior, community structures  
+>Psychology: Bonuses to certain INFLUENCE or INSIGHT rolls.  
+>Business: Making sound business and money-management decisions.
+>History: Information about significant places/people/items, historical roots of current events  
+>Law: Knowing your rights, understanding contracts, understanding law-enforcement practices  
+>Language: Identifying or imitating accents, understanding generalities in a foreign language  
 >Engineering: Designing or understanding structures and machines of either premodern civic-scale context, or any structures or non-computer machines of early modern or later periods.  
->Medicine: This specialty is useful for making the Medical Aid Requirement cheaper.   
+>Medicine: Making the MEDICAL AID Requirement cheaper, Bonuses for MEDICAL AID or SURVIVAL: First Aid 
 >Streetwise: Knowing how things work on the streets/underworld  
 
+
+| **General SCHOLAR Effects**                                                                                                                                                                                                                                                               | DM       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Choose 1 applicable Bonus Effect<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Immediately gain +1 DM to a skill roll relating to this one (lose this bonus after scene or use)<br>- You impress someone. +1 to one INFLUENCE roll on them later. | -2 / XX  |
+| +1 modification to a later roll relating to what you’ve re-called.                                                                                                                                                                                                                        | -3 / XXX |
+**Special SCHOLAR Actions**
 
 CONTACTS / CONNECTIONS
 In any given faction or group, a character might know people- how to acquire information, items, or favors. When attempting to inquire into specific contacts that have not been already narratively established, a character may roll SCHOLAR: Streetwise (or any other specialty that seems relevant, e.g. Business for corporate contacts). Their roll is then modified by their FACTION SCORE: a dice number representing how well they connected in good terms with the faction. 
@@ -644,16 +654,6 @@ For factions that they don't have explicit connections to, judge the modifier ba
 | **Medium**                    | 0      | -3      | -4     |
 | **Large**                     | +2     | -2      | -3     |
 
-
-| SCHOLAR Effect                                                                                                                                                                                             | DM       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| +1 modification to a later roll relating to what you’ve re-called.                                                                                                                                         | -3 / XXX |
-
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- Give 1 success to another PC in a similar situation before your next turn. 
-- Gain +1 modification to a later skill roll relating to this one
-- You impress someone. +1 to one INFLEUNCE roll on them later.
 ## **TECHNICAL**
 Roll TECHNICAL when repairing, crafting, or modifying modern or high technology. In almost every case, specialized tools are absolutely necessary. 
 
@@ -685,6 +685,16 @@ For every extra X, choose 1 applicable effect:
 - You get new or unexpected information (computers)
 - You act quietly (physical), or hide your tracks (computer)
 - You impress someone. +1 to one INFLEUNCE roll on them later.
+
+DEMOLITIONS: Placing and disarming mines and explosive devices.
+
+| **TECHNICAL: Demolitions Effects**                                                                                                              | DM      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Turning a 10m area into a minefield (15 min), Placing a single directional mine, clearing a 10m area of mines (15 min), crafting an IED (1 QD), | 0 / X   |
+| Crafting an IED with extra shrapnel (1 QD)                                                                                                      | -1 / XX |
+| Setting a shaped charge                                                                                                                         | -2 / XX |
+
+
 ## **EMPATHY**
 ## **INSIGHT**
 INSIGHT is a versatile skill involving neuroception, intereception, and wisdom. Roll INSIGHT when someone is trying to INFLUENCE you (opposed roll), when trying to read another's motivations, read an enemy in combat (see "Read Enemy" action in [Combat and Damage](Combat%20and%20Damage.md)), or even for keeping calm under extremely stressful or terrifying situations.
@@ -802,7 +812,7 @@ BUYING & SELLING: Roll Manipulation vs. Insight when buying or selling in order 
 | **"Make a Plan."** You begin to organize a plan with any allies within 20m. All willing participants must collectively give up a Slow Action when their turn comes. In the following round, the characters who participated may take all of their available actions in any order on any initiative slot rolled by one of the characters in the participating group. | -1 / XX   |
 | **You issue a order**. Any ally within 20m who acts in pursuit of that order can add a d8 to one roll. 1 extra Command success increases that bonus to D10. 2 extra Command successes increases that bonus to D12                                                                                                                                                   | -3 / XXX  |
 | Allowing one **ally within 20m to take a free fast action.**                                                                                                                                                                                                                                                                                                        | -3 / XXX  |
-| **Rally**. When allies within 10m range are Broken from a FEAR attack, negate the horror critical, but they remain Broken. Every extra success can reduce an ally Broken from FEAR to 1 Wits instead of them being Broken.                                                                                                                                          | -4 / XXX  |
+| **Rally**. When allies within 10m range are experiencing a Panic Effect, a success ends their Panic Effect, and removes 1 Stress Point.                                                                                                                                                                                                                             | -4 / XXX  |
 | Allowing an 20m range **ally to take a free slow action**.                                                                                                                                                                                                                                                                                                          | -5 / XXXX |
 
 | INFLUENCE: Performance effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | DM         |
@@ -913,13 +923,13 @@ EXTRA PUSHES
 >	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1  
 >	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1  
 STRESS AND HEALING  
->	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor. You do not have to handle your fear if any of them die, so long as at least one of them is left standing.  
+>	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor.  
 >	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
 >	**Seen it all**: Once per session, you may ignore all rolled banes  
 >	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place.   
 >	**Fast Healer**: Healing time for critical injuries is halved  
 >	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.  
->	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
+>	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once per game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
 OTHER  
 >	**Packrat**: May carry +4 additional Weight.  
 >	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  

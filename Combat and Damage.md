@@ -420,8 +420,32 @@ Grenade launchers, thrown grenades, and mortars are capable of indirect fire –
 Directing indirect fire requires a slow action and a OBSERVATION: Forward Observer roll. It needs to be done before the weapon is aimed (this can be a good opportunity to exchange initiatives). If the spotter’s roll fails, the indirect fire will automatically deviate. If the spotter succeeds, the gunner resolves the attack normally. Extra X on the spotter’s roll have no effect.
 
 The spotter can call in corrections (each correction gives a +1 to the next attack against the same target, up to a maximum bonus of +3). This is a slow action and requires no dice roll. After corrections have been called in, the gunner needs to spend a slow action correcting their aim.
+
+#### LANDMINES
+Placing landmines in a 10m area manually requires 15 min of work and a TECHNICAL: Demolitions or CRAFTING: Demolitions (-1 DM) roll. Success turns the area into a minefield. If you fail the roll, the minefield is created but it will automatically be spotted by anyone moving into the hex. You can roll TECHNICAL: Demolitions or CRAFTING: Demolitions (-1 DM) again in the next 15-min to hide the mines better. Some types of mines can be scattered by artillery.  
+Several mine models are listed in [Gear](Gear.md). They fall into three main categories: anti-personnel, anti-tank, and directional.  
+
+**ANTI-PERSONEL MINES**  
+These detonate when stepped upon. At least one mine is placed in each 10m area. Their primary purpose is to blow the victim’s foot or leg off, disabling the victim rather than killing them.  
+Detecting a field of blast mines requires a successful OBSERVATION: Scout roll (passive). If the roll fails and you move unawares into a minefield, the GM rolls a D6 for every 10m area you traverse. If the roll is equal to or less than the number of mines in the hex, you trigger a mine.  
+To move through a detected minefield without setting off a mine, you must walk very slowly (5 meters per move action instead of 10 meters, and no additional movement is possible). You also need to make another OBSERVATION: Scout roll (no action) for each 10m area you move into. If you fail, roll for detonation as per above. If several people move together in a line, only the leader needs to roll to detect mines – the others can follow in their footsteps.  
+If you trigger a mine, you suffer direct damage to your legs equal to the unmodified damage rating of the mine. The mine also triggers an explosion in the 10m area, which can cause further damage to you and others.
+
+**ANTI-TANK MINES**  
+These are larger and more powerful than anti-personnel mines and require more pressure to be detonated, and thus cannot be triggered by a person, only vehicles. Only one is typically placed in each 10m area.  
+Spotting anti-tank mines is easier than blast mines (+2 modifier) but this is canceled by a –2 modifier if the
+OBSERVATION: Scout roll is made from a vehicle. Driving unawares into a mined area will automatically trigger the mine. Driving through a detected minefield without setting off the mine requires very slow driving (10m per round) and a successful DRIVING roll for each round.  
+When an anti-tank mine is triggered, the vehicle suffers direct damage equal to the unmodified damage rating of
+the mine. The mine also triggers an explosion in the 10m area.
+
+**DIRECTIONAL MINES**  
+These are placed individually, not in minefields, and they are detonated remotely, usually by a tripwire. Directional mines do not inflict any direct damage, only blast damage, and only in an arc in front of the device (typically about 60 degrees). However, the blast power is only decreased one step for every 30 meters from the point of detonation instead of every 10 meters – see the diagram below.
+
+![[Pasted image 20250101230848.png]]
+
+**CLEARING MINES** is dangerous work. Clearing a 10m area of mines requires at least 15 min of work and a TECHNICAL: Demotions or CRAFTING: Demolitions (-1 DM) roll. Failure will detonate a mine. You will need at least a knife or a stick. More advanced gear can give you positive modifiers.
 #### IMPROVISED EXPLOSIVE DEVICES
-IEDs can be very effective weapons. Setting up and arming an IED requires explosives, spare parts, 15 min of work, and a successful TECHNICAL: Demolitions or CRAFTING: Demolitions roll. You can set up the IED to be triggered by a tripwire or pressure plate, effectively turning the IED into a mine (this requires one general spare part) or by an electronic remote control or timer (requiring one electronic and one general spare part). A failed roll will detonate the device immedaitely, so be careful! The blast power of an IED depends on the amount and type of explosives used.
+IEDs can be very effective weapons. Setting up and arming an IED requires explosives, spare parts, 15 min of work, and a successful TECHNICAL: Demolitions or CRAFTING: Demolitions (-1 DM) roll. You can set up the IED to be triggered by a tripwire or pressure plate, effectively turning the IED into a mine (this requires one general spare part) or by an electronic remote control or timer (requiring one electronic and one general spare part). A failed roll will detonate the device immedaitely, so be careful! The blast power of an IED depends on the amount and type of explosives used.
 
 SHRAPNEL: Fitting your IED with shrapnel will increase the blast power by one step, up to 2D12, but requires an additional general spare part and gives you a –1 modifier to setting the charge.
 
@@ -685,18 +709,19 @@ When you gain a Trauma Effect, roll for Healing Time. The Trauma Effect will nat
 
 **Reducing Stress Points**
 You can reduce your Stress points in 5 ways: 
-1) Resting, 
-2) finding stress relief in another's influence, 
-3) spending time with your Anchor, 
-4) having fun for a quarter day, or 
-5) spending a Willpower point. 
+1) Resting (1 QD, -1D stress)  
+2) Finding stress relief in another's influence (1 rnd - 15 min, -1 stress per X)  
+3) Spending time with your Anchor (1 hour, -all stress)
+4) Having fun for a quarter day (1 QD, -1 stress per X)
+5) Spending a Willpower point (instant, -1 stress per WP)
+6) Interacting with Signature Item (Slow Action, -1D stress)
 Note: Some Conditions can block your ability to relieve stress- Sleepy, Cold, Nightmares Trauma Effect, Substance Abuse Trauma Effect, Descent into Madness Trauma Effect. 
 
 RESTING
 Automatically heal 1D worth of Stress Points for each Quarter Day spent RESTING in a safe area that is secured from enemies as far as you know.
 
 SOCIAL STRESS RELIEF
-Another character can relieve you of Stress Points with a successful INFLUENCE roll. The specialty INFLUENCE (Counseling) + SCHOLAR (psychology) can be used if relieving 1 person's stress (Counseling + Psychology can also be used to heal mental trauma), and INFLUENCE (performance) can be if relieving 1 or more person's stress. The Influencer relieves 1 Stress Point per Success. The Influencer's roll may be pushed, but each BANE inflicts +1 Stress point on the Influencer. 
+Another character can relieve you of Stress Points with a successful INFLUENCE roll. The specialty INFLUENCE: Counselor + SCHOLAR: Psychology can be used if relieving 1 person's stress (Counseling + Psychology can also be used to heal mental trauma), and INFLUENCE (performance) can be if relieving 1 or more person's stress. The Influencer relieves 1 Stress Point per Success. The Influencer's roll may be pushed, but each BANE inflicts +1 Stress point on the Influencer. 
 The INFLUENCE roll is modified as follows:
 
 | Condition                                                                | INFLUENCE <br>modifier      |
@@ -718,8 +743,11 @@ MEETING YOUR ANCHOR
 If you spend an hour or more with one of your Anchors, you relieve all stress. This can only be done once per session. Typically, this is played out as one short scene where you get to talk to your Anchor. You might, for example, spend the night together, work together in the field, go on a ride in the car to check something out, or play poker all night. It is not possible to relieve stress with an Anchor who dislikes you – you better keep those Anchors happy!
 
 HAVING FUN
-If you spend a quarter day doing some activity that your PC find fun and/or meaningful that involves no Stress gain (practicing a skill you enjoy, smoking and drinking, folding origami, sex drugs rock and roll, gardening, etc), roll INSIGHT (calm), and lose 1 Stress Point for every success. 
+If you spend a quarter day doing some activity that your PC find fun and/or meaningful that involves no Stress gain (practicing a skill you enjoy, smoking and drinking, folding origami, sex drugs rock and roll, gardening, etc), roll INSIGHT: Calm, and lose 1 Stress Point for every success. 
 Note: This CAN be the same as RESTING if the fun activity involves siting idle, generally not doing much, and making no rolls beyond some non-strenuous or non-stressful Wits or Empathy rolls. Hard work like practicing most skills, or energetic carousing are not RESTING.
+
+SPENDING WILLPOWER
+Spending 1 Willpower immediately relieves 1 Stress Point. If this is done in anticipation of a GM calling for a Panic Roll, the point must be spent before the GM calls for the roll. 
 
 INTERACTING WITH YOUR SIGNATURE ITEM
 Some characters may have the Trait "Signature Item." Those that do may, once per session, interact with their signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.
@@ -728,10 +756,10 @@ Some characters may have the Trait "Signature Item." Those that do may, once per
 There are three ways Panic Effects end: 1) The Panic Effect is Immediate only, or one Turn (15 min) passes, 2) You are Broken, 3) Another character may RALLY you.
 
 RALLY
-Another character within 10m may help you regain your senses by making an INFLUENCE (counseling)/ (command) roll. This is a slow action. If successful, your Panic Effect ends and you lose 1 Stress Point. The RALLY action only reduces Stress Points if it is used to end a Panic Effect.
+Another character within 10m may help you regain your senses by making an INFLUENCE: Counselor/ Command roll. This is a slow action. If successful, your Panic Effect ends and you lose 1 Stress Point. The RALLY action only reduces Stress Points if it is used to end a Panic Effect.
 
 **Healing Trauma Effects**
-After the rolled Healing Time has passed, you may attempt to heal your own Trauma Effects by rolling INSIGHT (calm) once per week. A success rids you of the Trauma Effect. Seeking treatment at any time can significantly speed up Healing. Treatment involves any form of psychological therapy from another character for 1 Quarter Day and the therapist must roll INFLUENCE (counseling) and may add SCHOLAR (Psychology). The roll may be pushed, but each BANE gives the therapist +1 Trauma Point. For every day with 1 successful therapy session, reduce healing time by 1 week.
+After the rolled Healing Time has passed, you may attempt to heal your own Trauma Effects by rolling INSIGHT: Calm once per week. A success rids you of the Trauma Effect. Seeking treatment at any time can significantly speed up Healing. Treatment involves any form of psychological therapy from another character for 1 Quarter Day and the therapist must roll INFLUENCE: Counselor and may add SCHOLAR: Psychology. The roll may be pushed, but each BANE gives the therapist +1 Trauma Point. For every day with 1 successful therapy session, reduce healing time by 1 week.
 
 **Healing Trauma Points**
 Every time you roll for a Trauma Effect, you earn +1 **Trauma Point**, which should be tracked on your character sheet. This represents the mentally debilitating effect of continued exposure to the stresses of a life of adventure. These can also be gained from directly trying to heal someone's trauma, which is transferable. 

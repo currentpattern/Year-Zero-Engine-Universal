@@ -1,18 +1,18 @@
 
 # Item Supply
 ## Availability
-Item availability indicates how easily equipment can be obtained within the metropolitan area. These codes provide general guidelines, though specific neighborhood conditions may affect an item's availability.
-1. **Common**. The item is generally available in decent quantities. Finding it will take 1D6x10 min, reduced by 1 per SCHOLAR success.
-2. **Uncommon** only in major commercial districts or through established vendors. Roll 1D6 per level of Wealth of a settlement/district (1D6 Poor, 2D6 Moderate, 3D6 Wealthy). If any dice result in a **4 or higher**, 1D6 units of the item are available. A new roll can be made each week. Finding it will take 1D6x30 min, reduced by 1 per SCHOLAR success.
-3. **Specialized item**, typically only available through specific manufacturers or specialty shops. Roll 1D6 per level of Wealth of a settlement/district (1D6 Poor, 2D6 Moderate, 3D6 Wealthy). **If any dice result in a 6**, 1 unit of the item is available. A new roll can be made each week. Finding it will take 1D6 hours, reduced by 1 per SCHOLAR success.
-4. **Rare item**, extremely difficult to obtain through any means. Roll 1D6 per level of Wealth of a settlement/district. If any dice result in a **6, roll again. A result of 5, or 6** means this item is available. A new roll can be made each week. Finding it will take 1D6 hours, reduced by 1 per SCHOLAR success.
+Item availability indicates how easily equipment can be obtained within the metropolitan area. These codes provide general guidelines, though specific neighborhood conditions may affect an item's availability.  
+1. **Common**. The item is generally available in decent quantities. Finding it will take 1D6x10 min, reduced by 1 per SCHOLAR success.  
+2. **Uncommon** only in major commercial districts or through established vendors. Roll 1D6 per level of Wealth of a settlement/district (1D6 Poor, 2D6 Moderate, 3D6 Wealthy). If any dice result in a **4 or higher**, 1D6 units of the item are available. A new roll can be made each week. Finding it will take 1D6x30 min, reduced by 1 per SCHOLAR success.  
+3. **Specialized item**, typically only available through specific manufacturers or specialty shops. Roll 1D6 per level of Wealth of a settlement/district (1D6 Poor, 2D6 Moderate, 3D6 Wealthy). **If any dice result in a 6**, 1 unit of the item is available. A new roll can be made each week. Finding it will take 1D6 hours, reduced by 1 per SCHOLAR success.  
+4. **Rare item**, extremely difficult to obtain through any means. Roll 1D6 per level of Wealth of a settlement/district. If any dice result in a **6, roll again. A result of 5, or 6** means this item is available. A new roll can be made each week. Finding it will take 1D6 hours, reduced by 1 per SCHOLAR success.  
 ## Restriction
 Certain items require permits to own or operate, or are limited to authorized organizations and individuals. For restricted items, a permit fee must be paid for legal ownership. A permit fee is calculated separately from the item's base cost.  
 F. **Fee**, permit and/or background check commonly required for purchase.  
 R. **Restricted** item typically requires special licensing such as law-enforcement or government sanction.  
 X. **Illegal** for any non-millitary. Possession and use typically violates federal law except for specifically authorized personnel.  
 ### The Black Market
-To find a restricted item without the required legal authorization, first an Availability Roll must be made. If it's available, only a successful SCHOLAR: Streetwise or INFLUENCE: Trader roll determines if you can find a seller.
+To find a restricted item without the required legal authorization, first an Availability Roll must be made. If it's available, only a successful SCHOLAR: Streetwise or INFLUENCE: Trader roll determines if you can find a seller.  
 **If you fail**, roll for Mishaps: 1D6 per level of Wealth of a settlement/district (1D6 Poor, 2D6 Moderate, 3D6 Wealthy). If an X is rolled during the Mishap roll, roll 1D6 on the mishap table below, referencing Restriction Level
 
 | Restriction Level | Scholar/Influence modifier | Mishap on failure + Mishap X. (roll 1D6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -25,19 +25,19 @@ To find a restricted item without the required legal authorization, first an Ava
 # Firearms
 
 ### Weapon Features
-**1H-2**: May be fired with 1 hand with a -2 modifier
-**1H-3**: May be fired with 1 hand at short range only, with a -3 modifier
-**2H**: May not be fired with less than 2 hands
-**AP**: Armor-Piercing. If target's armor/cover is LIGHT, subtract Base Damage from protection rating. If armor/cover is HEAVY, roll as normal.
-**Belt**: belt-fed weapon. The ammo belt has weight 1.
-**Disposable:** Weapon can only be fired once, and is then unusable. 
-**Jurryrig**: Can be jurry rigged
-**Laser-Guided**: At Long range or farther, the weapon will no strike until the beginning of the attacker's next turn, and if they take any actions that cause their aim to falter (moving), the weapon will miss. 
-**Load**: Loading the weapon before a shot is a slow actions.
-**Ordnance**: -2 modifier to hit anything. Meaning you get no bonus for firing at large targets such as vehicles and 10m areas, and a –2 penalty if you fire Ordnance at an individual.
-**Platform**: Needs to be fired from a tripod or vehicle mount.
-**Smallarm**: -1 (instead of -2) when shooting targets at Arms Length. May be fired with 1 hand without penalty
-**Terrifying**: The use of this weapon immediately imposes a Stress test when it is first fired into your Zone or an adjacent Zone, regardless of success. 
+**1H-2**: May be fired with 1 hand with a -2 modifier  
+**1H-3**: May be fired with 1 hand at short range only, with a -3 modifier  
+**2H**: May not be fired with less than 2 hands  
+**AP**: Armor-Piercing. If target's armor/cover is LIGHT, subtract Base Damage from protection rating. If armor/cover is HEAVY, roll as normal.  
+**Belt**: belt-fed weapon. The ammo belt has weight 1.  
+**Disposable:** Weapon can only be fired once, and is then unusable.  
+**Jurryrig**: Can be jurry rigged  
+**Laser-Guided**: At Long range or farther, the weapon will no strike until the beginning of the attacker's next turn, and if they take any actions that cause their aim to falter (moving), the weapon will miss.   
+**Load**: Loading the weapon before a shot is a slow actions.  
+**Ordnance**: -2 modifier to hit anything. Meaning you get no bonus for firing at large targets such as vehicles and 10m areas, and a –2 penalty if you fire Ordnance at an individual.  
+**Platform**: Needs to be fired from a tripod or vehicle mount.  
+**Smallarm**: -1 (instead of -2) when shooting targets at Arms Length. May be fired with 1 hand without penalty  
+**Terrifying**: The use of this weapon immediately imposes a Stress test when it is first fired into your Zone or an adjacent Zone, regardless of success.  
 
 New rule: get rid of "1H-3". Instead, firing one-handed incurs a -3 penalty unless the weapon has a 1H or 2H feature. 
 
@@ -143,7 +143,7 @@ New rule: get rid of "1H-3". Instead, firing one-handed incurs a -3 penalty unle
 
 
 # **Ammunition**
-A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full unit
+A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full unit  
 
 | Ammo type | Price/round | Availability |
 | --------- | ----------- | ------------ |

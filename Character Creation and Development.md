@@ -47,7 +47,7 @@ Each skill can cover many possible uses (e.g. DRIVING covers any ground effect v
 STARTING SPECIALTY LEVELS: You may choose 3, 4, or 5 Skill Specialties, depending on your Age, see above. You start the game with 2 more skill points in each chosen specialty, but you can choose to forgo one specialty for starting the game with 4 points in another. You can increase your Skill Specialty levels and learn new ones through training during the game. 
 
 ### **Talents**
-Talents are special qualities, abilities, and gifts that a character might have which skills and specializations may not capture. They may be things like needing less sleep than usual, responding to panic in a novel way, or having extra fast initiative. Talents are described in the TALENTS SECTION. 
+Talents are special qualities, abilities, and gifts that a character might have which skills and specializations may not capture. They may be things like needing less sleep than usual, responding to panic in a novel way, or having extra fast initiative. Talents are described in the [Skills and Rolling the Dice](Skills%20and%20Rolling%20the%20Dice.md)
 
 STARTING TALENTS: All characters start with 1 talent of their choosing. Depending on your age, you may choose more:
 **Adult**: 2 talents
@@ -61,7 +61,12 @@ Every character has a story. You have experienced something before the game begi
 
 The Dark Secrets are primarily something for you and the GM to build stories with, but if it comes up in play and impacts you, it’s also worth an XP in the session. Note that Dark Secrets don't have to be kept secret from other players in order for them to function. View a Dark Secret as a roleplay cue. The player has the PC make decisions that act against what would otherwise be in their best interest for themselves in a given situation because of their Dark Secret. They are then rewarded for the RP during XP phase when they do so in an interesting way.
 
-### **Relationships**  
+### **Relationships: Anchors and PCs**
+ANCHORS
+Your character likely has many people in their life, but may have a small number (if they're lucky). You may have up to two people, whether they are PCs or NPCs who are extremely important to you. In game, you can spend an hour with them to relieve all Stress. An Anchor can be someone like a friend, a lover, your parent, or your child.  
+Without specific a specific talent, you can never have more than two Anchors, but you can lose them if, for instance, they get killed or if they become mad at you and tell you to stay away from them. 
+
+PC RELATIONSHIPS
 Every adventurer is an individual with personal relationships to the other characters. Perhaps you have been part of the same adventuring group for a while, and you know each other fairly well.
 
 You should describe your relationships with each of the other characters you know, with a short sentence for each on your sheet. You can make up your relationships from whole cloth. Please consider these and write them, it will assist in story creation in the long term and cement the characters together. 
@@ -96,7 +101,7 @@ STARTING CAPITAL: The currency in the setting may take many forms, though for th
 
 TRACKING MONEY: As a rule of thumb, during play, if a character is above Lower class, and an expense is less than 3% of their actual monthly earnings, it does not need to be kept track of. You'll spend 90% (-10% per X of a SCHOLAR: Business roll) of monthly wages at the beginning of the month as "upkeep" cost for basic necessities. 
 
-| Wealth Level       | Gear Buy Credits            | Monthly Wages,<br>Malthusian setting | Monthly Wages,<br>Modern setting | Monthly Living Expenses<br>(-10% per  SCHOLAR: Business X) | Current Savings: Monthly Wages x M x (M per SCHOLAR: Business X) |
+| Wealth Level       | Gear Buy                    | Monthly Wages,<br>Malthusian setting | Monthly Wages,<br>Modern setting | Monthly Living Expenses<br>(-10% per  SCHOLAR: Business X) | Current Savings: Monthly Wages x M / (M per SCHOLAR: Business X) |
 | ------------------ | --------------------------- | ------------------------------------ | -------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
 | 0. Extreme Poverty | 1D6 x 100                   | 0-100                                | 4D6 x 50<br>(0-1,000 )           | 100% Income                                                | None                                                             |
 | 1. Lower Class     | 2D6 x 100 <br>(600-800)     | 100-200                              | 4D6 x 100<br>(1,000-2,000)       | 90% Income                                                 | M = .3                                                           |
