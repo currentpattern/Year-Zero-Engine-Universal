@@ -284,8 +284,6 @@ To be able to defend yourself with weapon in hand, or barehanded. Roll MELEE whe
 
 Melee Specialties
 >Brawler: Melee rolls for unarmed combat, including Grappling (Brawler)  
->Parrying: When Parrying (Defender)  
->Charger: When performing the Charge action, or Tackle action (Charger)  
 >Shield Fighter: When using a shield to Parry or attack (Shield Fighter)  
 >Axes: When using axes (Axe fighter)  
 >Blunt Weapons: When using a blunt weapon of any kind (Hammer fighter, Staff fighter)  
@@ -293,8 +291,6 @@ Melee Specialties
 >Spear: When using spears, Halberds, and the like (spear fighter)  
 >Sword: When using swords, of all kinds (sword fighter)  
 >Whip: Using a whip (whip fighter)  
->Monster Hunter: engaging in combat against horrifying and unnatural creatures  
->Mounted melee: When fighting from a mount or vehicle  
 
 | General MELEE Effects                                                                                                                                                                                                                                                                                                                                                                     | DM         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -440,9 +436,6 @@ Marksmanship Specialties
 >Rifleman: Firing Assault rifles, carbines, SMGs, and shotguns  
 >Pistols: Firing pistols  
 >Sniper: Firing sniper rifles and hunting rifles  
->Assassin: Firing guns at Engaged Range  
->Machinegunner: Firing weapons at ROF 4 or higher  
->Mounted shooter: When fighting from a mount or vehicle  
 
 | General MARKSMANSHIP Effects                                                                                                                                                                    | DM        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -514,8 +507,7 @@ Observation Specialties
 >Military Intel: Knowing stats of military weapons, troops, vehicles  
 >Investigator: Investigating scene of crime or battle  
 >Scout: spotting others or avoiding danger, ambushes and sneak attacks (sixth sense)  
->Surveyor: When using the Survey The Land action.  
->Monster Hunter: when hunting for a beast of any kind    
+>Surveyor: When using the Survey The Land action.     
 
 | General OBSERVATION Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | DM        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -779,7 +771,6 @@ Influence Specialties
 >Manipulator: Changing someone's mind about a particular issue  
 >Teacher: Teaching someone a skill or specialty  
 >Trader: Negotiating the price of an item  
->Seductive: When trying to manipulate through seduction  
 >Performance: any kind of morale boosting performance (humor, music, storytelling, etc) that can potentially reduce stress to a group of people. Also when performing Warrior's Voice actions in combat.  
 >Counselor: Reducing stress level of one other character  
 >Command: using Influence on allies. Make a Plan action, Command action  
@@ -947,6 +938,7 @@ COMBAT
 >	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take.   
 >	**Second Wind**: When Broken, roll ENDURANCE- every x gains back 1 STR. Once per turn, no effect against critical injuries.  
 >	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.  
+
 ATTRIBUTE SWAPS  
 >	**Barge Through**: using Move with Strength instead of Agility  
 >	**Menacing**: Threaten using Influence with Strength instead of Empathy. Loser cannot make demands, may still attack.  
@@ -957,11 +949,13 @@ ATTRIBUTE SWAPS
 >	**Take Control**: you may use Influence with Wits instead of Empathy  
 >	**Stoic**: you can use Endurance using Wits instead of Strength  
 >	**Bad Omens**: You can Scout using Empathy instead of Wits  
+
 EXTRA PUSHES  
 >	**Influence**: You may push any Empathy roll twice. Extra push increases your stress by 1  
 >	**Nimble/Reckless**: You may push any Agility roll twice. Extra push increases your stress by 1  
 >	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1  
 >	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1  
+
 STRESS AND HEALING  
 >	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place. Once per Quarter Day, you may as a slow action make an INSIGHT: Calm roll in place of an ally within 10m.  
 >	**Fast Healer**: Healing time for critical injuries is halved  	
@@ -970,6 +964,7 @@ STRESS AND HEALING
 >	**Seen it all**: Once per session, you may ignore all rolled banes  
 >	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once per game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
 >	**Wallflower:** As long as there are any two people from your party present, they may together act as an Anchor. You do not need to roll a Panic Check if any of them Panic or suffer a Critical Injury so long as there are still 2 in your party not Panicking or suffering from a Critical Injury. If you're with only 1 party member, they do not count as an Anchor, no matter who they are.
+
 OTHER  
 >	**Breakthrough**: Once per session, you may automatically succeed on some investigation roll.  
 >	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere.   
@@ -980,6 +975,7 @@ OTHER
 >	**Signature Ride:** This specific vehicle is yours, and you know every bolt and cable, nook and cranny. Choose one vehicle or (not one type, but a single, specific vehicle). You get a +2 DRIVE or PILOTING with the chosen vehicle. You can choose this talent several times, once for each vehicle.  
 >	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
 >	**Wheel Guardian:** When your vehicle suffers critical damage, you can reroll once. The lowest roll counts.  
+
 CHARACTER TRAITS  
 >	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.  
 
