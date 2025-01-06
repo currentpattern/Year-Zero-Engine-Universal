@@ -4,6 +4,7 @@
 [Difficulty Modifiers](#modification)  
 [Gear Dice and Gear Wear](#gear-dice-and-wear)  
 [Pride](#pride)  
+[Developing Your Character](#developing-your-character)
 The Skills  
 >[Might (STR)](#might)  
 >[Endurance (STR)](#endurance)  
@@ -100,7 +101,7 @@ Mark your WP on your character sheet. You can never have more than ten (10) WP a
 There are several potential uses for Willpower:
 - Convert 1 WP to 2 XP for the purpose of training skills.
 - Ignore Suppression (see [Combat and Damage](Combat%20and%20Damage.md)).
-- +2D to a roll per WP spent (max 4 per round). These can be granted to a fellow character if you are helping. 
+- +1D to a roll per WP spent (max 4 WP per round). These can be granted to a fellow character if you are helping. 
 - Re-rolling a critical damage result (once per injury), must use the new result.
 - Remove 1 Stress Point. Must be done before GM calls for Panic roll.
 - Buying success: If you are rolling 6+ dice (including Gear Dice), you may spend Willpower to buy 1 success. The cost is 3 WP. You may only buy the success before you’ve rolled the skill, and you may not subsequently roll the skill.
@@ -177,6 +178,37 @@ If a CRAFTING roll fails, the Gear Bonus is permanently decreased to its current
 More on worn gear and repairing it can be found in the [Gear](Gear.md) section.
 ### **PRIDE**  
 Once per game session, you can use your Pride when you have failed a skill roll. When you use your Pride, roll a D12 and add the result to your roll. You can activate your Pride no matter whether you have pushed the roll or not, but you cannot push the roll after using your Pride. If you fail despite using your Pride, you must erase your Pride. You must play a whole game session without Pride, then you can choose a new one.
+
+### **DEVELOPLING YOUR CHARACTER**  
+You can **spend your XP** to improve your Attributes, Skills and Talents, or to learn new ones. You can only spend XP during a Quarter Day when you REST or SLEEP.
+
+SKILLS
+To increase a skill level by one step costs a number of XP equal to the skill level you want to attain multiplied by 5. For example, an increase from skill level 2 to 3 costs 15 XP. You can only increase a skill level one step at a time. Learning a new skill (at skill level 1) costs 5 XP. Also, you must either have used the skill and succeeded (without skill level) during the session, or be instructed by a teacher (at skill level 1 or more) during a Quarter Day. See the table below for XP costs.
+
+| Desired Skill level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **XP Cost**         | 5   | 10  | 15  | 20  | 25  | 30  | 35  | 40  | 45  | 50  |
+
+SPECIALIZATIONS
+Specializations, if improved upon, detach from their parent skill and are treated like their own, cheaper, more focused skill. 
+
+To increase a specialization by one step costs a certain number of XP:
+	From 1-4, multiply the skill level you want to attain multiplied by 1.5 (rounded up). 
+	For 5, the cost is 10
+	For all higher skill levels, multiply the desired level by 2.5 (rounded down)
+You can only increase a Specialization one step at a time. Also, you must either have used the specialization and succeeded (without skill level) during the session, or be instructed by a teacher with a higher skill than you during a Quarter Day. See the table below for XP costs.
+[Brainstorming specialization cost](Brainstorming%20specialization%20cost.md)
+
+| Desired Specialty Level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **XP Cost**             | 2   | 3   | 5   | 6   | 10  | 15  | 17  | 20  | 22  | 25  |
+
+ATTRIBUTES
+To increase a given Attribute by one step costs a number of XP equal to the cost of increasing _each skill under the attribute_ by one, plus the Attribute level you want to attain multiplied by 3. The skill levels remain unchanged. Training time is 5 quarter days. These quarter days may be broken up, but all 5 must take place within 1 week.  
+_e.g. Kivil wants to improve his EMPATHY from 2 to 3. He has Manipulation 0, Performance 1, Healing 0, Animal Handing 0. Total cost of improving EMPATHY would be 34xp (25 for skills, 9 for attribute). The skill levels remain unchanged._
+
+GAIN A TALENT 
+Talents do not contain ranks or levels, so cannot be improved. You may gain a new talents by either a Quarter Day of practice, or a plot event that makes sense to explain gaining a talent, then a successful Wits roll, and spending 10 XP. 
 
 # **THE SKILLS**  
 This section describes the 17 skills in this game.
@@ -279,7 +311,7 @@ Melee Specialties
 
 **Special MELEE Actions**
 
-CHARGE ATTACK: Move from 10m to Engaged (fast action) then performing a SLASH, STAB, PUNCH, or SHOVE (slow action). This combination is recognized in order to give the Charger specialization a die bonus.
+CHARGE ATTACK: Move from 10m to Arm's Length (fast action) then performing a SLASH, STAB, PUNCH, or SHOVE (slow action). This combination is recognized in order to give the Charger specialization a die bonus.
 
 DISARM: You try to knock the weapon from your opponent’s hands. Roll MELEE and your weapon’s Gear Bonus. Disarming an opponent wielding a one-handed weapon requires one X, a two-handed weapon requires XX. If you succeed, your opponent drops their weapon, which lands at ARM’S LENGTH. You cannot DISARM a shield. Your enemy can PARRY or DODGE your DISARM.
 
@@ -700,7 +732,7 @@ DEMOLITIONS: Placing and disarming mines and explosive devices.
 INSIGHT is a versatile skill involving neuroception, intereception, and wisdom. Roll INSIGHT when someone is trying to INFLUENCE you (opposed roll), when trying to read another's motivations, read an enemy in combat (see "Read Enemy" action in [Combat and Damage](Combat%20and%20Damage.md)), or even for keeping calm under extremely stressful or terrifying situations.
 
 Insight Specialties
->Incorruptable: Resisting unwanted Influence  
+>Incorruptible: Resisting unwanted Influence  
 >Calm: rolling for stress and panic  
 >Mindful: rolling for Meditation attempts  
 >Magician: rolling for Magic spells  
@@ -897,15 +929,23 @@ SAVE A LIFE: The most important application of HEALING is giving first aid and s
 
 # **TALENTS**
 COMBAT  
->	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack not modified. If the Weight is NORMAL, -1. HEAVY, -2.  
+>	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack is not modified. If the Weight is NORMAL, -1. HEAVY, -2.  
+>	**Assassin:** When guns at Arm's Length, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
+>	**Charger:** when moving from 10m to arm's L then melee attacking, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
 >	**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1  
 >	**Combat Awareness**: Roll initiative twice and choose the highest result  
->	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. When triggering Overkill, you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
->	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take.   
->	**Pain Resistant:** You suffer no pain penalty when you take damage.  
->	**Second Wind**: When Broken, roll Stamina- every x gains back 1 STR. Once per turn, no effect against critical injuries  
->	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
 >	**Lucky**- When you suffer a critical injury, you can reroll once. The lowest roll counts.  
+>	**Machinegunner:** When firing weapons at ROF 4 or higher, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
+>	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
+>	**Monster Hunter**- You are skilled at turning terror into scathing force. All your attacks against horrifying and unnatural creatures gain +1 bonus, and cause 1 additional point of damage. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10. If you roll a 10 or above on the Panic Table, all enemies count as "Monsters" for 1D rounds (if the effect is "Immediate") or the duration of the Panic Effect.
+>	**Monster Trucker**- When using a vehicle as a weapon, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10)  
+>	**Mounted melee:** +2 bonus when fighting from a mount or vehicle (there is no longer a penalty)  
+>	**Mounted shooter:** +2 bonus when firing from a mount or vehicle (there is no longer a penalty)  
+>	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. Overkill effect: you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
+>	**Pain Resistant:** You suffer no pain penalty when you take damage.  
+>	**Parrying:** Receive a +1 bonus to all Parries. May spend 1 WP to gain a free parry in a round. May spend 2 WP to parry unlimited number of times in the same round of combat, but only once against each attack. No matter how many times you PARRY, it will never count as more than one action.  
+>	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take.   
+>	**Second Wind**: When Broken, roll ENDURANCE- every x gains back 1 STR. Once per turn, no effect against critical injuries.  
 >	**Sprinter**: Your Movement Rate (page 84) is increased from 10 to 12 meters. You can learn this talent up to three times, for a maximum Movement Rate of 16 meters.  
 ATTRIBUTE SWAPS  
 >	**Barge Through**: using Move with Strength instead of Agility  
@@ -923,20 +963,24 @@ EXTRA PUSHES
 >	**Cunning**: May push any Wits roll twice. Extra push increases your stress by 1  
 >	**True Grit**: May push Strength rolls twice. Extra push increases your Stress level by 1  
 STRESS AND HEALING  
->	**Wallflower**: You do not have to choose a single NPC as your NPC Anchor. Instead, the whole group is your Anchor.  
+>	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place. Once per Quarter Day, you may as a slow action make an INSIGHT: Calm roll in place of an ally within 10m.  
+>	**Fast Healer**: Healing time for critical injuries is halved  	
+>	**Loving**: You may have 1 more Anchor. This talent may be purchased 3 times.  
 >	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
 >	**Seen it all**: Once per session, you may ignore all rolled banes  
->	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place.   
->	**Fast Healer**: Healing time for critical injuries is halved  
->	**Loving**: You may have 1D3 more Anchors. This talent may be purchased 3 times.  
 >	**Signature Item**: You have a signature item- a small item that's not of much practical use, but that has sentimental value to you and that says something about your character. Signature items are usually tiny and thus don't encumber you at all. Common examples include a patch, a cap, or a photo of a loved one. Once per game session, you can interact with your signature item in some way to reduce your Stress Level by 1D6. This requires a slow action.  
+>	**Wallflower:** As long as there are any two people from your party present, they may together act as an Anchor. You do not need to roll a Panic Check if any of them Panic or suffer a Critical Injury so long as there are still 2 in your party not Panicking or suffering from a Critical Injury. If you're with only 1 party member, they do not count as an Anchor, no matter who they are.
 OTHER  
->	**Packrat**: May carry +4 additional Weight.  
->	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  
 >	**Breakthrough**: Once per session, you may automatically succeed on some investigation roll.  
 >	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere.   
+>	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  
 >	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
+>	**Packrat**: May carry +4 additional Weight.  
+>	**Seductive:** When trying to manipulate through seduction, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
+>	**Signature Ride:** This specific vehicle is yours, and you know every bolt and cable, nook and cranny. Choose one vehicle or (not one type, but a single, specific vehicle). You get a +2 DRIVE or PILOTING with the chosen vehicle. You can choose this talent several times, once for each vehicle.  
 >	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
+>	**Wheel Guardian:** When your vehicle suffers critical damage, you can reroll once. The lowest roll counts.  
 CHARACTER TRAITS  
 >	**Sacred Vow**: You have made a vow to serve a sacred cause. Regardless of what power you serve or what your goal is, you can draw power from the vow you once made. If you make a roll for an action that is a direct consequence of your vow or that clearly leads you towards your sacred goal, you can spend a Willpower Point to gain a D8 Artifact Die to the roll, before rolling. Spending 3 WP gives you a D10 to use, and spending 5 WP gives you a D12 to use. Activating the talent doesn’t count as an action.  
+
 
