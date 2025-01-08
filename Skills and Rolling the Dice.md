@@ -920,7 +920,7 @@ SAVE A LIFE: The most important application of HEALING is giving first aid and s
 
 # **TALENTS**
 COMBAT  
->	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack is not modified. If the Weight is NORMAL, -1. HEAVY, -2.  
+>	**Ambidextrous:** You are skilled in the art of fighting with one weapon in each hand, so long as each weapon is 1-handed. You have a primary weapon in your favored hand and a secondary weapon in your other hand. You can draw both weapons with a single DRAW WEAPON action. You can use your secondary weapon to perform one extra attack per round, as a fast action. If it is a LIGHT weapon, the attack is not modified. If the Weight is NORMAL, -1. HEAVY, -2. If the character has the MOUNTED COMBAT talent and is driving/piloting, vehicle counts as the "primary weapon," and their attack with a weapon is a fast action as though they were taking their second attack action with their off-hand (secondary) weapon.  
 >	**Assassin:** When guns at Arm's Length, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
 >	**Charger:** when moving from 10m to arm's L then melee attacking, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
 >	**Cold-Blooded**: Kill a helpless person without a roll. Breaking an enemy reduces stress level by 1  
@@ -929,9 +929,8 @@ COMBAT
 >	**Machinegunner:** When firing weapons at ROF 4 or higher, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
 >	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
 >	**Monster Hunter**- You are skilled at turning terror into scathing force. All your attacks against horrifying and unnatural creatures gain +1 bonus, and cause 1 additional point of damage. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10. If you roll a 10 or above on the Panic Table, all enemies count as "Monsters" for 1D rounds (if the effect is "Immediate") or the duration of the Panic Effect.
->	**Monster Trucker**- When using a vehicle as a weapon, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10)  
->	**Mounted melee:** +2 bonus when fighting from a mount or vehicle (there is no longer a penalty)  
->	**Mounted shooter:** +2 bonus when firing from a mount or vehicle (there is no longer a penalty)  
+>	**Monster Trucker**- When using a vehicle as a weapon, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10  
+>	**Mounted Combat**: Using MARKSMANSHIP or MELEE from a vehicle or mount what has moved in the last round no longer incurs a -2 penalty. If the character has the AMBIDEXTROUS talent they can attack with a weapon as a fast action as though they were taking their second attack action with their off-hand weapon.
 >	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. Overkill effect: you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
 >	**Pain Resistant:** You suffer no pain penalty when you take damage.  
 >	**Parrying:** Receive a +1 bonus to all Parries. May spend 1 WP to gain a free parry in a round. May spend 2 WP to parry unlimited number of times in the same round of combat, but only once against each attack. No matter how many times you PARRY, it will never count as more than one action.  
@@ -972,7 +971,8 @@ OTHER
 >	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
 >	**Packrat**: May carry +4 additional Weight.  
 >	**Seductive:** When trying to manipulate through seduction, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
->	**Signature Ride:** This specific vehicle is yours, and you know every bolt and cable, nook and cranny. Choose one vehicle or (not one type, but a single, specific vehicle). You get a +2 DRIVE or PILOTING with the chosen vehicle. You can choose this talent several times, once for each vehicle.  
+>	**Signature Ride**: This specific vehicle is yours, and you know every bolt and cable, nook and cranny. Choose one vehicle or (not one type, but a single, specific vehicle). You receive a +1 bonus to DRIVE or PILOTING with the chosen vehicle. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10. Can be chosen multiple times for additional signature vehicles.  
+>	**Stunt Driver**: Once per session, you may use one DRIVE or PILOT Bonus Effect for free without needing to roll. Must possess at least one rank in DRIVE or PILOT to be used in their respective craft. Can be chosen multiple times for additional uses but uses of this talent cannot be triggered simultaneously. However, a free DRIVE Bonus Effect can be used alongside a normal DRIVE roll for the purposes of stacking effects.  
 >	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
 >	**Wheel Guardian:** When your vehicle suffers critical damage, you can reroll once. The lowest roll counts.  
 
