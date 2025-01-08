@@ -4,7 +4,7 @@
 [Difficulty Modifiers](#modification)  
 [Gear Dice and Gear Wear](#gear-dice-and-wear)  
 [Pride](#pride)  
-[Developing Your Character](#developing-your-character)
+[Developing Your Character](#developing-your-character)  
 The Skills  
 >[Might (STR)](#might)  
 >[Endurance (STR)](#endurance)  
@@ -930,8 +930,8 @@ COMBAT
 >	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
 >	**Monster Hunter**- You are skilled at turning terror into scathing force. All your attacks against horrifying and unnatural creatures gain +1 bonus, and cause 1 additional point of damage. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10. If you roll a 10 or above on the Panic Table, all enemies count as "Monsters" for 1D rounds (if the effect is "Immediate") or the duration of the Panic Effect.
 >	**Monster Trucker**- When using a vehicle as a weapon, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10  
->	**Mounted Combat**: Using MARKSMANSHIP or MELEE from a vehicle or mount what has moved in the last round no longer incurs a -2 penalty. If the character has the AMBIDEXTROUS talent they can attack with a weapon as a fast action as though they were taking their second attack action with their off-hand weapon.
->	**Overkill**: Replace the effect of a Panic Roll of 14 or highter by the Overkill effect if you have any enemies in sight. Overkill effect: you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
+>	**Mounted Combat**: Using MARKSMANSHIP or MELEE from a vehicle or mount what has moved in the last round no longer incurs a -2 penalty. If the character has the AMBIDEXTROUS talent they can attack with a weapon as a fast action as though they were taking their second attack action with their off-hand weapon.  
+>	**Overkill**: Replace the effect of a Panic Roll of 14 or higher by the Overkill effect if you have any enemies in sight. Overkill effect: you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
 >	**Pain Resistant:** You suffer no pain penalty when you take damage.  
 >	**Parrying:** Receive a +1 bonus to all Parries. May spend 1 WP to gain a free parry in a round. May spend 2 WP to parry unlimited number of times in the same round of combat, but only once against each attack. No matter how many times you PARRY, it will never count as more than one action.  
 >	**Resilient**: By spending a WP, you may roll Strength to reduce any damage you take.   
