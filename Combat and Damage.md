@@ -6,6 +6,7 @@
 [Ranged Combat](#ranged-combat)  
 [Explosions](#explosions)  
 [Actions](#actions)  
+[Damage](#damage)  
 [Stress](#stress)  
 
 ### **ROUNDS AND INITIATIVE**
@@ -630,7 +631,7 @@ Then you must succeed on an INSIGHT: Calm roll (not an action) to avoid being SU
 - Next round, move away from perceived danger or stay put, but not towards it. 
 - All allies within 10m and line of sight must roll to avoid becoming suppressed.
 
-**Psychological/Fear attacks**: When a character succeeds in an INFLUENCE attempt, every success beyond the first one may (if they choose) add +1 Stress Point to the target. Beyond the second success, a success may (if they choose) trigger a Panic Check in the target.
+**Psychological/Fear attacks**: When a character succeeds in an INFLUENCE: Dominator attempt, every success beyond the first one may (if they choose) add +1 Stress Point to the target. Beyond the second success, a success may (if they choose) trigger a Panic Check in the target.
 *Example*: You roll 4 successes vs your target's 0 success. You now have 3 successes beyond the first. You may inflict up to +3 Stress Points, or up +2 Stress Points and a Panic Check.
 
 **Panicking**

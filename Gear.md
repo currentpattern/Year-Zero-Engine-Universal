@@ -196,3 +196,21 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | Signal Locator               | 6,000   | 3/R    | 1      | Monitors the signals of tracking devices. It includes a small display to show direction of movement. + $2000 for models that can pinpoint the location on a map.                                    |
 | Developer’s Laptop           | 30,000  | 3      | 1      | +1 Gear Dice, Memory 11, CPU 4                                                                                                                                                                      |
 | Bleeding Edge Laptop         | 100,000 | 3      | 2      | +2 Gear Dice, Memory 12, CPU 6                                                                                                                                                                      |
+# TOOLS & SPARE PARTS
+BASIC TOOLS: A general tool set that can be used to repair items or service vehicles. Includes wrenches, pliers,
+screwdrivers, etc. Weight: 2. Price 25.
+VEHICLE TOOLS: Specialized tools for repairing and servicing vehicles that give a +1 modifier when doing so. This tool set includes spark plug wrenches, torque wrenches, a grease gun, etc. Weight: 3. Price 50.
+WEAPON TOOLS: Specialized tools for repairing weapons that give you a +1 modifier for it. Weight: 2. Price 50.
+WEAPON SPARE PART: Needed to repair an inoperable weapon. Can also be used to jury rig. Weight: 1⁄2. Price 25.
+VEHICLE SPARE PART: Needed to repair an inoperable vehicle. Weight: 1. Price 50.
+ELECTRONIC SPARE PART: Needed to repair an inoperable electronic item. Weight: 1⁄2. Price 25.
+GENERAL SPARE PART: Needed to repair an inoperable mechanical item that is not a weapon or vehicle. Can also be used to jury rig items. Weight: 1. Price 10.
+RANDOM SCRAP: [the scrap table](the%20scrap%20table.md)
+
+# MEDICAL SUPPLIES
+PERSONAL MEDKIT: Gives a +1 modifier to MEDICAL AID rolls. Disposable, can only be used once. Weight: 1⁄4. Price 25.
+DOCTOR’S MEDICAL KIT: Medical equipment and drugs that give a +2 modifier to MEDICAL AID rolls. Includes 10 doses of each drug type below, plus bandages and tools for minor surgery. Weight: 2. Price 250.
+SURGICAL INSTRUMENTS: Scalpels, forceps, hemostats, clamps, and other tools. The set gives a +1 modifier to MEDICAL AID rolls, but only when treating fatal critical injuries. Can be combined with medkits. Weight: 1. Price 50.
+ANTIBIOTICS: Gives a +3 modifier to MEDICAL AID when treating infected wounds and other bacterial infections. The effect of a dose lasts for one day. Weight: 0. Price 25/dose.
+PAIN RELIEVER: Heals 1 point of damage in one stretch. Further doses during the same shift have no effect. Weight: 0. Price 15/dose.
+ATROPINE AUTOINJECTOR: A premeasured, automatic injector, which can be operated by nonmedical personnel to treat the effects of nerve agents. One dose, disposable. Weight: 0. Price 100.

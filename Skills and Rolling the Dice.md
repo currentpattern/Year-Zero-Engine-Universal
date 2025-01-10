@@ -595,7 +595,7 @@ Crafting Specialties
 >Tanner: turning pelts into leather, or leather into clothes and armor  
 >Tailor: crafting cloth or clothes  
 >Demolitions: placing and disarming mines and explosive devices  
->Jury-Rigging: Crafting makeshift items  
+>Jury-Rigging: Crafting makeshift modern or high-tech gear at a -2 DM
  
 CRAFT: Creating new items requires far more work than repairing existing ones does. It re-quires a CRAFTING roll (and the right talent, for ADVANCED items) just like repairing, but you also need raw material, in most cases special tools, and usually a lot more time. Some items are very complicated to craft and the roll will be modified negatively. All these requirements and prerequisites can be found in the gear tables in Chapter 9. Note that some raw materials might be items which in turn must be crafted.
 
@@ -638,6 +638,8 @@ REPAIR: Repairing a broken item generally takes a few hours and a successful CRA
 Creating a complex new invention requires rank 3 in a specialty most relevant to the machine, building material, or technique that you’re trying to invent. If the GM determines that there is no specialty relevant to what you’re trying to create, the alternative prerequisite is to have the base CRAFTING skill at rank 5. If you only have rank 5 CRAFTING, your initial attempt will be at a -4 penalty, and all subsequent attempts will be at -2. But if you get rank 3 in the relevant specialty, your initial attempt will be at a -2 penalty due to the difficulty of making something that’s never been done before, and all subsequent attempts will have no penalty.  
 - The following are example specialties that are related to technical expertise which can be used to push beyond the age’s tech level: Alchemist, Apothecary, Bowyer, Builder, Cartography, Chef, Physician, Smith, Tailor, Tanner.  
 - The GM will determine the material and tool requirements as well as time-taken to create your prototype.
+
+JURY RIGGING: Using CRAFTING: Jury-Rigging incurs a -2 DM compared to using TECHNICAL: Jury-Rigging. Only certain types of modern and high-tech gear can be jury-rigged from spare parts. This includes crude weapons, but also larger items such as stills for distilling fuel. Jury rigging an item requires number of Quarter Days of work and spare parts as indicated by the item’s description. You can try again if you fail. 
 ## **SCHOLAR**
 Roll for SCHOLAR when you want to know more about a subject, site, an important NPC or artifact. If you succeed, you will remember something important about it. With specialized subjects, a challenging roll (-2, or XX) will grant a +1 modification for another skill roll related to the subject, or a skill roll saliently enhanced by knowledge of the subject.
 
@@ -654,13 +656,15 @@ Scholar Specialties
 >Streetwise: Knowing how things work on the streets/underworld  
 
 
-| **General SCHOLAR Effects**                                                                                                                                                                                                                                                               | DM       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| Choose 1 applicable Bonus Effect<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Immediately gain +1 DM to a skill roll relating to this one (lose this bonus after scene or use)<br>- You impress someone. +1 to one INFLUENCE roll on them later. | -2 / XX  |
-| +1 modification to a later roll relating to what you’ve re-called.                                                                                                                                                                                                                        | -3 / XXX |
+| **General SCHOLAR Effects**                                                                                                                                                                                                                                                               | DM        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Choose 1 applicable Bonus Effect<br>- Give 1 success to another PC in a similar situation before your next turn. <br>- Immediately gain +1 DM to a skill roll relating to this one (lose this bonus after scene or use)<br>- You impress someone. +1 to one INFLUENCE roll on them later. | -2 / XX   |
+| +1 modification to a later roll relating to what you’ve re-called.                                                                                                                                                                                                                        | -3 / XXX  |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                         | -3 / XXX  |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                         | -5 / XXXX |
 **Special SCHOLAR Actions**
 
-CONTACTS / CONNECTIONS
+ROLLING FOR CONTACTS / CONNECTIONS
 In any given faction or group, a character might know people- how to acquire information, items, or favors. When attempting to inquire into specific contacts that have not been already narratively established, a character may roll SCHOLAR: Streetwise (or any other specialty that seems relevant, e.g. Business for corporate contacts). Their roll is then modified by their FACTION SCORE: a dice number representing how well they connected in good terms with the faction. 
 
 | Level of Familiarity / Good-Standing | Description                                                                                  | Modifier |
@@ -690,25 +694,47 @@ Technical Specialties
 >Gunsmith: repairing firearms  
 >Locksmith: picking locks, cracking safes, and disarming alarms.  
 >Mechanic: repairing engines, vehicles, generators, pumps.  
+>Jury-Rigging: 
 
-| CHEMISTRY Effects                                                                       | DM         |
-| --------------------------------------------------------------------------------------- | ---------- |
-| Refining Gold Ore, mixing gun powder, crafting small explosives, fire/explosive arrows. | -2 / XX    |
-| Crafting match cords, perfume and acids.                                                | -3 / XXX   |
-| Producing Alchemist Fire                                                                | -4 / XXX   |
-| Crafting detonators and explosives.                                                     | -7 / XXXXX |
+CRAFTING: Crafting modern or high technology uses TECHNICAL, but similarly as general crafting rules, with some slight differences. 
+- You will almost always require specialized tools, a garage, or workshop.  
+- -2 DM is applied with the exception of jury-rigging.  
+- Many items are too complex to be made from scratch, so instead of crafting from raw materials, you will need a certain number of SPARE PARTS of the relevant type: vehicle, weapon, electronic – or general, if none of the others apply.  
+- If the roll succeeds, you complete the item with a reliability rating 2 points lower than the “original” (down to a minimum of 1) plus 1 for each X rolled beyond the first (to a maximum of the original reliability). The reliability rating achieved during manufacturing is the maximum for the item.  
+- The requirements in time and materials to manufacture an item vary immensely, but some general guidelines follow below.   
+
+WEAPONS: The time requirement ranges from about a week for small arms, to several weeks for heavy weapons. You also need spare parts with a total weight equal to the weight of the item, evenly divided between general spare parts and weapon spare parts. Some weapons might also require electronic spare parts (Referee’s discretion). Ammunition is not included. Some examples of spare part requirements:  
+- PISTOL: 1 weapon  
+- SHOTGUN: 1 general and 1 weapon  
+- ATRL: 2 general and 2 weapon  
+- HMG: 4 general and 4 weapon  
+- MORTAR (82mm): 8 general and 8 weapon  
+
+AMMUNITION: To manufacture ammunition, you need general spare parts and explosives in equal weight,
+totaling the same weight as the ammunition you want to produce. In a workshop, you can produce one encumbrance units’ worth of ammo per shift of work for each X you roll on your TECH roll. Be careful though – if you fail a roll, immediately roll again. If the second roll also fails, you trigger an explosion with a blast power equal to the type of round you are making (D for non-explosive).  
+
+VEHICLES: The time requirement ranges from about a week for a bicycle or motorcycle, to several weeks for larger vehicles. You also need spare parts with a total weight equal to the weight of the vehicle, evenly divided between general spare parts and vehicle spare parts. Most vehicles also require some electronic spare parts. Vehicle-mounted weapons are not included when building a vehicle – these must be built separately in a workshop. Some examples of spare part requirements:  
+- BICYCLE: 2 general, 2 vehicle  
+- DIRTBIKE: 25 general, 25 vehicle, 1 electronic  
+- PICKUP TRUCK: 150 general, 150 vehicle, 5 electronic  
+- APC: 1,500 general, 1,500 vehicle, 10 electronic  
+
+| General TECHNICAL Effects                                                                                                                                                                                                                                                                                                                                                                                                                       | DM         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Choose 1 applicable Bonus Effect<br>- Gain +1 modification to a later skill roll relating to this one<br>- You don't need to roll to overcome the exact same challenge in the future.<br>- You do it quickly, in half the time it would normally take.<br>- You get new or unexpected information (computers)<br>- You act quietly (physical), or hide your tracks (computer)<br>- You impress someone. +1 to one INFLEUNCE roll on them later. | -2 / XX    |
+| (Chemist) Refining Gold Ore, mixing gun powder, crafting small explosives, fire/explosive arrows.                                                                                                                                                                                                                                                                                                                                               | -2 / XX    |
+| (Chemist) Crafting match cords, perfume and acids.                                                                                                                                                                                                                                                                                                                                                                                              | -3 / XXX   |
+| (Chemist) Producing Alchemist Fire                                                                                                                                                                                                                                                                                                                                                                                                              | -4 / XXX   |
+| Choose 2 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                               | -3 / XXX   |
+| Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                               | -5 / XXXX  |
+| (Chemist) Crafting detonators and explosives.                                                                                                                                                                                                                                                                                                                                                                                                   | -7 / XXXXX |
+**Special TECHNICAL Actions**
+
+LOCKPICKING
 
 | LOCKPICKING Effects                                                                   | DM       |
 | ------------------------------------------------------------------------------------- | -------- |
 | Pick a lock with makeshift tools (dagger, a nail, or any other suitable item to hand) | -3 / XXX |
-OTHER EXTRA EFFECTS:
-For every extra X, choose 1 applicable effect:
-- Gain +1 modification to a later skill roll relating to this one
-- You don't need to roll to overcome the exact same challenge in the future.
-- You do it quickly, in half the time it would normally take.
-- You get new or unexpected information (computers)
-- You act quietly (physical), or hide your tracks (computer)
-- You impress someone. +1 to one INFLEUNCE roll on them later.
 
 DEMOLITIONS: Placing and disarming mines and explosive devices.
 
@@ -718,6 +744,7 @@ DEMOLITIONS: Placing and disarming mines and explosive devices.
 | Crafting an IED with extra shrapnel (1 QD)                                                                                                      | -1 / XX |
 | Setting a shaped charge                                                                                                                         | -2 / XX |
 
+HACKING: [Hacking](Hacking.md) uses TECHNICAL: Computers
 
 ## **EMPATHY**
 ## **INSIGHT**
@@ -827,8 +854,11 @@ BUYING & SELLING: Roll Manipulation vs. Insight when buying or selling in order 
 
 | INFLUENCE: Dominator Effects                                                                                                                                                                                                                   | DM        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Inflict 1 point of Empathy damage. +1 per extra success                                                                                                                                                                                        | -3 / XXX  |
+| Inflict 1 Stress Point to the target                                                                                                                                                                                                           | -1 / XX   |
+| Inflict 1 point of Empathy damage. +1 per extra success                                                                                                                                                                                        | -2 / XX   |
+| Inflict 2 Stress Points AND Trigger a Panic Check in the target                                                                                                                                                                                | -3 / XXX  |
 | Rolling Influence: Dominator after a successful coup de grace attacks counts as a fear attack against enemies in 20m. Success and any extras are then distributed evenly as Wits damage amongst your targets. Animals and monsters are immune. | -5 / XXXX |
+
 
 | INFLUENCE: Command Effects (Fast Action)                                                                                                                                                                                                                                                                                                                            | DM        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -958,6 +988,7 @@ EXTRA PUSHES
 STRESS AND HEALING  
 >	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place. Once per Quarter Day, you may as a slow action make an INSIGHT: Calm roll in place of an ally within 10m.  
 >	**Fast Healer**: Healing time for critical injuries is halved  	
+>	**Iconoclast**: You may enact the "Having Fun" method of relieving stress for 1 hour instead of 6 hours, though it must involve destroying something that stupid motherfuckers find meaningful, beautiful, or valuable. 
 >	**Loving**: You may have 1 more Anchor. This talent may be purchased 3 times.  
 >	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
 >	**Seen it all**: Once per session, you may ignore all rolled banes  
