@@ -987,7 +987,7 @@ EXTRA PUSHES
 
 STRESS AND HEALING  
 >	**Calming presence**: Once per Turn (15 minutes), you may reduce someone else's stress level by 1 if you're both in a relatively safe place. Once per Quarter Day, you may as a slow action make an INSIGHT: Calm roll in place of an ally within 10m.  
->	**Fast Healer**: Healing time for critical injuries is halved  	
+>	**Fast Healer**: Healing time for critical injuries is halved  
 >	**Iconoclast**: You may enact the "Having Fun" method of relieving stress for 1 hour instead of 6 hours, though it must involve destroying something that stupid motherfuckers find meaningful, beautiful, or valuable. 
 >	**Loving**: You may have 1 more Anchor. This talent may be purchased 3 times.  
 >	**Shepherd**: Anyone can use you as an Anchor when they need to relieve stress, even if you are not their Anchor.  
