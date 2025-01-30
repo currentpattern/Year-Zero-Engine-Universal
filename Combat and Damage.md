@@ -212,7 +212,7 @@ FULL COVER: Full cover breaks line of sight and typically makes it impossible to
 
 **Heavy Protection** represents the armor you would find on a tank or protection provided by a solid wall, or a concrete casemate. Heavy Protection is so tough that it cannot be penetrated by a weapon unless the weapon possesses the Armor-Piercing feature. Against Armor-Piercing weaponry, the target will roll its full Armor + Cover pool to defend against the attack.
 
-DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to dodge. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE, but as a Reaction, you may still:
+DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to dodge. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE (or just a penalty), but as a Reaction, you may still:
 	a) Hit the dirt. Fast Action. No roll needed. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).
 	b) Seek Cover. Fast Action. Roll MOVE. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you. 
 	

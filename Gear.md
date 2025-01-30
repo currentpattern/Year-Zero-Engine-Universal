@@ -208,9 +208,95 @@ GENERAL SPARE PART: Needed to repair an inoperable mechanical item that is not a
 RANDOM SCRAP: [the scrap table](the%20scrap%20table.md)
 
 # MEDICAL SUPPLIES
-PERSONAL MEDKIT: Gives a +1 modifier to MEDICAL AID rolls. Disposable, can only be used once. Weight: 1⁄4. Price 25.
-DOCTOR’S MEDICAL KIT: Medical equipment and drugs that give a +2 modifier to MEDICAL AID rolls. Includes 10 doses of each drug type below, plus bandages and tools for minor surgery. Weight: 2. Price 250.
-SURGICAL INSTRUMENTS: Scalpels, forceps, hemostats, clamps, and other tools. The set gives a +1 modifier to MEDICAL AID rolls, but only when treating fatal critical injuries. Can be combined with medkits. Weight: 1. Price 50.
-ANTIBIOTICS: Gives a +3 modifier to MEDICAL AID when treating infected wounds and other bacterial infections. The effect of a dose lasts for one day. Weight: 0. Price 25/dose.
-PAIN RELIEVER: Heals 1 point of damage in one stretch. Further doses during the same shift have no effect. Weight: 0. Price 15/dose.
-ATROPINE AUTOINJECTOR: A premeasured, automatic injector, which can be operated by nonmedical personnel to treat the effects of nerve agents. One dose, disposable. Weight: 0. Price 100.
+
+| GEAR                  | PRICE | SUPPLY | Weight | FEATURES                                                                                                                                                                               |
+| --------------------- | ----- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                       |       |        |        |                                                                                                                                                                                        |
+| Pain Reliever         | 15    |        | 0      | One dose. Heals 1 point of damage in 15 minutes. Further doses during the same QD have no effect.                                                                                      |
+| Personal Medkit       | 25    |        | .5     | +1 modifier to MEDICAL AID rolls. Disposable, can only be used once                                                                                                                    |
+| Antibiotics           | 25    |        | 0      | One done. +3 MEDICAL AID when treating infected wounds and other bacterial infections. The effect of a dose lasts for one day                                                          |
+| Surgical Instruments  | 50    |        | 1      | Scalpels, forceps, hemostats, clamps, and other tools. The set gives a +1 modifier to MEDICAL AID rolls, but only when treating fatal critical injuries. Can be combined with medkits. |
+| Atropine Autoinjector | 100   |        | 0      | One dose. A premeasured, automatic injector, which can be operated by nonmedical personnel to treat the effects of nerve agents.                                                       |
+| Doctor's Medical kit  | 250   |        | 2      | Medical equipment and drugs that give a +2 modifier to MEDICAL AID rolls. Includes 10 doses of each drug type below, plus bandages and tools for minor surgery                         |
+
+
+**PISTOLS**
+
+| **Weapon**       | **Price** | **Gear** | **DMG** | **Ammo Type** | **ROF** | **Range** | **Mag** | **Jam** | **Features**     | **Hide** | **Str** | **Weight** | Supply |
+| ---------------- | --------- | -------- | ------- | ------------- | ------- | --------- | ------- | ------- | ---------------- | -------- | ------- | ---------- | ------ |
+| Pocket Pistol    | 75        | 0        | 1       | .380 AUTO     | 3       | Medium    | 8+1     | 5       | Arm, 1H          | +3       | 1       | 0.25       | 1/F    |
+| Service Revolver | 75        | 1        | 1       | 0.38 SPC      | 2       | Medium    | 6       | 10      | Arm, 1H          | +3       | 2       | 0.5        | 1/F    |
+| Compact          | 100       | 1        | 2       | 9mm           | 3       | Long      | 7+1     | 5       | Arm, 1H          | +2       | 2       | 0.5        | 1/F    |
+| Glock 17         | 125       | 1        | 2       | 9mm           | 3       | Long      | 17+1    | 5       | Arm, 1H          | +1       | 2       | 0.5        | 1/F    |
+| Colt .45         | 400       | 2        | 3       | .45 ACP       | 3       | Long      | 7+1     | 5       | Arm, 1H-1        | +1       | 2       | 0.5        | 1/F    |
+| Colt Python      | 600       | 2        | 3       | .357 MAG      | 1       | Long      | 6       | 10      | Arm, 1H-1        | 0        | 2       | 0.5        | 2/F    |
+| Desert Eagle     | 1000      | 3        | 4       | .50 AE        | 2       | Long      | 7+1     | 5       | Arm, 1H-2        | -1       | 3       | 0.75       | 3/F    |
+| X-Gun            | 1500      | 2        | 5       | .500 S&W      | 1       | Long      | 5       | 10      | Arm, 1H-3, Scary | -2       | 4       | 1          | 4/F    |
+
+**RIFLES**
+
+| **Weapon**        | **Price** | **Gear** | **DMG** | **Ammo** | **ROF** | **Range** | **Mag** | **Jam** | **Features**    | **Str** | **Weight** | Supply |
+| ----------------- | --------- | -------- | ------- | -------- | ------- | --------- | ------- | ------- | --------------- | ------- | ---------- | ------ |
+| Ruger 10/22       | 100       | 3        | 1       | .22 LR   | 2       | Distant   | 10      | 7       | 1H-3, AP        | 1       | 2          | 1/F    |
+| Winchester        | 300       | 3        | 2       | .308     | 1       | Extreme   | 10      | 11      | 1H-3, AP        | 2       | 2          | 1/F    |
+| M1A Semi-Auto     | 450       | 2        | 2       | .308     | 2       | Distant   | 20      | 7       | 1H-3, AP        | 2       | 2          | 3/R    |
+| Lever-action      | 250       | 2        | 3       | .30-06   | 1       | Distant   | 8       | 9       | 1H-3, AP        | 3       | 1          | 2/F    |
+| Bolt-action rifle | 300       | 2        | 3       | .30-06   | 1       | Extreme   | 5       | 11      | 1H-3, AP        | 2       | 1          | 2/F    |
+| M21 Sniper        | 500       | 3        | 3       | 7.62x51  | 2       | Extreme   | 20      | 7       | 1H-3, AP        | 2       | 2          | 4/R    |
+| M82 Barrett       | 1000      | 3        | 4       | .50 BMG  | 2       | Extreme   | 10      | 7       | 1H-3, AP, Scary | 3       | 3          | 4/X    |
+
+
+# ARMOR
+
+light kevlar: rating 4, torso, $400 availability 2
+riot shield: +3, weight 
+Ballistic Shield: MORE
+
+| Armor                    | Price | rating | Features                                                 | Supply | Weight (1/2 when worn) |
+| ------------------------ | ----- | ------ | -------------------------------------------------------- | ------ | ---------------------- |
+| Bicycle helmet           | 30    | 1      | H. Blastweak                                             | 1      | 0.5                    |
+| Motorcycle Jacket        | 50    | 2      | T; Blastweak; -1 move if combined with other torso armor | 1      | .5                     |
+| Football Helmet          | 75    | 2      | H. Blastweak                                             | 1      | 0.5                    |
+| Motorcycle Helmet        | 200   | 3      | H                                                        | 1      | .5                     |
+| Light Security Vest      | 280   | 3      | T                                                        | 2      | 1                      |
+| Riot Helmet              | 300   | 4      | H                                                        | 2      | 1                      |
+| Police Kevlar Vest       | 350   | 4      | T                                                        | 2      | 1                      |
+| Tactical Kevlar Vest     | 400   | 5      | T                                                        | 3/F    | 1                      |
+| Steel Plate Vest         | 600   | 6      | T                                                        | 3/F    | 3                      |
+| SWAT Helmet              | 600   | 5      | H                                                        | 3/F    | 1                      |
+| Ceramic Plate Vest       | 700   | 5 H    | T; Ablative                                              | 3/F    | 1.5                    |
+| Combat Helmet            | 700   | 5      | H; rails and goggle mount                                | 3/F    | 1                      |
+| Polythelene Plate Vest   | 750   | 6      | T                                                        | 3/F    | 1.5                    |
+| Heavy Steel Plate Vest   | 1000  | 8      | T                                                        | 3/R    | 4                      |
+| Advanced Combat Helmet   | 1000  | 6      | H; rails and goggle mount                                | 4/R    | 1                      |
+| EOD Helmet               | 1300  | 7      | H                                                        | 4/R    | 2                      |
+| Heavy Ceramic Plate Vest | 5000  | 8 H    | T; Ablative                                              | 4/R    | 3                      |
+| EOD Suit                 | 8400  | 5 H    | ALT; Ablative                                            | 4/X    | 10                     |
+**Features**
+> Ablative: Shattering plates to defend against AP rounds. Every X of potential damage that the armor protects the wearer from reduces the armor rating by 1 in that body part. This includes from non-AP rounds.
+> Blastweak: Bullets reduce the armor rating by the weapon's Base Damage for the purpose of rolling for damage
+
+
+# General
+
+| ITEM                    | Weight | BONUS         |
+| ----------------------- | ------ | ------------- |
+| Advanced medical gear   | Varies | Medicine +2   |
+| Basic medical gear      | 1      | Medicine +1   |
+| Binoculars              | 1⁄2    | Scout +2      |
+| Book of maps            | 1⁄2    | Scout +1      |
+| Bottle of liquor        | 1⁄2    | Manipulate +2 |
+| Camera                  | 1⁄2    | —             |
+| Compass                 | —      | Survival +2   |
+| Crowbar                 | 1      | Force +2      |
+| Field kitchen           | 1      | —             |
+| Horse                   | —      | —             |
+| Guitar                  | 1      | Leadership +1 |
+| Lockpicks               | —      | Stealth +2    |
+| Pack of gum/ cigarettes | —      | Manipulate +1 |
+| Ration of food          | 1⁄2    | —             |
+| Rope (10 meters)        | 1      | Mobility +2   |
+| Sleeping bag            | 1      | Survival +1   |
+| Tent                    | 2      | Survival +2   |
+| Toolbox                 | 1      | Tech +2       |
+| Walkie-­talkies         | 1⁄2    | Leadership +1 |
