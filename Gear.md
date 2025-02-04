@@ -247,7 +247,7 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 **Replacement Plates**: Cost 1/5 of vest total, account for 2 units of rating, for repair purposes. same Availability
 
 **Features**
-> **Ablative**: Shattering plates to defend against AP rounds. Every X of potential damage that the armor protects the wearer from reduces the armor rating by 1 in that body part. This includes from non-AP rounds.
+> **Ablative**: Shattering plates to defend against AP rounds. Every X of potential damage that the armor protects the wearer from reduces the armor rating by 1 in that body part. This includes from non-AP rounds.  
 > **Blastweak**: Bullets reduce the armor rating by the weapon's Base Damage for the purpose of rolling for damage. AP rounds and explosions reduce the armor rating twice.
 > **H, A, L, T:** Armor covers Head, Arms, Legs, and/or Torso
 # SHIELDS
@@ -263,8 +263,8 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | Ballistic Pavise           | 2400  | +3    | 5, 4 body areas   | Windowed                                                                                                                            | 5      | 4/$        |
 | Ceramic AP Shield          | 3600  | +2    | 8H, 3 body areas  | Ablative                                                                                                                            | 3      | 4/X        |
 **Features**
-> **Ablative**: Shattering plates to defend against AP rounds. Every X of potential damage that the armor protects the wearer from reduces the armor rating by 1 in that body part. This includes from non-AP rounds.
-> **Blastweak**: Bullets reduce the armor rating by the weapon's Base Damage for the purpose of rolling for damage
+> **Ablative**: Shattering plates to defend against AP rounds. Every X of potential damage that the armor protects the wearer from reduces the armor rating by 1 in that body part. This includes from non-AP rounds.  
+> **Blastweak**: Bullets reduce the armor rating by the weapon's Base Damage for the purpose of rolling for damage  
 > **Windowed:** EMERGE FROM COVER action not necessary in order to see.  
 # MISC COMBAT GEAR
 
