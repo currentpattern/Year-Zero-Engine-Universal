@@ -96,7 +96,7 @@ To find a restricted item without the required legal authorization, first an Ava
 **Ordnance**: -2 modifier to hit anything. Meaning you get no bonus for firing at large targets such as vehicles and 10m areas, and a –2 penalty if you fire Ordnance at an individual.  
 **Platform**: Needs to be fired from a tripod or vehicle mount.  
 **Scary**: The use of this weapon immediately imposes a Panic test when it is first fired into your Zone, regardless of success.  
-**Small**: -1 (instead of -2) when shooting targets at Arms Length. 
+**Small**: -1 (instead of -2) when shooting targets at Arms Length.   
 **STR**: Weapons is heavy/unwieldy/powerful enough that it requires a (listed) minimum STRENGTH to fire it properly, unless it's resting on a stable platform, prop, stand, or tripod. -1 for every point of STR below the minimum.
 
 [Sam's Weapon Drafts](Sam's%20Weapon%20Drafts.md)
