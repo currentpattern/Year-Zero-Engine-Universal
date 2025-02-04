@@ -90,7 +90,6 @@ To find a restricted item without the required legal authorization, first an Ava
 **AP**: Armor-Piercing. If target's armor/cover is LIGHT, subtract Base Damage from protection rating. If armor/cover is HEAVY, roll as normal.  
 **Belt**: belt-fed weapon. The ammo belt has weight 1.  
 **Disposable:** Weapon can only be fired once, and is then unusable.  
-**Heavy**: MARKSMANSHIP uses STRENGTH as its Attribute/Base Dice instead of AGILITY when firing it, unless it's resting on a stable platform, prop, stand, or tripod.
 **Jurryrig**: Can be jurry rigged  
 **Laser-Guided**: At Long range or farther, the weapon will no strike until the beginning of the attacker's next turn, and if they take any actions that cause their aim to falter (moving), the weapon will miss.   
 **Load**: Loading the weapon before a shot is a slow actions.  
@@ -98,20 +97,21 @@ To find a restricted item without the required legal authorization, first an Ava
 **Platform**: Needs to be fired from a tripod or vehicle mount.  
 **Scary**: The use of this weapon immediately imposes a Panic test when it is first fired into your Zone, regardless of success.  
 **Small**: -1 (instead of -2) when shooting targets at Arms Length. 
+**STR**: Weapons is heavy/unwieldy/powerful enough that it requires a (listed) minimum STRENGTH to fire it properly, unless it's resting on a stable platform, prop, stand, or tripod. -1 for every point of STR below the minimum.
 
 [Sam's Weapon Drafts](Sam's%20Weapon%20Drafts.md)
 ### **PISTOLS**
 
-| **Weapon**       | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**              | **Weight** | Supply |
-| ---------------- | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | ------------------------- | ---------- | ------ |
-| Pocket Pistol    | 75        | 0              | 1          | 5.7mm         | 5               | 3       | Medium        | 8+1         | Small, 1H                 | 0.25       | 1/F    |
-| Service Revolver | 75        | 1              | 1          | 0.38 SPC      | 6               | 2       | Medium        | 6           | Small, 1H                 | 0.5        | 1/F    |
-| Compact          | 100       | 1              | 1          | 9mm           | 5               | 3       | Long          | 7+1         | Small, 1H                 | .5         | 1/F    |
-| Glock 17         | 125       | 1              | 1          | 9mm           | 5               | 3       | Long          | 17+1        | Small, 1H                 | 0.5        | 1/F    |
-| Colt .45         | 400       | 2              | 3          | .45 ACP       | 5               | 3       | Long          | 7+1         | Small, 1H-1               | .5         | 1/F    |
-| Colt Python      | 600       | 2              | 2          | .357 MAG      | 6               | 1       | Long          | 6           | Small, 1H-1               | 0.5        | 2/F    |
-| Desert Eagle     | 1000      | 3              | 3          | .50 AE        | 5               | 2       | Long          | 7+1         | AP, Small, 1H-2           | 0.75       | 3/F    |
-| X-Gun            | 1500      | 2              | 3          | .500 S&W      | 6               | 1       | Long          | 5           | Small, Heavy, Scary, 1H-3 | 1          | 4/F    |
+| **Weapon**       | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**                     | **Hide** | **Weight** | Supply |
+| ---------------- | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | -------------------------------- | -------- | ---------- | ------ |
+| Pocket Pistol    | 75        | 0              | 1          | 5.7mm         | 5               | 3       | Medium        | 8+1         | Small, 1H                        | +3       | 0.25       | 1/F    |
+| Service Revolver | 75        | 1              | 1          | 0.38 SPC      | 6               | 2       | Medium        | 6           | Small, 1H                        | +3       | 0.5        | 1/F    |
+| Compact          | 100       | 1              | 1          | 9mm           | 5               | 3       | Long          | 7+1         | Small, 1H                        | +2       | .5         | 1/F    |
+| Glock 17         | 125       | 1              | 1          | 9mm           | 5               | 3       | Long          | 17+1        | Small, 1H                        | +1       | 0.5        | 1/F    |
+| Colt .45         | 400       | 2              | 3          | .45 ACP       | 5               | 3       | Long          | 7+1         | Small, 1H-1                      | +1       | .5         | 1/F    |
+| Colt Python      | 600       | 2              | 2          | .357 MAG      | 6               | 1       | Long          | 6           | Small, 1H-1                      | 0        | 0.5        | 2/F    |
+| Desert Eagle     | 1000      | 3              | 3          | .50 AE        | 5               | 2       | Long          | 7+1         | AP, Small, 1H-2                  | -1       | 0.75       | 3/F    |
+| X-Gun            | 1500      | 2              | 3          | .500 S&W      | 6               | 1       | Long          | 5           | Small, Heavy, Scary, 1H-3, STR 3 | -2       | 1          | 4/F    |
 
 ### **RIFLES**
 
@@ -121,9 +121,9 @@ To find a restricted item without the required legal authorization, first an Ava
 | Winchester        | 300       | 3    | 2   | .308     | 6           | 1   | Extreme | 10      | 1H-3                   | 2          | 1/F    |
 | Bolt-action rifle | 300       | 2    | 3   | .30-06   | 6           | 1   | Extreme | 5       | 1H-3                   | 1          | 2/F    |
 | M1A Semi-Auto     | 450       | 2    | 2   | .308     | 5           | 2   | Distant | 20      | 1H-3                   | 2          | 3/R    |
-| Lever-action      | 250       | 2    | 3   | .30-06   | 6           | 1   | Distant | 8       | 1H-3                   | 1          | 2/F    |
+| Lever-action      | 250       | 2    | 3   | .30-06   | 6           | 1   | Distant | 8       | 1H-3, STR 3            | 1          | 2/F    |
 | M21 Sniper        | 500       | 3    | 3   | 7.62x51  | 5           | 2   | Extreme | 20      | AP. 1H-3               | 2          | 4/R    |
-| M82 Barrett       | 1000      | 3    | 4   | .50 BMG  | 5           | 1   | Extreme | 10      | AP, 1H-3, Scary, Heavy | 3          | 4/X    |
+| M82 Barrett       | 1000      | 3    | 4   | .50 BMG  | 5           | 1   | Extreme | 10      | AP, 1H-3, Scary, STR 4 | 3          | 4/X    |
 
 ### **SHOTGUNS**
 
@@ -138,7 +138,7 @@ To find a restricted item without the required legal authorization, first an Ava
 
 | **Weapon** | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features** | **Weight** | Supply |
 | ---------- | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | ------------ | ---------- | ------ |
-| Vz. 61     | 200       | 0              | 1          | 7.65mm        | 5               | 6       | Long          | 20          | smallarm     | 0.5        | 3/R    |
+| Vz. 61     | 200       | 0              | 1          | 7.65mm        | 5               | 6       | Long          | 20          | Small        | 0.5        | 3/R    |
 | PM-84      | 300       | 0              | 1          | 9mm           | 5               | 4       | Long          | 25          | 1H-2         | 1          | 4/X    |
 | PP-19      | 350       | 0              | 1          | 9mm           | 5               | 5       | Long          | 64          | 1H-2         | 1          | 4/X    |
 | P90        | 400       | 1              | 1          | 5.7mm         | 5               | 6       | Long          | 30          | 1H-2         | 1          | 4/X    |
@@ -157,14 +157,14 @@ To find a restricted item without the required legal authorization, first an Ava
 
 ### **MACHINE GUNS**
 
-| **Weapon**   | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**                   | **Weight** | Supply |
-| ------------ | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | ------------------------------ | ---------- | ------ |
-| RPK-74       | 750       | 1              | 2          | 5.45mm        | 5               | 5       | Distant       | 45          | 2H                             | 2          | 3/X    |
-| M249 SAW     | 1000      | 0              | 2          | 5.56mm        | 5               | 6       | Distant       | 200         | AP, Belt, 2H                   | 2          | 3/X    |
-| HK21E        | 1250      | 1              | 3          | 7.62mm        | 5               | 6       | Distant       | 100         | Belt, 2H                       | 3          | 3/X    |
-| PKM          | 2000      | 1              | 3          | 7.62mm        | 5               | 5       | Distant       | 100         | AP, Belt, 2H                   | 3          | 3/X    |
-| NSV          | 2000      | 1              | 4          | 12.7mm        | 5               | 6       | Extreme       | 50          | AP, Belt, Platform, Terrifying | 6          | 4/X    |
-| M134 Minigun | 5000      | 2              | 3          | 7.62mm        | 5               | 15      | Extreme       | 500         | Belt, Platform, Terrifying     | 13         | 4/X    |
+| **Weapon**   | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**              | **Weight** | Supply |
+| ------------ | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | ------------------------- | ---------- | ------ |
+| RPK-74       | 750       | 1              | 2          | 5.45mm        | 5               | 5       | Distant       | 45          | 2H, STR 3                 | 2          | 3/X    |
+| M249 SAW     | 1000      | 0              | 2          | 5.56mm        | 5               | 6       | Distant       | 200         | AP, Belt, 2H, STR 4       | 2          | 3/X    |
+| HK21E        | 1250      | 1              | 3          | 7.62mm        | 5               | 6       | Distant       | 100         | Belt, 2H, STR 5           | 3          | 3/X    |
+| PKM          | 2000      | 1              | 3          | 7.62mm        | 5               | 5       | Distant       | 100         | AP, Belt, 2H, STR 5       | 3          | 3/X    |
+| NSV          | 2000      | 1              | 4          | 12.7mm        | 5               | 6       | Extreme       | 50          | AP, Belt, Platform, Scary | 6          | 4/X    |
+| M134 Minigun | 5000      | 2              | 3          | 7.62mm        | 5               | 15      | Extreme       | 500         | Belt, Platform, Scary     | 13         | 4/X    |
 
 ### **HAND GRENADES**
 
@@ -180,14 +180,14 @@ To find a restricted item without the required legal authorization, first an Ava
 
 ### **HEAVY ORDNANCE**
 
-| **Weapon**                     | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**                               | **Weight** | Supply |
-| ------------------------------ | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | ------------------------------------------ | ---------- | ------ |
-| M72A3 LAW Rocket Launcher      | 100       | 1              | 6          | 66mm          | 5               | 1       | Distant       | 1           | AP, Ordnance, Disposable, 2H, Blast 2D8    | 1          | 3/X    |
-| M79 Gren. Launcher             | 250       | 1              | 3          | 40mm          | 5               | 1       | Distant       | 1           | Ordnance, Blast 2D6, 1H-2                  | 1          | 3/X    |
-| M203 Gren Launcher (for M4)    | 300       | 1              | 3          | 40mm          | 5               | 1       | Distant       | 1           | Ordnance, Blast 2D6                        | 0.5        | 3/X    |
-| MK 19 Auto Gren. Launcher      | 2500      | 2              | 3          | 40mm          | 5               | 4       | Extreme       | 32          | Ordnance, Belt, Platform, Blast 2D6        | 6          | 4/X    |
-| M47 Dragon Guided Missile      | 5000      | 2              | 11         | 140mm         | 5               | 1       | Extreme       | 1           | AP, Laser-Guided, Ordnance, 2H, Blast 2D10 | 3          | 4/X    |
-| FGM-148 Javelin Guided Missile | 7500      | 2              | 10         | 127mm         | 5               | 1       | Extreme       | 1           | AP, Ordnance, 2H, Blast 2D10               | 3          | 4/X    |
+| **Weapon**                     | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**                                      | **Weight** | Supply |
+| ------------------------------ | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | ------------------------------------------------- | ---------- | ------ |
+| M72A3 LAW Rocket Launcher      | 100       | 1              | 6          | 66mm          | 5               | 1       | Distant       | 1           | AP, Ordnance, Disposable, 2H, Blast 2D8           | 1          | 3/X    |
+| M79 Gren. Launcher             | 250       | 1              | 3          | 40mm          | 5               | 1       | Distant       | 1           | Ordnance, Blast 2D6, 1H-2                         | 1          | 3/X    |
+| M203 Gren Launcher (for M4)    | 300       | 1              | 3          | 40mm          | 5               | 1       | Distant       | 1           | Ordnance, Blast 2D6                               | 0.5        | 3/X    |
+| MK 19 Auto Gren. Launcher      | 2500      | 2              | 3          | 40mm          | 5               | 4       | Extreme       | 32          | Ordnance, Belt, Platform, Blast 2D6               | 6          | 4/X    |
+| M47 Dragon Guided Missile      | 5000      | 2              | 11         | 140mm         | 5               | 1       | Extreme       | 1           | AP, STR 4, Laser-Guided, Ordnance, 2H, Blast 2D10 | 3          | 4/X    |
+| FGM-148 Javelin Guided Missile | 7500      | 2              | 10         | 127mm         | 5               | 1       | Extreme       | 1           | AP, STR 3 Ordnance, 2H, Blast 2D10                | 3          | 4/X    |
 
 # **Ammunition**
 A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full unit  
