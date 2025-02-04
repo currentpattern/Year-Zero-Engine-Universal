@@ -121,16 +121,20 @@ When you attack in close combat, you use the MELEE skill. Close combat usually h
 
 WEAPONS: When you enter close combat, it is wise to have a weapon in hand. Weapons give you a Gear Bonus for your roll (see page 49), increase the damage caused and allow you to perform actions that are harder or even impossible without a weapon. 
 
-SHIELD: Carrying a shield is also very useful in close combat. You can PARRY attacks with it, but you can also use it to improve your ability to SHOVE opponents to the ground. 
-
-SACRIFICING SHIELD: When using a PARRY action with a shield, the character can choose to discard the shield to reduce all damage from the parried attack to zero if it had at least one success on the PARRY roll. This leaves the shield completely broken.
-
 STANCE: It is recommended that you stand on your feet when you attack. If you are prone, you must spend a Fast Action to GET UP. While prone, you may use the SHOVE attack. You may still attack with weapons that have NEAR range, however while prone it’s range is now ARM’S LENGTH and you suffer a -1 penalty. Standing enemies get a +2 modification on all melee attacks against a prone enemy.
 
 ATTACKS OF OPPORTUNITY
-Under 2 circumstances, an enemy may attack out of turn as a Reactive Action (counting against their action economy):
-1) If they possess a melee weapon with SHORT range, and they are aware of an enemy **entering** the range of the melee weapon.
-2) Not prone, and in possession of any melee weapon (not brawling), and they are aware of an enemy **leaving** the range of their weapon. 
+Under 2 circumstances, a character may attack out of turn as a Reactive Action (counting against their action economy):
+1) If you possess a melee weapon with the REACH feature, and you are aware of an enemy **entering** the range of the melee weapon.
+2) Not prone, and in possession of any melee weapon (not brawling), and you are aware of an enemy **leaving** the range of their weapon. 
+
+SHIELDS: Carrying a shield is also very useful in close combat. You can PARRY attacks with it, modified by the shield's parry bonus. You can also use it to improve your ability to SHOVE opponents to the ground. 
+
+SACRIFICING SHIELD: When using a PARRY action with a shield, the character can choose to discard the shield to reduce all damage from the parried attack to zero if it had at least one success on the PARRY roll. This leaves the shield completely broken.
+
+SHIELDS VS PROJECTILES: For relatively slow-moving projectiles like arrows, or thrown weapons, PARRY with a shield as normal. Shields as protection against gunfire is different. If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to PARRY as normal. Note that if their gunfire is what is alerting you to being targeted, it is too late to PARRY the alerting shot, though in this case if the attacker is using rapid fire in a single roll using Ammo Dice, you may PARRY, but at a -2 penalty. Roll MELEE: Shield Fighter + the Shield's bonus. One X means you may choose which body areas (head, torso, arms, legs) the shield will allow you to cover (1, 2, or 3). Every extra success allows you to include one more body area. At this point, the shield acts like COVER for those body areas. If a shot hits a covered body area, treat the shield's Rating as armor.  
+> Pre-emptive Shield Cover: If you already have your shield engaged toward a ballistic threat before they open fire (must have been established in prior rounds), simply treat it as cover for selected body parts. When crouching, Shields may cover 1 extra body area. When prone, Shields may cover 2 extra body areas. 
+
 
 ### **RANGED COMBAT**
 
@@ -186,6 +190,8 @@ behind the cover – torso and legs if you want to be able to fire a weapon, as 
 
 FULL COVER: Full cover breaks line of sight and typically makes it impossible to hit the target. Firing at a target in full cover can be done, with a –3 modifier, only if the GM rules that the attacker knows the approximate location of the target. All hit locations are protected by full cover as if wearing armor.
 
+EMERGE FROM COVER: Moving your head or body out from behind cover in order to attack or interact with something you could not previously see counts as a Fast Action.
+
 | Structure / Cover                  | HP   | Armor Rating | Piercing Protection |
 | ---------------------------------- | ---- | ------------ | ------------------- |
 | Light Wooden Fence / Bushes        | 1    | 1            | Light               |
@@ -212,15 +218,17 @@ FULL COVER: Full cover breaks line of sight and typically makes it impossible to
 
 **Heavy Protection** represents the armor you would find on a tank or protection provided by a solid wall, or a concrete casemate. Heavy Protection is so tough that it cannot be penetrated by a weapon unless the weapon possesses the Armor-Piercing feature. Against Armor-Piercing weaponry, the target will roll its full Armor + Cover pool to defend against the attack.
 
-DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to dodge. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE (or just a penalty), but as a Reaction, you may still:
-	a) Hit the dirt. Fast Action. No roll needed. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).
-	b) Seek Cover. Fast Action. Roll MOVE. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you. 
+DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to dodge. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE the alerting shot, but as a Reaction, you may still:  
+>>a) **Hit the dirt**. Fast Action. No roll needed. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).
+>>b) **Seek Cover**. Fast Action. Roll MOVE. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.  
+>>c) If the attacker is using rapid fire in a single roll using Ammo Dice, you may DODGE, but at a -2 penalty.
+
 	
-If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:
-	a) Dodge pre-emptively. Your dodge roll will apply to the next ranged attack against you.
-	b) Keep moving. An attacker suffers a -1 penalty if you've moved since their last round.
-	c) Hit the dirt. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.
-	d) Seek cover. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
+If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:  
+>>a) **Dodge** pre-emptively. Your dodge roll will apply to the next ranged attack against you.  
+>>b) **Keep moving**. An attacker suffers a -1 penalty if you've moved since their last round.  
+>>c) **Hit the dirt**. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.  
+>>d) **Seek cover**. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
 #### FRIENDLY FIRE
 You can fire at a target even if your line of fire passes within 5m of one or more friendly fighters are located, but these friendlies must all immediately make INSIGHT: Calm rolls to avoid being SUPPRESSED. Also, if your
 shot misses, roll two D6 base dice – any X means a random friendly is hit instead, and a second X will increase the damage by 1.
@@ -512,19 +520,20 @@ DEFEND OTHER: MOVE or PARRY roll. Fast Action. Reactive Action. When attempting 
 DISARM: You try to knock the weapon from your opponent’s hands. Roll MELEE and your weapon’s Gear Bonus. Disarming an opponent wielding a one-handed weapon requires one X, a two-handed weapon requires XX. If you succeed, your opponent drops their weapon, which lands at ARM’S LENGTH. You cannot DISARM a shield. Your enemy can PARRY or DODGE your DISARM.
 
 DODGE: You throw yourself out of the way of your opponent’s melee or ranged attack. Fast action, Reactive action. Roll MOVE. You cannot use a weapon. If the attacker SLASHES, you get a +2 bonus. Every X you roll eliminates a X from the attacker’s roll. There are 3 kinds of Dodge:
-1) Standing Dodge. MOVE -2 vs 1 attack, remain standing. If you remain standing and you've negated all damage with a -3 penalty, OR roll XX beyond all damage negation, you may at the same time move 10m. Acrobatic flip!
-2) Dropping Dodge. MOVE vs 1 attack, fall prone, imposing an additional -1 penalty on all attacks beyond 10m.
-3) Flying Dodge. MOVE +2 vs all attacks, fall prone 3m away, take no actions (besides stand) next round if it’s a reaction.
+3) Standing Dodge. MOVE -2 vs 1 attack, remain standing. If you remain standing and you've negated all damage with a -3 penalty, OR roll XX beyond all damage negation, you may at the same time move 10m. Acrobatic flip!
+4) Dropping Dodge. MOVE vs 1 attack, fall prone, imposing an additional -1 penalty on all attacks beyond 10m.
+5) Flying Dodge. MOVE +2 vs all attacks, fall prone 3m away, take no actions (besides stand) next round if it’s a reaction.
 
-DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to DODGE their attack. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE their first attack, but as a Reaction, you may still:
-	a) Hit the dirt. Fast Action. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).
-	b) Seek Cover. Fast Action. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you. 
+DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to dodge. Note that if their gunfire is what is alerting you to being targeted, it is too late to DODGE the alerting shot, but as a Reaction, you may still:  
+>>a) **Hit the dirt**. Fast Action. No roll needed. You go prone, imposing a -1 penalty on anyone attacking further than Short Range (10m).
+>>b) **Seek Cover**. Fast Action. Roll MOVE. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.  
+>>c) If the attacker is using rapid fire in a single roll using Ammo Dice, you may DODGE, but at a -2 penalty.  
 
-If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:
-	a) Dodge pre-emptively. Your dodge roll will apply to the next ranged attack against you.
-	b) Keep moving. An attacker suffers a -1 penalty if you've moved since their last round.
-	c) Hit the dirt. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.
-	d) Seek cover. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
+If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:  
+>>a) **Dodge** pre-emptively. Your dodge roll will apply to the next ranged attack against you.  
+>>b) **Keep moving**. An attacker suffers a -1 penalty if you've moved since their last round.  
+>>c) **Hit the dirt**. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.  
+>>d) **Seek cover**. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
 
 FAST KIP: Move -5. Allows you to get up from prone position without spending an action. If successful, you are standing, and may now perform a Kick as a Fast Action. Failure means you've used a Fast Action, and remain on the ground.
 
@@ -555,6 +564,7 @@ You may optionally perform a "Mighty Swing" by roll MIGHT during this action. Th
 | **Attack Weapon:** Any item that parries your swing or slash attacks takes 1 damage per three negated successes. Reduce the required amount by 1 if using both hands or if the parrying weapon is weaker than metal. | -4 / XXX   |
 | **Armor Pierce:** Any non-natural armor takes 1 extra automatic damage from your swing weapon attack.                                                                                                                | -5 / XXXX  |
 | **Wirlwind:** If you down an enemy with a swing weapon attack, you may perform a free run action and repeat the attack as a free action.                                                                             | -7 / XXXXX |
+|                                                                                                                                                                                                                      |            |
 
 ### **DAMAGE**
 Damage can come in many forms and reduces one of your four attribute scores:
@@ -585,6 +595,9 @@ When a human target is hit by a ranged attack, in close combat or by an explosio
 | 2-4     | Torso        |
 | 5       | Arm          |
 | 6       | Head         |
+BLUNT FORCE TO THE HEAD
+If a character suffers any damage to the head from a BLUNT weapon or object (including punch/kick), they are knocked unconscious for 1D minutes for every point of damage suffered. A MEDICAL AID: EMT or Field Surgeon roll, or a SURVIVAL: First Aid roll (slow action) can revive an unconscious character. 
+
 **ARMOR**  
 By wearing armor you can protect your body from damage to Strength. See [Gear](Gear.md) for various kinds of armor. Armor doesn’t provide protection from other kinds of damage, or from damage you inflict on yourself when you push a roll.
 
@@ -599,9 +612,9 @@ REMOVING HELMET BONUS: Once per day, when you take off your helmet during combat
 
 ### **STRESS**
 Stressful experiences, such as getting shot at or witnessing harrowing scenes, can temporarily put you out of action or even cause long term psychological damage. A summary of the stress rules is this:
-1) Certain mild-moderately stressful events cause you to gain Stress Points
-2) Certain very shocking events cause you to roll Insight (Calm) to avoid Panicking. It's more difficult the more Stress Points you have.
-3) Panicking means you roll on a Panic Effect table, and add the number of Stress Points. Worse effects occur the more Stress Points you have.
+6) Certain mild-moderately stressful events cause you to gain Stress Points
+7) Certain very shocking events cause you to roll Insight (Calm) to avoid Panicking. It's more difficult the more Stress Points you have.
+8) Panicking means you roll on a Panic Effect table, and add the number of Stress Points. Worse effects occur the more Stress Points you have.
 
 **Gaining Stress**
 You can gain +1 (or more) stress points in several different ways:
@@ -710,12 +723,12 @@ When you gain a Trauma Effect, roll for Healing Time. The Trauma Effect will nat
 
 **Reducing Stress Points**
 You can reduce your Stress points in 5 ways: 
-1) Resting (1 QD, -1D stress)  
-2) Finding stress relief in another's influence (1 rnd - 15 min, -1 stress per X)  
-3) Spending time with your Anchor (1 hour, -all stress)
-4) Having fun for a quarter day (1 QD, -1 stress per X)
-5) Spending a Willpower point (instant, -1 stress per WP)
-6) Interacting with Signature Item (Slow Action, -1D stress)
+9) Resting (1 QD, -1D stress)  
+10) Finding stress relief in another's influence (1 rnd - 15 min, -1 stress per X)  
+11) Spending time with your Anchor (1 hour, -all stress)
+12) Having fun for a quarter day (1 QD, -1 stress per X)
+13) Spending a Willpower point (instant, -1 stress per WP)
+14) Interacting with Signature Item (Slow Action, -1D stress)
 Note: Some Conditions can block your ability to relieve stress- Sleepy, Cold, Nightmares Trauma Effect, Substance Abuse Trauma Effect, Descent into Madness Trauma Effect. 
 
 RESTING
@@ -794,3 +807,7 @@ If you lose all your Hygiene Points, you become FILTHY. Otherwise, your GM could
 - Whenever you are Strength broken, you must roll against disease with a virulence rating of 4.
 - As soon as you can wash yourself and your clothes (or in other way can regain a Hygiene die, if you use the “Hygiene” module), you are no longer filthy, but any contracted diseases stay.
 
+
+POISON TYPE: Irritant
+Limited Effect: -1 from all AGILITY, WITS, and EMPATHY rolls for 1D Minutes after last exposure. 
+Full Effect: For every level of potency (treat as if at least -1 potency), -1 from all AGILITY, WITS, and EMPATHY rolls for 1D minute (e.g, -2 potency = -2 from the Attributes for 2D minutes). Trigger a Panic Check.

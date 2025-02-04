@@ -1,5 +1,5 @@
 # VEHICLE COMBAT
-Driving under normal circumstances requires no dice rolls, but more advanced maneuvers require DRIVING rolls. Use the MANEUVERABILITY rating of the vehicle as the attribute die. When pushing DRIVING rolls, any BANES  rolled inflict stress.
+Driving under normal circumstances requires no dice rolls, but more advanced maneuvers require DRIVING rolls. Use the MANEUVERABILITY rating of the vehicle as the attribute die. When pushing DRIVING rolls, any BANES  rolled inflict ==stress==.
 
 GETTING IN AND OUT
 Getting into or out of a vehicle is typically a slow action. Getting on or off a motorcycle or bicycle is a fast action. Starting a vehicle is typically a fast action.
@@ -14,7 +14,7 @@ Getting into or out of a vehicle is typically a slow action. Getting on or off a
 **ARMOR**: The Armor rating of the vehicle.
 
 ## VEHICLES IN COMBAT
-When operating a vehicle in combat, you can make moves just like on foot, but you cannot seek cover with a vehicle. To break through barriers as part of a vehicle's movement (assuming the GM deems it possible), roll DRIVING instead of FORCE.
+When operating a vehicle in combat, you can make moves just like on foot, but you cannot seek cover with a vehicle. To break through barriers as part of a vehicle's movement (assuming the GM deems it possible), roll DRIVING instead of MIGHT.
 
 **SPEEDING**: Corresponding to sprinting on foot, you can use the speeding action to make additional
 moves in the same Round with a vehicle.

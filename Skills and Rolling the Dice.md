@@ -339,6 +339,7 @@ Stealth specialties
 
 | STEALTH Conditions                                                                                         | DM on the Roll |
 | ---------------------------------------------------------------------------------------------------------- | -------------- |
+| Behind and open door/hatch                                                                                 | +2             |
 | You blend into your surroundings (some gear may be already granting this bonus, in that case, ignore this) | +1             |
 | The area is dark or dimly lit.                                                                             | +1             |
 | The area is crowded or noisy.                                                                              | +1             |
@@ -348,6 +349,7 @@ Stealth specialties
 | There is nothing to hide behind                                                                            | -1             |
 | Your opponent knows you're coming                                                                          | -1             |
 | You try to move undetected into Arm's Reach.                                                               | -1             |
+| You're within 20m                                                                                          | -1             |
 
 GROUP STEALTH: When you and the other adventurers use STEALTH side by side, each of you don’t roll for the skill. Instead, only the PC with the lowest skill level rolls, and the result applies to the whole group. Helping is not allowed.
 
@@ -973,12 +975,14 @@ Failing a Taming roll doesn’t stop the taming process, just slows it down by a
 there is a significant risk that you and your friends will be injured, sooner or later. This is when the MEDICAL AID skill is useful. 
 
 Medical Aid Specializations
->EMT: When restoring lost STRENGTH or AGILITY points as a Slow Action, and when moving the wounded
->Field Surgeon: When stabilizing fatal critical injuries or performing surgeries, and when moving the wounded
+>EMT: When restoring lost STRENGTH or AGILITY points as a Slow Action, when moving the wounded, and when reviving an unconscious person.
+>Field Surgeon: When stabilizing fatal critical injuries, performing surgeries, when moving the wounded, or reviving an unconscious person.
 >General Practitioner: Long-term treatment of critical injuries, treating disease, infections, and rad/bio/chem damage.  
 >Veterinarian: Treating damage, injuries, and other conditions in animals.
 
 **MEDICAL AID Actions**
+
+REVIVE UNCONSCIOUS: If a character has been knocked unconscious by BLUNT damage to the head, they're unconscious for many minutes. A MEDICAL AID: EMT or Field Surgeon roll, or a SURVIVAL: First Aid roll (slow action) can revive an unconscious character. 
 
 FIRST AID: A person who has had their Strength or Agility reduced to zero is Broken, and cannot act any further. If you apply your MEDICAL AID: EMT skills to them (slow action) and your roll succeeds, they get back on their feet and immediately recover a number of attribute points equal to the number of x you roll. This can also be applied to characters who are not broken, but at the very least, BANDAGES or some form of IMPROVISED EQUIPMENT are required without suffering a -3 DM. You may heal yourself with this skill at -2 DM.
 
@@ -991,7 +995,6 @@ STABILIZE FATAL CRITICAL INJURY: To stabilize a lethal critical injury and save 
 TREAT LONG-TERM CRITICAL INJURY: Each critical injury takes a particular number of days to heal. If someone tends to you for a QD during the process of healing a critical injury and makes a MEDICAL AID: General Practitioner roll, that day counts double. If the critical injury is listed as "permanent", depending on GM's say, a QD-long MEDICAL AID: Field Surgeon (-4 DM) roll can make this a 2D6 day healing process.
 
 TREAT DISEASE OR INFECTION: To care for someone in the course of their illness or infection, you make their "infection rolls" instead of the sufferer. The caregiver rolls for MEDICAL AID: General Practitioner modified by the virulence of the disease/infection. If provide antibiotics, the sufferer gets a +3 bonus to the roll, but it has no effect against viruses or radiation sickness.
-
 
 | MEDICAL AID Effect                                                      | DM       |
 | ----------------------------------------------------------------------- | -------- |
