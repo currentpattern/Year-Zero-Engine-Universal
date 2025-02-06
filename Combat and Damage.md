@@ -121,7 +121,7 @@ When you attack in close combat, you use the MELEE skill. Close combat usually h
 
 WEAPONS: When you enter close combat, it is wise to have a weapon in hand. Weapons give you a Gear Bonus for your roll (see page 49), increase the damage caused and allow you to perform actions that are harder or even impossible without a weapon. 
 
-STANCE: It is recommended that you stand on your feet when you attack. If you are prone, you must spend a Fast Action to GET UP. While prone, you may use the SHOVE attack. You may still attack with weapons that have NEAR range, however while prone it’s range is now ARM’S LENGTH and you suffer a -1 penalty. Standing enemies get a +2 modification on all melee attacks against a prone enemy.
+STANCE: It is recommended that you stand on your feet when you attack. If you are prone, you must spend a Fast Action to GET UP. While prone, you may use the SHOVE attack. You may still attack with weapons that have SHORT range, however while prone it’s range is now ARM’S LENGTH and you suffer a -1 penalty. Standing enemies get a +2 modification on all melee attacks against a prone enemy.
 
 ATTACKS OF OPPORTUNITY
 Under 2 circumstances, a character may attack out of turn as a Reactive Action (counting against their action economy):
@@ -178,7 +178,8 @@ FIRING IN CLOSE COMBAT: If you shoot at an active and aware enemy within ARM'S L
 
 DEFENSELESS TARGET: If your target is within SHORT range (10m) and immobile or unaware of you, you gain a +3 bonus.
 
-SHOTGUNS: For shotguns, range gives no negative modifier to hit. Instead, the base damage is reduced by 1 at MEDIUM range, by 2 at LONG range, and by 3 at EXTREME range. Note that the base damage at EXTREME range for most shotguns will be zero. Even a hit that inflicts no damage can cause suppression.
+SHOTGUNS: For shotguns, range gives no negative modifier to hit. Instead, the base damage is reduced by 1 at MEDIUM range, by 2 at LONG range, and by 3 at EXTREME range. 
+Note that the base damage at EXTREME range for most shotguns will be zero. Even a hit that inflicts no damage can cause suppression.
 
 #### STANCE
 Firing at a prone target gives you a –1 modifier unless the target is within SHORT range (10m), in which case being prone provides no protection. Remember, dropping to the ground is a free action but can only be done on your own turn. Standing up is a fast action.
@@ -421,7 +422,9 @@ battle map. (Except for hand-thrown grenades,) you get no bonus for firing at la
 RELOADING: Heavy weapons do not use ammo dice (except for rare exceptions). Generally, heavy weapons must be reloaded after each shot fired. This is a slow action, and no roll is allowed to reload faster. Reloading can be done by another person (a loader) or an autoloader (if the weapon is equipped with one), allowing the weapon to be fired every round.
 
 DEVIATION: If an attack with an explosive effect fails – no matter if it was aimed at a 10m area or a specific target – roll two D6s to see where the round lands. The first D6 determines the direction of deviation (see the diagram to the right). The second D6 determines how far from the target area that the round lands, in 10m increments. The deviation cannot exceed half of the distance to the target (rounding up).
-![[Pasted image 20241104172336.png]]
+
+![image](./Pasted%20image%2020241104172336.png)
+
 
 INDIRECT FIRE
 Grenade launchers, thrown grenades, and mortars are capable of indirect fire – firing in an upward arc to hit targets not visible from the firing position. You may either aim for a general 10m area, or for a specific target. To hit a specific target with indirect fire, you need a FORWARD OBSERVER who does have line of sight to the target and is able to communicate with you.
@@ -450,7 +453,7 @@ the mine. The mine also triggers an explosion in the 10m area.
 **DIRECTIONAL MINES**  
 These are placed individually, not in minefields, and they are detonated remotely, usually by a tripwire. Directional mines do not inflict any direct damage, only blast damage, and only in an arc in front of the device (typically about 60 degrees). However, the blast power is only decreased one step for every 30 meters from the point of detonation instead of every 10 meters – see the diagram below.
 
-![[Pasted image 20250101230848.png]]
+ ![image](./Pasted%20image%2020250101230848.png)
 
 **CLEARING MINES** is dangerous work. Clearing a 10m area of mines requires at least 15 min of work and a TECHNICAL: Demotions or CRAFTING: Demolitions (-1 DM) roll. Failure will detonate a mine. You will need at least a knife or a stick. More advanced gear can give you positive modifiers.
 #### IMPROVISED EXPLOSIVE DEVICES
