@@ -6,6 +6,6 @@ The injury Ruptured Intestines also had its effect changed to +3 to its infectio
 
 [Working out Critical Injuries](Working%20out%20Critical%20Injuries.md)
 
-![[Pasted image 20250205174853.png]]
-![[Pasted image 20250205174838.png]]
-![[Pasted image 20250205174810.png]]
+![[Pasted image 20250205174853.png]]  
+![[Pasted image 20250205174838.png]]  
+![[Pasted image 20250205174810.png]]  
