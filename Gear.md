@@ -220,35 +220,36 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | 140mm (1)      | 2000  | 4/X          |
 | 152mm (1)      | 2500  | 4/X          |
 
-
-
 # ARMOR
 
-| Armor                    | Price | rating | Features                                                 | Availabilty | Weight (1/2 when worn) |
-| ------------------------ | ----- | ------ | -------------------------------------------------------- | ----------- | ---------------------- |
-| Bicycle helmet           | 30    | 1      | H. Blastweak                                             | 1           | 0.5                    |
-| Motorcycle Jacket        | 50    | 2      | T; Blastweak; -1 move if combined with other torso armor | 1           | .5                     |
-| Football Helmet          | 75    | 2      | H. Blastweak                                             | 1           | 0.5                    |
-| Motorcycle Helmet        | 200   | 3      | H                                                        | 1           | .5                     |
-| Light Security Vest      | 280   | 3      | T                                                        | 2           | 1                      |
-| Riot Helmet              | 300   | 4      | H                                                        | 2           | 1                      |
-| Police Kevlar Vest       | 350   | 4      | T                                                        | 2           | 1                      |
-| Tactical Kevlar Vest     | 400   | 5      | T                                                        | 3/F         | 1                      |
-| Steel Plate Vest         | 600   | 6      | T                                                        | 3/F         | 3                      |
-| SWAT Helmet              | 600   | 5      | H                                                        | 3/F         | 1                      |
-| Ceramic Plate Vest       | 700   | 5 H    | T; Ablative                                              | 3/F         | 1.5                    |
-| Combat Helmet            | 700   | 5      | H; rails and goggle mount                                | 3/F         | 1                      |
-| Polythelene Plate Vest   | 750   | 6      | T                                                        | 3/F         | 1.5                    |
-| Heavy Steel Plate Vest   | 1000  | 8      | T                                                        | 3/R         | 4                      |
-| Advanced Combat Helmet   | 1000  | 6      | H; rails and goggle mount                                | 4/R         | 1                      |
-| Explosives Helmet        | 1300  | 7      | H                                                        | 4/R         | 2                      |
-| Heavy Ceramic Plate Vest | 5000  | 8 H    | T; Ablative                                              | 4/R         | 3                      |
-| Explosives Suit          | 8400  | 5 H    | ALT; Ablative                                            | 4/X         | 10                     |
+| Armor                    | Price             | rating              | Features                                                 | Availabilty | Weight (1/2 when worn) |
+| ------------------------ | ----------------- | ------------------- | -------------------------------------------------------- | ----------- | ---------------------- |
+| Bicycle helmet           | 30                | 1                   | H. Blastweak                                             | 1           | 0.5                    |
+| Motorcycle Jacket        | 50                | 2                   | T; Blastweak; -1 move if combined with other torso armor | 1           | .5                     |
+| Football Helmet          | 75                | 2                   | H. Blastweak                                             | 1           | 0.5                    |
+| Riot Cop Limb Armor      | 75 / rating       | max 2 / body region | A/L/T, Blastweak                                         | 2           | .25 / rating           |
+| Motorcycle Helmet        | 200               | 3                   | H                                                        | 1           | .5                     |
+| Light Security Vest      | 280               | 3                   | T                                                        | 2           | 1                      |
+| Riot Helmet              | 300               | 4                   | H                                                        | 2           | 1                      |
+| Police Kevlar Vest       | 350               | 4                   | T                                                        | 2           | 1                      |
+| Tactical Steel Mail      | 400 / body region | 4                   | H/A/L/T. Blastweak, Bluntweak,                           | 4/R         | 1 / body region        |
+| Tactical Kevlar Vest     | 400               | 5                   | T                                                        | 3/F         | 1                      |
+| Steel Plate Vest         | 600               | 6                   | T                                                        | 3/F         | 3                      |
+| SWAT Helmet              | 600               | 5                   | H                                                        | 3/F         | 1                      |
+| Ceramic Plate Vest       | 700               | 5 H                 | T; Ablative                                              | 3/F         | 1.5                    |
+| Combat Helmet            | 700               | 5                   | H; rails and goggle mount                                | 3/F         | 1                      |
+| Polythelene Plate Vest   | 750               | 6                   | T                                                        | 3/F         | 1.5                    |
+| Heavy Steel Plate Vest   | 1000              | 8                   | T                                                        | 3/R         | 4                      |
+| Advanced Combat Helmet   | 1000              | 6                   | H; rails and goggle mount                                | 4/R         | 1                      |
+| Explosives Helmet        | 1300              | 7                   | H                                                        | 4/R         | 2                      |
+| Heavy Ceramic Plate Vest | 5000              | 8 H                 | T; Ablative                                              | 4/R         | 3                      |
+| Explosives Suit          | 8400              | 5 H                 | ALT; Ablative                                            | 4/X         | 10                     |
 **Replacement Plates**: Cost 1/5 of vest total, account for 2 units of rating, for repair purposes. same Availability
 
 **Features**
 > **Ablative**: Shattering plates to defend against AP rounds. Every X of potential damage that the armor protects the wearer from reduces the armor rating by 1 in that body part. This includes from non-AP rounds.  
-> **Blastweak**: Bullets reduce the armor rating by the weapon's Base Damage for the purpose of rolling for damage. AP rounds and explosions reduce the armor rating twice.
+> **Blastweak**: Bullets reduce the armor rating by the weapon's Base Damage for the purpose of rolling for damage. AP rounds and explosions reduce the armor rating twice.  
+> **Bluntweak**: Blunt attacks reduce armor rating by the weapon's Base Damage for the purpose of rolling for damage.
 > **H, A, L, T:** Armor covers Head, Arms, Legs, and/or Torso
 # SHIELDS
 
