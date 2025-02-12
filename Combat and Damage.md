@@ -599,7 +599,7 @@ When a human target is hit by a ranged attack, in close combat or by an explosio
 | 5       | Arm          |
 | 6       | Head         |
 BLUNT FORCE TO THE HEAD
-If a character suffers any damage to the head from a BLUNT weapon or object (including punch/kick), they are knocked unconscious for 1D minutes for every point of damage suffered. A MEDICAL AID: EMT or Field Surgeon roll, or a SURVIVAL: First Aid roll (slow action) can revive an unconscious character. 
+If a character suffers 2 points of damage to the head from a single attack with a BLUNT weapon or object (including punch/kick), they are knocked unconscious for 1D minutes. +1D minutes for every point of damage beyond 2. A MEDICAL AID: EMT or Field Surgeon roll, or a SURVIVAL: First Aid roll (slow action) can revive an unconscious character. 
 
 **ARMOR**  
 By wearing armor you can protect your body from damage to Strength. See [Gear](Gear.md) for various kinds of armor. Armor doesn’t provide protection from other kinds of damage, or from damage you inflict on yourself when you push a roll.

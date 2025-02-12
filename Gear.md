@@ -73,7 +73,7 @@ To find a restricted item without the required legal authorization, first an Ava
 **Features:**
 >**2H**- Two handed. Cannot hold other items. 
 >**Armor-Weak**- Armor rolls at twice its normal value against this weapon.
->**Blunt**- required for SLASH (slow) attack. For every point of damage suffered to the head from a Blunt weapon, victim is knocked unconscious for 1D minutes. A MEDICAL AID: EMT or Field Surgeon roll, or a SURVIVAL: First Aid roll (slow action) can revive an unconscious character. 
+>**Blunt**- required for SLASH (slow) attack. If a character suffers 2 points of damage to the head from a single attack with a BLUNT weapon or object (including punch/kick), they are knocked unconscious for 1D minutes. +1D minutes for every point of damage beyond 2. A MEDICAL AID: EMT or Field Surgeon roll, or a SURVIVAL: First Aid roll (slow action) can revive an unconscious character. 
 >**Edged**- required for SLASH (slow) attack   
 >**Heavy**- 2+ weight. Required to SWING WEAPON (fast) action.    
 >**Hook**- required to SHOVE (fast) action.   
