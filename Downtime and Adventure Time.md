@@ -6,7 +6,7 @@
 - Downtime Activities have a base cost in points
 ## Point Allocation
 - 2 downtime points per day
-- This represents the usable time after sleep and regular work
+- This represents the usable time and energy after sleep and daily activities
 ## Activity Costs (per day)
 - Fulltime Day job: 2 points
 - Skill/Talent training: 1 point
