@@ -6,6 +6,8 @@
 
 [Combat and Damage](Combat%20and%20Damage.md)
 
+[Downtime and Adventure Time](Downtime%20and%20Adventure%20Time.md)
+
 [Journeys](Journeys.md)
 
 [Gear](Gear.md)
