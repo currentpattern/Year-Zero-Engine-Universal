@@ -32,8 +32,8 @@ Use this flowchart to determine whether an activity should be treated as downtim
 **Adventure Activities:** potentially impactful on relationships/world, failure could lead to serious consequences, involve multiple PCs working together)
 
 1. **Narrative Weight:** Does the activity involve significant consequences for the character, group, or plot?
-- **Yes → Adventure Time** (Activities that could alter relationships, introduce new plot threads, or significantly impact the world)
-- **No → Downtime** (Activities that are routine, low-stakes, or primarily about personal development)
+>- **Yes → Adventure Time** (Activities that could alter relationships, introduce new plot threads, or significantly impact the world)
+>- **No → Downtime** (Activities that are routine, low-stakes, or primarily about personal development)
     
 2. **Risk Level:** Is there substantial risk involved where failure could lead to danger, harm, or major setbacks?
 - **Yes → Adventure Time** (Activities where failure could lead to serious consequences (physical, social, or financial))
