@@ -35,11 +35,11 @@ Use this flowchart to determine whether an activity should be treated as downtim
 - **Yes → Adventure Time** (Activities that could alter relationships, introduce new plot threads, or significantly impact the world)
 - **No → Downtime** (Activities that are routine, low-stakes, or primarily about personal development)
     
-1. **Risk Level:** Is there substantial risk involved where failure could lead to danger, harm, or major setbacks?
+2. **Risk Level:** Is there substantial risk involved where failure could lead to danger, harm, or major setbacks?
 - **Yes → Adventure Time** (Activities where failure could lead to serious consequences (physical, social, or financial))
 - **No → Downtime** (Activities with low risk or predictable outcomes)
 
-1. **Player Engagement:** Does the activity involve multiple players working together or opportunities for detailed roleplay?
+3. **Player Engagement:** Does the activity involve multiple players working together or opportunities for detailed roleplay?
 - **Yes → Adventure Time** (Activities that involve multiple players working together or require detailed decision-making)
 - **No → Downtime** ( Activities that are solo-focused and don’t require much input from other players)
     
