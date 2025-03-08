@@ -157,6 +157,7 @@ Listed with the valid Subject types they function against. A Verb cannot be run 
 | Siege       | Device               | -2                   | 2500 | Cut off a device from the network          |
 | Delude      | Device               | -2                   | 5000 | Spoof a device with false sensor input     |
 | Hijack      | Device               | -2                   | 5000 | Take remote control of a device            |
+
 ^: These verbs are self-terminating, and return their CPU slot immediately after the program is run.
 
 - **Activate**: Turn a device on. You can’t control it or direct its function, but if it’s programmed to do something when activated, it does it for one round or one action.
@@ -189,6 +190,7 @@ Listed with the valid Subject types they function against. A Verb cannot be run 
 | Sensor       | Device  | Any sensors at -1D skill penalty                                              | 500  |
 | Barrier      | Data    | Network Barriers                                                              | 1000 |
 | Transmission | Data    | Radio and wifi signals                                                        | 1000 |
+
 - **Barrier**: (Data) A network node barrier that blocks intruders from passing through a network connection.
 - **Camera**: (Device) Any device that transmits audiovisual information. Some defensive hardware has its own onboard camera, which is susceptible to this target, while others rely on a separate device’s input.
 - **Datafile**: (Data) A datafile stored within a network node. While individual files may have very little actual data in them, the autoencryption functions and anti-tamper code they’re wrapped in almost always take up 1 full unit of Memory per file.
@@ -205,13 +207,13 @@ Listed with the valid Subject types they function against. A Verb cannot be run 
 
 #### Writing Programs From Scratch
 
-Crafting a constant stream of usable Verbs and Subjects for sale is impractical for most PCs. The work requires contacts with a host of insider moles in corporate databases, criminal data launderers, and subject-field specialists in hardware security subversion. 
+Crafting a constant stream of usable Verbs and Subjects for sale is impractical for most PCs. The work requires contacts with a host of insider moles in corporate databases, criminal data launderers, and subject-field specialists in hardware security subversion.   
 
-While few hackers have the time or resources to write illicit programs as a business, most can manage to keep a few of their most important needs satisfied through their own coding prowess. A sufficiently talented hacker skill can maintain a few usable Verbs and Subjects, keeping them up-to-date and concealed from ubiquitous corporate DRM.
+While few hackers have the time or resources to write illicit programs as a business, most can manage to keep a few of their most important needs satisfied through their own coding prowess. A sufficiently talented hacker skill can maintain a few usable Verbs and Subjects, keeping them up-to-date and concealed from ubiquitous corporate DRM.  
 
-Writing a Verb or a Subject takes 10 quarter-days, a -1 Observation: Investigator roll, and a -1 Technical: Computers roll, using any computer with an internet connection. Due to the need to keep them updated, two such programs can be maintained per die of Wits + Technical above 3D6. So a PC with Wits + Technical of 5D6 can maintain up to four total Verbs and Subjects at once. They might choose to keep Glitch, Blind, Barrier, and Camera available this way after a few weeks of work to write the code. Code that is abandoned in favor of a new program must be rewritten from scratch if the hacker needs it once again, as entirely new security bypasses must be researched and implemented.
+Writing a Verb or a Subject takes 10 quarter-days, a -1 Observation: Investigator roll, and a -1 Technical: Computers roll, using any computer with an internet connection. Due to the need to keep them updated, two such programs can be maintained per die of Wits + Technical above 3D6. So a PC with Wits + Technical of 5D6 can maintain up to four total Verbs and Subjects at once. They might choose to keep Glitch, Blind, Barrier, and Camera available this way after a few weeks of work to write the code. Code that is abandoned in favor of a new program must be rewritten from scratch if the hacker needs it once again, as entirely new security bypasses must be researched and implemented.  
 
-Hackers can also write specialized or unique Subjects, often in preparation for a mission. If a hacker can find out the exact model of camera or electronic lock their target is using, they can write a unique Subject aimed at that specific device, gaining a +2 bonus on their skill checks to overcome its security difficulty.
+Hackers can also write specialized or unique Subjects, often in preparation for a mission. If a hacker can find out the exact model of camera or electronic lock their target is using, they can write a unique Subject aimed at that specific device, gaining a +2 bonus on their skill checks to overcome its security difficulty.  
 ### User Accounts
 
 Instead of directly Hacking a network, one can gain access to a USER ACCOUNT by obtaining (through theft, intimidation, or otherwise) a user’s credentials (e.g. password, ID, badge, Private Encryption Key, etc.). While having direct access to a User’s Account circumvents the need for a Hacking check for many actions, each account is limited in its permissions.

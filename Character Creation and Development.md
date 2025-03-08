@@ -143,7 +143,7 @@ The things you learn during the game are measured in Experience Points (XP). You
 - Did you travel through at least one hex on the game map, village, or neighborhood that you had not visited before?         
 - Did you discover a new adventure site?	       
 - Did you defeat one or more opponent who intended to take your life?   	  
-- Did you take an action/ found treasure/ earned enough that your character feels mildly financially enriched?    
+- Did you take an action/ found treasure/ earned enough that your character feels mildly financially enriched?   
 - Did you build a function in your stronghold/base?    
 - Did you activate your Pride?   
 - Did you inconvenienced by your Dark Secret?         

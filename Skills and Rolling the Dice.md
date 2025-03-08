@@ -761,6 +761,20 @@ DEMOLITIONS: Placing and disarming mines and explosive devices.
 
 HACKING: [Hacking](Hacking.md) uses TECHNICAL: Computers
 
+CHEMISTRY: The use of basic equipment is necessary for most analysis (other than sensory identification of known chemicals) and chemical synthesis.
+	Basic laboratory equipment (providing +0 to +1 bonus)
+		- Thin Layer Chromatography (TLC)
+		- Colorimetric test kits
+		- Basic microscopy
+	Moderate laboratory equipment (providing +2 bonus)
+		- High Performance Thin Layer Chromatography (HPTLC)
+		- Liquid Chromatography with Diode Array Detector (LC-DAD)
+		- Fourier Transform Infrared (FTIR) Spectrometry
+	Sophisticated laboratory equipment (providing +3 - +5 bonus)
+		- Gas Chromatography-Mass Spectrometry (GC-MS)
+		- Liquid Chromatography-Mass Spectrometry (LC-MS/MS)
+		- Isotope Ratio Mass Spectrometry (IRMS)
+
 ## **EMPATHY**
 ## **INSIGHT**
 INSIGHT is a versatile skill involving neuroception, intereception, and wisdom. Roll INSIGHT when someone is trying to INFLUENCE you (opposed roll), when trying to read another's motivations, read an enemy in combat (see "Read Enemy" action in [Combat and Damage](Combat%20and%20Damage.md)), or even for keeping calm under extremely stressful or terrifying situations.
@@ -787,6 +801,14 @@ Insight Specialties
 READ ENEMY: INSIGHT roll, Fast action. -3 / XXX. Foresee how one opponent will act in the coming round. All your attack and defense rolls against this opponent get a +1 modification until it is your turn again in the next round. Every success beyond what is needed grants an additional +1 modification. 
 
 MEDITATION: Roll INSIGHT: Mindful. Meditation may take from 5 minutes to 6 hours, depending on desired effect.
+
+| Meditation Conditions                  | DN  |
+| -------------------------------------- | --- |
+| Complete Sensory deprivation           | +3  |
+| Comfortable dedicated Meditation space | +1  |
+| Seated/laying still                    | -   |
+| Engaging in flow state while active    | -3  |
+| Chaotic and busy environment           | -3  |
 
 | INSIGHT: Mindful Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | DN         | Required Duration                                                                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

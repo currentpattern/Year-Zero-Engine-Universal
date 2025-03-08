@@ -57,9 +57,9 @@ To find a restricted item without the required legal authorization, first an Ava
 | Garotte Wire                 | 20        | +2        | 2          | Works only from surprise Grapple action. If succeeds, target cannot vocalize, and the weapon replaces Grapple Attack action. | 0          | 3          |
 | Combat Dagger                | 20        | +1        | 1          | Light, Edged, Pointed                                                                                                        | 0.5        | 2          |
 | Tomahawk / Hatchet           | 20        | +2        | 2          | Edged, Hook                                                                                                                  | 1          | 1          |
-| Baseball bat / rifle butt    | 20        | +1        | 2          | 2H, Blunt, Heavy                                                                                                             | 2          | 1          |
+| Baseball bat / rifle butt    | 20        | +2        | 1          | 2H, Blunt, Heavy                                                                                                             | 2          | 1          |
 | Short Spear or fixed bayonet | 20        | +1        | 1          | Pointed, Reach                                                                                                               | 1          | 3          |
-| Crowbar                      | 25        | +1        | 2          | Blunt, Hook                                                                                                                  | 2          | 1          |
+| Crowbar                      | 25        | +2        | 1          | Blunt, Hook                                                                                                                  | 2          | 1          |
 | Machete                      | 30        | +1        | 2          | Edged, Pointed                                                                                                               | 1          | 1          |
 | Brass Knuckles               | 35        | +1        | 1          | Blunt                                                                                                                        | 0          | 2          |
 | Shortsword                   | 60        | +2        | 1          | Edged, Pointed, Parrying                                                                                                     | 1          | 3          |
@@ -283,6 +283,11 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | Rifle scope          | 900   | 2      | 0.5    | Attaches to a rifle and allows the user to magnify the target, thus increasing the accuracy at greater ranges. Adds +2 to Ranged Fighting rolls. Must spend a Slow Action centering to gain benefit. |
 
 # ELECTRONIC HARDWARE
+**Features**
+- **Gear Dice** reflects the onboard intrusion hardware integral to the deck. It augments the user’s base Technical: Computers skill.
+- **Memory** is the number of memory units standard to the deck. Each program and data file takes up one unit of memory. Erasing a program from memory is an Instant action, but loading it off a program chip takes fifteen minutes to complete all its linkages.
+- **CPU** indicates the number of programs the deck can run at once. Some programs are Immediate, and self-terminate right after executing, while others are ongoing, and take up a CPU slot until terminated as an Instant action.
+
 | GEAR                         | PRICE   | SUPPLY | WEIGHT | FEATURES                                                                                                                                                                                            |
 | ---------------------------- | ------- | ------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | “Flipper” Handheld Pentester | 170     | 3/F    | 0      | Hijack wireless devices (low power radio, IR), clone RFID tags, hardware connection. Memory 3, CPU 1                                                                                                |
@@ -290,10 +295,13 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | RF Hacker                    | 500     | 3/F    | 1      | When connected to computer, send/receive RF signals. <br>-0-3 DM Technical roll to tune into intentionally trunked or spread-spectrum radio comm systems. May jam signals, and send secure signals. |
 | Smart phone                  | 600     | 1      | 0      | -1 DM, Memory 4, CPU 2                                                                                                                                                                              |
 | Standard Laptop              | 700     | 1      | 1      | Memory 6, CPU 2                                                                                                                                                                                     |
+| Desktop (16GB RAM)           | 850     | 2      | 4      | Memory 12, CPU 4                                                                                                                                                                                    |
 | High End Laptop              | 5,000   | 1      | 1      | Memory 10, CPU 3                                                                                                                                                                                    |
 | Signal Locator               | 6,000   | 3/R    | 1      | Monitors the signals of tracking devices. It includes a small display to show direction of movement. + $2000 for models that can pinpoint the location on a map.                                    |
 | Developer’s Laptop           | 30,000  | 3      | 1      | +1 Gear Dice, Memory 11, CPU 4                                                                                                                                                                      |
 | Bleeding Edge Laptop         | 100,000 | 3      | 2      | +2 Gear Dice, Memory 12, CPU 6                                                                                                                                                                      |
+
+
 
 # MEDICAL SUPPLIES
 
