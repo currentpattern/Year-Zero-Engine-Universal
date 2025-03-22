@@ -194,8 +194,8 @@ Specializations, if improved upon, detach from their parent skill and are treate
 
 To increase a specialization by one step costs a certain number of XP:
 	From 1-4, multiply the skill level you want to attain multiplied by 1.5 (rounded up). 
-	For 5, the cost is 10
-	For all higher skill levels, multiply the desired level by 2.5 (rounded down)
+	For 5, the cost is 10  
+	For all higher skill levels, multiply the desired level by 2.5 (rounded down)  
 You can only increase a Specialization one step at a time. Also, you must either have used the specialization and succeeded (without skill level) during the session, or be instructed by a teacher with a higher skill than you during a Quarter Day. See the table below for XP costs.
 
 | Desired Specialty Level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
@@ -667,7 +667,20 @@ Scholar Specialties
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                         | -5 / XXXX |
 **Special SCHOLAR Actions**
 
-ROLLING FOR CONTACTS / CONNECTIONS
+USING FOREIGN/UNLEARNED LANGUAGE IN INSIGHT/INFLUENCE  
+All social INSIGHT & INFLUENCE rolls operating in an unlearned language: -5 DM.  
+For every X rolled, +1 to next foreign/unlearned language social INSIGHT & INFLUENCE roll.
+
+| **SCHOLAR: Languages Effects**                               | DM         |
+| ------------------------------------------------------------ | ---------- |
+| Understanding basic topics in unlearned language             | -4 / XXX   |
+| Understanding complex/technical topics in unlearned language | -6 / XXXXX |
+**Understanding Topics and Social INSIGHT & INFLUENCE are further modified by language rarity:** 
+- Common Languages (Spanish, Mandarin, Cantonese) -1  
+- Uncommon Languages (Russian, Bengali, Italian, Korean, German, etc) -2  
+- Rare Languages (Nahuatl, Pashto, Gaelic, Uyghur, etc)  -3  
+
+ROLLING FOR CONTACTS / CONNECTIONS  
 In any given faction or group, a character might know people- how to acquire information, items, or favors. When attempting to inquire into specific contacts that have not been already narratively established, a character may roll SCHOLAR: Streetwise (or any other specialty that seems relevant, e.g. Business for corporate contacts). Their roll is then modified by their FACTION SCORE: a dice number representing how well they connected in good terms with the faction. 
 
 | Level of Familiarity / Good-Standing | Description                                                                                  | Modifier |
@@ -785,7 +798,7 @@ Insight Specialties
 >Mindful: rolling for Meditation attempts  
 >Magician: rolling for Magic spells  
 >Tactician: Using the Read Enemy action during Combat  
-
+>Reader: Using insight to discern hidden motives, interests, and qualities about a character outside of combat.
 
 | General INSIGHT Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | DM         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -794,6 +807,7 @@ Insight Specialties
 | If you succeed at this DM, the GM must reveal if the NPC is lying or not. The GM does not have to reveal what exactly the NPC is lying about.                                                                                                                                                                                                                                                                                                                                                         | -3 / XXX   |
 | Whenever you could Help someone, **you can inspire them instead**. Roll INSIGHT. Success provides a +2 modifier to that person’s next roll, with every consecutive success providing +1. You must make your INSIGHT roll before the other person makes their own roll. If your INSIGHT roll fails, you get in the way of the action you were trying to help, and suffer the adverse effects of it.                                                                                                    | -4 / XXX   |
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | -5 / XXXX  |
+| Any social INSIGHT roll operating in an unlearned language. DM further modified by language rarity:<br>- Common Languages (Spanish, Mandarin, Cantonese) -1  <br>- Uncommon Languages (Russian, Bengali, Italian, Korean, German, etc) -2  <br>- Rare Languages (Nahuatl, Pashto, Gaelic, Uyghur, etc)  -3                                                                                                                                                                                            | -5 / XXXX  |
 | Resist any degree of manipulation                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | -7 / XXXXX |
 
 **Special INSIGHT Actions**
@@ -870,6 +884,11 @@ Each of the following factors modifies your roll by –1.
 - Your opponent has nothing to gain by helping you.  
 - You are having trouble understanding each other.  
 - The range between you is SHORT or longer.
+- You are trying to communicate through an unlearned language: -5 DM
+		DM further modified by language rarity: 
+		- Common Languages (Spanish, Mandarin, Cantonese) -1  
+		- Uncommon Languages (Russian, Bengali, Italian, Korean, German, etc) -2  
+		- Rare Languages (Nahuatl, Pashto, Gaelic, Uyghur, etc)  -3  
 
 MANIPULATE A GROUP  
 When you want to MANIPULATE a whole group, you usually address the group’s leader or spokesperson. Remember that your roll is modified by –1 if your opponent has more people on their side. If you reach an agreement with the leader, the rest of the group usually follows. If there is no given leader it’s harder — every single opponent acts individually.
@@ -1076,7 +1095,11 @@ STRESS AND HEALING
 OTHER  
 >	**Breakthrough**: Once per session, you may automatically succeed on some investigator roll.  
 >	**Hidden Stash**: Each session you may have an extra reasonable item of your choice, hidden or stowed somewhere.   
->	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  
+>	**Language (Specific Language)**:   
+>>>		**Rank 1**: Beginning fluency. -4 from Social INSIGHT & INFLUENCE rolls in this language. -2 SCHOLAR: Languages when trying to understand basic topics. -4 for complex/technical topics.  
+>>>		**Rank 2:** Moderate fluency. -2 from Social INSIGHT & INFLUENCE rolls in this language. No need to roll to understand basic topics. -2 SCHOLAR: Languages when trying to understand complex/technical topics.  
+>>>		**Rank 3:** Full fluency. No Social INSIGHT & INFLUENCE penalties, no understanding rolls needed. 
+>	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  (OLD)
 >	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
 >	**Packrat**: May carry +4 additional Weight.  
 >	**Seductive:** When trying to manipulate through seduction, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
