@@ -344,6 +344,7 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | Gas mask                           | 500   | 2      | 0.5    | provides a +3 to ENDURANCE rolls against gas attacks                                                                   |
 | Electrician’s tool kit             | 600   | 1      | 1      | Adds +1 to relevant skill attempts only if the user has the appropriate skill                                          |
 | Telescope                          | 800   | 1      | 1      | bonus +3 to OBSERVATION sight-based rolls for viewing objects beyond Medium range                                      |
+| Telescopic Camera                  | 1000  | 2      | 1      | bonus +3 to OBSERVATION sight-based rolls for viewing objects beyond Medium range, and takes pictures                  |
 | Grappling hook                     | 20    | 3      | 0.5    | +1 to MOVE climbing rolls when used with a rope.                                                                       |
 | Lockpicking tools                  | 100   | 3      | 0      | Adds +1 to relevant skill attempts only if the user has the appropriate skill                                          |
 | Disguise kit                       | 300   | 4      | 0.5    | Adds +1 to relevant skill attempts only if the user has the appropriate skill                                          |

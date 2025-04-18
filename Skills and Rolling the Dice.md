@@ -183,7 +183,7 @@ Once per game session, you can use your Pride when you have failed a skill roll.
 You can **spend your XP** to improve your Attributes, Skills and Talents, or to learn new ones. You can only spend XP during a Quarter Day when you REST or SLEEP.
 
 SKILLS
-To increase a skill level by one step costs a number of XP equal to the skill level you want to attain multiplied by 5. For example, an increase from skill level 2 to 3 costs 15 XP. You can only increase a skill level one step at a time. Learning a new skill (at skill level 1) costs 5 XP. Also, you must either have used the skill and succeeded (without skill level) during the session, or be instructed by a teacher (at skill level 1 or more) during a Quarter Day. See the table below for XP costs.
+To increase a skill level by one step costs a number of XP equal to the skill level you want to attain multiplied by 5. For example, an increase from skill level 2 to 3 costs 15 XP. You can only increase a skill level one step at a time. Learning a new skill (at skill level 1) costs 5 XP. Also, you must either have used the skill and succeeded (without skill level) during the session, or be instructed by a teacher (at skill level 1 or more) during a Quarter Day. See the table below for XP costs.  
 
 | Desired Skill level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1119,7 +1119,7 @@ OTHER
 >	**Linguist**: You know another language of your choice, well enough to be taken as native on a successful Influence roll.  (OLD)
 >	**Light Sleeper**: You can go for 5 QDs without sleep instead of 3 before suffering stress  
 >	**Packrat**: May carry +4 additional Weight.  
->	**Seductive:** When trying to manipulate through seduction, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.  
+>	**Seductive:** When trying to manipulate through seduction, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10.   
 >	**Signature Ride**: This specific vehicle is yours, and you know every bolt and cable, nook and cranny. Choose one vehicle or (not one type, but a single, specific vehicle). You receive a +1 bonus to DRIVE or PILOTING with the chosen vehicle. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10. Can be chosen multiple times for additional signature vehicles.  
 >	**Stunt Driver**: Once per session, you may use one DRIVE or PILOT Bonus Effect for free without needing to roll. Must possess at least one rank in DRIVE or PILOT to be used in their respective craft. Can be chosen multiple times for additional uses but uses of this talent cannot be triggered simultaneously. However, a free DRIVE Bonus Effect can be used alongside a normal DRIVE roll for the purposes of stacking effects.  
 >	**Survivalist's Calm:** You find one particular survival activity (hunting, foraging, fishing, sailing, scrounging, leading the way) relaxing. A QD spent doing that activity counts as REST. This talent may be purchased multiple times, choosing a new activity each time.   
