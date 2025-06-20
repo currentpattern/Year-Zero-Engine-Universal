@@ -82,8 +82,8 @@ The two types of reputation are:
 Add the scores together for the purpose of social conflict or being recognized.
 
 The three levels of reputation are:
-**Village Reputation**- How well known you are among the people in a neighborhood, borough, village or town. 10 of these is 1 Regional Reputation
-**Regional Reputation**- How well known you are in a ~200km region, or large city with modern media. 10 of these is 1 Global Reputation.
+**Village Reputation**- How well known you are among the people in a neighborhood, borough, village, town, or medium organization. 10 of these is 1 Regional Reputation
+**Regional Reputation**- How well known you are in a ~200km region, or large city with modern media, or large organization. 10 of these is 1 Global Reputation.
 **Global Reputation**- How well known you are across the larger known world.
 
 Depending on your age and social class, you start with a certain degree of Regional Reputation. You may choose how much of it is Cruelty vs Justice.

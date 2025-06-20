@@ -50,7 +50,7 @@ e.g. -3 DM to cut a planed hacking action down to 7 seconds (2 rounds).
 SUBSEQUENT HACKING
 Each hack/intrusion after the first in 24 hours incurs a -1 DM. 
 
-### Hacking Actions
+### Hacking Actions 
 
 | Hacking Action              | Description ............................................................................................                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | DM in <br>Unsecured Layer      | DM in<br>Secured Layer        | DM in<br>Hardened Layer        | DM in<br>Encrypted Layer                                                                                                                                                                                                                                                                  |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -201,9 +201,9 @@ Listed with the valid Subject types they function against. A Verb cannot be run 
 - **Transmission**: (Data)  Ambient radio transmissions can be affected with this element if the hacker has the right hardware (see HACKER GEAR) most often for the purpose of tampering with local comms.
 
 **Example Programs**
-- To reduce the Response values (i.e. how much failure will alert the admins) in the local Network Layer, run **Glitch** **Machine** on the Router. Reduces Response in this Network Layer by 1D6.
-- To log all keystrokes at a station, thereby learning passwords, etc, run **Sense** **Machine** on a computer you have access to.
-- To retrieve a map of this Network Layer and the next, run **Analyze** **Machine** on a Router.
+- To reduce the Response values (i.e. how much failure will alert the admins) in the local Network Layer, run **Glitch** **Machine** on the Router. Reduces Response in this Network Layer by 1D6.  
+- To log all keystrokes at a station, thereby learning passwords, etc, run **Sense** **Machine** on a computer you have access to.  
+- To retrieve a map of this Network Layer and the next, run **Analyze** **Machine** on a Router.  
 
 #### Writing Programs From Scratch
 

@@ -1,43 +1,48 @@
 # VEHICLE COMBAT
-Driving under normal circumstances requires no dice rolls, but more advanced maneuvers require DRIVING rolls. Use the MANEUVERABILITY rating of the vehicle as the attribute die. When pushing DRIVING rolls, any BANES  rolled inflict ==stress==.
+**Driving under normal circumstances**: NO DICE ROLLS  
+**More advanced maneuvers**: DRIVING. Use the MANEUVERABILITY rating of the vehicle as the attribute die.  
+**Pushing DRIVING rolls**: any BANES  rolled inflict 1 point of Stress, ==and either reduce your AGILITY or vehicle's RELIABILITY rating by one.== 
 
 GETTING IN AND OUT
-Getting into or out of a vehicle is typically a slow action. Getting on or off a motorcycle or bicycle is a fast action. Starting a vehicle is typically a fast action.
+Getting on or off a motorcycle or bicycle: **fast action**.   
+Getting into or out of most vehicles: **slow action**.   
+Starting a vehicle: **fast action**.
 
 ## VEHICLE ATTRIBUTES
 **PASSENGERS**: The number of people that can ride in the vehicle, in addition to the driver.
 
+**SPEED**: When in vehicle combat that is not technically a Chase, this rating is how many 10m the vehicle can more for 1 fast action.
+
 **MANEUVER**: This rating is used as the base attribute for all DRIVING skill rolls with this vehicle. Fast and agile vehicles have higher MANEUVER than slow and heavy ones.
 
-**RELIABILTY**: How much damage the vehicle can take before becoming Wrecked. For each BANE rolled after pushing a DRIVING roll, the reliability rating is reduced one step. If it drops to zero, the vehicle breaks down and becomes inoperable, before the extra movement (after the safe distance)
+**RELIABILTY**: How much damage the vehicle can take before becoming Wrecked. ==For each BANE rolled after pushing a DRIVING roll, the drive may choose: 1) Reduce vehicle RELIABILIITY rating one step. 2) Reduce your own AGILITY one step. If RELIABILITY drops to zero, the vehicle breaks down and becomes inoperable, before the extra movement (after the safe distance)==
 
 **ARMOR**: The Armor rating of the vehicle.
 
 ## VEHICLES IN COMBAT
 When operating a vehicle in combat, you can make moves just like on foot, but you cannot seek cover with a vehicle. To break through barriers as part of a vehicle's movement (assuming the GM deems it possible), roll DRIVING instead of MIGHT.
 
-**SPEEDING**: Corresponding to sprinting on foot, you can use the speeding action to make additional
-moves in the same Round with a vehicle.
+**VEHICLE WEAPONS:** Some vehicles are fitted with mounted heavy weapons, fired by the crew. Using MARKSMANSHIP or MELEE from a vehicle that has moved in the last round incurs a -2 penalty.
 
-**VEHICLE WEAPONS:** Some vehicles are fitted with mounted heavy weapons, fired by the crew (or the driver, assuming they are not speeding).
-
-**RAMMING ENEMIES** : Most vehicles can be used as weapons (i.e., to simply run your target over). It counts as a close combat attack but both attacker and defender roll for DRIVING. This roll can be combined with the speeding action above, but since the DRIVING roll will then be an opposed roll, the effectiveness of the speeding might be reduced. The **base Damage rating of the attack equals your vehicle’s RELIABILITY rating divided by two, rounded up**. Ramming vehicles inflict crushing damage. 
-
-Alienrpg: base damage is hull/5 
-Alien: includes a Speed stat.
-
+**RAMMING ENEMIES** : Most vehicles can be used as weapons (i.e., to simply run your target over). It counts as a close combat attack but both attacker and defender roll for DRIVING. The **base Damage rating of the attack equals your vehicle’s RELIABILITY rating divided by two, rounded up, + Speed difference of the attack.**
+>>**Sideswipes** typically occur with 0-1 speed difference  
+>>**Rear-ending** also typically occurs at 0-1 speed difference, unless the result of a chase round closes distance  below ARM'S L. The speed would be 1 per Range increment closed (e.g. Short to Below Arm's L = 2 increments = 2 speed)  
+>>**T-bones** typically occur at attacker's speed (e.g. 4-7)  
+>>**Head-ons** occur at attacker + defender's speed (e.g. 8-14)  
 ## DAMAGE TO VEHICLES
-Vehicles suffer damage just like people. When a vehicle has suffered damage equal to or in excess of its RELIABILITY rating, it is Wrecked. This means that the vehicle is inoperable – you’ll need to keep going on foot.
+Vehicles suffer damage just like people. When a vehicle has suffered damage equal to or in excess of its RELIABILITY rating, it is Wrecked. 
+
+**WRECKED**: Vehicle suffers CRITICAL DAMAGE, and is inoperable. Roll D12 on the Critical Damage Table. Every point of damage that brings the vehicle's RELIABILITY rating below 0 is inflicted as direct damage to all passengers (Blunt damage, Armor counts). If passengers see the crash coming, they can brace themselves for the hit by rolling MOBILITY- each rolled X reduces the damage by one.
 
 **ARMOR**: Most vehicles have an Armor rating. Vehicle armor works just like body armor – roll as many Base Dice as indicated by the Armor rating. Each rolled X decreases the damage by one point. If the damage is reduced to zero, no damage occurred.
 
-**CRITICAL DAMAGE**: When the RELIABILITY rating is reduced to zero, or an attacker successfully deals XX on an attack, the vehicle suffers CRITICAL DAMAGE. Roll on the Vehicle Critical Damage table. If the RELIABILITY has reached zero, roll a D12. 
+**CRITICAL DAMAGE**: When the RELIABILITY rating is reduced to zero, or an attacker successfully deals XX or more on an attack, the vehicle suffers CRITICAL DAMAGE. Roll on the Vehicle Critical Damage table. If the RELIABILITY has reached zero, roll a D12. 
 XX rolls D8 
 XXX rolls D10
 XXXX rolls D12
-A critical hit from a close combat attack against a vehicle is always rolled with a D6, irrespective of the Strength of the attacker.
+A critical hit from a MELEE attack against a vehicle is always rolled with a D6, irrespective of the Strength of the attacker.
 
-**PASSENGERS**: The driver and passengers in a vehicle can be hit by critical damage to a vehicle. If they are visible, they can also be targeted directly by a ranged attack. In a ground car, this counts as cover and counts as armor. A person riding on a cycle of some kind does not benefit from cover.
+**PASSENGERS**: The driver and passengers in a vehicle can be hit by critical damage to a vehicle. If they are visible, they can also be targeted directly by a ranged attack. In a ground car, this counts as cover and counts as armor. A person riding on a cycle of some kind does not benefit from cover.  If vehicle is WRECKED, every point of damage that brings the vehicle's RELIABILITY rating below 0 is inflicted as direct damage to all passengers (Blunt damage, Armor counts). If passengers see the crash coming, they can brace themselves for the hit by rolling MOBILITY- each rolled X reduces the damage by one.
 
 
 ![image](./Pasted%20image%2020241113205702.png)
@@ -104,8 +109,8 @@ FOOT
 
 
 SPECIAL ENVIRONMENTS
- The prey must roll Persuasion (no action) to convince them to move. Success gives a +2 modifier to any Hide maneuver. A failed roll means that the prey’s maneuver fails automatically. (a crowd that can be persuaded, monks)
-−2 modifier to Pursue/Flee, Hide and Stand and Shoot. Anyone who performs the Stand and Shoot maneuver will be attacked. (guards/police blocking the chase)
+ The prey must roll Persuasion (no action) to convince them to move. Success gives a +2 modifier to any Hide maneuver. A failed roll means that the prey’s maneuver fails automatically. (a crowd that can be persuaded, monks) 
+−2 modifier to Pursue/Flee, Hide and Stand and Shoot. Anyone who performs the Stand and Shoot maneuver will be attacked. (guards/police blocking the chase) 
 D6 hostiles block.  Prey must roll Persuasion (no action) to be allowed to pass. A failed roll means that the hostiles attack – the chosen maneuver fails automatically and one hostile attacks in close combat. If the Persuasion roll succeeds, the hostiles will attack the pursuer instead. (street thugs)
 
 

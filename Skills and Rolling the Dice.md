@@ -201,6 +201,8 @@ You can only increase a Specialization one step at a time. Also, you must either
 | Desired Specialty Level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **XP Cost**             | 2   | 3   | 5   | 6   | 10  | 15  | 17  | 20  | 22  | 25  |
+If you end up going back and improving the base skill back up to the level of a specialization, gets you the specialization cost (in XP) back.  
+>> E.g. You had Melee 2, and Melee: Brawler 4 (which had cost 11 XP to get). Improving base Melee to 3 costs 15xp, then to 4 costs 20xp (total 35), but -11xp from that specialization cost. Total cost: 24xp.
 
 ATTRIBUTES
 To increase a given Attribute by one step costs a number of XP equal to the cost of increasing _each skill under the attribute_ by one, plus the Attribute level you want to attain multiplied by 3. The skill levels remain unchanged. Training time is 5 quarter days. These quarter days may be broken up, but all 5 must take place within 1 week.  
@@ -674,6 +676,7 @@ Scholar Specialties
 >Engineering: Designing or understanding structures and machines of either premodern civic-scale context, or any structures or non-computer machines of early modern or later periods.  
 >Medicine: Making the MEDICAL AID Requirement cheaper, Bonuses for MEDICAL AID or SURVIVAL: First Aid 
 >Streetwise: Knowing how things work on the streets/underworld  
+>Occultism: Ceremonial Magic and occultism in general.
 
 
 | **General SCHOLAR Effects**                                                                                                                                                                                                                                                               | DM        |
@@ -827,7 +830,7 @@ Insight Specialties
 | Any social INSIGHT roll operating in an unlearned language. DM further modified by language rarity:<br>- Common Languages (Spanish, Mandarin, Cantonese) -1  <br>- Uncommon Languages (Russian, Bengali, Italian, Korean, German, etc) -2  <br>- Rare Languages (Nahuatl, Pashto, Gaelic, Uyghur, etc)  -3                                                                                                                                                                                                        | -5 / XXXX  |
 | Resist any degree of manipulation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | -7 / XXXXX |
 
-**Special INSIGHT Actions**
+**Special INSIGHT Actions** 
 
 READ ENEMY: INSIGHT roll, Fast action. -3 / XXX. Foresee how one opponent will act in the coming round. All your attack and defense rolls against this opponent get a +1 modification until it is your turn again in the next round. Every success beyond what is needed grants an additional +1 modification. 
 
@@ -864,14 +867,14 @@ MEDITATION: Roll INSIGHT: Mindful. Meditation may take from 5 minutes to 6 hours
 ## **INFLUENCE**
 INFLUENCE ranges from manipulating people to see things your way, to teaching, to being a moving performer, to being a soothing councilor, or an inspiring commander.
 
-Influence Specialties
+Influence Specialties   
 >Dominator: causing damage to Wits or Empathy   
 >Manipulator: Changing someone's mind about a particular issue  
->Teacher: Teaching someone a skill or specialty  
->Trader: Negotiating the price of an item  
->Performance: any kind of morale boosting performance (humor, music, storytelling, etc) that can potentially reduce stress to a group of people. Also when performing Warrior's Voice actions in combat.  
->Counselor: Reducing stress level of one other character  
->Command: using Influence on allies. Make a Plan action, Command action  
+>Teacher: Teaching someone a skill or specialty   
+>Trader: Negotiating the price of an item   
+>Performance: any kind of morale boosting performance (humor, music, storytelling, etc) that can potentially  reduce stress to a group of people. Also when performing Warrior's Voice actions in combat.   
+>Counselor: Reducing stress level of one other character   
+>Command: using Influence on allies. Make a Plan action, Command action   
 
 **Various INFLUENCE Actions**
 
@@ -890,7 +893,7 @@ Your chances of MANIPULATING someone successfully are affected by your negotiati
 + You present your case very well (determined by the GM)  
 + You have more reputation (Village or Regional, whichever is highest) than your opponent.  
 + You have twice the reputation (Village or Regional, whichever is highest) than your opponent.  
-+ You have more Global reputation than your opponent
++ You have more Global reputation than your opponent 
 
 Each of the following factors modifies your roll by –1.  
 - Your opponent has more people on their side.  
@@ -1074,7 +1077,7 @@ COMBAT
 >	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
 >	**Monster Hunter**- You are skilled at turning terror into scathing force. All your attacks against horrifying and unnatural creatures gain +1 bonus, and cause 1 additional point of damage. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10. If you roll a 10 or above on the Panic Table, all enemies count as "Monsters" for 1D rounds (if the effect is "Immediate") or the duration of the Panic Effect.
 >	**Monster Trucker**- When using a vehicle as a weapon, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10  
->	**Mounted Combat**: Using MARKSMANSHIP or MELEE from a vehicle or mount what has moved in the last round no longer incurs a -2 penalty. If the character has the AMBIDEXTROUS talent they can attack with a weapon as a fast action as though they were taking their second attack action with their off-hand weapon.  
+>	**Mounted Combat**: Using MARKSMANSHIP or MELEE from a vehicle or mount that has moved in the last round no longer incurs a -2 penalty. If the character has the AMBIDEXTROUS talent they can attack with a weapon as a fast action as though they were taking their second attack action with their off-hand weapon.  
 >	**Overkill**: Replace the effect of a Panic Roll of 14 or higher by the Overkill effect if you have any enemies in sight. Overkill effect: you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
 >	**Pain Resistant:** You suffer no pain penalty when you take damage.  
 >	**Parrying:** Receive a +1 bonus to all Parries. May spend 1 WP to gain a free parry in a round. May spend 2 WP to parry unlimited number of times in the same round of combat, but only once against each attack. No matter how many times you PARRY, it will never count as more than one action.  
