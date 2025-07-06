@@ -114,7 +114,7 @@ Gear/rof, dam, max range, reliability, ammo, features
 
 | **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**              | **Ammo Type** | **Weight** | Supply |
 | ---------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ------------------------- | ------------- | ---------- | ------ |
-| Pocket Pistol    | 75        | +0/3               | 1          | Medium        | 5R              | 9/9a     | Small, 1H                 | 5.7mm         | 0.25       | 1/F    |
+| Pocket Pistol    | 75        | '+0/3              | 1          | Medium        | 5R              | 9/9a     | Small, 1H                 | 5.7mm         | 0.25       | 1/F    |
 | Service Revolver | 75        | +1/2               | 1          | Medium        | 6R              | 6/6a     | Small, 1H                 | 0.38 SPC      | 0.5        | 1/F    |
 | Compact          | 100       | +1/3               | 1          | Long          | 5R              | 8/8a     | Small, 1H                 | 9mm           | .5         | 1/F    |
 | Glock 17         | 125       | +1/3               | 1          | Long          | 5R              | 18/18a   | Small, 1H                 | 9mm           | 0.5        | 1/F    |
