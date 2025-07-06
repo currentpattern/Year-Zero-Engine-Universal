@@ -147,26 +147,26 @@ To find a restricted item without the required legal authorization, first an Ava
 
 ### **ASSAULT RIFLES**
 
-| **Weapon**       | **Price** | **Gear Bonus** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**         | **Weight** | Supply |
-| ---------------- | --------- | -------------- | ---------- | ------------- | --------------- | ----------- | -------------------- | ---------- | ------ |
-| SKS              | 150       | '+2/2          | 2          | Distant       | 5R              | 10a         | 1H-3, am: 7.62mm     | 1          | 2/F    |
-| AKM              | 300       | '+2/4          | 2          | Distant       | 5R              | 30a         | 1H-3, am: 7.62mm     | 1          | 3/R    |
-| M4 (civ) Carbine | 350       | '+2/3          | 2          | Distant       | 5R              | 30a         | 1H-2, am: 5.56mm     | 1          | 2/F    |
-| M4A1 Carbine     | 375       | '+2/6          | 2          | Distant       | 5R              | 30a         | 1H-2, am: 5.56mm     | 1          | 3/X    |
-| Galil            | 400       | '+2/5          | 2          | Distant       | 5R              | 35a         | 1H-3, am: 5.56mm     | 1          | 3/R    |
-| Mini-14          | 400       | '+2/2          | 2          | Distant       | 5R              | 20a         | 1H-3, am: 5.56mm     | 1          | 2/F    |
-| Steyr AUG        | 500       | '+2/6          | 2          | Distant       | 5R              | 30a         | AP, 1H-3, am: 5.56mm | 1          | 4/R    |
+| **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**         | **Weight** | Supply |
+| ---------------- | --------- | ------------------ | ---------- | ------------- | --------------- | ----------- | -------------------- | ---------- | ------ |
+| SKS              | 150       | '+2/2              | 2          | Distant       | 5R              | 10a         | 1H-3, am: 7.62mm     | 1          | 2/F    |
+| AKM              | 300       | '+2/4              | 2          | Distant       | 5R              | 30a         | 1H-3, am: 7.62mm     | 1          | 3/R    |
+| M4 (civ) Carbine | 350       | '+2/3              | 2          | Distant       | 5R              | 30a         | 1H-2, am: 5.56mm     | 1          | 2/F    |
+| M4A1 Carbine     | 375       | '+2/6              | 2          | Distant       | 5R              | 30a         | 1H-2, am: 5.56mm     | 1          | 3/X    |
+| Galil            | 400       | '+2/5              | 2          | Distant       | 5R              | 35a         | 1H-3, am: 5.56mm     | 1          | 3/R    |
+| Mini-14          | 400       | '+2/2              | 2          | Distant       | 5R              | 20a         | 1H-3, am: 5.56mm     | 1          | 2/F    |
+| Steyr AUG        | 500       | '+2/6              | 2          | Distant       | 5R              | 30a         | AP, 1H-3, am: 5.56mm | 1          | 4/R    |
 
 ### **MACHINE GUNS**
 
-| **Weapon**   | **Price** | **Gear Bonus** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**                          | **Ammo Type** | **Weight** | Supply |
-| ------------ | --------- | -------------- | ---------- | ------------- | --------------- | ----------- | ------------------------------------- | ------------- | ---------- | ------ |
-| RPK-74       | 750       | '+1/5          | 2          | Distant       | 5R              | 45a         | 2H, STR 3, am: 5.45mm                 | 5.45mm        | 2          | 3/X    |
-| M249 SAW     | 1000      | '+0/6          | 2          | Distant       | 5R              | 200a        | AP, Belt, 2H, STR 4, am: 5.56mm       | 5.56mm        | 2          | 3/X    |
-| HK21E        | 1250      | '+1/6          | 3          | Distant       | 5R              | 100a        | Belt, 2H, STR 5, am: 7.62mm           | 7.62mm        | 3          | 3/X    |
-| PKM          | 2000      | '+1/5          | 3          | Distant       | 5R              | 100a        | AP, Belt, 2H, STR 5, am: 7.62mm       | 7.62mm        | 3          | 3/X    |
-| NSV          | 2000      | '+1/6          | 4          | Extreme       | 5R              | 50a         | AP, Belt, Platform, Scary, am: 12.7mm | 12.7mm        | 6          | 4/X    |
-| M134 Minigun | 5000      | '+2/15         | 3          | Extreme       | 5R              | 500a        | Belt, Platform, Scary, am: 7.62mm     | 7.62mm        | 13         | 4/X    |
+| **Weapon**   | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**                          | **Ammo Type** | **Weight** | Supply |
+| ------------ | --------- | ------------------ | ---------- | ------------- | --------------- | ----------- | ------------------------------------- | ------------- | ---------- | ------ |
+| RPK-74       | 750       | '+1/5              | 2          | Distant       | 5R              | 45a         | 2H, STR 3, am: 5.45mm                 | 5.45mm        | 2          | 3/X    |
+| M249 SAW     | 1000      | '+0/6              | 2          | Distant       | 5R              | 200a        | AP, Belt, 2H, STR 4, am: 5.56mm       | 5.56mm        | 2          | 3/X    |
+| HK21E        | 1250      | '+1/6              | 3          | Distant       | 5R              | 100a        | Belt, 2H, STR 5, am: 7.62mm           | 7.62mm        | 3          | 3/X    |
+| PKM          | 2000      | '+1/5              | 3          | Distant       | 5R              | 100a        | AP, Belt, 2H, STR 5, am: 7.62mm       | 7.62mm        | 3          | 3/X    |
+| NSV          | 2000      | '+1/6              | 4          | Extreme       | 5R              | 50a         | AP, Belt, Platform, Scary, am: 12.7mm | 12.7mm        | 6          | 4/X    |
+| M134 Minigun | 5000      | '+2/15             | 3          | Extreme       | 5R              | 500a        | Belt, Platform, Scary, am: 7.62mm     | 7.62mm        | 13         | 4/X    |
 
 ### **HAND GRENADES**
 
@@ -182,14 +182,14 @@ To find a restricted item without the required legal authorization, first an Ava
 
 ### **HEAVY ORDNANCE**
 
-| **Weapon**                     | **Price** | **Gear Bonus** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**                                                 | **Weight** | Supply |
-| ------------------------------ | --------- | -------------- | ---------- | ------------- | --------------- | ----------- | ------------------------------------------------------------ | ---------- | ------ |
-| M72A3 LAW Rocket Launcher      | 100       | '+1/1          | 6          | Distant       | 5R              | 1a          | AP, Ordnance, Disposable, 2H, Blast 2D8, am: 66mm            | 1          | 3/X    |
-| M79 Gren. Launcher             | 250       | '+1/1          | 3          | Distant       | 5R              | 1a          | Ordnance, Blast 2D6, 1H-2, am: 40mm                          | 1          | 3/X    |
-| M203 Gren Launcher (for M4)    | 300       | '+1/1          | 3          | Distant       | 5R              | 1a          | Ordnance, Blast 2D6, am: 40mm                                | 0.5        | 3/X    |
-| MK 19 Auto Gren. Launcher      | 2500      | '+2/4          | 3          | Extreme       | 5R              | 32a         | Ordnance, Belt, Platform, Blast 2D6, am: 40mm                | 6          | 4/X    |
-| M47 Dragon Guided Missile      | 5000      | '+2/1          | 11         | Extreme       | 5R              | 1a          | AP, STR 4, Laser-Guided, Ordnance, 2H, Blast 2D10, am: 140mm | 3          | 4/X    |
-| FGM-148 Javelin Guided Missile | 7500      | '+2/1          | 10         | Extreme       | 5R              | 1a          | AP, STR 3 Ordnance, 2H, Blast 2D10, am: 127mm                | 3          | 4/X    |
+| **Weapon**                     | **Price** | **Gear Bonu/ROF** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**                                                 | **Weight** | Supply |
+| ------------------------------ | --------- | ----------------- | ---------- | ------------- | --------------- | ----------- | ------------------------------------------------------------ | ---------- | ------ |
+| M72A3 LAW Rocket Launcher      | 100       | '+1/1             | 6          | Distant       | 5R              | 1a          | AP, Ordnance, Disposable, 2H, Blast 2D8, am: 66mm            | 1          | 3/X    |
+| M79 Gren. Launcher             | 250       | '+1/1             | 3          | Distant       | 5R              | 1a          | Ordnance, Blast 2D6, 1H-2, am: 40mm                          | 1          | 3/X    |
+| M203 Gren Launcher (for M4)    | 300       | '+1/1             | 3          | Distant       | 5R              | 1a          | Ordnance, Blast 2D6, am: 40mm                                | 0.5        | 3/X    |
+| MK 19 Auto Gren. Launcher      | 2500      | '+2/4             | 3          | Extreme       | 5R              | 32a         | Ordnance, Belt, Platform, Blast 2D6, am: 40mm                | 6          | 4/X    |
+| M47 Dragon Guided Missile      | 5000      | '+2/1             | 11         | Extreme       | 5R              | 1a          | AP, STR 4, Laser-Guided, Ordnance, 2H, Blast 2D10, am: 140mm | 3          | 4/X    |
+| FGM-148 Javelin Guided Missile | 7500      | '+2/1             | 10         | Extreme       | 5R              | 1a          | AP, STR 3 Ordnance, 2H, Blast 2D10, am: 127mm                | 3          | 4/X    |
 
 # **Ammunition**
 A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full unit  
