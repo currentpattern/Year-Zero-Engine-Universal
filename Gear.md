@@ -98,20 +98,30 @@ To find a restricted item without the required legal authorization, first an Ava
 **Scary**: The use of this weapon immediately imposes a Panic test when it is first fired into your Zone, regardless of success.  
 **Small**: -1 (instead of -2) when shooting targets at Arms Length.   
 **STR**: Weapons is heavy/unwieldy/powerful enough that it requires a (listed) minimum STRENGTH to fire it properly, unless it's resting on a stable platform, prop, stand, or tripod. -1 for every point of STR below the minimum.
+**Weight**: Concealing lighter weapons is easier than heavy weapons. DM by weight: .25 = +3, .5 = +1, .75 = 0, 1 = -1, 2 = -2
 
 [Sam's Weapon Drafts](Sam's%20Weapon%20Drafts.md)
 ### **PISTOLS**
++2/5, 2, long, 5R, 10/10a, AP, 1H-3
 
-| **Weapon**       | **Price** | **Gear Bonus** | **Damage** | **Ammo Type** | **Reliability** | **ROF** | **Max Range** | **Mag Cap** | **Features**                     | **Hide** | **Weight** | Supply |
-| ---------------- | --------- | -------------- | ---------- | ------------- | --------------- | ------- | ------------- | ----------- | -------------------------------- | -------- | ---------- | ------ |
-| Pocket Pistol    | 75        | 0              | 1          | 5.7mm         | 5               | 3       | Medium        | 8+1         | Small, 1H                        | +3       | 0.25       | 1/F    |
-| Service Revolver | 75        | 1              | 1          | 0.38 SPC      | 6               | 2       | Medium        | 6           | Small, 1H                        | +3       | 0.5        | 1/F    |
-| Compact          | 100       | 1              | 1          | 9mm           | 5               | 3       | Long          | 7+1         | Small, 1H                        | +2       | .5         | 1/F    |
-| Glock 17         | 125       | 1              | 1          | 9mm           | 5               | 3       | Long          | 17+1        | Small, 1H                        | +1       | 0.5        | 1/F    |
-| Colt .45         | 400       | 2              | 3          | .45 ACP       | 5               | 3       | Long          | 7+1         | Small, 1H-1                      | +1       | .5         | 1/F    |
-| Colt Python      | 600       | 2              | 2          | .357 MAG      | 6               | 1       | Long          | 6           | Small, 1H-1                      | 0        | 0.5        | 2/F    |
-| Desert Eagle     | 1000      | 3              | 3          | .50 AE        | 5               | 2       | Long          | 7+1         | AP, Small, 1H-2                  | -1       | 0.75       | 3/F    |
-| X-Gun            | 1500      | 2              | 3          | .500 S&W      | 6               | 1       | Long          | 5           | Small, Heavy, Scary, 1H-3, STR 3 | -2       | 1          | 4/F    |
+Gear/rof, dam, max range, reliability, ammo, features
+
+| **Weapon**    | **Price** | **Gear Bonus/ROF** | **Damage** | **Reliability** | **Mag Cap** | **Max Range** | **Features** | **Ammo Type** | **Hide** | **Weight** | Supply |
+| ------------- | --------- | ------------------ | ---------- | --------------- | ----------- | ------------- | ------------ | ------------- | -------- | ---------- | ------ |
+| Pocket Pistol | 75        | 0                  | 1          | 5               | 8+1         | Medium        | Small, 1H    | 5.7mm         | +3       | 0.25       | 1/F    |
+
+
+
+| **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**              | **Ammo Type** | **Weight** | Supply |
+| ---------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ------------------------- | ------------- | ---------- | ------ |
+| Pocket Pistol    | 75        | +0/3               | 1          | Medium        | 5R              | 9/9a     | Small, 1H                 | 5.7mm         | 0.25       | 1/F    |
+| Service Revolver | 75        | +1/2               | 1          | Medium        | 6R              | 6/6a     | Small, 1H                 | 0.38 SPC      | 0.5        | 1/F    |
+| Compact          | 100       | +1/3               | 1          | Long          | 5R              | 8/8a     | Small, 1H                 | 9mm           | .5         | 1/F    |
+| Glock 17         | 125       | +1/3               | 1          | Long          | 5R              | 18/18a   | Small, 1H                 | 9mm           | 0.5        | 1/F    |
+| Colt .45         | 400       | +2/3               | 3          | Long          | 5R              | 8/8a     | Small, 1H-1               | .45 ACP       | .5         | 1/F    |
+| Colt Python      | 600       | +2/1               | 2          | Long          | 6R              | 6/6a     | Small, 1H-1               | .357 MAG      | 0.5        | 2/F    |
+| Desert Eagle     | 1000      | +3/2               | 3          | Long          | 5R              | 8/8a     | AP, Small, 1H-2           | .50 AE        | 0.75       | 3/F    |
+| X-Gun            | 1500      | +2/1               | 3          | Long          | 6R              | 5/5a     | Small, Scary, 1H-3, STR 3 | .500 S&W      | 1          | 4/F    |
 
 ### **RIFLES**
 
@@ -376,33 +386,33 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 > **Reliability**: How much damage the vehicle can take before becoming Wrecked.  
 > **Armor:** Vehicle's armor, and also the armor rating of any cover the vehicle provides to passengers.
 
-| GROUND VEHICLES                                                 | PASSENGERS | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY | ARMOR | AVAILABILITY | COST                        |
-| --------------------------------------------------------------- | ---------- | ------------------ | --------------- | ----------- | ----- | ------------ | --------------------------- |
-| **Skateboard**                                                  | 1          | 2                  | 1               | 1           | -     | 1            | 2 (used), 60 (new)          |
-| **Roller Skates/blades**                                        | 1          | 2                  | 2               | -           | -     | 1            | 2 (used), 70 (new)          |
-| **Bicycle**                                                     | 2          | 2                  | 6               | 1           | -     | 1            | 20 (used), 300 (new)        |
-| **Motorcycle: Dirtbike**                                        | 2          | 5                  | 6               | 3           | -     | 1            | 600 (used), 4000 (new)      |
-| **Motorcycle: Moped**                                           | 2          | 6                  | 5               | 1           | -     | 1/F          | 1000 (used), 8000 (new)     |
-| **Motorcycle: Hog**                                             | 2          | 6                  | 5               | 2           | -     | 1/F          | 2000 (used), 10000 (new)    |
-| **Economy Car** (hatchback, stationwagon, 4-door, vintage, etc) | 4-6        | 6                  | 3               | 4           | 1     | 1/F          | 2500 (used), 12000 (new)    |
-| **Motorcycle: Racing Bike**                                     | 2          | 8                  | 5               | 2           | -     | 1/F          | 4000 (used), 15000 (new)    |
-| **Economy Sports Car**<br>(Mustang, Challenger, Camaro, etc)    | 2-6        | 7                  | 3-6             | 4           | 1     | 1/F          | 4000 (used), 15000 (new)    |
-| **Jeep**                                                        | 4          | 6                  | 4               | 5           | 0     | 1/F          | 7000 (used), 15000 (new)    |
-| **Commercial Van**                                              | 8          | 6                  | 2               | 4           | 2     | 1/F          | 10000 (used), 20000 (new)   |
-| **Minivan**                                                     | 7          | 6                  | 2               | 4           | 1     | 1/F          | 10000 (used), 20000 (new)   |
-| **Pickup/SUV**                                                  | 2-8        | 6                  | 3               | 5           | 1     | 1/F          | 10000 (used), 20000 (new)   |
-| **Small Delivery Truck**                                        | 12         | 4                  | 2               | 5           | 2     | 1/F          | 28000 (used), 47400 (new)   |
-| **Garbage Truck**                                               | 3          | 2                  | 0               | 8           | 2     | 1/R          | 28000 (used), 47400 (new)   |
-| **Bus**                                                         | 50         | 4                  | 0               | 6           | 1     | 1/F          | 29000 (used), 49000 (new)   |
-| **Semi Truck / Fire Truck**                                     | 3          | 3                  | 1               | 8           | 2     | 1/F          | 30000 (used), 50000 (new)   |
-| **Luxury Car** (Lincoln, Cadillac, Equus, Mercedes, etc)        | 4-6        | 6                  | 3               | 5           | 1     | 1/F          | 31000 (used), 55000 (new)   |
-| **Limousine**                                                   | 12         | 6                  | 2               | 5           | 1     | 2/F          | 35000 (used), 58000 (new)   |
-| **Luxury Sports Car** (Viper, Porsche, Jaguar, Lambo, etc)      | 2-4        | 8                  | 4-7             | 5           | 1     | 1/F          | 40000 (used), 140000 (new)  |
-| **APC**                                                         | 13         | 4                  | 0               | 5           | 4 H   | 4/X          | 50000 (used), 500000 (new)  |
-| **Police car**                                                  | 5          | 7                  | 4               | 4           | 3     | 2/R          | 55000 (new)                 |
-| **Armored car**                                                 | 5          | 5                  | 3               | 4           | 4 H   | 3/R          | 90000 (new)                 |
-| **SWAT truck**                                                  | 13         | 3                  | 1               | 6           | 2 H   | 2/R          | 100000 (used), 300000 (new) |
-| **Armored SUV/ Money Transport**                                | 2-8        | 5                  | 3               | 5           | 4 H   | 3/R          | 200000 (new)                |
+| GROUND VEHICLES                                                 | PASSENGERS   | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY   | ARMOR   | AVAILABILITY | COST                        |
+| --------------------------------------------------------------- | ------------ | ------------------ | --------------- | ------------- | ------- | ------------ | --------------------------- |
+| **Skateboard**                                                  | 1            | 2                  | 1               | 1             | -       | 1            | 2 (used), 60 (new)          |
+| **Roller Skates/blades**                                        | 1            | 2                  | 2               | -             | -       | 1            | 2 (used), 70 (new)          |
+| **Bicycle**                                                     | 2            | 2                  | 6               | 1             | -       | 1            | 20 (used), 300 (new)        |
+| **Motorcycle: Dirtbike**                                        | 2            | 5                  | 6               | 3             | -       | 1            | 600 (used), 4000 (new)      |
+| **Motorcycle: Moped**                                           | 2            | 6                  | 5               | 1             | -       | 1/F          | 1000 (used), 8000 (new)     |
+| **Motorcycle: Hog**                                             | 2            | 6                  | 5               | 2             | -       | 1/F          | 2000 (used), 10000 (new)    |
+| **Economy Car** (hatchback, stationwagon, 4-door, vintage, etc) | 4-6          | 6                  | 3               | 4             | 1       | 1/F          | 2500 (used), 12000 (new)    |
+| **Motorcycle: Racing Bike**                                     | 2            | 8                  | 5               | 2             | -       | 1/F          | 4000 (used), 15000 (new)    |
+| **Economy Sports Car**<br>(Mustang, Challenger, Camaro, etc)    | 2-6          | 7                  | 3-6             | 4             | 1       | 1/F          | 4000 (used), 15000 (new)    |
+| **Jeep**                                                        | 4            | 6                  | 4               | 5             | 0       | 1/F          | 7000 (used), 15000 (new)    |
+| **Commercial Van**                                              | Passengers 8 | Speed 6            | Maneuver 2      | Reliability 4 | Armor 2 | 1/F          | 10000 (used), 20000 (new)   |
+| **Minivan**                                                     | 7            | 6                  | 2               | 4             | 1       | 1/F          | 10000 (used), 20000 (new)   |
+| **Pickup/SUV**                                                  | 2-8          | 6                  | 3               | 5             | 1       | 1/F          | 10000 (used), 20000 (new)   |
+| **Small Delivery Truck**                                        | 12           | 4                  | 2               | 5             | 2       | 1/F          | 28000 (used), 47400 (new)   |
+| **Garbage Truck**                                               | 3            | 2                  | 0               | 8             | 2       | 1/R          | 28000 (used), 47400 (new)   |
+| **Bus**                                                         | 50           | 4                  | 0               | 6             | 1       | 1/F          | 29000 (used), 49000 (new)   |
+| **Semi Truck / Fire Truck**                                     | 3            | 3                  | 1               | 8             | 2       | 1/F          | 30000 (used), 50000 (new)   |
+| **Luxury Car** (Lincoln, Cadillac, Equus, Mercedes, etc)        | 4-6          | 6                  | 3               | 5             | 1       | 1/F          | 31000 (used), 55000 (new)   |
+| **Limousine**                                                   | 12           | 6                  | 2               | 5             | 1       | 2/F          | 35000 (used), 58000 (new)   |
+| **Luxury Sports Car** (Viper, Porsche, Jaguar, Lambo, etc)      | 2-4          | 8                  | 4-7             | 5             | 1       | 1/F          | 40000 (used), 140000 (new)  |
+| **APC**                                                         | 13           | 4                  | 0               | 5             | 4 H     | 4/X          | 50000 (used), 500000 (new)  |
+| **Police car**                                                  | 5            | 7                  | 4               | 4             | 3       | 2/R          | 55000 (new)                 |
+| **Armored car**                                                 | 5            | 5                  | 3               | 4             | 4 H     | 3/R          | 90000 (new)                 |
+| **SWAT truck**                                                  | 13           | 3                  | 1               | 6             | 2 H     | 2/R          | 100000 (used), 300000 (new) |
+| **Armored SUV/ Money Transport**                                | 2-8          | 5                  | 3               | 5             | 4 H     | 3/R          | 200000 (new)                |
 
 | WATER VEHICLES    | PASSENGERS | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY | ARMOR | AVAILABILITY | COST  |
 | ----------------- | ---------- | ------------------ | --------------- | ----------- | ----- | ------------ | ----- |
