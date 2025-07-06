@@ -112,16 +112,16 @@ Gear/rof, dam, max range, reliability, ammo, features
 
 
 
-| **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**                              | **Ammo Type** | **Weight** | Supply |
-| ---------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ----------------------------------------- | ------------- | ---------- | ------ |
-| Pocket Pistol    | 75        | '+0/3              | 1          | Medium        | 5R              | 9/9a     | Small, 1H, ammo: 5.7mm                    | 5.7mm         | 0.25       | 1/F    |
-| Service Revolver | 75        | '+1/2              | 1          | Medium        | 6R              | 6/6a     | Small, 1H                                 | 0.38 SPC      | 0.5        | 1/F    |
-| Compact          | 100       | '+1/3              | 1          | Long          | 5R              | 8/8a     | Small, 1H                                 | 9mm           | .5         | 1/F    |
-| Glock 17         | 125       | '+1/3              | 1          | Long          | 5R              | 18/18a   | Small, 1H                                 | 9mm           | 0.5        | 1/F    |
-| Colt .45         | 400       | '+2/3              | 3          | Long          | 5R              | 8/8a     | Small, 1H-1                               | .45 ACP       | .5         | 1/F    |
-| Colt Python      | 600       | '+2/1              | 2          | Long          | 6R              | 6/6a     | Small, 1H-1                               | .357 MAG      | 0.5        | 2/F    |
-| Desert Eagle     | 1000      | '+3/2              | 3          | Long          | 5R              | 8/8a     | AP, Small, 1H-2                           | .50 AE        | 0.75       | 3/F    |
-| X-Gun            | 1500      | '+2/1              | 3          | Long          | 6R              | 5/5a     | Small, Scary, 1H-3, STR 3, ammo: .500 S&W | .500 S&W      | 1          | 4/F    |
+| **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**                              | **Weight** | Supply |
+| ---------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ----------------------------------------- | ---------- | ------ |
+| Pocket Pistol    | 75        | '+0/3              | 1          | Medium        | 5R              | 8a       | Small, 1H, am: 5.7mm                      | 0.25       | 1/F    |
+| Service Revolver | 75        | '+1/2              | 1          | Medium        | 6R              | 6a       | Small, 1H, am: 0.38 SPC                   | 0.5        | 1/F    |
+| Compact          | 100       | '+1/3              | 1          | Long          | 5R              | 8a       | Small, 1H, am: 9mm                        | .5         | 1/F    |
+| Glock 17         | 125       | '+1/3              | 1          | Long          | 5R              | 18a      | Small, 1H, am: 9mm                        | 0.5        | 1/F    |
+| Colt .45         | 400       | '+2/3              | 3          | Long          | 5R              | 8a       | Small, 1H-1, am: .45 APC                  | .5         | 1/F    |
+| Colt Python      | 600       | '+2/1              | 2          | Long          | 6R              | 6a       | Small, 1H-1, am .357 MAG                  | 0.5        | 2/F    |
+| Desert Eagle     | 1000      | '+3/2              | 3          | Long          | 5R              | 8a       | AP, Small, 1H-2, am: .50 AE               | 0.75       | 3/F    |
+| X-Gun            | 1500      | '+2/1              | 3          | Long          | 6R              | 5a       | Small, Scary, 1H-3, STR 3, ammo: .500 S&W | 1          | 4/F    |
 
 ### **RIFLES**
 
