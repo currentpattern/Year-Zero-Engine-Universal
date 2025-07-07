@@ -106,7 +106,7 @@ To find a restricted item without the required legal authorization, first an Ava
 
 | **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**                              | **Weight** | Supply |
 | ---------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ----------------------------------------- | ---------- | ------ |
-| Pocket Pistol    | 75        | '+0/3              | 1          | Medium        | 5R              | 8a       | Small, 1H, am: 5.7mm                      | 0.25       | 1/F    |
+| Pocket Pistol    | 75        | '+0/3              | 1          | Medium        | 5R              | 9a       | Small, 1H, am: 5.7mm                      | 0.25       | 1/F    |
 | Service Revolver | 75        | '+1/2              | 1          | Medium        | 6R              | 6a       | Small, 1H, am: 0.38 SPC                   | 0.5        | 1/F    |
 | Compact          | 100       | '+1/3              | 1          | Long          | 5R              | 8a       | Small, 1H, am: 9mm                        | .5         | 1/F    |
 | Glock 17         | 125       | '+1/3              | 1          | Long          | 5R              | 18a      | Small, 1H, am: 9mm                        | 0.5        | 1/F    |
