@@ -121,7 +121,7 @@ When you attack in close combat, you use the MELEE skill. Close combat usually h
 
 WEAPONS: When you enter close combat, it is wise to have a weapon in hand. Weapons give you a Gear Bonus for your roll (see page 49), increase the damage caused and allow you to perform actions that are harder or even impossible without a weapon. 
 
-STANCE: It is recommended that you stand on your feet when you attack. If you are prone, you must spend a Fast Action to GET UP. While prone, you may use the SHOVE attack. You may still attack with weapons that have SHORT range, however while prone it’s range is now ARM’S LENGTH and you suffer a -1 penalty. Standing enemies get a +2 modification on all melee attacks against a prone enemy.
+STANCE: It is recommended that you stand on your feet when you attack. If you are prone, you must spend a Fast Action to GET UP. While prone, you may use the SHOVE attack. While prone, you may still attack with weapons that have REACH feature, but its range is now ARM’S LENGTH and you suffer a -1 penalty. Standing enemies get a +2 modification on all melee attacks against a prone enemy.
 
 ATTACKS OF OPPORTUNITY
 Under 2 circumstances, a character may attack out of turn as a Reactive Action (counting against their action economy):
@@ -132,7 +132,7 @@ SHIELDS: Carrying a shield is also very useful in close combat. You can PARRY at
 
 SACRIFICING SHIELD: When using a PARRY action with a shield, the character can choose to discard the shield to reduce all damage from the parried attack to zero if it had at least one success on the PARRY roll. This leaves the shield completely broken.
 
-SHIELDS VS PROJECTILES: For relatively slow-moving projectiles like arrows, or thrown weapons, PARRY with a shield as normal. Shields as protection against gunfire is different. If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to PARRY as normal. Note that if their gunfire is what is alerting you to being targeted, it is too late to PARRY the alerting shot, though in this case if the attacker is using rapid fire in a single roll using Ammo Dice, you may PARRY, but at a -2 penalty. Roll MELEE: Shield Fighter + the Shield's bonus. One X means you may choose which body areas (head, torso, arms, legs) the shield will allow you to cover (1, 2, or 3). Every extra success allows you to include one more body area. At this point, the shield acts like COVER for those body areas. If a shot hits a covered body area, treat the shield's Rating as armor.  
+SHIELDS VS PROJECTILES: For relatively slow-moving projectiles like arrows, or thrown weapons, PARRY with a shield as normal. **Shields as protection against gunfire is different.** If you are aware of an imminent firearms attack against you (you see someone lift their weapon to fire at you), you may perform a Reaction to PARRY as normal. Note that if their gunfire is what is alerting you to being targeted, it is too late to PARRY the alerting shot, though in this case if the attacker is using rapid fire in a single roll using Ammo Dice, you may PARRY, but at a -2 penalty. Roll MELEE: Shield Fighter + the Shield's bonus. One X means you may choose which body areas (head, torso, arms, legs) the shield will allow you to cover (1, 2, or 3). Every extra success allows you to include one more body area. At this point, the shield acts like COVER for those body areas. If a shot hits a covered body area, treat the shield's Rating as armor.  
 > Pre-emptive Shield Cover: If you already have your shield engaged toward a ballistic threat before they open fire (must have been established in prior rounds), simply treat it as cover for selected body parts. When crouching, Shields may cover 1 extra body area. When prone, Shields may cover 2 extra body areas. 
 
 
@@ -147,7 +147,7 @@ Note the difference between AIMing and making a "Called Shot." Called shots suff
 
 TELESCOPIC SIGHTS: If your weapon has a telescopic sight, you can aim as a slow action and get a +2 bonus. If you also have a stable platform to fire from (cover or a bipod, or the ground if you’re prone), the bonus is +3. No ammo dice can be used in the attack. Note, this means if you Slow Aim and fire in the same round, your bonus will be 0, or +1 if stable.
 
-MOVING TARGET: If your target has moved since your previous turn, your shot gets a –1 modifier. If you fire from a vehicle that has moved since your previous turn, your shot gets a –2 modifier.
+MOVING TARGET: If your target has moved 10m or more across your field of view since your previous turn, your shot gets a –1 modifier. If you fire from a vehicle that has moved since your previous turn, your shot gets a –2 modifier.
 
 CALLED SHOTS / TARGET SIZE: You may choose to shoot at targets much larger or smaller than a human body. Refer to the table below. If hitting a body part with no armor, you bypass any armor rolls. If the body part is partially armored, the GM rolls for whether the armor was hit (e.g. headshot: did it hit the helmet or face?)
 
@@ -227,11 +227,11 @@ DODGING GUNFIRE: If you are aware of an imminent firearms attack against you (yo
 	
 If it is your turn, and you are reasonably sure that you're about to be fired upon in the next round, you have more options:  
 >>a) **Dodge** pre-emptively. Your dodge roll will apply to the next ranged attack against you.  
->>b) **Keep moving**. An attacker suffers a -1 penalty if you've moved since their last round.  
+>>b) **Keep moving**. An attacker suffers a -1 penalty if you've moved 10 m or more across their field of view since their last round.  
 >>c) **Hit the dirt**. As a free action, you may go prone, imposing a -1 penalty on anyone further than 10m.  
 >>d) **Seek cover**. If the terrain allows it, immediately take full or partial cover behind a barrier. Under partial cover, the barrier is essentially armor. Under full cover, enemies can rarely even target you.
 #### FRIENDLY FIRE
-You can fire at a target even if your line of fire passes within 5m of one or more friendly fighters are located, but these friendlies must all immediately make INSIGHT: Calm rolls to avoid being SUPPRESSED. Also, if your
+You can fire at a target even if your line of fire passes within 5m of one or more friendly fighters are located, But if your
 shot misses, roll two D6 base dice – any X means a random friendly is hit instead, and a second X will increase the damage by 1.
 #### OVERWATCH
 As a fast action, you can assume an overwatch position against a specified 10m area in line of sight (including your own). If you have a telescopic sight, you can use a slow action to assume overwatch, claiming the normal bonuses for this when firing.   
@@ -252,9 +252,9 @@ The terrain of the target hex can give you a –1 or even a –2 modifier, unles
 
 At dusk or in a dimly lit room, you suffer a –1 modifier to your shot. At night or in a dark room with only a little light, you suffer a –2 modifier. You cannot hit a target in total darkness. Night vision goggles and thermal optics can negate the effects of darkness.
 
-SMOKE: Dense smoke (page 60) breaks line of sight and typically makes it impossible to hit the target. However, if the GM deems it likely that you know what hex your enemy is in, you can still fire, but with a –3 modifier.
+SMOKE: Dense smoke breaks line of sight and typically makes it impossible to hit the target. However, if the GM deems it likely that you know what 10m area your enemy is in, you can still fire, but with a –3 modifier.
 
-ELEVATION: When firing from a hex at a higher elevation than the target, you gain a +1 modifier.
+ELEVATION: When firing from a higher elevation than the target, you gain a +1 modifier.
 
 **RANGED FIRE MODIFIERS**
 
@@ -286,13 +286,11 @@ Firearms store ammunition in a magazine or an ammo belt. How many rounds of ammo
 
 AMMO DICE: Firearms give you ammo dice to add to your skill roll when you want to fire rapidly. When you do this, **all of the firearm's Gear Dice are reduced to 0, and are replaced by as many ammo dice as you like**, from 1 up to the rate of fire (RoF) rating of your weapon or the number of rounds left in the magazine, whichever is lower.
 
-If you use no ammo dice at all, use full Gear Dice, and only one (1) round of ammunition is used in the attack. This is typically only the case for sniper shots, but can also be useful if you are very low on ammo or your weapon is in a bad condition (low reliability rating).
-
 Rolling a 6 on an ammo die is a success just like with a D6 base die, but **successes on ammo dice do not contribute to hitting your target**. Instead, successes on ammo dice have different, specific effects, outlined below.  
 ON A HIT (ammo dice don't count toward this):  
 - Each X on your ammo dice can be used to (choose one)... 
 	- Increase damage (each X increases the damage by 1) 
-	- Trigger an additional hit on the same target  
+	- Trigger an additional hit on the same target. You can never trigger more hits than you have rounds of ammo in the magazine of your weapon.
 	- Trigger a hit on a secondary target within 5m of the first. You cannot choose a secondary target that would be harder to hit directly than the primary target. Each additional hit inflicts base damage on a random hit location, and the damage is increased by 1 for each further X you spend on it. You can never hit more targets than you have rounds of ammo in the magazine of your weapon.
 	- Pin your enemy triggering Panic Roll (may only be used once).
 	- You position yourself and may exchange initiative score with your enemy, taking effect next turn. You can't go back to your earlier initiative (may only be used once). 
@@ -300,6 +298,8 @@ ON A HIT (ammo dice don't count toward this):
 	- Opponent falls prone or is pushed back 1 meter (may only be used once).
 ON A MISS:  
 >>Rolling 1 or more X on your ammo dice means the target can still be SUPPRESSED: If target fails an INSIGHT (Calm) roll, they gain +1 stress, lose next Slow Action, next action must be to Seek Cover or remain in cover, cannot move toward danger next round, and all their allies within 10m and line of sight must also roll INSIGHT: calm to avoid being SUPPRESSED.
+
+If you use no ammo dice at all, use full Gear Dice, and only one (1) round of ammunition is used in the attack. This is typically only the case for sniper shots, but can also be useful if you are very low on ammo or your weapon is in a bad condition (low reliability rating).
 
 PUSHING & RELIABILITY: If you push your roll, you must also re-roll all ammo dice not showing BANE or X. Ammo dice have a BANE symbol on the one (1) side, just like base dice. When pushing, each BANE on an ammo die will reduce the reliability rating of the weapon by 1. Any BANE rolled in the initial roll (before pushing) are also counted.   
 This means rolling more ammo dice will risk damaging your firearm – but only when you push the roll. If your weapon breaks due to pushing, it does so after the current attack is resolved. Read more about damage to gear and repairs ==LATER==
@@ -346,7 +346,7 @@ SUPPRESSION: Any person in the blast area of an explosion, even if they are not 
 
 PRONE: If the target is already prone, the blast power is reduced one step.
 
-COVER: Solid cover provides protection against shielded hit locations, just like for a ranged attack – unless the explosion occurs in the same hex as the target.
+COVER: Solid cover provides protection against shielded hit locations, just like for a ranged attack – unless the explosion occurs within 10m of the target.
 
 | Blast Power | Base Damage |
 | :---------: | :---------: |
@@ -613,6 +613,22 @@ SACRIFICING HELMETS: If you suffer a critical injury to the head, you may choose
 
 REMOVING HELMET BONUS: Once per day, when you take off your helmet during combat (a fast action), your next attack gains a +d8 artifact die.
 
+### **BROKEN**  
+When an attribute score reaches zero, you are Broken. Depending on hit location, and type of damage, roll on the [Critical Injuries](Critical%20Injuries.md) table.
+
+You are essentially put out of action in one way or another. Exactly what it means to be Broken depends on what attribute has been depleted:
+
+**BROKEN STRENGTH**: You’re knocked senseless. Roll for a critical injury* for the type of damage you suffered. Drop prone, drop any held items. If you’re not dead, you can only CRAWL and mumble through the pain. You can’t perform any other actions and you can’t roll for any skills. If conscious, you may still use WP to take actions. 1 WP = an action that requires rolling 1 or fewer dice. Every WP spent after that is how many dice you may roll on the action. 
+
+**BROKEN AGILITY**: You collapse from exhaustion, drop any held items. You can only CRAWL and wheeze. You can’t perform any other actions and you can’t roll for any skills. If conscious, you may still use WP to take actions. 1 WP = an action that requires rolling 1 or fewer dice. Every WP spent after that is how many dice you may roll on the action. 
+
+**BROKEN WITS**: You’re paralyzed by fear or confusion. (horror table) except if you Broke yourself by pushing a roll. If you remain conscious, you must RETREAT, FLEE, or drop to the ground, but you can’t perform any other actions or roll for any skills. If conscious, you may still use WP to take actions. 1 WP = an action that requires rolling 1 or fewer dice. Every WP spent after that is how many dice you may roll on the action. 
+
+**BROKEN EMPATHY:** You break down in despair or self-pity. You must either explode in a violent outburst, attacking each round (at -2 for all rolls, PUSHING all rolls), OR withdraw from everyone around you. Must then angrily throw away any held items( * ) and RETREAT or FLEE. In either case, you’re uncommunicative until you’ve recovered a point of Empathy. If conscious, you may still use WP to take actions. 1 WP = an action that requires rolling 1 or fewer dice. Every WP spent after that is how many dice you may roll on the action. 
+( * )Skip this if the damage was the result of a PUSHED roll.
+
+**COUP DE GRACE**  
+An opponent who has lost all Strength or Agility is defenseless. If it’s an intelligent being (with Wits) and you want to give him a COUP DE GRACE and kill him outright, you must fail an Empathy roll (roll for the attribute only). If the roll succeeds or fails, you suffer one point of damage to Empathy – killing in cold blood is not as easy as you might think. If you have the COLD-BLOODED talent you can kill defenseless enemies without these negative effects.
 ### **STRESS**
 Stressful experiences, such as getting shot at or witnessing harrowing scenes, can temporarily put you out of action or even cause long term psychological damage. A summary of the stress rules is this:
 6) Certain mild-moderately stressful events cause you to gain Stress Points
@@ -780,10 +796,6 @@ After the rolled Healing Time has passed, you may attempt to heal your own Traum
 
 **Healing Trauma Points**
 Every time you roll for a Trauma Effect, you earn +1 **Trauma Point**, which should be tracked on your character sheet. This represents the mentally debilitating effect of continued exposure to the stresses of a life of adventure. These can also be gained from directly trying to heal someone's trauma, which is transferable. 
-
-
-
-
 
 CONDITION: ADDICTED
 You feel an urge to use the substance every day. 

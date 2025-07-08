@@ -102,6 +102,7 @@ There are several potential uses for Willpower:
 - Convert 1 WP to 2 XP for the purpose of training skills.
 - Ignore Suppression (see [Combat and Damage](Combat%20and%20Damage.md)).
 - +1D to a roll per WP spent (max 4 WP per round). These can be granted to a fellow character if you are helping. 
+- When Broken, use WP to take actions. 1 WP = an action that requires rolling 1 or fewer dice. Every WP spent after that is how many dice you may roll on the action. 
 - Re-rolling a critical damage result (once per injury), must use the new result.
 - Remove 1 Stress Point. Must be done before GM calls for Panic roll.
 - Buying success: If you are rolling 6+ dice (including Gear Dice), you may spend Willpower to buy 1 success. The cost is 3 WP. You may only buy the success before you’ve rolled the skill, and you may not subsequently roll the skill.
@@ -183,7 +184,7 @@ Once per game session, you can use your Pride when you have failed a skill roll.
 You can **spend your XP** to improve your Attributes, Skills and Talents, or to learn new ones. You can only spend XP during a Quarter Day when you REST or SLEEP.
 
 SKILLS
-To increase a skill level by one step costs a number of XP equal to the skill level you want to attain multiplied by 5. For example, an increase from skill level 2 to 3 costs 15 XP. You can only increase a skill level one step at a time. Learning a new skill (at skill level 1) costs 5 XP. Also, you must either have used the skill and succeeded (without skill level) during the session, or be instructed by a teacher (at skill level 1 or more) during a Quarter Day. See the table below for XP costs.  
+To increase a skill level by one step costs a number of XP equal to the skill level you want to attain multiplied by 5. For example, an increase from skill level 2 to 3 costs 15 XP. You can only increase a skill level one step at a time. Learning a new skill (at skill level 1) costs 5 XP. Also, you must either have used the skill (not a specialization of the base skill) and succeeded (without skill level) during the session, or be instructed by a teacher (at skill level 1 or more) during a Quarter Day. See the table below for XP costs.  
 
 | Desired Skill level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -196,13 +197,13 @@ To increase a specialization by one step costs a certain number of XP:
 	From 1-4, multiply the skill level you want to attain multiplied by 1.5 (rounded up). 
 	For 5, the cost is 10  
 	For all higher skill levels, multiply the desired level by 2.5 (rounded down)  
-You can only increase a Specialization one step at a time. Also, you must either have used the specialization and succeeded (without skill level) during the session, or be instructed by a teacher with a higher skill than you during a Quarter Day. See the table below for XP costs.
+You can only increase a Specialization one step at a time. Also, you must either have used the specialization (not the base skill) and succeeded (without skill level) during the session, or be instructed by a teacher with a higher skill than you during a Quarter Day. See the table below for XP costs.
 
 | Desired Specialty Level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **XP Cost**             | 2   | 3   | 5   | 6   | 10  | 15  | 17  | 20  | 22  | 25  |
-If you end up going back and improving the base skill back up to the level of a specialization, gets you the specialization cost (in XP) back.  
->> E.g. You had Melee 2, and Melee: Brawler 4 (which had cost 11 XP to get). Improving base Melee to 3 costs 15xp, then to 4 costs 20xp (total 35), but -11xp from that specialization cost. Total cost: 24xp.
+If you improve a base skill by 1, you get refunded the XP that you had spent to improve any of that skill's specializations to that level.  
+>> E.g. You had Melee 2 (the base skill), Melee: Brawler 3, Melee: Knives 4. You improve Melee to rank 3, -15 XP. But it had cost you (at some point in the past) -5 XP to get Brawler to rank 3 and -5 XP to get Knives to rank 3. You get refunded those 10 XP spent, bringing your cost to get to Melee 3 to only -5 XP. Melee: Brawler is now subsumed into the base skill (gone). Later, you want to improve Melee to 4, -20 XP. You get refunded to -6 XP cost from your Knives rank, bringing the Melee 4 cost to -14 XP.
 
 ATTRIBUTES
 To increase a given Attribute by one step costs a number of XP equal to the cost of increasing _each skill under the attribute_ by one, plus the Attribute level you want to attain multiplied by 3. The skill levels remain unchanged. Training time is 5 quarter days. These quarter days may be broken up, but all 5 must take place within 1 week.  
@@ -1077,7 +1078,7 @@ COMBAT
 >	**Merciful**- When you inflict a critical injury on someone, you can voluntarily reroll the injury once, choosing the lowest value to make the crit less lethal.  
 >	**Monster Hunter**- You are skilled at turning terror into scathing force. All your attacks against horrifying and unnatural creatures gain +1 bonus, and cause 1 additional point of damage. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10. If you roll a 10 or above on the Panic Table, all enemies count as "Monsters" for 1D rounds (if the effect is "Immediate") or the duration of the Panic Effect.
 >	**Monster Trucker**- When using a vehicle as a weapon, receive a +1 bonus. You may spend a WP to turn the bonus into 1D8, and 2 WP to turn the bonus into 1D10  
->	**Mounted Combat**: Using MARKSMANSHIP or MELEE from a vehicle or mount that has moved in the last round no longer incurs a -2 penalty. If the character has the AMBIDEXTROUS talent they can attack with a weapon as a fast action as though they were taking their second attack action with their off-hand weapon.  
+>	**Mounted Combat**: Using MARKSMANSHIP or MELEE from a vehicle or mount that has moved in the last round no longer incurs a -2 penalty. If the character has the AMBIDEXTROUS talent they can attack with a weapon as a fast action as though they were taking their second attack action with their off-hand weapon. 
 >	**Overkill**: Replace the effect of a Panic Roll of 14 or higher by the Overkill effect if you have any enemies in sight. Overkill effect: you must immediately attack your enemies and you won't stop until you or all enemies in sight are Broken. Also, all other PCs within 20m of you must make an immediate Panic roll.  
 >	**Pain Resistant:** You suffer no pain penalty when you take damage.  
 >	**Parrying:** Receive a +1 bonus to all Parries. May spend 1 WP to gain a free parry in a round. May spend 2 WP to parry unlimited number of times in the same round of combat, but only once against each attack. No matter how many times you PARRY, it will never count as more than one action.  
