@@ -156,11 +156,14 @@ If the effects of the spell require ongoing magic in order to continue, Spell Du
 | Concentration* |         -1          |
 | 15 min         |         -2          |
 | 1 hour         |         -3          |
-| 1 QD           |         -4          |
-| 24 hours       |         -6          |
-| 1 week         |         -7          |
-| 1 month        |         -8          |
+| 3h             |         -4          |
+| 1 QD           |         -5          |
+| 1 day          |         -6          |
+| 3 days         |         -7          |
+| 9 days         |         -8          |
+| 1 month        |         -9          |
 | 3 months       |         -10         |
+| 9 months       |         -11         |
 ### 5) Spell Range (May be shifted by 1 increment in game)
 How far away is the point/subject where the effect of your spell arises?
 
