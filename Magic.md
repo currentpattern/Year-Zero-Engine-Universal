@@ -107,7 +107,7 @@ Effects that completely transcend normal physical limitations and begin to resha
 - **Healing Body:** Heal minor critical injury; 3 Strength/Agility; Heal lethal critical by causing a lethal crit; resurrect day-long dead by taking another person's life.
 - **Enchant Items:** Walking statue; flying car; fix shattered mirror
 - **Perception:** See 1 day in past or future.
-- **Influence:** Cause fleeting illusion, interest/disinterest.
+- **Influence:** Cause fleeting illusion, interest/disinterest. 1 psych damage.
 - **Protection:** Banish mortals; nothing physical can touch you;  13D vs magical attacks and 10D vs general magic
 - **Travel:** Fly 100m/round (40 mph); teleport 15m. 
 - **Creation:** Build complex (house); turn puppet into boy; destroy large/tough (a locked safe). 
@@ -118,7 +118,7 @@ Effects that fundamentally alter reality on a significant scale. Transcendent, b
 - **Healing Body:** Heal lethal critical; resurrect day-long dead; resurrect week-long dead by taking 7 lives. 
 - **Enchant Items:** Fully living golem; sentient computer. A sword that grows stronger with each victory; a book that writes itself with infinite knowledge.
 - **Perception:** See clearly 1 month into the past or future; locate any person, object, or place anywhere in the world; discern the intentions of a crowd or mob.
-- **Influence:** Notable inconvenience; caused blurred illusion image.
+- **Influence:** Notable inconvenience; caused blurred illusion image. 2 psych damage.
 - **Protection:** No mortal can enter area; banish spirits;  14D vs magical attacks and 11D vs general magic
 - **Travel:** Fly 220m/round (100 mph); teleport 40m.
 - **Creation:** Statue into man; pumpkin into carriage; create large/complex (computer) 
@@ -129,7 +129,7 @@ Effects that fundamentally rewrite the laws of reality. Makes absolutely no sens
 - **Healing Body:** Resurrect week-dead.
 - **Enchant Items:** A suit of armor that renders the wearer impervious to harm; a device that generates infinite energy; a mirror that creates an independent duplicate of whoever looks into it.
 - **Perception:** Know the entire history of an object, person, or place with a touch; peer into alternate dimensions; perceive the entire timeline of the universe simultaneously.
-- **Influence:** They’re smitten; fade into crowd; imperfect image. 
+- **Influence:** They’re smitten; fade into crowd; imperfect image. 3 psych damage 
 - **Protection:** create an impenetrable sanctuary;  15D vs magical attacks and 12D vs general magic
 - **Travel:** Teleport out of sight/100m.
 - **Creation:** Build elaborate (palace); create large/complex (car); turn flowers into a woman.
