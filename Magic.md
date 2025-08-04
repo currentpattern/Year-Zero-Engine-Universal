@@ -176,6 +176,11 @@ How far away is the point/subject where the effect of your spell arises?
 | Long<br>up to 100m       |         -4          |
 | Distant<br>up to 300m    |         -5          |
 | Extreme<br>up to 1km     |         -6          |
+| 5km                      |         -8          |
+| 10km                     |         -11         |
+| 15km                     |         -15         |
+| 20km                     |         -20         |
+| 25km                     |         -26         |
 ### 6) Relationship / Area of Effect (May be shifted by 1 increment in game)
 If the spell usually effects others, the determine the base Relationship modifier. If the effect of the spell spreads out over an area, determine base AOE. Note that you can shift this up or down during gameplay. 
 

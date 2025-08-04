@@ -104,7 +104,7 @@ There are several potential uses for Willpower:
 - +1D to a roll per WP spent (max 4 WP per round). These can be granted to a fellow character if you are helping. 
 - When Broken, use WP to take actions. 1 WP = an action that requires rolling 1 or fewer dice. Every WP spent after that is how many dice you may roll on the action. 
 - Re-rolling a critical damage result (once per injury), must use the new result.
-- Remove 1 Stress Point. Must be done before GM calls for Panic roll.
+- Remove 1 Stress Point. Must be done before GM calls for Panic roll.  
 - Buying success: If you are rolling 6+ dice (including Gear Dice), you may spend Willpower to buy 1 success. The cost is 3 WP. You may only buy the success before you’ve rolled the skill, and you may not subsequently roll the skill.
 
 
@@ -412,7 +412,7 @@ ACROBATIC FEATS: Fast Actions. Specialization MOVE: Acrobat
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Flip:** If you successfully negate an attack by dodging and remaining standing, you may at the same time move 10m                                                                                                                 | -3 / XXX  |
 | **Contort:** Slither your way out of extreme restraints or push yourself through the smallest of openings, down to a few inches wide.                                                                                               | -4 / XXX  |
-| **Ground:** You cannot be shoved to the ground (Steady Feet 2)                                                                                                                                                                      | -5 / XXXX |
+| **Ground:** You cannot be shoved to the ground                                                                                                                                                                                      | -5 / XXXX |
 | **Fast Kip:** Allows you to get up from prone position without spending an action. If successful, you are standing, and may now perform a Kick as a Fast Action. Failure means you've used a Fast Action, and remain on the ground. | -5 / XXXX |
 | **Fall roll:** Reduce the damage taken from a fall. Reduce 4 damage, and you may use up to 4 Willpower, each reducing 1 more damage.                                                                                                | -5 / XXXX |
 
@@ -1057,7 +1057,7 @@ MOVING THE CRITICALLY INJURED: If someone suffering from a lethal critical injur
 STABILIZE FATAL CRITICAL INJURY: To stabilize a lethal critical injury and save your life, one or more MEDICAL AID: Field Surgeon (-2 DM) rolls must be made. Medical equipment can give a bonus to the roll. If you are not incapacitated, you can attempt to administer medical aid to yourself, but with a –2 modifier. The MEDICAL AID: Field Surgeon roll takes the same amount of time to perform as the time limit of your critical injury, i.e. one round, turn, or QD. (If the time limit is a round, the first aid is a slow action.) If the roll **succeeds**, the time limit of your crit is increased one category, i.e. from round to turn or from turn to QD. When a crit with a time limit of a QD is successfully treated, you no longer risk dying and you don’t need to make any further death saves. If the MEDICAL AID roll **fails**, trying again is allowed – after a death save has been made.  
 > A **Death Save** is a roll for ENDURANCE. You may roll even if incapacitated, but then you cannot push the roll. If you’re not incapacitated, you can push the roll normally. If a death save fails, you die. If you succeed, you linger on, but you must make another death save when the listed amount of time has passed again.
 
-TREAT LONG-TERM CRITICAL INJURY: Each critical injury takes a particular number of days to heal. If someone tends to you for a QD during the process of healing a critical injury and makes a MEDICAL AID: General Practitioner roll, that day counts double. If the critical injury is listed as "permanent", depending on GM's say, a QD-long MEDICAL AID: Field Surgeon (-4 DM) roll can make this a 2D6 day healing process.
+TREAT LONG-TERM CRITICAL INJURY: Each critical injury takes a particular number of days to heal. If someone tends to you for 1D6 hours during the process of healing a critical injury and makes a MEDICAL AID: General Practitioner roll, that day counts double. If the critical injury is listed as "permanent", depending on GM's say, a QD-long MEDICAL AID: Field Surgeon (-4 DM) roll can make this a 2D6 day healing process.
 
 TREAT DISEASE OR INFECTION: To care for someone in the course of their illness or infection, you make their "infection rolls" instead of the sufferer. The caregiver rolls for MEDICAL AID: General Practitioner modified by the virulence of the disease/infection. If provide antibiotics, the sufferer gets a +3 bonus to the roll, but it has no effect against viruses or radiation sickness.
 

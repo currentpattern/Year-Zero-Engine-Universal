@@ -1,4 +1,3 @@
-[Pride](#pride)
 
 [Item Supply](#item-supply)  
 [Melee Weapons](#melee-weapons)  
@@ -99,27 +98,26 @@ To find a restricted item without the required legal authorization, first an Ava
 **Small**: -1 (instead of -2) when shooting targets at Arms Length.   
 **STR**: Weapons is heavy/unwieldy/powerful enough that it requires a (listed) minimum STRENGTH to fire it properly, unless it's resting on a stable platform, prop, stand, or tripod. -1 for every point of STR below the minimum.
 **Weight**: Concealing lighter weapons is easier than heavy weapons. DM by weight: .25 = +3, .5 = +1, .75 = 0, 1 = -1, 2 = -2
-
-[Sam's Weapon Drafts](Sam's%20Weapon%20Drafts.md)
 ### **PISTOLS**
 
 
-| **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**                              | **Weight** | Supply |
-| ---------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ----------------------------------------- | ---------- | ------ |
-| Pocket Pistol    | 75        | '+0/3              | 1          | Medium        | 5R              | 9a       | Small, 1H, am: 5.7mm                      | 0.25       | 1/F    |
-| Service Revolver | 75        | '+1/2              | 1          | Medium        | 6R              | 6a       | Small, 1H, am: 0.38 SPC                   | 0.5        | 1/F    |
-| Compact          | 100       | '+1/3              | 1          | Long          | 5R              | 8a       | Small, 1H, am: 9mm                        | .5         | 1/F    |
-| Glock 17         | 125       | '+1/3              | 1          | Long          | 5R              | 18a      | Small, 1H, am: 9mm                        | 0.5        | 1/F    |
-| Colt .45         | 400       | '+2/3              | 3          | Long          | 5R              | 8a       | Small, 1H-1, am: .45 APC                  | .5         | 1/F    |
-| Colt Python      | 600       | '+2/1              | 2          | Long          | 6R              | 6a       | Small, 1H-1, am .357 MAG                  | 0.5        | 2/F    |
-| Desert Eagle     | 1000      | '+3/2              | 3          | Long          | 5R              | 8a       | AP, Small, 1H-2, am: .50 AE               | 0.75       | 3/F    |
-| X-Gun            | 1500      | '+2/1              | 3          | Long          | 6R              | 5a       | Small, Scary, 1H-3, STR 3, ammo: .500 S&W | 1          | 4/F    |
+| **Weapon**                                                      | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**                              | **Weight** | Supply |
+| --------------------------------------------------------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ----------------------------------------- | ---------- | ------ |
+| Pocket Pistol          <br>![[Pasted image 20250719165930.png]] | 75        | '+1/3              | 1          | Medium        | 3R              | 7a       | Small, 1H, am: 9mm                        | 0.25       | 1/F    |
+| Service Revolver<br>![[Pasted image 20250719170134.png]]        | 75        | '+2/2              | 1          | Medium        | 6R              | 5a       | Small, 1H, am: 0.38 SPC                   | 0.5        | 1/F    |
+|                                                                 |           | +2/2               | 1          | Medium        | 6R              | 5a       |                                           |            |        |
+| Compact<br>![[Pasted image 20250719170011.png]]                 | 100       | '+1/3              | 1          | Long          | 5R              | 8a       | Small, 1H, am: 9mm                        | .5         | 1/F    |
+| Glock 17<br>![[Pasted image 20250719170042.png]]                | 125       | '+1/3              | 1          | Long          | 5R              | 18a      | Small, 1H, am: 9mm                        | 0.5        | 1/F    |
+| Colt .45                                                        | 400       | '+2/3              | 3          | Long          | 5R              | 8a       | Small, 1H-1, am: .45 APC                  | .5         | 1/F    |
+| Colt Python                                                     | 600       | '+2/1              | 2          | Long          | 6R              | 6a       | Small, 1H-1, am .357 MAG                  | 0.5        | 2/F    |
+| Desert Eagle                                                    | 1000      | '+3/2              | 3          | Long          | 5R              | 8a       | AP, Small, 1H-2, am: .50 AE               | 0.75       | 3/F    |
+| X-Gun<br>![[Pasted image 20250719170605.png]]                   | 1500      | '+2/1              | 3          | Long          | 5R              | 6a       | Small, Scary, 1H-3, STR 3, ammo: .500 S&W | 1          | 4/F    |
 
 ### **RIFLES**
 
 | **Weapon**        | **Price** | **Gear Bonus/ROF** | DMG | Range   | Reliability | **Mag** | Features                            | **Weight** | Supply |
 | ----------------- | --------- | ------------------ | --- | ------- | ----------- | ------- | ----------------------------------- | ---------- | ------ |
-| Ruger 10/22       | 100       | '+0/2              | 1   | Long    | 5R          | 10a     | 1H-3, am: .22 LR                    | 2          | 1/F    |
+| Ruger 10/22       | 100       | '+1/2              | 1   | Long    | 5R          | 10a     | 1H-3, am: .22 LR                    | 2          | 1/F    |
 | Winchester        | 300       | '+3/1              | 2   | Extreme | 6R          | 10a     | 1H-3, am: .308                      | 2          | 1/F    |
 | Bolt-action rifle | 300       | '+2/1              | 3   | Extreme | 6R          | 5a      | 1H-3, am: .30-06                    | 1          | 2/F    |
 | M1A Semi-Auto     | 450       | '+2/2              | 2   | Distant | 5R          | 20a     | 1H-3, am: .308                      | 2          | 3/R    |
@@ -129,22 +127,22 @@ To find a restricted item without the required legal authorization, first an Ava
 
 ### **SHOTGUNS**
 
-| **Weapon**       | **Price** | **Gear Bonus/ROF** | **DMG** | **Max Range** | **Reliability** | **Mag Cap** | **Features**    | **Weight** | Supply |
-| ---------------- | --------- | ------------------ | ------- | ------------- | --------------- | ----------- | --------------- | ---------- | ------ |
-| Double-barrelled | 150       | '+3/2              | 3       | Long          | 5R              | 2a          | 1H-3, am: 12 GA | 1          | 1/F    |
-| Pump-action      | 200       | '+3/1              | 3       | Long          | 5R              | 5a          | 1H-3, am: 12 GA | 1          | 2/F    |
-| KS-23            | 300       | '+3/1              | 4       | Medium        | 5R              | 4a          | 1H-3, am: 20 GA | 1          | 4/X    |
-| Striker          | 1200      | '+3/2              | 3       | Long          | 5R              | 12a         | 1H-3, am: 12 GA | 1          | 3/R    |
+| **Weapon**                                      | **Price** | **Gear Bonus/ROF** | **DMG** | **Max Range** | **Reliability** | **Mag Cap** | **Features**    | **Weight** | Supply |
+| ----------------------------------------------- | --------- | ------------------ | ------- | ------------- | --------------- | ----------- | --------------- | ---------- | ------ |
+| Double-barrelled                                | 150       | '+3/2              | 3       | Long          | 5R              | 2a          | 1H-3, am: 12 GA | 1          | 1/F    |
+| Pump-action                                     | 200       | '+3/1              | 3       | Long          | 5R              | 5a          | 1H-3, am: 12 GA | 1          | 2/F    |
+| KS-23<br>![[Pasted image 20250719162528.png]]   | 300       | '+3/1              | 4       | Medium        | 5R              | 4a          | 1H-3, am: 20 GA | 1          | 4/X    |
+| Striker<br>![[Pasted image 20250719162558.png]] | 1200      | '+3/2              | 3       | Long          | 5R              | 12a         | 1H-3, am: 12 GA | 1          | 3/R    |
 
 ### **SMGs**
 
-| **Weapon** | **Price** | **Gear Bonus/ROF** | **DMG** | **Max Range** | **Reliability** | **Mag Cap** | **Features**      | **Weight** | Supply |
-| ---------- | --------- | ------------------ | ------- | ------------- | --------------- | ----------- | ----------------- | ---------- | ------ |
-| Vz. 61     | 200       | '+0/6              | 1       | Long          | 5R              | 20a         | Small, am: 7.65mm | 0.5        | 3/R    |
-| PM-84      | 300       | '+0/4              | 1       | Long          | 5R              | 25a         | 1H-2, am: 9mm     | 1          | 4/X    |
-| PP-19      | 350       | '+0/5              | 1       | Long          | 5R              | 64a         | 1H-2, am: 9mm     | 1          | 4/X    |
-| P90        | 400       | '+1/6              | 1       | Long          | 5R              | 30a         | 1H-2, am: 5.7mm   | 1          | 4/X    |
-
+| **Weapon**                                              | **Price** | **Gear Bonus/ROF** | **DMG** | **Max Range** | **Reliability** | **Mag Cap** | **Features**      | **Weight** | Supply |
+| ------------------------------------------------------- | --------- | ------------------ | ------- | ------------- | --------------- | ----------- | ----------------- | ---------- | ------ |
+| Vz. 61 Skorpian<br>![[Pasted image 20250719162028.png]] | 200       | '+1/6              | 1       | Long          | 5R              | 20a         | Small, am: 7.65mm | 0.5        | 3/R    |
+| PM-84<br>![[Pasted image 20250719162112.png]]           | 300       | '+1/4              | 1       | Long          | 5R              | 25a         | Small, am: 9mm    | 1          | 4/X    |
+| PP-19<br>![[Pasted image 20250719162302.png]]           | 350       | '+1/5              | 1       | Long          | 5R              | 64a         | 1H-2, am: 9mm     | 1          | 4/X    |
+| P90<br>![[Pasted image 20250719162346.png]]             | 400       | '+2/6              | 1       | Long          | 5R              | 30a         | 1H-2, am: 5.7mm   | 1          | 4/X    |
+Edits: give all +1 gear, and P90 +2? Make them all Small?
 ### **ASSAULT RIFLES**
 
 | **Weapon**       | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**         | **Weight** | Supply |
@@ -197,25 +195,25 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | Ammo type      | Price | Availability |
 | -------------- | ----- | ------------ |
 | .22 LR (50)    | 10    | 1            |
+| 5.45mm (20)    | 12    | 2/F          |
+| 7.62mm (20)    | 12    | 2/F          |
+| 5.56mm (20)    | 15    | 2/F          |
 | .410 GA (25)   | 19    | 1/F          |
 | 9mm (50)       | 23    | 1/F          |
 | 20 GA (25)     | 25    | 1/F          |
 | 12 GA (25)     | 25    | 1/F          |
 | .38 SPC (50)   | 30    | 1/F          |
+| 40mm (1)       | 30    | 4/X          |
 | .45 ACP (50)   | 38    | 1/F          |
 | .357 MAG (50)  | 38    | 1/F          |
-| 5.45mm (20)    | 12    | 2/F          |
-| 7.62mm (20)    | 12    | 2/F          |
-| 5.56mm (20)    | 15    | 2/F          |
 | 7.65mm (50)    | 38    | 2/F          |
 | .30-06 (20)    | 45    | 2/F          |
 | .50 AE (20)    | 65    | 3/R          |
 | 5.7mm (50)     | 75    | 3/R          |
-| .50 BALL (100) | 500   | 3/R          |
-| .50 M2 (100)   | 600   | 3/X          |
-| 40mm (1)       | 30    | 4/X          |
 | 66mm (1)       | 300   | 4/X          |
 | 14.5mm (40)    | 360   | 4/X          |
+| .50 BALL (100) | 500   | 3/R          |
+| .50 M2 (100)   | 600   | 3/X          |
 | 12.7mm (100)   | 750   | 4/X          |
 | 84mm (1)       | 750   | 4/X          |
 | 127mm (1)      | 1500  | 4/X          |
@@ -290,19 +288,21 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 - **Memory** is the number of memory units standard to the deck. Each program and data file takes up one unit of memory. Erasing a program from memory is an Instant action, but loading it off a program chip takes fifteen minutes to complete all its linkages.
 - **CPU** indicates the number of programs the deck can run at once. Some programs are Immediate, and self-terminate right after executing, while others are ongoing, and take up a CPU slot until terminated as an Instant action.
 
-| GEAR                         | PRICE   | SUPPLY | WEIGHT | FEATURES                                                                                                                                                                                            |
-| ---------------------------- | ------- | ------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Flipper” Handheld Pentester | 170     | 3/F    | 0      | Hijack wireless devices (low power radio, IR), clone RFID tags, hardware connection. Memory 3, CPU 1                                                                                                |
-| Police Scanner               | 300     | 2/R    | 1      | Listen to radio ranges and modulations used by police and other emergency services.                                                                                                                 |
-| RF Hacker                    | 500     | 3/F    | 1      | When connected to computer, send/receive RF signals. <br>-0-3 DM Technical roll to tune into intentionally trunked or spread-spectrum radio comm systems. May jam signals, and send secure signals. |
-| Tracker for smartphone       | 500     | 3/R    | 0      | Tracks onto smartphone                                                                                                                                                                              |
-| Smart phone                  | 600     | 1      | 0      | -1 DM, Memory 4, CPU 2                                                                                                                                                                              |
-| Standard Laptop              | 700     | 1      | 1      | Memory 6, CPU 2                                                                                                                                                                                     |
-| Desktop (16GB RAM)           | 850     | 2      | 4      | Memory 12, CPU 4                                                                                                                                                                                    |
-| High End Laptop              | 5,000   | 1      | 1      | Memory 10, CPU 3                                                                                                                                                                                    |
-| Signal Locator               | 6,000   | 3/R    | 1      | Monitors the signals of tracking devices. It includes a small display to show direction of movement. + $2000 for models that can pinpoint the location on a map.                                    |
-| Developer’s Laptop           | 30,000  | 3      | 1      | +1 Gear Dice, Memory 11, CPU 4                                                                                                                                                                      |
-| Bleeding Edge Laptop         | 100,000 | 3      | 2      | +2 Gear Dice, Memory 12, CPU 6                                                                                                                                                                      |
+| GEAR                         | PRICE   | SUPPLY | WEIGHT | FEATURES                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | ------- | ------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| “Flipper” Handheld Pentester | 170     | 3/F    | 0      | Hijack wireless devices (low power radio, IR), clone RFID tags, hardware connection. Memory 3, CPU 1                                                                                                                                                                                                      |
+| Police Scanner               | 300     | 2/R    | 1      | Listen to radio ranges and modulations used by police and other emergency services.                                                                                                                                                                                                                       |
+| RF Hacker                    | 500     | 3/F    | 1      | When connected to computer, send/receive RF signals. <br>-0-3 DM Technical roll to tune into intentionally trunked or spread-spectrum radio comm systems. May jam signals, and send secure signals.                                                                                                       |
+| Cellphone/Wifi <br>Jammer    | 500     | 3/X    | 0      | Cellphone sized. Range: 20m. Blocks Wifi, cellphone, and mobile data signals.                                                                                                                                                                                                                             |
+| Tracker for smartphone       | 500     | 3/R    | 0      | Tracks onto smartphone                                                                                                                                                                                                                                                                                    |
+| Smart phone                  | 600     | 1      | 0      | -1 DM, Memory 4, CPU 2                                                                                                                                                                                                                                                                                    |
+| Standard Laptop              | 700     | 1      | 1      | Memory 6, CPU 2                                                                                                                                                                                                                                                                                           |
+| Desktop (16GB RAM)           | 850     | 2      | 4      | Memory 12, CPU 4                                                                                                                                                                                                                                                                                          |
+| Advanced Portable Jammer     | 2,000   | 4/X    | 1.5    | Briefcase-sized. Range 20m. Computers/phones: glitches and crashes. Wifi, cellphone, and mobile data signals: blocked. Security cameras: static. Glass-break detectors, door/window sensors, and motion detectors: false alarms (cheap ones), detection failure (high end ones). VHF/UHF Radio: no impact |
+| High End Laptop              | 5,000   | 1      | 1      | Memory 10, CPU 3                                                                                                                                                                                                                                                                                          |
+| Signal Locator               | 6,000   | 3/R    | 1      | Monitors the signals of tracking devices. It includes a small display to show direction of movement. + $2000 for models that can pinpoint the location on a map.                                                                                                                                          |
+| Developer’s Laptop           | 30,000  | 3      | 1      | +1 Gear Dice, Memory 11, CPU 4                                                                                                                                                                                                                                                                            |
+| Bleeding Edge Laptop         | 100,000 | 3      | 2      | +2 Gear Dice, Memory 12, CPU 6                                                                                                                                                                                                                                                                            |
 
 
 
@@ -421,3 +421,9 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | Commuter Plane      | 12         | 8                  | 2               | 4           | 1     | 3/F          | 26,500,000 |
 | Fighter Jet         | 2          | 36                 | 5               | 8           | 1     | 4/X          | 82,500,000 |
 | Passenger Jet       | 200        | 30                 | 0               | 7           | 1     | 4/R          | 98,000,000 |
+
+
+
+[Sam's Weapon Drafts](Sam's%20Weapon%20Drafts.md)
+
+[[Gear Old 7.19.25]] Before improving several gun Gear Dice from 0 to 1
