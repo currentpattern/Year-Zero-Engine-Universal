@@ -1,8 +1,33 @@
 [Full Rules](Full%20Rules.md)
 
 
-## Learning Magical Spells within The Astral Plane
-Characters can also imagine improbable and impossible things within the AP. Due to the nature of The City, this actually increases the possibility of creating these events in "waking" life. 
+# Learning Spells Through Ritual/Study
+A more ritualistic method of learning magic powers: harder than learning a skill. Skill rolls involved and time taken and XP. Same XP cost, though maybe as much time taken as a Attribute increase. 
+
+- **XP COST**: The amount of XP spent to learn the spell is determined by the roll of a chosen Accord Skill:  a skill most closely applicable to the magical spell. This represents how the character makes sense of the mechanisms of the magical effect. Characters who come from a background of traditional magic schools may simply have that particular class of magic as a Scholar specialty. These can be used as Accord Skills when crafting a spell from that tradition. The player must describe, in psycho-techno-babble relating to their accord skill, the specific kind of mechanism whereby the spell can happen (imagery as language for the unconscious). The more this mechanism deviates from what is considered possible in consensus reality (“Weirdness”), the more difficult the spell is to weave. **You may then roll the Accord Skill to reduce the initial XP cost. Every Success reduces 1 XP of cost, with a minimum of 1 XP cost. The roll may be pushed, but every pushed Bane increases the cost by 1 XP.**
+- **TIME TAKEN**: 2 hours per XP cost. These hours may be broken up, but must all take place within 1 week.
+- **ROLL TO LEARN**: Roll to cast the spell UNKNOWN (+4 WL, -4 DM). A success in this case does not result in the casting up the spell (or associated mishap potential), but merely results in deep internalization of it. The roll to learn may also gain bonusses in the following ways:   
+	- Exact a PRICE that is not included in the spell itself.  
+	- Use an INSTRUMENT that is not included in the spell itself.  
+	- Deep research: Every success on 2-hour-Long Scholar: Occult roll grants +2 DM. A failure incurs -2 DM
+	- Crafting Ritual Paraphernalia: Every success on a 2-hour-Long Crafting roll to build a ritual space and specialized ritual implements grants +1 DM. 2 of these DMs may be kept long term as reusable ritual space/gear.  
+	- Using a ritual space/paraphernalia that you've already crafted: +1 - +2 DM  
+
+# The Lucid Dream State
+This is the world of pure imagination, integrated deeply with the highly generative and creative unconscious (preconscious and superconscious). 
+
+**Entering It**
+This can be entered through waking meditative states (Insight: Mindful -5 / XXXX), or through sleep-induced lucid dreaming (Scholar: Psychology -1 / XX + at least 3h sleep).
+
+**Half as Restful as Sleep**
+Time spent in the Lucid Dream State (LDS) is half as restful as sleep. 
+(Every hour spent in Lucid Dream State counts as 30 minutes of sleep).
+
+**A Simulation Space**
+Any situation that is needed in order to practice a skill may be generated within the LDS. One cannot train a skill exclusively in the LDS, however. At least half the training must be done in the waking world for a character to actually improve a skill. 
+(YOU HAVE MORE TO LEARN ABOUT THIS ASPECT)
+# Learning Magical Spells within the Lucid Dream State
+Characters can also imagine improbable and impossible things within the LDS. Due to the nature of The City, this actually increases the possibility of creating these events in "waking" life. 
 
 Creating A Spell
 
@@ -19,19 +44,18 @@ Creating A Spell
  
  The player must describe, in psycho-techno-babble relating to their accord skill, the specific kind of mechanism whereby the spell can happen (imagery as language for the unconscious). The more this mechanism deviates from what is considered possible in consensus reality (“Weirdness”), the more difficult the spell is to weave. You may then roll the Accord Skill to reduce the initial XP cost. Every Success reduces 1 XP of cost, with a minimum of 1 XP cost. The roll may be pushed, but every pushed Bane increases the cost by 1 XP.
 
-**"When creating your spell, I need you to explain the specific mechanism through which your magic achieves its effect. This isn't just flavor text—it directly impacts the spell's Weirdness Level and difficulty.**
-**Tell me:**
-1. **What exactly is your magic manipulating? (Energy, matter, perception, time, space, minds, etc.)**
-2. **How does your spell interact with reality to create its effect? Is it altering physical properties, creating something new, affecting perception, or something else?**
-3. **Could this effect be rationalized as advanced technology or science, or does it fundamentally break the laws of reality?**
-**For example, a spell that creates light could be rationalized as 'manipulating existing photons in the air' (lower Weirdness) or as 'creating energy from nothing' (higher Weirdness). A spell that makes someone flee could be 'producing a physical repulsion force' (lower Weirdness) or 'directly controlling their mind' (much higher Weirdness)."**
+**How is it that you're rationalizing the mechanism that makes this possible to your mind? Is it like some sort of advanced science, pseudo-science, or is it fundamentally breaking the laws of physics? Is it creating something out of nothing, or is it manipulating something that's already there? This will directly impact Weirdness Level.**
+- **For example, a spell that creates light could be rationalized as 'manipulating existing photons in the air' (lower Weirdness) or as 'creating energy from nothing' (higher Weirdness). A spell that makes someone flee could be 'producing a physical repulsion force' (lower Weirdness) or 'directly controlling their mind' (much higher Weirdness).**
 
 
 **Special Rules**
-There are very few rules for what kind of spells can be created and cast. But there are a few constraints:
-- Spells that **dispel, defend against, or nullify other magic spells** generate a Magical Defense total. This total faces a negative Difficulty Modifier equal to the attacking spell's Weirdness Level, and is then rolled against the attacking caster's successes. Every success on the defense would cancel out successes on a casting.
-- Spells to **increase your skill dice** do not stack. Skill/Talent-improvement spells are ranked in Weirdness based on how much higher the magical bonus is from your normal skill, not a flat +4 (for example) that can be cast multiple times for several +4 bonuses.
-- **Directly altering people's minds** is extremely difficult. Even the smallest mental alteration begins at Weirdness Level 6. Likewise altering your own mind on a fundamental level: Spells to improve EMPATHY attribute or EMPATHY-based skills begin at Weirdness Level 6.
+There are very few rules for what kind of spells can be created and cast. But there are a few constraints:  
+- Spells that **dispel, defend against, or nullify other magic spells** generate a Magical Defense total. This total faces a negative Difficulty Modifier equal to the attacking spell's Weirdness Level, and is then rolled against the attacking caster's successes. Every success on the defense would cancel out successes on a casting.  
+- Spells to **increase your skill dice** do not stack. Skill/Talent-improvement spells are ranked in Weirdness based on how much higher the magical bonus is from your normal skill, not a flat +4 (for example) that can be cast multiple times for several +4 bonuses.  
+- **Directly altering people's minds** is extremely difficult. Even the smallest mental alteration begins at Weirdness Level 6. Likewise altering your own mind on a fundamental level: Spells to improve EMPATHY attribute or EMPATHY-based skills begin at Weirdness Level 6.  
+- **If the Weirdness Level of a desired effect is unclear**, consider the following:  
+>>>>1)  If the effect is **Passive** (e.g. +1 armor, +2 str, night vision, magnetic aura, tempurature resistance, +4 stealth, etc), consider a lower WL. If the effect is **Active** (e.g. flame stream, telekenetic control, mind reading, levitation, shape shifting, illusion projection, weather control), consider a higher WL.  
+>>>>2)  If the effect is **Momentary** (e.g., explosion of a fireball, healing a wound, dispelling a lock), consider a lower WL. If the effect is **Continuous** (e.g. a personal shield, wall of stone, ongoing mind link, etc), consider a higher WL.  
 
 | Weirdness Level                                                                                                                                                                          | Base XP Cost | Base Difficulty Modifier | Base Casting Time |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------ | ----------------- |
@@ -45,96 +69,95 @@ There are very few rules for what kind of spells can be created and cast. But th
 | 8. Impossible (Makes absolutely no sense in any real world, effects that fundamentally rewrite the laws of reality)                                                                      | 8            | -9                       | 1 Quarter Day     |
 Different spell effects can be categorized by their "Weirdness level," the amount that the effect of the spell deviates from what is considered possible in consensus reality. The subcategories in each level ("die chance", "command energies", etc.) is an arbitrary means of categorizing the types of potential spell effects, and only matter for the purposes of making sense of how a particular spell effect might be categorized into an appropriate Weirdness Level. Organized into each on this table are practical examples of spell effects to give the reader a means or orienting to what the Weirdness Levels mean.  
 ### Weirdness Levels
+
 #### Weirdness Level 1: Subtle
 Effects that could be explained away as coincidence or skill. Unnoticeable by others, with naturalistic effects
 - **Die Change:** +1 for specialty.
 - **Command Energies:** Purifying food/water; seeing spirits.
 - **Healing Body:** N/A. No healing effects are Subtle.
 - **Enchant Items:** N/A. No item enchantments are Subtle.
-- **Perception:** Get a hunch; detect one specific person nearby; read mood.
+- **Perception:** Get a hunch; read mood; 
 - **Influence:** N/A. No direct mental influences are Subtle.
-- **Protection:** Comfort in extreme climates; +1 protection vs fire; 8D vs magical attacks and 5D vs general magic
+- **Protection:** +2 protection vs 1 damage source; Comfort in extreme climates; 8D vs magical attacks and 5D vs general magic
 - **Travel:** N/A.  No magical travel is Subtle.
 - **Creation:** Replicate small item (e.g., cards).
 #### Weirdness Level 2: Noticeable
 Effects that are clearly unusual but not obviously supernatural. Could be mundane trickery, believable but noteworthy
-- **Die Change:** +1 Skill; +2 for specialty.
+- **Die Change:** +1D Skill; +2 for specialty.
 - **Command Energies:** Stirring breeze; breaking glass; conversing with spirits; 1 damage.
 - **Healing Body:** Return someone to Consciousness by making someone else unconscious.
-- **Enchant Items:** repair snapped stick
-- **Perception:** See 1 minute in the past; detect a person in ½ mile; read simple language.
+- **Enchant Items:** A ring with a WL 2 spell activated by a skill roll 1/QD and rolls the user's own magic dice  (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Perception:** See 1 minute in the past; read simple language.
 - **Influence:** N/A. No direct mental influences are Noticeable or lower.
-- **Protection:** -1 physical attacks; banish bugs;  9D vs magical attacks and 6D vs general magic
+- **Protection:** +3 protection vs 1 damage source; +1 protection vs all physical attacks; banish bugs;  9D vs magical attacks and 6D vs general magic
 - **Travel:** N/A. No magical travel is Noticeable or lower.
 - **Creation:** Replicate bread; reshape flexible item.
 #### Weirdness Level 3: Weird
 Effects that begin to defy mundane explanation but could be rationalized as advanced technology or known science. Very strange, possibly pseudo-scientific.  
-- **Die Change:** +2 Skill; +3 for specialty.
+- **Die Change:** +2D Skill; +3 for specialty.
 - **Command Energies:** Lighting candles; refining metal from ore; drastic temperature change.
 - **Healing Body:** Return someone to Consciousness; Heal 1 Strength/Agility by stealing someone else' STR/AGIL
-- **Enchant Items:** Self-stirring spoon; sleeping powder.
-- **Perception:** Detect person in several miles; surface thoughts; complex language of mammals.
+- **Enchant Items:** A wand with a WL 2 spell activated only once by a gesture and uses the original caster's die pool  (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Perception:** surface thoughts; complex language of mammals; locate direction of a person
 - **Influence:** N/A. No direct mental influences are Weird or lower.
-- **Protection:** -2 physical attacks; animals suffer pain if close;  10D vs magical attacks and 7D vs general magic
-- **Travel:** Levitate 5m/round. 
+- **Protection:** +5 protection vs 1 damage source; +3 protection vs all physical attacks;; animals suffer pain if close;  10D vs magical attacks and 7D vs general magic
+- **Travel:** Levitate 5m/round. Teleportation with 7 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Creation:** Destroy plastic; reshape metal bar; transform simple/small items.
 #### Weirdness Level 4: Paranormal
 Effects that clearly demonstrate supernatural power but remain within human understanding. Obviously incredible. Strains one's notion of reality.  
-- **Die Change:** 3D, +1 for 3+ traits, +5 specialty.
+- **Die Change:** 3D, +1 for 3+ skills/traits, +5 specialty.
 - **Command Energies:** Sudden plant growth; let spirits control you; call rain; 3 damage.
 - **Healing Body:** Heal 1 Strength/Agility; heal 2 Strength/Agility by taking from someone else
-- **Enchant Items:** Self-driving car; acne potion; fix broken computer. 
-- **Perception:** Flash of clear insight; telepathic communication; any animal language.
+- **Enchant Items:** A cloak with a WL 4 spell activated 8 times/QD with an XX Move roll that takes 2 rounds and rolls the user's own magic dice  (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Perception:** Flash of clear insight; telepathic communication; any animal language; locate person w 1 benefit (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Influence:** N/A.  No direct mental influences are Paranormal or lower.
-- **Protection:** Fireproof; enemies suffer pain if close;  11D vs magical attacks and 8D vs general magic
-- **Travel:** Levitate 15m/round (7 mph).
+- **Protection:** +8 protection vs 1 damage source; +5 protection vs all physical attacks;; Fireproof; enemies suffer pain if close;  11D vs magical attacks and 8D vs general magic
+- **Travel:** Levitate 15m/round (7 mph). Teleportation with 6 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Creation:** Build basic (shed); turn rock into beetle; create simple (fork).
 #### Weirdness Level 5: Fantastic
 Effects that openly challenge the laws of physics and mundane reality. Defies common sense but aligns with magical or fantastical logic.  
-- **Die Change:** 5D, +2 for 3+ traits, +7 specialty.
+- **Die Change:** 5D, +2 for 3+ skills/traits, +7 specialty.
 - **Command Energies:** Twisting metal; animating a tree; thunderstorm; 4 damage.
-- **Healing Body:** Minor face change; heal 2 Strength/Agility; heal 3 Strength/Agility by taking from someone else
-- **Enchant Items:** Walking broom; flying carpet; fix rusted-out motor. 
-- **Perception:** Fully clear scry 1 hour past; sense person anywhere; know person's deep secrets.
+- **Healing Body:** Minor face change; heal 2 Strength/Agility; heal 3 Strength/Agility by taking from someone else; resurrect 3-hour long dead by taking someone else's life.
+- **Enchant Items:** A gun with a WL 2 spell activated once/day by a word that uses the successes from the original caster (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Perception:** Fully clear scry 1 hour past; know person's deep secrets; locate person w 2 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Influence:** N/A. No direct mental influences are Fantastic or lower.
-- **Protection:** Survive vacuum; attacks return; discourage people from area;  12D vs magical attacks and 9D vs general magic
-- **Travel:**  Fly 40m/round (20 mph). 
+- **Protection:** +12 protection vs 1 damage source; +8 protection vs all physical attacks; Survive vacuum; attacks return; discourage people from area;  12D vs magical attacks and 9D vs general magic
+- **Travel:**  Fly 40m/round (20 mph). Teleportation with 5 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Creation:** Turn water into wine; reshape fragile material; create crafted (table). 
 #### Weirdness Level 6: Mindblowing
 Effects that completely transcend normal physical limitations and begin to reshape reality. Overwhelms the mind with sheer impossibility, radically altering perception.  
-- **Die Change:** 7D, +3 for 3+ traits, +10 specialty. +1 EMPATHY specialty
-- **Command Energies:** Fixing brick wall; fireball; tornado; 5 damage.
-- **Healing Body:** Heal minor critical injury; 3 Strength/Agility; Heal lethal critical by causing a lethal crit; resurrect day-long dead by taking another person's life.
-- **Enchant Items:** Walking statue; flying car; fix shattered mirror
-- **Perception:** See 1 day in past or future.
-- **Influence:** Cause fleeting illusion, interest/disinterest. 1 psych damage.
-- **Protection:** Banish mortals; nothing physical can touch you;  13D vs magical attacks and 10D vs general magic
-- **Travel:** Fly 100m/round (40 mph); teleport 15m. 
+- **Die Change:** 7D, +3 for 3+ skills/traits, +10 specialty. +1 EMPATHY specialty
+- **Command Energies:** Fixing brick wall; fireball; tornado; 5 damage. 
+- **Healing Body:** Heal minor critical injury; 3 Strength/Agility; Heal lethal critical by causing a lethal crit; resurrect day-long dead by taking another person's life; resurrect 3-hour long dead. 
+- **Enchant Items:** A motorcycle with a WL 3 machine-spell activated 1/QD by a skill roll and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md)) 
+- **Perception:** See 1 day in past or future; locate person w 3 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md)) 
+- **Influence:** Cause fleeting illusion, interest/disinterest.
+- **Protection:** +16 protection vs 1 damage source; +12 protection vs all physical attacks; Banish mortals; 13D vs magical attacks and 10D vs general magic
+- **Travel:** Fly 100m/round (40 mph); Teleportation with 4 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Creation:** Build complex (house); turn puppet into boy; destroy large/tough (a locked safe). 
 #### Weirdness Level 7: Legendary
 Effects that fundamentally alter reality on a significant scale. Transcendent, bordering on mythic and capable of becoming legend.  
-- **Die Change:** 9D, +5 for 3+ traits. +1 EMPATHY Skill; +2 for EMPATHY specialty
+- **Die Change:** 9D, +5 for 3+ skills/traits. +1 EMPATHY Skill; +2 for EMPATHY specialty
 - **Command Energies:** 7 damage
 - **Healing Body:** Heal lethal critical; resurrect day-long dead; resurrect week-long dead by taking 7 lives. 
-- **Enchant Items:** Fully living golem; sentient computer. A sword that grows stronger with each victory; a book that writes itself with infinite knowledge.
-- **Perception:** See clearly 1 month into the past or future; locate any person, object, or place anywhere in the world; discern the intentions of a crowd or mob.
-- **Influence:** Notable inconvenience; caused blurred illusion image. 2 psych damage.
-- **Protection:** No mortal can enter area; banish spirits;  14D vs magical attacks and 11D vs general magic
-- **Travel:** Fly 220m/round (100 mph); teleport 40m.
+- **Enchant Items:** A statuette with a WL 8 spell activated by thought only once and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Perception:** See clearly 1 month into the past or future; discern the intentions of a crowd or mob; locate person w 3 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Influence:** Notable inconvenience; caused blurred illusion image.
+- **Protection:** +21 protection vs 1 damage source; +16 protection vs all physical attacks; No mortal can enter area; banish spirits;  14D vs magical attacks and 11D vs general magic
+- **Travel:** Fly 220m/round (100 mph); Teleportation with 3 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Creation:** Statue into man; pumpkin into carriage; create large/complex (computer) 
 #### Weirdness Level 8: Impossible
 Effects that fundamentally rewrite the laws of reality. Makes absolutely no sense in any real world.  
 - **Die Change:** 12D. +2 EMPATHY Skill; +3 for EMPATHY specialty.
 - **Command Energies:** Cause earthquakes; summon a raging hurricane; 9 damage.
 - **Healing Body:** Resurrect week-dead.
-- **Enchant Items:** A suit of armor that renders the wearer impervious to harm; a device that generates infinite energy; a mirror that creates an independent duplicate of whoever looks into it.
-- **Perception:** Know the entire history of an object, person, or place with a touch; peer into alternate dimensions; perceive the entire timeline of the universe simultaneously.
-- **Influence:** They’re smitten; fade into crowd; imperfect image. 3 psych damage 
-- **Protection:** create an impenetrable sanctuary;  15D vs magical attacks and 12D vs general magic
-- **Travel:** Teleport out of sight/100m.
+- **Enchant Items:** A ring with a WL 8 spell activated once/QD by gesture and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Perception:** Know the entire history of an object, person, or place with a touch; peer into alternate dimensions; locate person w 4 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Influence:** They’re smitten; fade into crowd; imperfect image. 
+- **Protection:** +30 protection vs 1 damage source; +21 protection vs all physical attacks; create an impenetrable sanctuary;  15D vs magical attacks and 12D vs general magic
+- **Travel:** Teleportation with 2 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
 - **Creation:** Build elaborate (palace); create large/complex (car); turn flowers into a woman.
-
-
 ### 2) Casting Dice
 Convert all dice rolled for this spell's Accord skill (Attribute + Skill) and your Insight: Magic skill (Wits + Skill) into Base Dice. Add them together into one pool. This total now becomes the **Casting Dice** for this particular spell. This large pool will be heavily modified by the difficulty of the spell. 
 
@@ -164,6 +187,24 @@ If the effects of the spell require ongoing magic in order to continue, Spell Du
 | 1 month        |         -9          |
 | 3 months       |         -10         |
 | 9 months       |         -11         |
+(Concentration = 1 fast action each round)
+
+**Momentary Effect** (e.g., explosion of a fireball, healing a wound, dispelling a lock) One use, gone. Has an immediate, one-time effect when cast. **Increasing the duration** means you are increasing the time span within which momentary activations may occur. You must decide the **Total Activations** below. If you are instead trying to make a momentary effect last continuously, see "Momentary Effects Made Continuous" below.
+
+**Continuous Effects** (e.g. a personal shield, wall of stone, ongoing mind link, etc) are always "on" unless suppressed or ended. They can be made **Toggleable for -1 DM**, and in addition, you must decide the **Total Activations** below with consequent Difficulty Modifier.
+
+**Momentary Effects Made Continuous** (e.g. ​ Fireball stream, continuous lightning bolt discharge, continuous major healing, continuously phase through matter, liquid-form shapeshifting, continuous earthquake) are substantially more powerful than their momentary versions and increase weirdness level by + 2 WL to +5 WL, depending on GM discretion. This makes them entirely new spells. They are now always "on" unless suppressed or ended. They can be made **Toggleable for -1 DM**, and in addition, you must decide the **Total Activations** below with consequent Difficulty Modifier.
+
+| Total Activations                                | DM  |
+| ------------------------------------------------ | --- |
+| One and done. Default for momentary spells.      | +0  |
+| Twice. Default for toggleable continuous spells. | -1  |
+| 4 per Quarter Day, Max                           | -2  |
+| 8 per Quarter Day, Max                           | -3  |
+| 16 per Quarter Day, Max                          | -4  |
+| 32 per Quarter Day, Max                          | -5  |
+| Unlimited                                        | -6  |
+
 ### 5) Spell Range (May be shifted by 1 increment in game)
 How far away is the point/subject where the effect of your spell arises?
 
@@ -239,7 +280,9 @@ Failure means the spell fails to occur. GM will roll for mishaps regardless of s
 ### Paying A Price
 Psychological sensemaking is a major factor in your PC's abililty to cast a spell. Magic makes more sense if there is a cost that comes with it. So you may choose to add a Price during the spell creation process, or you may choose to pay a Price when casting a spell during play.
 **During Spell Creation:** Player chooses which level of Difficulty Modifier bonus they want. Player then rolls 1D8, and the Price of the spell will permanently be what is indicated on the table below. You cannot undo the price without essentially making a new spell.
+**Choosing a SPECIFIC Price**: Only during spell creation, you may elect for the price to be a specific, non-random one (e.g. "I want this to have a Stress cost," or "The spell drains my Empathy"), you may do so at the cost of increasing +1 Weirdness Level. This will, in effect, lessen the Price's bonus by 1. 
 **Chosen During Play**: The available bonuses for a one-off Price are lower, but player may choose the level of bonus. Player then rolls 1D8, and the Price of that casting will be what is indicated on the table below.
+
 
 | 1-2                                | 3-4                    | 5-6                | 7-8                      |                                                         |                                  |
 | ---------------------------------- | ---------------------- | ------------------ | ------------------------ | :-----------------------------------------------------: | :------------------------------: |
@@ -254,3 +297,23 @@ Psychological sensemaking is a major factor in your PC's abililty to cast a spel
 
 Not enough time solidifying the imaginative mechanism into the mind.
 **+4 Weirdness Level,** as well as an additional -4 Difficulty Modifier. Further difficulty modifiers are based off of the 
+
+# GROUP CASTING
+
+1) **Pick a Lead caster**.
+2)  **Combine everyone's Casting Dice** for the spell into a total Casting Dice Pool.
+3) **If a caster is using a different Accord Skill** for the spell than the Lead caster, -1 DM if their Accord Skill (specialization doesn't matter) is at least under the same Attribute as the Lead Caster's Accord Skill. If the skill is under a different Attribute, -2 DM.  
+>>>> E.g. Lead caster's Accord Skill is Scholar: Path of Healing (a WITS skill). An assistant's Accord Skill is Medical Aid (an EMPATHY skill). -2 DM from the assistant's contribution to the Casting Dice Pool.
+4) **For every success beyond the first**, you may also alter any of the following by one increment: Casting time, Duration, Activations, Range, Relationship/AOE.
+5) **For calculating Mishaps**, use the highest Weirdness Level present (i.e. if a caster doesn't Know the spell +4 WL)
+
+# MISHAPS
+- Every time you cast a spell, there is some chance of a Mishap
+- There are 5 factors that impact the probability:
+	- Weirdness Level: higher = higher probability
+	- Spell Duration: Longer = higher probability, although the chances do not increase after 1 hour of duration.
+	- Casting Success: Failure has lower chance than success, though multiple successes actually decrease mishap probability again.
+	- Banes after a push: Every bane present after a push notably increases the probability of mishap
+	- Number of witnesses/ affected persons: Even if someone is directly impacted by magic without them being aware of it. Scales logarithmically.
+- There are at least 4 levels of Mishap severity. Only Weirdness Level influences probability of severity levels, but this caps out at WL 6. The higher mishap severity typically involve the arrival of "Agents/MIB/Guardians," arriving between 5 seconds to 5 minutes. 
+(THERE IS A LOT MORE TO LEARN ABOUT MISHAPS)
