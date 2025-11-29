@@ -294,7 +294,7 @@ Psychological sensemaking is a major factor in your PC's abililty to cast a spel
 # CASTING UNMEMORIZED SPELLS
 
 Not enough time solidifying the imaginative mechanism into the mind.
-**+4 Weirdness Level,** as well as an additional -4 Difficulty Modifier. Further difficulty modifiers are based off of the 
+**+4 Weirdness Level,** as well as an additional -4 Difficulty Modifier.
 
 # GROUP CASTING
 
