@@ -76,7 +76,7 @@ Effects that could be explained away as coincidence or skill. Unnoticeable by ot
 - **Command Energies:** Purifying food/water; seeing spirits.
 - **Healing Body:** N/A. No healing effects are Subtle.
 - **Enchant Items:** N/A. No item enchantments are Subtle.
-- **Perception:** Get a hunch; read mood; 
+- **Perception:** Vague information at range; read mood
 - **Influence:** N/A. No direct mental influences are Subtle.
 - **Protection:** +2 protection vs 1 damage source; Comfort in extreme climates; 8D vs magical attacks and 5D vs general magic
 - **Travel:** N/A.  No magical travel is Subtle.
@@ -86,8 +86,8 @@ Effects that are clearly unusual but not obviously supernatural. Could be mundan
 - **Die Change:** +1D Skill; +2 for specialty.
 - **Command Energies:** Stirring breeze; breaking glass; conversing with spirits; 1 damage.
 - **Healing Body:** Return someone to Consciousness by making someone else unconscious.
-- **Enchant Items:** A ring with a WL 2 spell activated by a skill roll 1/QD and rolls the user's own magic dice  (see [Magic Spell Details](Magic%20Spell%20Details.md))
-- **Perception:** See 1 minute in the past; read simple language.
+- **Enchant Items:** A ring with a WL 2 spell activated by a skill roll 1/QD and rolls the user's own magic dice  (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
+- **Perception:** Clear but basic sensory information at range; read simple language; Passive detect magic- "a spell is active at a specific spot/area." (see [Magic Spell Details](Magic%20Spell%20Details.md) for sensing magic, and info-gathering spells)
 - **Influence:** N/A. No direct mental influences are Noticeable or lower.
 - **Protection:** +3 protection vs 1 damage source; +1 protection vs all physical attacks; banish bugs;  9D vs magical attacks and 6D vs general magic
 - **Travel:** N/A. No magical travel is Noticeable or lower.
@@ -97,66 +97,66 @@ Effects that begin to defy mundane explanation but could be rationalized as adva
 - **Die Change:** +2D Skill; +3 for specialty.
 - **Command Energies:** Lighting candles; refining metal from ore; drastic temperature change.
 - **Healing Body:** Return someone to Consciousness; Heal 1 Strength/Agility by stealing someone else' STR/AGIL
-- **Enchant Items:** A wand with a WL 2 spell activated only once by a gesture and uses the original caster's die pool  (see [Magic Spell Details](Magic%20Spell%20Details.md))
-- **Perception:** surface thoughts; complex language of mammals; locate direction of a person
+- **Enchant Items:** A wand with a WL 2 spell activated only once by a gesture and uses the original caster's die pool  (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
+- **Perception:** vague information at range from 1 minute in the past; locate direction of a person; Knowing the WL of the magic you’re sensing (See [Magic Spell Details](Magic%20Spell%20Details.md) for sensing magic and info-gathering rules)
 - **Influence:** N/A. No direct mental influences are Weird or lower.
 - **Protection:** +5 protection vs 1 damage source; +3 protection vs all physical attacks;; animals suffer pain if close;  10D vs magical attacks and 7D vs general magic
-- **Travel:** Levitate 5m/round. Teleportation with 7 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Travel:** Levitate 5m/round. Teleportation with 7 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
 - **Creation:** Destroy plastic; reshape metal bar; transform simple/small items.
 #### Weirdness Level 4: Paranormal
 Effects that clearly demonstrate supernatural power but remain within human understanding. Obviously incredible. Strains one's notion of reality.  
 - **Die Change:** 3D, +1 for 3+ skills/traits, +5 specialty.
 - **Command Energies:** Sudden plant growth; let spirits control you; call rain; 3 damage.
 - **Healing Body:** Heal 1 Strength/Agility; heal 2 Strength/Agility by taking from someone else
-- **Enchant Items:** A cloak with a WL 4 spell activated 8 times/QD with an XX Move roll that takes 2 rounds and rolls the user's own magic dice  (see [Magic Spell Details](Magic%20Spell%20Details.md))
-- **Perception:** Flash of clear insight; telepathic communication; any animal language; locate person w 1 benefit (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Enchant Items:** A cloak with a WL 4 spell activated 8 times/QD with an XX Move roll that takes 2 rounds and rolls the user's own magic dice  (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
+- **Perception:** Info at range that would require careful study/moderate skill to access. Or vague info from 1 hour ago; willing telepathic communication; any animal language; locate person w 1 benefit; Get 8D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** N/A.  No direct mental influences are Paranormal or lower.
 - **Protection:** +8 protection vs 1 damage source; +5 protection vs all physical attacks;; Fireproof; enemies suffer pain if close;  11D vs magical attacks and 8D vs general magic
-- **Travel:** Levitate 15m/round (7 mph). Teleportation with 6 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Travel:** Levitate 15m/round (7 mph). Teleportation with 6 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
 - **Creation:** Build basic (shed); turn rock into beetle; create simple (fork).
 #### Weirdness Level 5: Fantastic
 Effects that openly challenge the laws of physics and mundane reality. Defies common sense but aligns with magical or fantastical logic.  
 - **Die Change:** 5D, +2 for 3+ skills/traits, +7 specialty.
 - **Command Energies:** Twisting metal; animating a tree; thunderstorm; 4 damage.
 - **Healing Body:** Minor face change; heal 2 Strength/Agility; heal 3 Strength/Agility by taking from someone else; resurrect 3-hour long dead by taking someone else's life.
-- **Enchant Items:** A gun with a WL 2 spell activated once/day by a word that uses the successes from the original caster (see [Magic Spell Details](Magic%20Spell%20Details.md))
-- **Perception:** Fully clear scry 1 hour past; know person's deep secrets; locate person w 2 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Enchant Items:** A gun with a WL 2 spell activated once/day by a word that uses the successes from the original caster (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
+- **Perception:** Clear info from 1 hour ago. Accessing someone's general thoughts/memories (they can resist); locate person w 2 benefits; Get 9D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** N/A. No direct mental influences are Fantastic or lower.
 - **Protection:** +12 protection vs 1 damage source; +8 protection vs all physical attacks; Survive vacuum; attacks return; discourage people from area;  12D vs magical attacks and 9D vs general magic
-- **Travel:**  Fly 40m/round (20 mph). Teleportation with 5 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Travel:**  Fly 40m/round (20 mph). Teleportation with 5 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
 - **Creation:** Turn water into wine; reshape fragile material; create crafted (table). 
 #### Weirdness Level 6: Mindblowing
 Effects that completely transcend normal physical limitations and begin to reshape reality. Overwhelms the mind with sheer impossibility, radically altering perception.  
 - **Die Change:** 7D, +3 for 3+ skills/traits, +10 specialty. +1 EMPATHY specialty
 - **Command Energies:** Fixing brick wall; fireball; tornado; 5 damage. 
 - **Healing Body:** Heal minor critical injury; 3 Strength/Agility; Heal lethal critical by causing a lethal crit; resurrect day-long dead by taking another person's life; resurrect 3-hour long dead. 
-- **Enchant Items:** A motorcycle with a WL 3 machine-spell activated 1/QD by a skill roll and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md)) 
-- **Perception:** See 1 day in past or future; locate person w 3 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md)) 
+- **Enchant Items:** A motorcycle with a WL 3 machine-spell activated 1/QD by a skill roll and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules) 
+- **Perception:** Vague info from 1 day in past. Info that would require skill to access from 1 hour ago; locate person w 3 benefits; Get 10D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** Cause fleeting illusion, interest/disinterest.
 - **Protection:** +16 protection vs 1 damage source; +12 protection vs all physical attacks; Banish mortals; 13D vs magical attacks and 10D vs general magic
-- **Travel:** Fly 100m/round (40 mph); Teleportation with 4 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Travel:** Fly 100m/round (40 mph); Teleportation with 4 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
 - **Creation:** Build complex (house); turn puppet into boy; destroy large/tough (a locked safe). 
 #### Weirdness Level 7: Legendary
 Effects that fundamentally alter reality on a significant scale. Transcendent, bordering on mythic and capable of becoming legend.  
 - **Die Change:** 9D, +5 for 3+ skills/traits. +1 EMPATHY Skill; +2 for EMPATHY specialty
 - **Command Energies:** 7 damage
 - **Healing Body:** Heal lethal critical; resurrect day-long dead; resurrect week-long dead by taking 7 lives. 
-- **Enchant Items:** A statuette with a WL 8 spell activated by thought only once and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md))
-- **Perception:** See clearly 1 month into the past or future; discern the intentions of a crowd or mob; locate person w 3 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Enchant Items:** A statuette with a WL 8 spell activated by thought only once and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
+- **Perception:** Vague info from 1 month ago. Info that that would require moderate skill to access from 1 hour ago; locate person w 3 benefits; Get 11D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** Notable inconvenience; caused blurred illusion image.
 - **Protection:** +21 protection vs 1 damage source; +16 protection vs all physical attacks; No mortal can enter area; banish spirits;  14D vs magical attacks and 11D vs general magic
-- **Travel:** Fly 220m/round (100 mph); Teleportation with 3 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Travel:** Fly 220m/round (100 mph); Teleportation with 3 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
 - **Creation:** Statue into man; pumpkin into carriage; create large/complex (computer) 
 #### Weirdness Level 8: Impossible
 Effects that fundamentally rewrite the laws of reality. Makes absolutely no sense in any real world.  
 - **Die Change:** 12D. +2 EMPATHY Skill; +3 for EMPATHY specialty.
 - **Command Energies:** Cause earthquakes; summon a raging hurricane; 9 damage.
 - **Healing Body:** Resurrect week-dead.
-- **Enchant Items:** A ring with a WL 8 spell activated once/QD by gesture and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md))
-- **Perception:** Know the entire history of an object, person, or place with a touch; peer into alternate dimensions; locate person w 4 benefits (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Enchant Items:** A ring with a WL 8 spell activated once/QD by gesture and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
+- **Perception:** Vague info from any time in the past; locate person w 4 benefits; Get 12D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** They’re smitten; fade into crowd; imperfect image. 
 - **Protection:** +30 protection vs 1 damage source; +21 protection vs all physical attacks; create an impenetrable sanctuary;  15D vs magical attacks and 12D vs general magic
-- **Travel:** Teleportation with 2 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md))
+- **Travel:** Teleportation with 2 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
 - **Creation:** Build elaborate (palace); create large/complex (car); turn flowers into a woman.
 ### 2) Casting Dice
 Convert all dice rolled for this spell's Accord skill (Attribute + Skill) and your Insight: Magic skill (Wits + Skill) into Base Dice. Add them together into one pool. This total now becomes the **Casting Dice** for this particular spell. This large pool will be heavily modified by the difficulty of the spell. 
@@ -167,8 +167,6 @@ This refers to how long it takes you to cast the spell. There are 8 Increments o
 Every increment you make the Casting Time faster = -1 DM
 
 Every increment you make the Casting Time slower = +1 DM
-
-
 
 ### 4) Spell Duration (May be shifted by 1 increment in game)
 If the effects of the spell require ongoing magic in order to continue, Spell Duration is required. 
@@ -315,5 +313,5 @@ Not enough time solidifying the imaginative mechanism into the mind.
 	- Casting Success: Failure has lower chance than success, though multiple successes actually decrease mishap probability again.
 	- Banes after a push: Every bane present after a push notably increases the probability of mishap
 	- Number of witnesses/ affected persons: Even if someone is directly impacted by magic without them being aware of it. Scales logarithmically.
-- There are at least 4 levels of Mishap severity. Only Weirdness Level influences probability of severity levels, but this caps out at WL 6. The higher mishap severity typically involve the arrival of "Agents/MIB/Guardians," arriving between 5 seconds to 5 minutes. 
+- There are at least 4 levels of Mishap severity. Only Weirdness Level influences probability of severity levels, but this caps out at WL 6. The higher WL typically involve the arrival of "agents/MIB/Guardians," arriving between 5 seconds to 5 minutes. 
 (THERE IS A LOT MORE TO LEARN ABOUT MISHAPS)
