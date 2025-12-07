@@ -129,7 +129,7 @@ Effects that openly challenge the laws of physics and mundane reality. Defies co
 Effects that completely transcend normal physical limitations and begin to reshape reality. Overwhelms the mind with sheer impossibility, radically altering perception.  
 - **Die Change:** 7D, +3 for 3+ skills/traits, +10 specialty. +1 EMPATHY specialty
 - **Command Energies:** Fixing brick wall; fireball; tornado; 5 damage. 
-- **Healing Body:** Heal minor critical injury; 3 Strength/Agility; Heal lethal critical by causing a lethal crit; resurrect day-long dead by taking another person's life; resurrect 3-hour long dead. 
+- **Healing Body:** Heal minor critical injury; 3 Strength/Agility; Heal lethal critical by causing a lethal crit; resurrect day-long dead by taking another person's life; resurrect 3-hour long dead; Stopping a Panic Effect; Relieving 1D Stress Points
 - **Enchant Items:** A motorcycle with a WL 3 machine-spell activated 1/QD by a skill roll and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules) 
 - **Perception:** Vague info from 1 day in past. Info that would require skill to access from 1 hour ago; locate person w 3 benefits; Get 10D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** Cause fleeting illusion, interest/disinterest.
@@ -140,7 +140,7 @@ Effects that completely transcend normal physical limitations and begin to resha
 Effects that fundamentally alter reality on a significant scale. Transcendent, bordering on mythic and capable of becoming legend.  
 - **Die Change:** 9D, +5 for 3+ skills/traits. +1 EMPATHY Skill; +2 for EMPATHY specialty
 - **Command Energies:** 7 damage
-- **Healing Body:** Heal lethal critical; resurrect day-long dead; resurrect week-long dead by taking 7 lives. 
+- **Healing Body:** Heal lethal critical; resurrect day-long dead; resurrect week-long dead by taking 7 lives; Healing 1 Empathy; Relieving 2D Stress Points
 - **Enchant Items:** A statuette with a WL 8 spell activated by thought only once and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
 - **Perception:** Vague info from 1 month ago. Info that that would require moderate skill to access from 1 hour ago; locate person w 3 benefits; Get 11D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** Notable inconvenience; caused blurred illusion image.
@@ -151,7 +151,7 @@ Effects that fundamentally alter reality on a significant scale. Transcendent, b
 Effects that fundamentally rewrite the laws of reality. Makes absolutely no sense in any real world.  
 - **Die Change:** 12D. +2 EMPATHY Skill; +3 for EMPATHY specialty.
 - **Command Energies:** Cause earthquakes; summon a raging hurricane; 9 damage.
-- **Healing Body:** Resurrect week-dead.
+- **Healing Body:** Resurrect week-dead; Healing 2 Empathy; reduce Trauma Effect healing time by 1 week, or eliminating a "Trauma Point"; Relieving 3D Stress Points
 - **Enchant Items:** A ring with a WL 8 spell activated once/QD by gesture and uses the original caster's die pool (see [Magic Spell Details](Magic%20Spell%20Details.md) for enchantment rules)
 - **Perception:** Vague info from any time in the past; locate person w 4 benefits; Get 12D to understand a spell's details (see [Magic Spell Details](Magic%20Spell%20Details.md), for sensing magic and info-gathering rules)
 - **Influence:** They’re smitten; fade into crowd; imperfect image. 
@@ -294,7 +294,7 @@ Psychological sensemaking is a major factor in your PC's abililty to cast a spel
 # CASTING UNMEMORIZED SPELLS
 
 Not enough time solidifying the imaginative mechanism into the mind.
-**+4 Weirdness Level,** as well as an additional -4 Difficulty Modifier.
+**+4 Weirdness Level,** as well as an additional -4 Difficulty Modifier. Further difficulty modifiers are based off of the 
 
 # GROUP CASTING
 
