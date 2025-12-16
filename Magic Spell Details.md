@@ -141,25 +141,16 @@ Charges
 
 **How many casting dice does entity have?**
 
-0D 
-WL 1, 2D
-WL 2, 4D
-WL 3, 6D
-WL 4, 8D
-WL 5, 10D
-WL 6, 12D
-WL 7, 14D
-WL 8, 16D -9
--
-0D 1WL
-2D 2WL
-4D
-6D
-8D
-10D
-12D
-14D
-16D 
+| Dice | WL   |
+| ---- | ---- |
+| 0    | WL 1 |
+| 3    | WL 2 |
+| 5    | WL 3 |
+| 8    | WL 4 |
+| 10   | WL 5 |
+| 12   | WL 6 |
+| 14   | WL 7 |
+| 16   | WL 8 |
 May divide casting dice into any number of spells
 
 **What WL can entity cast?** 
