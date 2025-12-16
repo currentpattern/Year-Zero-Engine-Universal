@@ -140,6 +140,7 @@ Charges
 # Evoking/Invoking Magical Beings
 
 **How many casting dice does entity have?**
+
 0D 
 WL 1, 2D
 WL 2, 4D
