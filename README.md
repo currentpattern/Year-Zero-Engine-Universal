@@ -14,7 +14,7 @@
 
 [Critical Injuries](Critical%20Injuries.md)
 
-https://github.com/currentpattern/Year-Zero-Engine-Universal/blob/main/Magic.md
+[Magic] (https://github.com/currentpattern/Year-Zero-Engine-Universal/blob/main/Magic.md)
 
 [Vehicle Combat and Chases](Vehicle%20Combat%20and%20Chases.md)
 
