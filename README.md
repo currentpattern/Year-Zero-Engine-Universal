@@ -14,6 +14,8 @@
 
 [Critical Injuries](Critical%20Injuries.md)
 
+[Magic] (Magic.md)
+
 [Vehicle Combat and Chases](Vehicle%20Combat%20and%20Chases.md)
 
 [Hacking](Hacking.md)
