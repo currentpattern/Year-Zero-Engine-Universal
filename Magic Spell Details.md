@@ -233,31 +233,6 @@ See [GM SECTION](GM%20SECTION.md), sorry suckers.
 
 ## Base Weirdness Level Framework
 **Starting Point**: All Creation spells begin at impossible Weirdness Levels, which is then reduced depending on mass of the object being created
-
-WL 1
-transforming a playing card into another one; changing the name/image on an ID card
-
-WL 2
-repairing a shattered phone; turning a spoon into a knife
-
-3
-turning a metal pipe into a sword; turning leather scraps into leather armor
-
-4
-turning a cup of water into acid; bringing to life a complete collection of body parts
-
-5
-turning an apple into a hand grenade; turning complete vehicle scrap into a motorcycle
-
-6
-Creating a bullet from nothing; turning a toy gun into a real gun
-
-7
-Creating a small pistol from nothing; turning a tree into a human
-
-8
-Creating a parachute from nothing; creating a large house from a pile of house-making materials
-
 ## 1. Material Source
 
 | Material Source Type                     | Description                                                                                          | Examples                                                                               | Starting WL |
@@ -270,17 +245,16 @@ Creating a parachute from nothing; creating a large house from a pile of house-m
 
 ## 2. Mass Scale (-9 to -1 WL)
 
-| Mass Range                                                                  | WL Modifier |
-| --------------------------------------------------------------------------- | ----------- |
-| Negligible (< 0.1 kg / apple, card deck, stack of coins)                    | -9 WL       |
-| Tiny (0.1-1 kg / pair of boots, heavy textbook, smallarm)                   | -8 WL       |
-| Small (1-10 kg / rifle, chair, cat, full heavy outfit)                      | -7 WL       |
-| Medium (10-50 kg / table, bicycle, small adult, mattress)                   | -6 WL       |
-| Large (50-250 kg / large man, tripod machine gun, light motorcycle, fridge) | -5 WL       |
-| Very Large (250-1000 kg / small car, horse, small shed)                     | -4 WL       |
-| Huge (1-5 tons / large SUV, hippo, small cabin)                             | -3 WL       |
-| Massive (5-20 tons / fire truck, whale, trailer home (800-2k sqft))         | -2 WL       |
-
+| Mass Range               | Examples                                                | WL Modifier |
+| ------------------------ | ------------------------------------------------------- | ----------- |
+| Negligible (< 0.1 kg)    | apple, card deck, stack of coins                        | -9 WL       |
+| Tiny (0.1-1 kg)          | pair of boots, heavy textbook, smallarm                 | -8 WL       |
+| Small (1-10 kg)          | rifle, chair, cat, full heavy outfit                    | -7 WL       |
+| Medium (10-50 kg)        | table, bicycle, small adult, mattress                   | -6 WL       |
+| Large (50-250 kg)        | large man, tripod machine gun, light motorcycle, fridge | -5 WL       |
+| Very Large (250-1000 kg) | small car, horse, small shed                            | -4 WL       |
+| Huge (1-5 tons)          | large SUV, hippo, small cabin                           | -3 WL       |
+| Massive (5-20 tons)      | fire truck, whale, trailer home (800-2k sqft)           | -2 WL       |
 
 ## 3. Complexity of Creation (-0 to -10 DM)    
 | Complexity Level        | Description                                                               | Examples                                                                | Difficulty Modifier |

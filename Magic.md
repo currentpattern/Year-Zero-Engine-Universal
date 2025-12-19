@@ -80,7 +80,7 @@ Effects that could be explained away as coincidence or skill. Unnoticeable by ot
 - **Influence:** N/A. No direct mental influences are Subtle.
 - **Protection:** +2 protection vs 1 damage source; Comfort in extreme climates; 8D vs magical attacks and 5D vs general magic
 - **Travel:** N/A.  No magical travel is Subtle.
-- **Creation:** Transforming a playing card into another one; changing the name/image on an ID card (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Transforming a playing card into another one; changing the name/image on an ID card (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 #### Weirdness Level 2: Noticeable
 Effects that are clearly unusual but not obviously supernatural. Could be mundane trickery, believable but noteworthy
 - **Die Change:** +1D Skill; +2 for specialty.
@@ -91,7 +91,7 @@ Effects that are clearly unusual but not obviously supernatural. Could be mundan
 - **Influence:** N/A. No direct mental influences are Noticeable or lower.
 - **Protection:** +3 protection vs 1 damage source; +1 protection vs all physical attacks; banish bugs;  9D vs magical attacks and 6D vs general magic
 - **Travel:** N/A. No magical travel is Noticeable or lower.
-- **Creation:** Repairing a shattered phone; turning a spoon into a knife (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Repairing a shattered phone; turning a spoon into a knife (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 #### Weirdness Level 3: Weird
 Effects that begin to defy mundane explanation but could be rationalized as advanced technology or known science. Very strange, possibly pseudo-scientific.  
 - **Die Change:** +2D Skill; +3 for specialty.
@@ -102,7 +102,7 @@ Effects that begin to defy mundane explanation but could be rationalized as adva
 - **Influence:** N/A. No direct mental influences are Weird or lower.
 - **Protection:** +5 protection vs 1 damage source; +3 protection vs all physical attacks;; animals suffer pain if close;  10D vs magical attacks and 7D vs general magic
 - **Travel:** Levitate 5m/round. Teleportation with 7 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
-- **Creation:** Turning a metal pipe into a sword; turning leather scraps into leather armor (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Turning a metal pipe into a sword; turning leather scraps into leather armor (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 #### Weirdness Level 4: Paranormal
 Effects that clearly demonstrate supernatural power but remain within human understanding. Obviously incredible. Strains one's notion of reality.  
 - **Die Change:** 3D, +1 for 3+ skills/traits, +5 specialty.
@@ -113,7 +113,7 @@ Effects that clearly demonstrate supernatural power but remain within human unde
 - **Influence:** N/A.  No direct mental influences are Paranormal or lower.
 - **Protection:** +8 protection vs 1 damage source; +5 protection vs all physical attacks;; Fireproof; enemies suffer pain if close;  11D vs magical attacks and 8D vs general magic
 - **Travel:** Levitate 15m/round (7 mph). Teleportation with 6 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
-- **Creation:** Turning a cup of water into acid; bringing to life a complete collection of body parts (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Turning a cup of water into acid; bringing to life a complete collection of body parts (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 #### Weirdness Level 5: Fantastic
 Effects that openly challenge the laws of physics and mundane reality. Defies common sense but aligns with magical or fantastical logic.  
 - **Die Change:** 5D, +2 for 3+ skills/traits, +7 specialty.
@@ -124,7 +124,7 @@ Effects that openly challenge the laws of physics and mundane reality. Defies co
 - **Influence:** N/A. No direct mental influences are Fantastic or lower.
 - **Protection:** +12 protection vs 1 damage source; +8 protection vs all physical attacks; Survive vacuum; attacks return; discourage people from area;  12D vs magical attacks and 9D vs general magic
 - **Travel:**  Fly 40m/round (20 mph). Teleportation with 5 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
-- **Creation:** Turning an apple into a hand grenade; turning complete vehicle scrap into a motorcycle (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Turning an apple into a hand grenade; turning complete vehicle scrap into a motorcycle (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 #### Weirdness Level 6: Mindblowing
 Effects that completely transcend normal physical limitations and begin to reshape reality. Overwhelms the mind with sheer impossibility, radically altering perception.  
 - **Die Change:** 7D, +3 for 3+ skills/traits, +10 specialty. +1 EMPATHY specialty
@@ -135,7 +135,7 @@ Effects that completely transcend normal physical limitations and begin to resha
 - **Influence:** Cause fleeting illusion, interest/disinterest.
 - **Protection:** +16 protection vs 1 damage source; +12 protection vs all physical attacks; Banish mortals; 13D vs magical attacks and 10D vs general magic
 - **Travel:** Fly 100m/round (40 mph); Teleportation with 4 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
-- **Creation:** Creating a bullet from nothing; turning a toy gun into a real gun (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Creating a bullet from nothing; turning a toy gun into a real gun (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 #### Weirdness Level 7: Legendary
 Effects that fundamentally alter reality on a significant scale. Transcendent, bordering on mythic and capable of becoming legend.  
 - **Die Change:** 9D, +5 for 3+ skills/traits. +1 EMPATHY Skill; +2 for EMPATHY specialty
@@ -146,7 +146,7 @@ Effects that fundamentally alter reality on a significant scale. Transcendent, b
 - **Influence:** Notable inconvenience; caused blurred illusion image.
 - **Protection:** +21 protection vs 1 damage source; +16 protection vs all physical attacks; No mortal can enter area; banish spirits;  14D vs magical attacks and 11D vs general magic
 - **Travel:** Fly 220m/round (100 mph); Teleportation with 3 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
-- **Creation:** Creating a small pistol from nothing; turning a tree into a human (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Creating a small pistol from nothing; turning a tree into a human (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 #### Weirdness Level 8: Impossible
 Effects that fundamentally rewrite the laws of reality. Makes absolutely no sense in any real world.  
 - **Die Change:** 12D. +2 EMPATHY Skill; +3 for EMPATHY specialty.
@@ -157,7 +157,7 @@ Effects that fundamentally rewrite the laws of reality. Makes absolutely no sens
 - **Influence:** They’re smitten; fade into crowd; imperfect image. 
 - **Protection:** +30 protection vs 1 damage source; +21 protection vs all physical attacks; create an impenetrable sanctuary;  15D vs magical attacks and 12D vs general magic
 - **Travel:** Teleportation with 2 limitations (see [Magic Spell Details](Magic%20Spell%20Details.md) for teleportation rules)
-- **Creation:** Creating a parachute from nothing; creating a large house from a pile of house-making materials (See [[Magic Spell Details]] for creation rules).
+- **Creation:** Creating a parachute from nothing; creating a large house from a pile of house-making materials (See [Magic Spell Details](Magic%20Spell%20Details.md) for creation rules).
 ### 2) Casting Dice
 Convert all dice rolled for this spell's Accord skill (Attribute + Skill) and your Insight: Magic skill (Wits + Skill) into Base Dice. Add them together into one pool. This total now becomes the **Casting Dice** for this particular spell. This large pool will be heavily modified by the difficulty of the spell. 
 
