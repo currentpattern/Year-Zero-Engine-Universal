@@ -185,6 +185,7 @@ noncorporeal, invisible (can sense as normal, can whisper, but only interact mag
 noncorporeal, visible (whispy and ghostlike, can make loud noise, but only interact magically) -3
 completely physical -5
 
+
 # Magical Armor Weirdness Level Point Buy
 
 | Armor Features                                                                                                                                                                                                              | Weirdness Level |
@@ -213,5 +214,102 @@ completely physical -5
 | Mindblowing, reshaping reality, overwhelmingly impossible. **Armor is impossible to conceal**. E.g. body exists slightly out of phase with time, body splits into infinite recursive copies. | +2       |
 |                                                                                                                                                                                              |          |
 
+| How Obvious/"Magical" does the stat boost appear?                                                                                                                                            |     | Spell DM |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | -------- |
+|                                                                                                                                                                                              |     |          |
+|                                                                                                                                                                                              |     |          |
+| Subtle, natural, unnoticeable. **Armor is completely concealed.** E.g. tough clothing, naturally thickened skin)                                                                             | +1  | -6       |
+| Noticable, believable, unusual. **+2 to attempts to conceal armor.** E.g. Clothes treated in hardening chemicals, clear crystaline rashes.                                                   | -   | -4       |
+| Weird, very strange, "advanced tech". **Normal armor-concealment DMs.** E.g. metallic skin sheathe, emergent chitinous plates.                                                               | -1  | -2       |
+| Paranormal, incredible, "typically" supernatural. **-3 to attempts to conceal armor.** E.g. spectral chainmail, living bark armor.                                                           | -2  | -        |
+| Fantastic, obviously magical defying common sense. **-6 to attempts to conceal armor.** E.g. elemental body composition, shell of utter darkness                                             |     | +1       |
+| Mindblowing, reshaping reality, overwhelmingly impossible. **Armor is impossible to conceal**. E.g. body exists slightly out of phase with time, body splits into infinite recursive copies. |     | +2       |
+|                                                                                                                                                                                              |     |          |
+
 # Awakening Spell Details
 See [GM SECTION](GM%20SECTION.md), sorry suckers.
+
+# Creation Magic Point-Buy System
+
+## Base Weirdness Level Framework
+**Starting Point**: All Creation spells begin at impossible Weirdness Levels, which is then reduced depending on mass of the object being created
+
+WL 1
+transforming a playing card into another one; changing the name/image on an ID card
+
+WL 2
+repairing a shattered phone; turning a spoon into a knife
+
+3
+turning a metal pipe into a sword; turning leather scraps into leather armor
+
+4
+turning a cup of water into acid; bringing to life a complete collection of body parts
+
+5
+turning an apple into a hand grenade; turning complete vehicle scrap into a motorcycle
+
+6
+Creating a bullet from nothing; turning a toy gun into a real gun
+
+7
+Creating a small pistol from nothing; turning a tree into a human
+
+8
+Creating a parachute from nothing; creating a large house from a pile of house-making materials
+
+## 1. Material Source
+
+| Material Source Type                     | Description                                                                                          | Examples                                                                               | Starting WL |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- |
+| Creating from Nothing                    | Pure manifestation of matter/energy from magical force                                               | Conjuring a parachute from thin air                                                    | WL 15       |
+| Transmutation: Unrelated Materials       | Source material shares mass, but no chemical or structural similarity to result                      | Pile of garbage into carriage, tree into human, rock into beetle                       | WL 14       |
+| Transmutation: Loosely Related Materials | Source shares appearance to result, or some shared properties (state of matter, general composition) | Water into wine, statue into man, a toy into a gun                                     | WL 13       |
+| Transmutation: Closely Related Materials | Source shares significant structural or chemical properties                                          | Wood/metal scraps into carriage, leather into shaped armor, raw ore into refined metal | WL 12       |
+| Assembly from Proper Materials           | All necessary components present in correct proportions, just need assembly/arrangement              | Planks/nails into table, fabric/thread into clothing, reshaping some material​         | WL 10       |
+
+## 2. Mass Scale (-9 to -1 WL)
+
+| Mass Range                                                                  | WL Modifier |
+| --------------------------------------------------------------------------- | ----------- |
+| Negligible (< 0.1 kg / apple, card deck, stack of coins)                    | -9 WL       |
+| Tiny (0.1-1 kg / pair of boots, heavy textbook, smallarm)                   | -8 WL       |
+| Small (1-10 kg / rifle, chair, cat, full heavy outfit)                      | -7 WL       |
+| Medium (10-50 kg / table, bicycle, small adult, mattress)                   | -6 WL       |
+| Large (50-250 kg / large man, tripod machine gun, light motorcycle, fridge) | -5 WL       |
+| Very Large (250-1000 kg / small car, horse, small shed)                     | -4 WL       |
+| Huge (1-5 tons / large SUV, hippo, small cabin)                             | -3 WL       |
+| Massive (5-20 tons / fire truck, whale, trailer home (800-2k sqft))         | -2 WL       |
+
+
+## 3. Complexity of Creation (-0 to -10 DM)    
+| Complexity Level        | Description                                                               | Examples                                                                | Difficulty Modifier |
+| ----------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------- |
+| Simple/Uniform          | Single material, minimal internal structure                               | Metal bar, brick, plank of wood, simple fabric                          | 0                   |
+| Basic Functional        | Few moving parts or simple assembly (< 5 components)                      | Fork, spoon, simple knife, rope, candle                                 | -2                  |
+| Moderate Functional     | Multiple integrated components (5-20 parts)                               | Chair, simple table, basic lock, simple weapon                          | -4                  |
+| Complex Functional      | Many integrated components with precise tolerances (20-100 parts)         | Bicycle, crossbow, elaborate furniture, mechanical clock                | -6                  |
+| Very Complex Functional | Intricate systems with multiple interdependent mechanisms (100-500 parts) | Carriage with suspension, motorcycle, computer (non-functional), safe   | -8                  |
+| Extremely Complex       | Highly sophisticated systems requiring extreme precision (500+ parts)     | Any living thing, Functional computer, car engine, advanced machinery ​ | -10                 |
+## 4. Quality of Craftsmanship (-0 to -6 DM)
+
+| Quality Level           | Description                                                                            | Difficulty Modifier |
+| ----------------------- | -------------------------------------------------------------------------------------- | ------------------- |
+| Crude/Barely Functional | Rough construction, obvious flaws, minimal durability. Will function but poorly        | 0                   |
+| Serviceable             | Basic functionality, noticeable imperfections. Standard mass-produced quality          | -1                  |
+| Well-Crafted            | Good construction, few visible flaws. Journeyman-level work                            | -2                  |
+| Fine Quality            | Excellent construction, minimal flaws. Master craftsman-level work                     | -3                  |
+| Exceptional Quality     | Near-perfect construction, extremely durable. Masterwork-level artistry                | -4                  |
+| Perfect/Flawless        | Absolutely flawless construction, maximum durability. Beyond normal human capability ​ | -6                  |
+## 5. Special Material Properties (-1 to -5 DM each, cumulative)
+
+Each special property increases DM:
+
+| Special Property                                                             | Description                                                       | Examples                                                            | Difficulty Modifier |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------- |
+| Specific Alloy/Material Composition                                          | Requires specific metallic blend, polymer type, or material grade | Damascus steel, titanium alloy, kevlar                              | -1                  |
+| Extreme Material Properties                                                  | Unusual hardness, flexibility, or other physical properties       | Diamond-hard edges, perfectly balanced weapons                      | -2                  |
+| Chemically Active/Reactive                                                   | Created substance has active chemical properties                  | Functional gunpowder, acid, medicine Magic.md​                      | -2                  |
+| Biologically Active (if living, this is coupled with "Extremely Complex" DM) | Organic materials with living cellular structure                  | A person, fresh food, living wood, functional organs for transplant | -3                  |
+| Magically Receptive Materials                                                | Materials specifically prepared to hold enchantments              | Wand-quality wood, crystal lattices for spell storage               | -5                  |
+
