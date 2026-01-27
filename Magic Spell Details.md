@@ -73,20 +73,20 @@ If you have directly seen the location where such information could be learned, 
 - WL 2: Passive detect magic- "a spell is active at a specific spot/area." No further info.
 - WL 3: Knowing the WL of the magic you’re sensing, and how many successes the caster had. If it is a magical artifact, how many spells are inside it, the WL levels, and how many successes the caster had.
 - WL 4+: Get (WL + 4) dice to roll to understand a spell. The roll is modified by half the WL of the target spell (e.g. target WL 2 = -1 DM; target WL 8 = -4 DM). Each success reveals 1d6 of the following, caster's choice.
-	- Effect
-	- Number of casters
-	- Duration
-	- Range, aoe/rel
-	- Any modified casting time
-	- Price
-	- Toggleable/activations
+	- Effect  
+	- Number of casters  
+	- Duration  
+	- Range, aoe/rel 
+	- Any modified casting time  
+	- Price 
+	- Toggleable/activations  
 
 
 # Enchanting Objects WL Point Buy
 Enchanting an object requires two things:
 1) The magical enchantment process itself,
 2) Knowing a spell which gets imbued (loaded) into the object. 
-First, to determine the Weirdness Level of the enchantment process (1), answer the questions below. **No enchantment spell can go below Weirdness Level 2**. Second, memorize this Enchantment spell. Third, cast the Enchantment spell. the spell you want to imbue into the object (2) is successfully imbued upon a successful casting of the Enchantment spell. 
+First, to determine the Weirdness Level of the enchantment process (1), answer the questions below. **No enchantment spell can go below Weirdness Level 2**. Second, memorize this Enchantment spell. Third, cast the Enchantment spell. the spell you want to imbue into the object (2) is successfully imbued upon a successful casting of the Enchantment spell.  
 
 | How Complex is the Item's Functional Integration with the Spell?                                                                           | Weirdness Level Modifier |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -103,12 +103,15 @@ First, to determine the Weirdness Level of the enchantment process (1), answer t
 | 5-6                                                                      | +3                       |
 | 7-8                                                                      | +4                       |
 
-| Activation Method: How is the spell within the item activated?                   | Weirdness Level Modifier                                     |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| A complex and challenging action (slow action, 2 rounds, 1 minute)               | -1 per X beyond the first.<br>-1 if 2 rounds, -2 if 1 minute |
-| A successful skill roll, such as an attack, a move, a scholar roll (slow action) | -1                                                           |
-| A visible gesture or audible word (fast action)                                  | +1                                                           |
-| A thought                                                                        | +2                                                           |
+| Activation Method: How is the spell within the item activated? (Activator must be within "Enchanting Objects" spell's stated Range) | Weirdness Level Modifier                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| A complex and challenging action (slow action, 2 rounds, 1 minute)                                                                  | -1 per X beyond the first.<br>-1 if 2 rounds, -2 if 1 minute |
+| A successful skill roll, such as an attack, a move, a scholar roll (slow action)                                                    | -1                                                           |
+| A visible gesture or audible word (fast action)                                                                                     | +1                                                           |
+| A thought                                                                                                                           | +2                                                           |
+| **Does the Activation Method have to be intentional?** (Must choose upon casting)                                                   |                                                              |
+| Yes                                                                                                                                 | -                                                            |
+| No                                                                                                                                  | -1                                                           |
 
 | Casting Roll: Who is the Caster of the Imbued Spell?                                                                                                                                                                   | Weirdness Level Modifier |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -245,16 +248,16 @@ See [GM SECTION](GM%20SECTION.md), sorry suckers.
 
 ## 2. Mass Scale (-9 to -1 WL)
 
-| Mass Range               | Examples                                                | WL Modifier |
-| ------------------------ | ------------------------------------------------------- | ----------- |
-| Negligible (< 0.1 kg)    | apple, card deck, stack of coins                        | -9 WL       |
-| Tiny (0.1-1 kg)          | pair of boots, heavy textbook, smallarm                 | -8 WL       |
-| Small (1-10 kg)          | rifle, chair, cat, full heavy outfit                    | -7 WL       |
-| Medium (10-50 kg)        | table, bicycle, small adult, mattress                   | -6 WL       |
-| Large (50-250 kg)        | large man, tripod machine gun, light motorcycle, fridge | -5 WL       |
-| Very Large (250-1000 kg) | small car, horse, small shed                            | -4 WL       |
-| Huge (1-5 tons)          | large SUV, hippo, small cabin                           | -3 WL       |
-| Massive (5-20 tons)      | fire truck, whale, trailer home (800-2k sqft)           | -2 WL       |
+| Mass Range          | Examples                                                      | WL Modifier |
+| ------------------- | ------------------------------------------------------------- | ----------- |
+| Tiny (< 1 kg)       | apple, card deck, boots, textbook, smallarm                   | -9 WL       |
+| Small (1-10 kg)     | rifle, chair, cat, full heavy outfit                          | -8 WL       |
+| Medium (10-100 kg)  | table, bicycle, human, mattress, fridge, tripod machine gun   | -7 WL       |
+| Large (100-1000 kg) | motorcycle, small car, horse, small shed                      | -6 WL       |
+| Huge (1-5 tons)     | large SUV, hippo, small cabin                                 | -5 WL       |
+| Massive (5-20 tons) | fire truck, elephant, 1000 sq ft tailer                       | -4 WL       |
+| (20-40 tons)        | whale, battle tank, 1000 sq ft wood structure                 | -3 WL       |
+| (40-60 tons)        | single family home, 1000 sq ft brick/stone/concrete structure | -2 WL       |
 
 ## 3. Complexity of Creation (-0 to -10 DM)    
 | Complexity Level        | Description                                                               | Examples                                                                | Difficulty Modifier |
@@ -285,5 +288,5 @@ Each special property increases DM:
 | Extreme Material Properties                                                  | Unusual hardness, flexibility, or other physical properties       | Diamond-hard edges, perfectly balanced weapons                      | -2                  |
 | Chemically Active/Reactive                                                   | Created substance has active chemical properties                  | Functional gunpowder, acid, medicine Magic.md​                      | -2                  |
 | Biologically Active (if living, this is coupled with "Extremely Complex" DM) | Organic materials with living cellular structure                  | A person, fresh food, living wood, functional organs for transplant | -3                  |
-| Magically Receptive Materials                                                | Materials specifically prepared to hold enchantments              | Wand-quality wood, crystal lattices for spell storage               | -5                  |
+
 
