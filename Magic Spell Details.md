@@ -1,16 +1,32 @@
 # Teleportation WL Point Buy
-Base Weirdness Level of a teleportation spell: 10 (which is not possible) 
-Adding the following features reduces the WL by 1 each, to a minimum of WL 3: 
-1) Teleporting maintains your momentum (if you were moving at 30mph, teleporting doesn't stop that. If you are falling, teleporting won't save you unless you teleported to the ground ASAP) 
-2) Teleporting maintains your direction of travel (if you were moving west, teleporting doesn't change that) 
-3) Sound/popping: teleporting causes a loud vacuum implosion at starting point. 
-4) smoke/visual transit: vanishing/appearing is accompanied by a notable visual effect, e.g. black smoke, bright flash 
-5) Medium requirement: in order to teleport, you must step into and emerge from some medium (e.g. shadow, reflection, doorway, water, fire) 
-6) Visible portal: the spell creates a floating "portal" that you must step through 
-7) Must be in line of sight of destination 
-8) You must have been to the destination before 
-9) Nobody is visually seeing you disappear/appear 
+Base Weirdness Level of a teleportation spell: 10. This is modified by object/subject **Mass**, and any added features below. Note that teleporting an unwilling subject allows them to resist with an Insight (Incorruptible, Mindful, or Magician) roll. 
 
+| Mass Range              | Examples                                                      | WL Modifier |
+| ----------------------- | ------------------------------------------------------------- | ----------- |
+| Tiny (< 1 kg)           | apple, card deck, boots, textbook, smallarm                   | -2 WL       |
+| Small (1-10 kg)         | rifle, chair, cat, full heavy outfit                          | -1 WL       |
+| Medium (10-100 kg)      | table, bicycle, human, mattress, fridge, tripod machine gun   | -           |
+| Large (100-1000 kg)     | motorcycle, small car, horse, small shed                      | +1 WL       |
+| Huge (1-5 tons)         | large SUV, hippo, small cabin                                 | +3 WL       |
+| V. Huge (5-20 tons)     | fire truck, elephant, 1000 sq ft tailer                       | +4 WL       |
+| Massive (20-40 tons)    | whale, battle tank, 1000 sq ft wood structure                 | +6 WL       |
+| V. Massive (40-60 tons) | single family home, 1000 sq ft brick/stone/concrete structure | +7 WL       |
+
+Adding the following features **increases** the WL by 1 each.
+1) **Delayed Reappearance**: The time between disappearance and reappearance is not instant, and occurs after a stated (and purchased)  duration. This would be a separate purchased duration from the duration, of, say, a set of portals.
+2) **Unspecified Reappearance Location**: If "Delayed Reappearance" is selected, and you want to wait until the time of reappearance to determine reappearance location. This is constrained by the Range of the spell with reference to the original casting location. If you traveled beyond the spell's range relative to the original casting location, you would not be able to select a more distant reappearance location.
+3)  **Mobile Teleport**: Make the Range of the spell be in refence to the caster's present location instead of original casting location. This would only be useful with "Delayed Reappearance" and when teleporting someone/something other than yourself. (All 3 of the above would enable a caster to "store" a subject, move to a new location, and "decant" the subject at an improvised location.)
+
+Adding the following features **reduces** the WL by 1 each, to a minimum of WL 3: 
+1) **Preserve Momentum**: Teleporting maintains your momentum (if you were moving at 30mph, teleporting doesn't stop that. If you are falling, teleporting won't save you unless you teleported to the ground ASAP) 
+2) **Preserve Direction**: Teleporting maintains your direction of travel (if you were moving west, teleporting doesn't change that) 
+3) **Sound/popping**: teleporting causes a loud vacuum implosion at starting point. 
+4) **Smoke/visual Transit**: vanishing/appearing is accompanied by a notable visual effect, e.g. black smoke, bright flash 
+5) **Medium Requirement**: in order to teleport, you must step into and emerge from some medium (e.g. shadow, reflection, doorway, water, fire) 
+6) **Visible Portal**: the spell creates a floating "portal" that you must step through 
+7) **Line of Sight**: Must be in line of sight of destination 
+8) **Familiar Destination**: You must have been to the destination before 
+9) **Unseen**: Nobody is visually seeing you disappear/appear 
 
 # Locate spell WL Point Buy
 
@@ -46,7 +62,7 @@ Additional Information:
     Target's movement speed/direction (+3)
     Obstacles between you and target (+4)
 
-# Gaining Information Point Buy
+# Gaining Information/Remote Viewing Point Buy
 
 IF you were at the location where the chosen information could be learned, how much work would it be to learn the chosen information?
 	Info could be gleaned through very foggy and vague perceptions +1 WL
@@ -65,7 +81,7 @@ If this information is only available in the past, you may craft your spell to l
 	1 month in the past +6 WL
 	Anytime in the past +7 WL
 
-To learn magically learn information that you didn't know before, you must generally know roughly where you'd have to learn the information from. That is, if the information you're looking for cannot be discovered within the RANGE, AREA OF EFFECT, and/or RELATIONSHIP, it cannot be used.
+To magically learn information that you didn't know before, you must generally know roughly where you'd have to learn the information from. That is, if the information you're looking for cannot be discovered within the RANGE, AREA OF EFFECT, and/or RELATIONSHIP, it cannot be used.
 
 If you have directly seen the location where such information could be learned, you could create a companion, Info Homing spell, that directs you to the location where a piece of information could be found. See "Locate Spell WL Point Buy" section
 
@@ -248,16 +264,16 @@ See [GM SECTION](GM%20SECTION.md), sorry suckers.
 
 ## 2. Mass Scale (-9 to -1 WL)
 
-| Mass Range          | Examples                                                      | WL Modifier |
-| ------------------- | ------------------------------------------------------------- | ----------- |
-| Tiny (< 1 kg)       | apple, card deck, boots, textbook, smallarm                   | -9 WL       |
-| Small (1-10 kg)     | rifle, chair, cat, full heavy outfit                          | -8 WL       |
-| Medium (10-100 kg)  | table, bicycle, human, mattress, fridge, tripod machine gun   | -7 WL       |
-| Large (100-1000 kg) | motorcycle, small car, horse, small shed                      | -6 WL       |
-| Huge (1-5 tons)     | large SUV, hippo, small cabin                                 | -5 WL       |
-| Massive (5-20 tons) | fire truck, elephant, 1000 sq ft tailer                       | -4 WL       |
-| (20-40 tons)        | whale, battle tank, 1000 sq ft wood structure                 | -3 WL       |
-| (40-60 tons)        | single family home, 1000 sq ft brick/stone/concrete structure | -2 WL       |
+| Mass Range          | Examples                                                      | WL Modifier |     |
+| ------------------- | ------------------------------------------------------------- | ----------- | --- |
+| Tiny (< 1 kg)       | apple, card deck, boots, textbook, smallarm                   | -9 WL       | -2  |
+| Small (1-10 kg)     | rifle, chair, cat, full heavy outfit                          | -8 WL       | -1  |
+| Medium (10-100 kg)  | table, bicycle, human, mattress, fridge, tripod machine gun   | -7 WL       | 0   |
+| Large (100-1000 kg) | motorcycle, small car, horse, small shed                      | -6 WL       | +1  |
+| Huge (1-5 tons)     | large SUV, hippo, small cabin                                 | -5 WL       | +3  |
+| Massive (5-20 tons) | fire truck, elephant, 1000 sq ft tailer                       | -4 WL       | +4  |
+| (20-40 tons)        | whale, battle tank, 1000 sq ft wood structure                 | -3 WL       | +6  |
+| (40-60 tons)        | single family home, 1000 sq ft brick/stone/concrete structure | -2 WL       | +7  |
 
 ## 3. Complexity of Creation (-0 to -10 DM)    
 | Complexity Level        | Description                                                               | Examples                                                                | Difficulty Modifier |
