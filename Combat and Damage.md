@@ -31,7 +31,18 @@ You never roll new initiative during a fight, but you can exchange your initiati
 
 ### **SLOW ACTIONS AND FAST ACTIONS**
 
-When it is your turn to act, without incurring an action penalty, you can perform one slow action and one fast action, or two fast actions. You may perform more actions than limited here (except for MOVE), but every FAST ACTION over the limit adds a -1 penalty and every SLOW ACTION over the limit adds a -2 penalty. Some Talents may increase this limit. This penalty is cumulative for the round and resets to 0 when your turn ends
+- When it is your turn to act, you must declare all of your actions before any of them are rolled to resolution.
+-  Without incurring an action penalty, you can perform 1 SLOW action and 1 FAST action; or 2 FAST actions.
+- You may perform more actions beyond that, but they incur the following penalty to ALL declared actions in the round:
+	- FAST actions -1; SLOW actions -2
+	- Calculate the total penalty remove 1 penalty point. If there's only one extra action and it's a fast action, do not remove this penalty. A - 1 remains.
+	- E.g. I switch weapons, shoot, then move. my Shoot action will be at -1, and so will Move if I need to roll for it. 
+	- E.g. I aim, shoot twice, move, reload, and command someone. -4 to all rolls.
+- You may never perform more than 2 MOVE actions (FAST) in a round.
+
+
+This penalty is cumulative for the round and resets to 0 when your turn ends.
+
 A slow action usually consists of rolling for a skill. A fast action is quicker and doesn’t always require a dice roll, but can do so. See the lists of typical slow and fast actions on the next page. How these work is explained in detail in the sections Close Combat and Ranged Combat.
 
 #### **SLOW ACTIONS**
@@ -85,7 +96,7 @@ The combat area is divided into zones. A zone is a room or an area of ground. Ho
 **ZONE FEATURES**  
 Zones can have various features, which affect actions performed in the zone.
 
-CRAMPED: The zone is small and/or has a low ceiling. Attacks with HEAVY weapons get a –2 penalty, and it is impossible to SWING WEAPON before a close combat attack.
+CRAMPED: The zone is small (has 2 or more confining surfaces (walls, ceiling) within 3 meters) and/or has a low ceiling. Attacks with HEAVY weapons get a –2 penalty, and it is impossible to SWING WEAPON before a close combat attack. EXPLOSIVES increase 1 Blast Power level in CRAMPED environments. 
 
 ROUGH: You must roll MOVE when you RUN into the zone. Failure means you managed to get into the zone, but you fall down.
 
@@ -107,7 +118,7 @@ In conflict, the distance between you and your opponent is divided into five ran
 (#) Small-arms like pistols, sawed-off shotguns, SMGs, and light crossbows are modified by only -1 at Arm's Length
 
 ### **AMBUSHES & SNEAK ATTACKS**
-The key to winning a conflict is often attack- ing when your enemy least expects it. You can achieve this in several different ways.
+The key to winning a conflict is often attacking when your enemy least expects it. You can achieve this in several different ways.
 
 SNEAK ATTACK: When you stalk someone and your attack catches them unawares, it’s called a sneak attack. First, roll an opposed roll for SNEAK. You get a modification depending on how close you are – see the table above in the Ranges section. If you want to attack in close combat, you usually have to get within ARM’S LENGTH . If you fail, your opponent spots you at your starting distance – draw initiative.  
 If you succeed, you get a free action (slow or fast, but not both) before you draw the initiative. Your target cannot DODGE or PARRY a sneak attack, which gains a +1 to damage for every STEALTH success beyond what as necessary. Sneak attacks are always done individually, by one attacker against one target.
@@ -123,7 +134,7 @@ WEAPONS: When you enter close combat, it is wise to have a weapon in hand. Weapo
 
 STANCE: It is recommended that you stand on your feet when you attack. If you are prone, you must spend a Fast Action to GET UP. While prone, you may use the SHOVE attack. While prone, you may still attack with weapons that have REACH feature, but its range is now ARM’S LENGTH and you suffer a -1 penalty. Standing enemies get a +2 modification on all melee attacks against a prone enemy.
 
-ATTACKS OF OPPORTUNITY
+ATTACK OF OPPORTUNITY
 Under 2 circumstances, a character may attack out of turn as a Reactive Action (counting against their action economy):
 1) If you possess a melee weapon with the REACH feature, and you are aware of an enemy **entering** the range of the melee weapon.
 2) Not prone, and in possession of any melee weapon (brawling -2), and you are aware of an enemy **leaving** the range of their weapon. 
@@ -145,7 +156,7 @@ As a fast action, before you SHOOT, you can AIM. This gives you a +1 bonus to th
 You can’t AIM at an aware opponent at ARM’S LENGTH – he is too close for you to be able to draw a bead on.
 Note the difference between AIMing and making a "Called Shot." Called shots suffer at least a -2 penalty, and strike chosen locations. You could, however AIM when making a called shot, making the called shot more likely to hit.
 
-TELESCOPIC SIGHTS: If your weapon has a telescopic sight, you can aim as a slow action and get a +2 bonus. If you also have a stable platform to fire from (cover or a bipod, or the ground if you’re prone), the bonus is +3. No ammo dice can be used in the attack. Note, this means if you Slow Aim and fire in the same round, your bonus will be 0, or +1 if stable.
+TELESCOPIC SIGHTS: If your weapon has a telescopic sight, you can aim as a slow action and get a +2 bonus. If you also have a stable platform to fire from (cover or a bipod, or the ground if you’re prone), the bonus is +3. No ammo dice can be used in the attack. Note, this means if you Slow Aim and f qire in the same round, your bonus will be 0, or +1 if stable.
 
 MOVING TARGET: If your target has moved 10m or more across your field of view since your previous turn, your shot gets a –1 modifier. If you fire from a vehicle that has moved since your previous turn, your shot gets a –2 modifier.
 
@@ -164,14 +175,14 @@ CALLED SHOTS / TARGET SIZE: You may choose to shoot at targets much larger or sm
 
 ONE-HANDED SHOOTING: You can fire a firearm with the SMALLARM feature with one hand without penalty. Most submachine guns and carbines can be fired one-handed, but you get a –2 modifier to your roll (tagged "1H-2"). Rifles and assault rifles can be fired one-handed, but only at SHORT (10m) range and with a –3 modifier (tagged "1H-3"). Machine guns can never be fired one-handed (tagged 2H).
 #### RANGE
-| Range                    | Shooting <br>Modification |
-| ------------------------ | ------------------------- |
-| Arm's Length<br>up to 2m | -2 (#)                    |
-| Short<br>up to 10m       | -                         |
-| Medium<br>up to 20m      | -1                        |
-| Long<br>up to 100m       | -2                        |
-| Distant<br>up to 300m    | -3                        |
-| Extreme<br>up to 1km     | -4                        |
+| Range                    | Shooting <br>Modification |        |
+| ------------------------ | ------------------------- | ------ |
+| Arm's Length<br>up to 2m | -2 (#)                    | blue   |
+| Short<br>up to 10m       | -                         | green  |
+| Medium<br>up to 20m      | -1                        | yellow |
+| Long<br>up to 100m       | -2                        | orange |
+| Distant<br>up to 300m    | -3                        | red    |
+| Extreme<br>up to 1km     | -4                        | black  |
 (#) Small-arms like pistols, sawed-off shotguns, SMGs, and light crossbows are modified by only -1 at Arm's Length
 
 FIRING IN CLOSE COMBAT: If you shoot at an active and aware enemy within ARM'S LENGTH, you get a -2 modifier. Some small weapons have the feature "Small Arms" (pistols, sawed-off shotguns, SMGs, and light crossbows), which reduces the penalty to -1.
@@ -193,27 +204,27 @@ FULL COVER: Full cover breaks line of sight and typically makes it impossible to
 
 EMERGE FROM COVER: Moving your head or body out from behind cover in order to attack or interact with something you could not previously see counts as a Fast Action.
 
-| Structure / Cover                  | HP   | Armor Rating | Piercing Protection |
-| ---------------------------------- | ---- | ------------ | ------------------- |
-| Light Wooden Fence / Bushes        | 1    | 1            | Light               |
-| Dense hedgerow                     | 1    | 2            | Light               |
-| Furniture                          | 2    | 3            | Light               |
-| indoor wood / aluminum             | 3    | 4            | Light               |
-| Exterior wooden wall               | 3    | 6            | Light               |
-| Small tree trunk                   | 4    | 7            | Light               |
-| Single layer cinderblock wall      | 4    | 8            | Light               |
-| Shipping Container Steel           | 6    | 9            | Light               |
-| Light Stone Facade                 | 5    | 10           | Heavy               |
-| Medium tree trunk                  | 6    | 11           | Heavy               |
-| **sandbags**                       | 6    | **12**       | Heavy               |
-| Basic Stone / Cement Wall          | 6    | 13           | Heavy               |
-| Double-layer Sandbag Wall          | 2-5  | 13-15        | Heavy               |
-| Solid Tree Trunk                   | 6    | 15           | Heavy               |
-| Brick and Mortar Wall              | 8    | 16           | Heavy               |
-| Reinforced Stone Wall or Structure | 7    | 17           | Heavy               |
-| Concrete Wall                      | 8    | 19           | Heavy               |
-| Steel Structures / Bridge          | 8-10 | 21           | Heavy               |
-| Defensive Casemate                 | 8-10 | 21-23        | Heavy               |
+| Structure / Cover                           | HP   | Armor Rating | Piercing Protection |
+| ------------------------------------------- | ---- | ------------ | ------------------- |
+| Light Wooden Fence / Bushes                 | 1    | 1            | Light               |
+| Dense hedgerow                              | 1    | 2            | Light               |
+| Furniture                                   | 2    | 3            | Light               |
+| indoor wood / aluminum / Ar1 vehicle        | 3    | 4            | Light               |
+| Exterior wooden wall / Ar2 vehicle          | 3    | 6            | Light               |
+| Small tree trunk / Ar3 vehicle              | 4    | 7            | Light               |
+| Single layer cinderblock wall / Ar4 vehicle | 4    | 8            | Light               |
+| Shipping Container Steel                    | 6    | 9            | Light               |
+| Light Stone Facade                          | 5    | 10           | Heavy               |
+| Medium tree trunk                           | 6    | 11           | Heavy               |
+| **sandbags**                                | 6    | **12**       | Heavy               |
+| Basic Stone / Cement Wall                   | 6    | 13           | Heavy               |
+| Double-layer Sandbag Wall                   | 2-5  | 13-15        | Heavy               |
+| Solid Tree Trunk                            | 6    | 15           | Heavy               |
+| Brick and Mortar Wall                       | 8    | 16           | Heavy               |
+| Reinforced Stone Wall or Structure          | 7    | 17           | Heavy               |
+| Concrete Wall                               | 8    | 19           | Heavy               |
+| Steel Structures / Bridge                   | 8-10 | 21           | Heavy               |
+| Defensive Casemate                          | 8-10 | 21-23        | Heavy               |
 
 **Light Protection** represents weak or thin protection. Any weapon is theoretically capable of penetrating Light Protection. It counts as armor. However, Light Protection is especially vulnerable to Armor-Piercing weapons. When an AP weapon makes an attack against a target with Light Protection, the protection/armor rating is reduced by the Base Damage value of the AP weapon- before any armor is rolled. If this reduces the Protection pool to zero the Cover or Armor offers no Protection against that attack.
 
@@ -314,8 +325,9 @@ and how many magazines or ammo belts you carry.
 - Note how many full magazines and ammo belts you have in your inventory. A ==magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full unit==. When you reload, erase the spent magazine or belt from your inventory.
 
 RELOADING: Once your ammo is depleted, you need to reload your weapon. 
-
-Roll for TECHNICAL. If you succeed, reloading is a fast action. If you fail, it’s a slow action. You may attempt to reload even if you only have a fast action left in the round, but if you fail the roll, the action is forfeit. The roll itself is not an action.
+- SLOW ACTION: Reloading a clip/magazine, or up to 3 single bullets/shells (for revolvers and shotguns). 
+- FAST ACTION: Prepare arrows/sling
+The combat Talent "Rapid Reload" speeds reloading up one level: prepping arrows/slings is free, reloading firearms is FAST.
 
 FIELD OF FIRE:  Rapid fire directed at a 10m area, whether scoring a successful hit or not, may establish a corridor of dangerous flying lead called a Field of Fire. A **minimum of 15 rounds must be directed at a zone to create a Field of Fire**. This represents an ongoing hail of bullets extending from the successfully suppressing shooter to the targeted Zone, and lasts for the remainder of the same round. Any character within, or moving into or through this Field during the round must succeed in a **Move test at a penalty of -1 for ever 15 rounds being fired**. This Move test occurs before whatever intended action your character hopes to complete as they enter or are exposed to the Field of Fire (for instance, if you want to shoot out of a window that is exposed to a Field of Fire, you only get your shot off after succeeding on your Move test). Of course, if you are hit, you suffer the full consequences! 
 
@@ -350,13 +362,26 @@ PRONE: If the target is already prone, the blast power is reduced one step.
 
 COVER: Solid cover provides protection against shielded hit locations, just like for a ranged attack – unless the explosion occurs within 10m of the target.
 
-| Blast Power | Base Damage |
-| :---------: | :---------: |
-|    2D12     |      4      |
-|    2D10     |      3      |
-|     2D8     |      2      |
-|     2D6     |      1      |
-
+|               Example Weapons                |     Blast Power     |       1 hit       |      2 hits       |      3 hits       |      4 hits       |      5+ hits       |     Base Damage     | Radius         |
+| :------------------------------------------: | :-----------------: | :---------------: | :---------------: | :---------------: | :---------------: | :----------------: | :-----------------: | -------------- |
+|      64 units explosives; heavy mortar       |        2D12         |   4 damage, 83%   |   5 damage, 69%   |   6 damage, 52%   |   7 damage, 33%   |   8+ damage, 17%   |          4          | 20             |
+|      phosphorus grenade; claymore mine       |        2D10         |   3 damage, 75%   |   4 damage, 55%   |   5 damage, 31%   |   6 damage, 13%   |   7+ damage, 5%    |          3          | 15             |
+|           hand grenade; RPG round            |         2D8         |   2 damage, 61%   |   3 damage, 30%   |   4 damage, 8%    |   5 damage, 2%    |         --         |          2          | 10             |
+|               grenade launcher               |         2D6         |   1 damage, 31%   |   2 damage, 3%    |        --         |        --         |         --         |          1          | 5              |
+|                                              |                     |                   |                   |                   |                   |                    |                     |                |
+|           ==**Example Weapons**==            | ==**Blast Power**== |  ==**% 1 hit**==  | ==**% 2 hits**==  | ==**% 3 hits**==  | ==**% 4 hits**==  | ==**% 5+ hits**==  | ==**Base Damage**== | ==**Radius**== |
+|    ==64 units explosives; heavy mortar==     |      ==3D12==       | ==4 damage, 93%== | ==5 damage, 84%== | ==6 damage, 72%== | ==7 damage, 56%== | ==8+ damage, 40%== |        ==4==        | ==12==         |
+|    ==phosphorus grenade; claymore mine==     |      ==3D10==       | ==3 damage, 88%== | ==4 damage, 73%== | ==5 damage, 52%== | ==6 damage, 31%== | ==7+ damage, 17%== |        ==3==        | ==9==          |
+|         ==hand grenade; RPG round==          |       ==3D8==       | ==2 damage, 76%== | ==3 damage, 46%== | ==4 damage, 20%== | ==5 damage, 7%==  |  ==6 damage, 1%==  |        ==2==        | ==6==          |
+| ==grenade launcher; anti tank round splash== |       ==3D6==       | ==1 damage, 42%== | ==2 damage, 7%==  | ==3 damage, 1%==  |      ==--==       |       ==--==       |        ==1==        | ==3==          |
+|                                              |                     |                   |                   |                   |                   |                    |                     |                |
+|             **Example Weapons**              |   **Blast Power**   |    **% 1 hit**    |   **% 2 hits**    |   **% 3 hits**    |   **% 4 hits**    |   **% 5+ hits**    |   **Base Damage**   | **Radius**     |
+|      64 units explosives; heavy mortar       |        3D12         |   3 damage, 93%   |   4 damage, 84%   |   5 damage, 72%   |   6 damage, 56%   |   7+ damage, 40%   |          3          | 12             |
+|      phosphorus grenade; claymore mine       |        3D10         |   2 damage, 88%   |   3 damage, 73%   |   4 damage, 52%   |   5 damage, 31%   |   6+ damage, 17%   |          2          | 9              |
+|           hand grenade; RPG round            |         3D8         |   1 damage, 76%   |   2 damage, 46%   |   3 damage, 20%   |   4 damage, 7%    |    5 damage, 1%    |          1          | 6              |
+|   grenade launcher; anti tank round splash   |         3D6         |   1 damage, 42%   |   2 damage, 7%    |   3 damage, 1%    |        --         |         --         |          1          | 3              |
+**Automatic damage rule proposal**
+Any target within the first range band (0–3m) of a detonation who does not Dodge automatically suffers half of the Base Damage (rounded up), in addition to the normal blast roll.
 
 **STRUCTURAL DAMAGE**
 A building, bridge, wall, or other structure may suffer structural damage when subject to explosions or targeted by destructive weaponry. When this happens you and your group can resolve the damage **narratively** - there's nothing stopping a GM from ruling that structures collapse as a result of story-driving events or that there are "enough explosives" to destroy the targeted building regardless of die rolls. Or the GM may use the **Simulationist** rules, calculating structural damage:
@@ -501,7 +526,7 @@ WARRIOR'S VOICE: Slow action. INFLUENCE: Performance. Through song, cries, bitin
 #### **FAST ACTIONS**
 AIM: Fast action. Before you SHOOT, you can AIM. This gives you a +1 bonus to the attack. You must AIM and SHOOT in the same round – you cannot save the bonus for a later round. Please note that you cannot READY your weapon, AIM and SHOOT in the same round, as that is a total of three actions. It’s possible if you have the FAST SHOOTER talent, however.  
 You can’t AIM at an aware opponent at ARM’S LENGTH – he is too close for you to be able to draw a bead on.
-Note the difference between AIMing and making a "Called Shot." Called shots suffer at least a -2 penalty, and strike chosen locations. You could, however AIM when making a called shot, making the called shot more likely to hit.
+Note the difference between AIMing and making a "Called Shot." Called shots suffer at least a -2 penalty, and strike chosen locations. You could, however AIM when making a called shot, making the called shot more likely to hit. 
 
 CHARGE ATTACK: Move from 10m to Engaged (fast action) then performing a SLASH, STAB, PUNCH, or SHOVE (slow action). This combination is recognized in order to give the Charger specialization a die bonus.
 
@@ -631,13 +656,68 @@ You are essentially put out of action in one way or another. Exactly what it mea
 
 **COUP DE GRACE**  
 An opponent who has lost all Strength or Agility is defenseless. If it’s an intelligent being (with Wits) and you want to give him a COUP DE GRACE and kill him outright, you must fail an Empathy roll (roll for the attribute only). If the roll succeeds or fails, you suffer one point of damage to Empathy – killing in cold blood is not as easy as you might think. If you have the COLD-BLOODED talent you can kill defenseless enemies without these negative effects.
+### **STUN DAMAGE**
+The "Stun Rating" of a Stun attack is a negative modifier to an ENDURANCE roll for resisting it's effects. Success incurs the "Limited Effect." Failure incurs the "Full Effect." The modifiers range from -1 to -6. Examples:
+Major flash or bang nearby: -1 
+Flashbang grenade: -4 
+Electric stun weapons: -6
+
+✥ FULL EFFECT: You're "broken" (no critical injury) for 1 round per Stun Rating (e.g. -5 = 5 rounds). 
+Insight: Calm to prevent becoming suppressed.
+✥ LIMITED EFFECT: Suffer -2 on your next action. 
+### **CONDITIONS**
+### **FALLING**
+ If you fall from 3+ meters and hit a hard surface, you suffer 1 damage, plus an attack with a number of Base Dice equal to the height of the fall in meters, minus 2. You take one point of damage to Strength for every X rolled. Blastweak or Bluntweak armor offers no protection. You may reduce the damage by successes in a MOVE roll, and by a further 1 damage if you spent a fast action to controllably jump down. You land prone, but may take a -2 penalty to land standing, but this only succeeds if you avoid taking a critical injury.
+### **DROWNING**
+If you end up in water, you need to make an ENDURANCE roll every turn (15 minutes) to stay afloat. If you wear metal armor, you need to roll every round.  
+If you sink, you need to make an ENDURANCE roll every round to hold your breath. If you fail, you start to drown and suffer one point of damage to Strength every round until someone saves you. If you are Broken when drowning, you die after D6 minutes.
+### **POISON**
+The "Potency" of a poison is a negative modifier to an ENDURANCE roll for resisting it's effects. The modifiers range from -0 (a mild poison, the base potency) to -6 (an extremely powerful poison). Success incurs the "Limited Effect." Failure incurs the "Full Effect."  
+
+**LETHAL POISON**  
+✥ FULL EFFECT: Roll ENDURANCE with Potency DM each round. Every failure results in one point of damage to **Strength** until you are Broken. Your critical injury counts as non-typical. If you drink an antidote in time, the effect of the poison is halted.  
+✥ LIMITED EFFECT: You take one point of damage to Strength.
+
+**PARALYZING POISON**  
+✥ FULL EFFECT: Roll ENDURANCE with Potency DM each round. Every failure results in one point of damage to **Agility** until you are Broken. If you drink an antidote in time, the effect of the poison is halted.  
+✥ LIMITED EFFECT: You take one point of damage to Agility.
+
+**IRRITANT POISON**
+✥ FULL EFFECT: For every level of potency (treat as if at least -1 potency), -1 from all AGILITY, WITS, and EMPATHY rolls for 1D minute (e.g, -2 potency = -2 from the Attributes for 2D minutes). Trigger a Panic Check.
+✥ LIMITED EFFECT: -1 from all AGILITY, WITS, and EMPATHY rolls for 1D Minutes after last exposure. 
+
+**SLEEPING POISON**  
+✥ FULL EFFECT: You take one point of damage to **Wits** each round until you are Broken, at which time you fall unconscious for D6 hours. You don’t suffer a critical injury. If you drink an antidote in time, the effect of the poison is halted.  
+✥ LIMITED EFFECT: You take one point of damage to Wits.
+
+**HALLUCINOGENIC POISON**  
+✥ FULL EFFECT: Roll ENDURANCE with Potency DM each round. Every failure results in one point of damage to **Empathy** until you are Broken.
+✥ LIMITED EFFECT: You take one point of damage to Empathy.
+
+**POISON ON WEAPONS**  
+Poisons can be smeared on weapons with the POINTED or EDGED features. The poison will take effect after an attack that inflicts one point of damage or more. Smearing poison on a weapon is a slow action. The poison stays on the weapon for a Quarter Day or until it’s used in an attack that hits a target.  Darts and arrows: 1 use per potency.
+
+### **DISEASE/INFECTION**  
+When exposed to a dangerous contagion or infection, you need to roll an ENDURANCE roll modified by the Virulence rating of the disease/infection. The "Virulence" is a negative modifier to an ENDURANCE roll for resisting it's effects. The modifiers range from -0 (typical disease/infection) to -6 (). If you fail the roll, you fall SICK, which has several effects:
+
+✥✥ The day after the infection the disease breaks, at which time you suffer one point of damage to both Strength and Agility.  
+✥ ✥ You can’t naturally recover your Strength or Agility while SICK.  
+✥✥ Make another ENDURANCE roll modified by the Virulence once per day. Each failed roll means you suffer another point of damage to both Strength and Agility.  
+✥✥ If your Strength is Broken when SICK, you die after another day if you don’t get well before then. 
+✥✥ As soon as you succeed at one of the daily ENDURANCE rolls to resist, you are no longer SICK. Stop rolling resistance rolls and recover your attributes normally.
+
+**WOUND INFECTIONS:**
+Every critical injury in the Slash and Stab tables also becomes infected with a disease severity equal to the rolled healing time (capped at -6). It's completely ignored if the wound is cared for before the infection kicks in (successful Healing roll to halve the healing time), since diseases start the day after infection.
+The injury **Ruptured Intestines** adds -3 to its infection severity (always capped at -6).
+
+
 ### **STRESS**
 Stressful experiences, such as getting shot at or witnessing harrowing scenes, can temporarily put you out of action or even cause long term psychological damage. A summary of the stress rules is this:
 6) Certain mild-moderately stressful events cause you to gain Stress Points
 7) Certain very shocking events cause you to roll Insight (Calm) to avoid Panicking. It's more difficult the more Stress Points you have.
 8) Panicking means you roll on a Panic Effect table, and add the number of Stress Points. Worse effects occur the more Stress Points you have.
 
-**Gaining Stress**
+#### **Gaining Stress**
 You can gain +1 (or more) stress points in several different ways:
 - Suffering damage to any attribute. Each point of damage (including after BANES on pushed rolls) accrues +1 stress.
 - Getting ==Suppressed== (see below)
@@ -668,7 +748,7 @@ Then you must succeed on an INSIGHT: Calm roll (not an action) to avoid being SU
 **Psychological/Fear attacks**: When a character succeeds in an INFLUENCE: Dominator attempt, every success beyond the first one may (if they choose) add +1 Stress Point to the target. Beyond the second success, a success may (if they choose) trigger a Panic Check in the target.
 *Example*: You roll 4 successes vs your target's 0 success. You now have 3 successes beyond the first. You may inflict up to +3 Stress Points, or up +2 Stress Points and a Panic Check.
 
-**Panicking**
+#### **Panicking**
 Eventually, stressful events will bring you to your breaking point. When that happens, there’s a chance that you’ll lose control and Panic. You determine this by making a **Panic Check**. There are many conditions that trigger a Panic Check:
 - Every 5th Stress Point (i.e. at 5, 10, 15, etc)
 - Your WITS or EMPATHY is reduced to zero.
@@ -692,7 +772,7 @@ Eventually, stressful events will bring you to your breaking point. When that ha
 | 5-6           | -2              |
 | 7+            | -3              |
 If successful, you may continue as normal. If failed, roll 1D8 + Stress Points, and find the result on the below table. If you are already suffering from a Panic Effect and panic again, new result replaces old. If the new roll is lower than previous one, it is automatically adjusted to one step more severe than the previous one. 
-### [Panic Effects](Panic%20Effects.md)  
+#### [Panic Effects](Panic%20Effects.md)  
 
 **Long Term Trauma**  
 Stress doesn’t inflict critical injuries like damage does, but if you have rolled **15+ on the Panic Table,** you risk suffering long-term mental trauma. Next time you rest or sleep for a Quarter Day, make an **unmodified WITS and EMPATHY roll** (attribute only, no skill). If you **a)** fail both rolls, or **b)** only fail the WITS roll, you develop a long-term mental trauma of some kind – roll 1D12 for Trauma Effect, +1 per Trauma Point you have accumulated. If you roll the result of a Trauma you already possess, you must select the next highest on the table. Every time you roll for a Trauma Effect, you earn +1 **Trauma Point**, which should be tracked on your character sheet. This represents the mentally debilitating effect of continued exposure to the stresses of a life of adventure.
@@ -717,7 +797,6 @@ When you gain a Trauma Effect, roll for Healing Time. The Trauma Effect will nat
 |          14          | Broken: Make a Panic Roll whenever a nearby ally fails Endurance, Insight (Calm), or takes damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |          2D          |
 |          15          | Schizophrenic / catatonic: All-encompassing hallucinations consume your psyche. These are sometimes explicit and interactive in the world, and sometimes plunge you into a disconnnected internal landscape. Every QD, roll 1D6. Even results mean nearly all external stimuli are interpreted through hallucinatory paranoia completely disconnected from reality. Odd results mean you are overwhelmed by these stimuli that your psyche retreats in upon itself and you are catatonic and nonresponsive to the external world. PC may be essentially unplayable. |          3D          |
 
-
 #### **Healing Stress**
 
 **Reducing Stress Points**
@@ -727,7 +806,7 @@ You can reduce your Stress points in 5 ways:
 11) Spending time with your Anchor (1 hour, -all stress)
 12) Having fun for a quarter day (1 QD, -1 stress per X)
 13) Spending a Willpower point (instant, -1 stress per WP)
-14) Interacting with Signature Item (Slow Action, -1D stress)
+14) Interacting with Signature Item (Slow Action, -1D stress) 
 Note: Some Conditions can block your ability to relieve stress- Sleepy, Cold, Nightmares Trauma Effect, Substance Abuse Trauma Effect, Descent into Madness Trauma Effect. 
 
 RESTING
@@ -769,7 +848,7 @@ Some characters may have the Trait "Signature Item." Those that do may, once per
 There are three ways Panic Effects end: 1) The Panic Effect is Immediate only, or one Turn (15 min) passes, 2) You are Broken, 3) Another character may RALLY you.
 
 RALLY
-Another character within 10m may help you regain your senses by making an INFLUENCE: Counselor/ Command roll. This is a slow action. If successful, your Panic Effect ends and you lose 1 Stress Point. The RALLY action only reduces Stress Points if it is used to end a Panic Effect.
+Another character within 10m may help you regain your senses by making an INFLUENCE: Counselor/ Command -4 roll. This is a slow action. If successful, your Panic Effect ends and you lose 1 Stress Point. The RALLY action only reduces Stress Points if it is used to end a Panic Effect.
 
 **Healing Trauma Effects**
 After the rolled Healing Time has passed, you may attempt to heal your own Trauma Effects by rolling INSIGHT: Calm once per week. A success rids you of the Trauma Effect. Seeking treatment at any time can significantly speed up Healing. Treatment involves any form of psychological therapy from another character for 1 Quarter Day and the therapist must roll INFLUENCE: Counselor and may add SCHOLAR: Psychology. The roll may be pushed, but each BANE gives the therapist +1 Trauma Point. For every day with 1 successful therapy session, reduce healing time by 1 week.
@@ -803,9 +882,6 @@ If you lose all your Hygiene Points, you become FILTHY. Otherwise, your GM could
 - As soon as you can wash yourself and your clothes (or in other way can regain a Hygiene die, if you use the “Hygiene” module), you are no longer filthy, but any contracted diseases stay.
 
 
-POISON TYPE: Irritant
-Limited Effect: -1 from all AGILITY, WITS, and EMPATHY rolls for 1D Minutes after last exposure. 
-Full Effect: For every level of potency (treat as if at least -1 potency), -1 from all AGILITY, WITS, and EMPATHY rolls for 1D minute (e.g, -2 potency = -2 from the Attributes for 2D minutes). Trigger a Panic Check.
 
 
 ### **HEALING DAMAGE**
@@ -827,4 +903,4 @@ STABILIZE FATAL CRITICAL INJURY: To stabilize a lethal critical injury and save 
 
 TREAT LONG-TERM CRITICAL INJURY: Each critical injury takes a particular number of days to heal. If someone tends to you for 1D6 hours during the process of healing a critical injury and makes a MEDICAL AID: General Practitioner roll, that day counts double. If the critical injury is listed as "permanent", depending on GM's say, a QD-long MEDICAL AID: Field Surgeon (-4 DM) roll can make this a 2D6 day healing process.
 
-TREAT DISEASE OR INFECTION: To care for someone in the course of their illness or infection, you make their "infection rolls" instead of the sufferer. The caregiver rolls for MEDICAL AID: General Practitioner modified by the virulence of the disease/infection. If provide antibiotics, the sufferer gets a +3 bonus to the roll, but it has no effect against viruses or radiation sickness.
+TREAT DISEASE OR INFECTION: To care for someone in the course of their disease or infection, you make their "Resistance rolls" instead of the sufferer. The caregiver rolls for MEDICAL AID: General Practitioner modified by the virulence of the disease/infection. If provide antibiotics, the sufferer gets a +3 bonus to the roll, but it has no effect against viruses or radiation sickness.

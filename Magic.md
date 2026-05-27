@@ -1,5 +1,5 @@
-[Full Rules](Full%20Rules.md)
-
+[Full Rules](Full%20Rules.md) (GM ONLY)
+[Magic Spell Details](Magic%20Spell%20Details.md)
 
 # Learning Spells Through Ritual/Study
 A more ritualistic method of learning magic powers: harder than learning a skill. Skill rolls involved and time taken and XP. Same XP cost, though maybe as much time taken as a Attribute increase. 
@@ -299,12 +299,16 @@ Not enough time solidifying the imaginative mechanism into the mind.
 
 # GROUP CASTING
 
-1) **Pick a Lead caster**.
-2)  **Combine everyone's Casting Dice** for the spell into a total Casting Dice Pool.
-3) **If a caster is using a different Accord Skill** for the spell than the Lead caster, -1 DM if their Accord Skill (specialization doesn't matter) is at least under the same Attribute as the Lead Caster's Accord Skill. If the skill is under a different Attribute, -2 DM.  
->>>> E.g. Lead caster's Accord Skill is Scholar: Path of Healing (a WITS skill). An assistant's Accord Skill is Medical Aid (an EMPATHY skill). -2 DM from the assistant's contribution to the Casting Dice Pool.
-4) **For every success beyond the first**, you may also alter any of the following by one increment: Casting time, Duration, Activations, Range, Relationship/AOE.
-5) **For calculating Mishaps**, use the highest Weirdness Level present (i.e. if a caster doesn't Know the spell +4 WL)
+1. **Pick a Lead Caster.** They own the roll. Their Casting Dice are the base pool.
+2. **Helpers add fractional dice.** For each helper, divide their Casting Dice by 6 (round up). That is their contribution to the pool. 
+3. **Helpers with a different Accord Skill:**
+    - Same Attribute as Lead's Accord Skill: −1 DM
+    - Different Attribute entirely: −2 DM
+    >>>> E.g. Lead caster's Accord Skill is Scholar: Path of Healing (a WITS skill). An assistant's Accord Skill is Medical Aid (an EMPATHY skill). -2 DM from the assistant's contribution to the Casting Dice Pool.
+4. **If any participant doesn't know the spell:** The entire casting is treated as an unknown spell (+4 WL, −4 DM), per the existing unknown spell rules.
+5. **Casting Time:** The ritual must be at least one increment _slower_ than the spell's base casting time, and can be pushed further slower for the standard +1 DM per increment.
+6. **For every success beyond the first**, you may also alter any of the following by one increment: Casting time, Duration, Activations, Range, Relationship/AOE.
+7. **For calculating Mishaps**, use the highest Weirdness Level present (i.e. if a caster doesn't Know the spell +4 WL)
 
 # MISHAPS
 - Every time you cast a spell, there is some chance of a Mishap

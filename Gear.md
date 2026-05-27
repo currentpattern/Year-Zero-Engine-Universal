@@ -99,7 +99,7 @@ To find a restricted item without the required legal authorization, first an Ava
 **STR**: Weapons is heavy/unwieldy/powerful enough that it requires a (listed) minimum STRENGTH to fire it properly, unless it's resting on a stable platform, prop, stand, or tripod. -1 for every point of STR below the minimum.
 **Weight**: Concealing lighter weapons is easier than heavy weapons. DM by weight: .25 = +3, .5 = +1, .75 = 0, 1 = -1, 2 = -2
 ### **PISTOLS**
-
+users/arlen/documents/aleph one
 
 | **Weapon**                                                      | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Ammo** | **Features**                              | **Weight** | Supply |
 | --------------------------------------------------------------- | --------- | ------------------ | ---------- | ------------- | --------------- | -------- | ----------------------------------------- | ---------- | ------ |
@@ -157,14 +157,14 @@ Edits: give all +1 gear, and P90 +2? Make them all Small?
 
 ### **MACHINE GUNS**
 
-| **Weapon**   | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**                          | **Ammo Type** | **Weight** | Supply |
-| ------------ | --------- | ------------------ | ---------- | ------------- | --------------- | ----------- | ------------------------------------- | ------------- | ---------- | ------ |
-| RPK-74       | 750       | '+1/5              | 2          | Distant       | 5R              | 45a         | 2H, STR 3, am: 5.45mm                 | 5.45mm        | 2          | 3/X    |
-| M249 SAW     | 1000      | '+0/6              | 2          | Distant       | 5R              | 200a        | AP, Belt, 2H, STR 4, am: 5.56mm       | 5.56mm        | 2          | 3/X    |
-| HK21E        | 1250      | '+1/6              | 3          | Distant       | 5R              | 100a        | Belt, 2H, STR 5, am: 7.62mm           | 7.62mm        | 3          | 3/X    |
-| PKM          | 2000      | '+1/5              | 3          | Distant       | 5R              | 100a        | AP, Belt, 2H, STR 5, am: 7.62mm       | 7.62mm        | 3          | 3/X    |
-| NSV          | 2000      | '+1/6              | 4          | Extreme       | 5R              | 50a         | AP, Belt, Platform, Scary, am: 12.7mm | 12.7mm        | 6          | 4/X    |
-| M134 Minigun | 5000      | '+2/15             | 3          | Extreme       | 5R              | 500a        | Belt, Platform, Scary, am: 7.62mm     | 7.62mm        | 13         | 4/X    |
+| **Weapon**   | **Price** | **Gear Bonus/ROF** | **Damage** | **Max Range** | **Reliability** | **Mag Cap** | **Features**                          | **Weight** | Supply |
+| ------------ | --------- | ------------------ | ---------- | ------------- | --------------- | ----------- | ------------------------------------- | ---------- | ------ |
+| RPK-74       | 750       | '+1/5              | 2          | Distant       | 5R              | 45a         | 2H, STR 3, am: 5.45mm                 | 2          | 3/X    |
+| M249 SAW     | 1000      | '+0/6              | 2          | Distant       | 5R              | 200a        | AP, Belt, 2H, STR 4, am: 5.56mm       | 2          | 3/X    |
+| HK21E        | 1250      | '+1/6              | 3          | Distant       | 5R              | 100a        | Belt, 2H, STR 5, am: 7.62mm           | 3          | 3/X    |
+| PKM          | 2000      | '+1/5              | 3          | Distant       | 5R              | 100a        | AP, Belt, 2H, STR 5, am: 7.62mm       | 3          | 3/X    |
+| NSV          | 2000      | '+1/6              | 4          | Extreme       | 5R              | 50a         | AP, Belt, Platform, Scary, am: 12.7mm | 6          | 4/X    |
+| M134 Minigun | 5000      | '+2/15             | 3          | Extreme       | 5R              | 500a        | Belt, Platform, Scary, am: 7.62mm     | 13         | 4/X    |
 
 ### **HAND GRENADES**
 
@@ -251,6 +251,8 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 > **Blastweak**: Bullets reduce the armor rating by the weapon's Base Damage for the purpose of rolling for damage. AP rounds and explosions reduce the armor rating twice.  
 > **Bluntweak**: Blunt attacks reduce armor rating by the weapon's Base Damage for the purpose of rolling for damage.
 > **H, A, L, T:** Armor covers Head, Arms, Legs, and/or Torso
+
+
 # SHIELDS
 
 | Shield Type                | Price | Bonus | Protection Rating | Features                                                                                                                            | Weight | **Supply** |
@@ -278,7 +280,7 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | Ammo Bandolier       | 40    | 2      | 1      | Holds up to 300 rounds                                                                                                                                                                               |
 | Stun Gun             | 100   | 2/F    | 1      | +1, 2 dam (AGILITY), Range: Short. Single use.                                                                                                                                                       |
 | Handcuffs            | 300   | 2      | 0.5    | Requires the key or a STEALTH: Sleight of Hand roll -3/XXX to remove; or a MIGHT roll -5/XXXX to break. Key comes with purchase of handcuffs                                                         |
-| Quick-draw holster   | 500   | 2      | 0      | Only available for handguns with Base Damage 2 or less, or melee weapons weighing .5. Drawing the weapon does not count as an action.                                                                |
+| Quick-draw holster   | 50    | 2      | 0      | Only available for handguns with Base Damage 2 or less, or melee weapons weighing .5. Drawing the weapon does not count as an action.                                                                |
 | Taser                | 700   | 2      | 1      | +1, 2 dam (AGILITY). Range: Arm's L                                                                                                                                                                  |
 | Rifle scope          | 900   | 2      | 0.5    | Attaches to a rifle and allows the user to magnify the target, thus increasing the accuracy at greater ranges. Adds +2 to Ranged Fighting rolls. Must spend a Slow Action centering to gain benefit. |
 
@@ -362,7 +364,7 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 | --------------------- | ----- | ------ | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Basic Tools           | 25    | 1      | 2      | A general tool set that can be used to repair items or service vehicles. Includes wrenches, pliers,<br>screwdrivers, etc.                                                     |
 | Vehicle Tools         | 50    | 1      | 3      | Specialized tools for repairing and servicing vehicles that give a +1 modifier when doing so. This tool set includes spark plug wrenches, torque wrenches, a grease gun, etc. |
-| Weapon Tools          | 50    | 2      | 2      | Specialized tools for repairing weapons that give you a +1 modifier for it.                                                                                                   |
+| Weapon Tools          | 100   | 2      | 2      | Specialized tools for repairing weapons that give you a +1 modifier for it.                                                                                                   |
 | Weapon Spare Part     | 25    | 2      | .5     | Needed to repair an inoperable weapon. Can also be used to jury rig.                                                                                                          |
 | Vehicle Spare Part    | 50    | 1      | 1      | Needed to repair an inoperable vehicle.                                                                                                                                       |
 | Electronic Spare Part | 25    | 1      | .5     | Needed to repair an inoperable electronic item.                                                                                                                               |
@@ -378,52 +380,82 @@ A magazine weighs 1⁄4 of an encumbrance unit, while an ammo belt is one full u
 > **Reliability**: How much damage the vehicle can take before becoming Wrecked.  
 > **Armor:** Vehicle's armor, and also the armor rating of any cover the vehicle provides to passengers.
 
-| GROUND VEHICLES                                                 | PASSENGERS   | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY   | ARMOR   | AVAILABILITY | COST                        |
-| --------------------------------------------------------------- | ------------ | ------------------ | --------------- | ------------- | ------- | ------------ | --------------------------- |
-| **Skateboard**                                                  | 1            | 2                  | 1               | 1             | -       | 1            | 2 (used), 60 (new)          |
-| **Roller Skates/blades**                                        | 1            | 2                  | 2               | -             | -       | 1            | 2 (used), 70 (new)          |
-| **Bicycle**                                                     | 2            | 2                  | 6               | 1             | -       | 1            | 20 (used), 300 (new)        |
-| **Motorcycle: Dirtbike**                                        | 2            | 5                  | 6               | 3             | -       | 1            | 600 (used), 4000 (new)      |
-| **Motorcycle: Moped**                                           | 2            | 6                  | 5               | 1             | -       | 1/F          | 1000 (used), 8000 (new)     |
-| **Motorcycle: Hog**                                             | 2            | 6                  | 5               | 2             | -       | 1/F          | 2000 (used), 10000 (new)    |
-| **Economy Car** (hatchback, stationwagon, 4-door, vintage, etc) | 4-6          | 6                  | 3               | 4             | 1       | 1/F          | 2500 (used), 12000 (new)    |
-| **Motorcycle: Racing Bike**                                     | 2            | 8                  | 5               | 2             | -       | 1/F          | 4000 (used), 15000 (new)    |
-| **Economy Sports Car**<br>(Mustang, Challenger, Camaro, etc)    | 2-6          | 7                  | 3-6             | 4             | 1       | 1/F          | 4000 (used), 15000 (new)    |
-| **Jeep**                                                        | 4            | 6                  | 4               | 5             | 0       | 1/F          | 7000 (used), 15000 (new)    |
-| **Commercial Van**                                              | Passengers 8 | Speed 6            | Maneuver 2      | Reliability 4 | Armor 2 | 1/F          | 10000 (used), 20000 (new)   |
-| **Minivan**                                                     | 7            | 6                  | 2               | 4             | 1       | 1/F          | 10000 (used), 20000 (new)   |
-| **Pickup/SUV**                                                  | 2-8          | 6                  | 3               | 5             | 1       | 1/F          | 10000 (used), 20000 (new)   |
-| **Small Delivery Truck**                                        | 12           | 4                  | 2               | 5             | 2       | 1/F          | 28000 (used), 47400 (new)   |
-| **Garbage Truck**                                               | 3            | 2                  | 0               | 8             | 2       | 1/R          | 28000 (used), 47400 (new)   |
-| **Bus**                                                         | 50           | 4                  | 0               | 6             | 1       | 1/F          | 29000 (used), 49000 (new)   |
-| **Semi Truck / Fire Truck**                                     | 3            | 3                  | 1               | 8             | 2       | 1/F          | 30000 (used), 50000 (new)   |
-| **Luxury Car** (Lincoln, Cadillac, Equus, Mercedes, etc)        | 4-6          | 6                  | 3               | 5             | 1       | 1/F          | 31000 (used), 55000 (new)   |
-| **Limousine**                                                   | 12           | 6                  | 2               | 5             | 1       | 2/F          | 35000 (used), 58000 (new)   |
-| **Luxury Sports Car** (Viper, Porsche, Jaguar, Lambo, etc)      | 2-4          | 8                  | 4-7             | 5             | 1       | 1/F          | 40000 (used), 140000 (new)  |
-| **APC**                                                         | 13           | 4                  | 0               | 5             | 4 H     | 4/X          | 50000 (used), 500000 (new)  |
-| **Police car**                                                  | 5            | 7                  | 4               | 4             | 3       | 2/R          | 55000 (new)                 |
-| **Armored car**                                                 | 5            | 5                  | 3               | 4             | 4 H     | 3/R          | 90000 (new)                 |
-| **SWAT truck**                                                  | 13           | 3                  | 1               | 6             | 2 H     | 2/R          | 100000 (used), 300000 (new) |
-| **Armored SUV/ Money Transport**                                | 2-8          | 5                  | 3               | 5             | 4 H     | 3/R          | 200000 (new)                |
+| GROUND VEHICLES                                                 | PASSENGERS | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY | ARMOR  | AVAILABILITY | COST                        |
+| --------------------------------------------------------------- | ---------- | ------------------ | --------------- | ----------- | ------ | ------------ | --------------------------- |
+| **Skateboard**                                                  | 1 pas      | 2 sp               | '+1 mnv         | 1R          | -      | 1            | 2 (used), 60 (new)          |
+| **Roller Skates/blades**                                        | 1 pas      | 2 sp               | '+2 mnv         | -           | -      | 1            | 2 (used), 70 (new)          |
+| **Bicycle**                                                     | 2 pas      | 2 sp               | '+6 mnv         | 1R          | -      | 1            | 20 (used), 300 (new)        |
+| **Motorcycle: Dirtbike**                                        | 2 pas      | 5 sp               | '+6 mnv         | 3R          | -      | 1            | 600 (used), 4000 (new)      |
+| **Motorcycle: Moped**                                           | 2 pas      | 6 sp               | '+5 mnv         | 1R          | -      | 1/F          | 1000 (used), 8000 (new)     |
+| **Motorcycle: Hog**                                             | 2 pas      | 6 sp               | '+5 mnv         | 2R          | -      | 1/F          | 2000 (used), 10000 (new)    |
+| **Economy Car** (hatchback, stationwagon, 4-door, vintage, etc) | 4-6 pas    | 6 sp               | '+3 mnv         | 4R          | 1Ar    | 1/F          | 2500 (used), 12000 (new)    |
+| **Motorcycle: Racing Bike**                                     | 2 pas      | 8 sp               | '+5 mnv         | 2R          | -      | 1/F          | 4000 (used), 15000 (new)    |
+| **Economy Sports Car**<br>(Mustang, Challenger, Camaro, etc)    | 2-6 pas    | 7 sp               | '+3-6 mnv       | 4R          | 1Ar    | 1/F          | 4000 (used), 15000 (new)    |
+| **Jeep**                                                        | 4 pas      | 6 sp               | '+4 mnv         | 5R          | 0      | 1/F          | 7000 (used), 15000 (new)    |
+| **Commercial Van**                                              | 8 pas      | 6 sp               | '+2 mnv         | 4R          | 2Ar    | 1/F          | 10000 (used), 20000 (new)   |
+| **Minivan**                                                     | 7 pas      | 6 sp               | '+2 mnv         | 4R          | 1Ar    | 1/F          | 10000 (used), 20000 (new)   |
+| **Pickup/SUV**                                                  | 2-8 pas    | 6 sp               | '+3 mnv         | 5R          | 1Ar    | 1/F          | 10000 (used), 20000 (new)   |
+| **Small Delivery Truck**                                        | 12 pas     | 4 sp               | '+2 mnv         | 5R          | 2Ar    | 1/F          | 28000 (used), 47400 (new)   |
+| **Garbage Truck**                                               | 3 pas      | 2 sp               | '+0 mnv         | 8R          | 2Ar    | 1/R          | 28000 (used), 47400 (new)   |
+| **Bus**                                                         | 50 pas     | 4 sp               | '+0 mnv         | 6R          | 1Ar    | 1/F          | 29000 (used), 49000 (new)   |
+| **Semi Truck / Fire Truck**                                     | 3 pas      | 3 sp               | '+1 mnv         | 8R          | 2Ar    | 1/F          | 30000 (used), 50000 (new)   |
+| **Luxury Car** (Lincoln, Cadillac, Equus, Mercedes, etc)        | 4-6 pas    | 6 sp               | '+3 mnv         | 5R          | 1Ar    | 1/F          | 31000 (used), 55000 (new)   |
+| **Limousine**                                                   | 12 pas     | 6 sp               | '+2 mnv         | 5R          | 1Ar    | 2/F          | 35000 (used), 58000 (new)   |
+| **Luxury Sports Car** (Viper, Porsche, Jaguar, Lambo, etc)      | 2-4 pas    | 8 sp               | '+4-7 mnv       | 5R          | 1Ar    | 1/F          | 40000 (used), 140000 (new)  |
+| **APC**                                                         | 13 pas     | 4 sp               | '+0 mnv         | 5R          | 4 H Ar | 4/X          | 50000 (used), 500000 (new)  |
+| **Police car**                                                  | 5 pas      | 7 sp               | '+4 mnv         | 4R          | 3Ar    | 2/R          | 55000 (new)                 |
+| **Armored car**                                                 | 5 pas      | 5 sp               | '+3 mnv         | 4R          | 4 H Ar | 3/R          | 90000 (new)                 |
+| **SWAT truck**                                                  | 13 pas     | 3 sp               | '+1 mnv         | 6R          | 2 H Ar | 2/R          | 100000 (used), 300000 (new) |
+| **Armored SUV/ Money Transport**                                | 2-8 pas    | 5 sp               | '+3 mnv         | 5R          | 4 H Ar | 3/R          | 200000 (new)                |
 
 | WATER VEHICLES    | PASSENGERS | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY | ARMOR | AVAILABILITY | COST  |
 | ----------------- | ---------- | ------------------ | --------------- | ----------- | ----- | ------------ | ----- |
-| Small motorboat   | 8          | 4                  | 2               | 4           | 1     | 2            | 4000  |
-| tug boat          | 20         | 2                  | 1               | 5           | 1     | 2/F          | 15000 |
-| River patrol boat | 15         | 5                  | 2               | 5           | 1     | 2/R          | 20000 |
-| Speed boat        | 10         | 6                  | 3               | 5           | 1     | 2/F          | 50000 |
+| Small motorboat   | 8 pas      | 4 sp               | '+2 mnv         | 4R          | 1Ar   | 2            | 4000  |
+| tug boat          | 20 pas     | 2 sp               | '+1 mnv         | 5R          | 1Ar   | 2/F          | 15000 |
+| River patrol boat | 15 pas     | 5 sp               | '+2 mnv         | 5R          | 1Ar   | 2/R          | 20000 |
+| Speed boat        | 10 pas     | 6 sp               | '+3 mnv         | 5R          | 1Ar   | 2/F          | 50000 |
 
-| AIR VEHICLES        | PASSENGERS | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY | ARMOR | AVAILABILITY | COST       |
-| ------------------- | ---------- | ------------------ | --------------- | ----------- | ----- | ------------ | ---------- |
-| Civilian Helecopter | 4          | 7                  | 2               | 3           | 1     | 3/F          | 500,000    |
-| Police Helecopter   | 6          | 10                 | 3               | 5           | 1     | 4/R          | 3,100,000  |
-| Attack Helecopter   | 2          | 15                 | 4               | 6           | 4 H   | 4/X          | 14,000,000 |
-| Commuter Plane      | 12         | 8                  | 2               | 4           | 1     | 3/F          | 26,500,000 |
-| Fighter Jet         | 2          | 36                 | 5               | 8           | 1     | 4/X          | 82,500,000 |
-| Passenger Jet       | 200        | 30                 | 0               | 7           | 1     | 4/R          | 98,000,000 |
+| AIR VEHICLES        | PASSENGERS | SPEED (10m/Action) | MANEUVERABILITY | RELIABILITY | ARMOR  | AVAILABILITY | COST       |
+| ------------------- | ---------- | ------------------ | --------------- | ----------- | ------ | ------------ | ---------- |
+| Civilian Helecopter | 4 pas      | 7 sp               | '+2 mnv         | 3R          | 1 Ar   | 3/F          | 500,000    |
+| Police Helecopter   | 6 pas      | 10 sp              | '+3 mnv         | 5R          | 1Ar    | 4/R          | 3,100,000  |
+| Attack Helecopter   | 2 pas      | 15 sp              | '+4 mnv         | 6R          | 4 H Ar | 4/X          | 14,000,000 |
+| Commuter Plane      | 12 pas     | 8 sp               | '+2 mnv         | 4R          | 1Ar    | 3/F          | 26,500,000 |
+| Fighter Jet         | 2 pas      | 36 sp              | '+5 mnv         | 8R          | 1 Ar   | 4/X          | 82,500,000 |
+| Passenger Jet       | 200 pas    | 30 sp              | '+0 mnv         | 7R          | 1 Ar   | 4/R          | 98,000,000 |
 
 
 
 [Sam's Weapon Drafts](Sam's%20Weapon%20Drafts.md)
 
 [[Gear Old 7.19.25]] Before improving several gun Gear Dice from 0 to 1
+
+
+| Basic firearm repairs, cleaning/maintenance, simple modifications | 0 / X      |
+| ----------------------------------------------------------------- | ---------- |
+| Advanced repairs, barrel modifications, trigger jobs              | -2 / XX    |
+| Custom ammunition, specialized modifications                      | -4 / XXX   |
+| Advanced weapon systems, specialized firearms                     | -5 / XXXX  |
+| Experimental weapon designs, advanced targeting systems           | -7 / XXXXX |
+
+## EMP Grenade
+
+**Price:** 75  
+**Damage:** Special (see Effects)  
+**Max Range:** Medium (20-50m)  
+**Features:** Electronic Disruption, Blast 3D6  
+**Weight:** 0.25  
+**Supply:** 4X (Illegal)
+
+## Effects
+
+**Electronic Device Damage:** Roll 3D6 for the EMP pulse strength. Compare this against each electronic device's hardening level:  ​
+- **Unhardened devices** (civilian electronics, smartphones, standard laptops, cameras): Automatically disabled if within the blast radius. Requires Electronic Spare Parts and a TECHNICAL (Electronics) roll to repair.  ​
+- **Hardened devices** (military equipment, high-end combat electronics with Gear Dice 2+): The device resists if its Gear Dice rating exceeds the EMP roll divided by 3. Failed resistance causes the device to become inoperable until repaired.  ​
+- **Shielded systems** (vehicles, systems in Faraday cages): Reduce the EMP roll by the vehicle's Reliability rating before checking for effects.  ​
+    
+**Personnel Effects:** Living creatures are unaffected. Characters with cybernetic implants or powered armor must make an ENDURANCE roll. Failure causes system malfunction: -2 to all actions relying on the affected implant for 1D6 rounds. 
+
+## Tactical Notes
+
+The EMP grenade follows standard grenade throwing rules from the system—throwing requires a RANGED FIGHTING roll at -2 due to the Ordnance feature's targeting difficulty. Unlike fragmentation grenades, EMP grenades are primarily useful for disabling security systems, communications, and enemy electronics rather than causing casualties.Combat and Damage.md+1

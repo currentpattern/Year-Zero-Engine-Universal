@@ -772,6 +772,16 @@ VEHICLES: The time requirement ranges from about a week for a bicycle or motorcy
 | Choose 3 applicable Bonus Effects                                                                                                                                                                                                                                                                                                                                                                                                                | -5 / XXXX  |
 | (Chemist) impact chemical detonator, handcrafted explosives, experimental compounds, advanced chemical weapons <br>(Electrician) Advanced electronic warfare systems, EMP devices<br>(Gunsmith) Experimental weapon designs, advanced targeting systems<br>(Mechanic) Experimental propulsion systems, advanced robotics                                                                                                                         | -7 / XXXXX |
 
+|                                                                                                |            |
+| ---------------------------------------------------------------------------------------------- | ---------- |
+| Basic firearm repairs, cleaning/maintenance, simple modifications (+1 Gear Dice, +1 Fire Rate) | 0 / X      |
+| Advanced repairs, barrel modifications, trigger jobs                                           | -2 / XX    |
+| Custom ammunition, specialized modifications                                                   | -4 / XXX   |
+| Advanced weapon systems, specialized firearms                                                  | -5 / XXXX  |
+| Experimental weapon designs, advanced targeting systems                                        | -7 / XXXXX |
+
+
+
 **Special TECHNICAL Actions**
 
 JURY RIGGING: Using TECHNICAL: Jury-Rigging, only certain types of modern and high-tech gear can be jury-rigged from spare parts. This includes crude weapons, but also larger items such as stills for distilling fuel. Jury rigging an item requires number of Quarter Days of work and spare parts as indicated by the item’s description. You can try again if you fail. 
@@ -884,7 +894,7 @@ Influence Specialties
 **Various INFLUENCE Actions**
 
 MANIPULATION
-Make an opposed roll with your INFLUENCE: Manipulation against your adversary’s INSIGHT. Your chances are affected both by your negotiating position. What you ask of your opponent or what you want them to do must be within reason – **no NPC will agree to do anything or act completely against their own interests**, no matter how good your roll is.
+Make an opposed roll with your INFLUENCE: Manipulation against your adversary’s INSIGHT. Your chances are affected both by your negotiating position. What you ask of your opponent or what you want them to do must be within reason – **no NPC will agree to do anything or act completely against their own interests**, no matter how good your roll is. 
 
 RESOLUTION  
 If you succeed, your adversary must either do what you want or immediately attack you physically. Even if your adversary chooses to do what you want, he can still demand something in return. The GM decides what that entails, but it should be reasonable enough for you to be able to meet those demands. It is up to you to accept the agreement or not.  

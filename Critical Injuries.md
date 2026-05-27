@@ -3,6 +3,10 @@ When you take Critical Damage (Strength or Wits being BROKEN from something othe
 **For every point of damage beyond what was needed to BREAK you, +2** to the rolled result.
 
 **Willpower Points:** You may spend a WP to re-roll a critical damage result (once per injury), but you must use the new result.
+
+**WOUND INFECTIONS:**
+Every critical injury in the Slash and Stab tables also becomes infected with a disease severity equal to the rolled healing time (capped at -6). It's completely ignored if the wound is cared for before the infection kicks in (successful Healing roll to halve the healing time), since diseases start the day after infection.
+The injury **Ruptured Intestines** adds -3 to its infection severity (always capped at -6).
 # HEAD
 
 | D12     | BALLISTIC         | LETHAL     | TIME LIMIT     | EFFECTS                                                                         | HEAL TIME (Days)     |
@@ -53,7 +57,7 @@ When you take Critical Damage (Strength or Wits being BROKEN from something othe
 | 7       | Ruptured kidney     | Yes        | Shift          | 1 damage at any MOBILITY roll                             | 2D6                  |
 | 8       | Punctured lung      | Yes        | Shift          | STAMINA and MOBILITY –2                                   | 2D6                  |
 | 9       | Cracked spine       | Yes        | Shift          | Fall down, immobile                                       | 4D6                  |
-| 10      | Torn intestines     | Yes        | Stretch        | STAMINA –1 and disease virulence –3, incubation one shift | 2D6                  |
+| 10      | Ruptured intestines | Yes        | Stretch        | STAMINA –1 and disease virulence –3, incubation one shift | 2D6                  |
 | 11      | Internal bleeding   | Yes        | Round          | Fall down, cannot run, only crawl                         | 3D6                  |
 | 12      | Heart impaled       | Yes        | –              | Instant death                                             | –                    |
 | **D12** | **BLUNT**           | **LETHAL** | **TIME LIMIT** | **EFFECTS DURING HEALING**                                | **HEAL TIME (Days)** |
@@ -80,10 +84,10 @@ When you take Critical Damage (Strength or Wits being BROKEN from something othe
 | 4       | Dislocated elbow    | No         | –              | Two-handed weapons cannot be used         | D6                   |
 | 5-6     | Broken forearm      | No         | –              | Two-handed weapons cannot be used         | 2D6                  |
 | 7       | Crushed wrist       | No         | –              | Two-handed weapons cannot be used         | 3D6                  |
-| 8-9     | Bleeding shoulder   | Yes        | Shift          | RANGED COMBAT –2 with two- handed weapons | D6                   |
-| 10      | Shattered elbow     | Yes        | Shift          | Two-handed weapons cannot be used         | 3D6                  |
-| 11      | Arterial bleeding   | Yes        | Stretch        | RANGED COMBAT –2 with two- handed weapons | 2D6                  |
-| 12      | Severed arm         | Yes        | Stretch        | Two-handed weapons cannot be used         | Permanent            |
+| 8-9     | Bleeding shoulder   | Yes        | 1qd            | RANGED COMBAT –2 with two- handed weapons | D6                   |
+| 10      | Shattered elbow     | Yes        | 1qd            | Two-handed weapons cannot be used         | 3D6                  |
+| 11      | Arterial bleeding   | Yes        | turn           | RANGED COMBAT –2 with two- handed weapons | 2D6                  |
+| 12      | Severed arm         | Yes        | turn           | Two-handed weapons cannot be used         | Permanent            |
 | **D12** | **BLUNT**           | **LETHAL** | **TIME LIMIT** | **EFFECTS DURING HEALING**                | **HEAL TIME (Days)** |
 | 1-5     | Broken fingers      | No         | –              | Two-handed weapons can’t be used.         | D6                   |
 | 6-10    | Broken arm          | No         | –              | Two-handed weapons can’t be used.         | 2D6                  |
@@ -135,6 +139,8 @@ When you take Critical Damage (Strength or Wits being BROKEN from something othe
 **WOUND INFECTIONS:**
 Every critical injury in the Slash and Stab tables also becomes infected with a disease severity equal to the rolled healing time. It's completely ignored if the wound is cared for before the infection kicks in (successful Healing roll to halve the healing time), since diseases start the day after infection.
 The injury Ruptured Intestines also had its effect changed to +3 to its infection severity.
+
+
 
 
 

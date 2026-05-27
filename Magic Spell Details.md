@@ -1,16 +1,16 @@
 # Teleportation WL Point Buy
 Base Weirdness Level of a teleportation spell: 10. This is modified by object/subject **Mass**, and any added features below. Note that teleporting an unwilling subject allows them to resist with an Insight (Incorruptible, Mindful, or Magician) roll. 
 
-| Mass Range              | Examples                                                      | WL Modifier |
-| ----------------------- | ------------------------------------------------------------- | ----------- |
-| Tiny (< 1 kg)           | apple, card deck, boots, textbook, smallarm                   | -2 WL       |
-| Small (1-10 kg)         | rifle, chair, cat, full heavy outfit                          | -1 WL       |
-| Medium (10-100 kg)      | table, bicycle, human, mattress, fridge, tripod machine gun   | -           |
-| Large (100-1000 kg)     | motorcycle, small car, horse, small shed                      | +1 WL       |
-| Huge (1-5 tons)         | large SUV, hippo, small cabin                                 | +3 WL       |
-| V. Huge (5-20 tons)     | fire truck, elephant, 1000 sq ft tailer                       | +4 WL       |
-| Massive (20-40 tons)    | whale, battle tank, 1000 sq ft wood structure                 | +6 WL       |
-| V. Massive (40-60 tons) | single family home, 1000 sq ft brick/stone/concrete structure | +7 WL       |
+| Mass Range              | Examples                                                      | WL Modifier |     |
+| ----------------------- | ------------------------------------------------------------- | ----------- | --- |
+| Tiny (< 1 kg)           | apple, card deck, boots, textbook, smallarm                   | -2 WL       |     |
+| Small (1-10 kg)         | rifle, chair, cat, full heavy outfit                          | -1 WL       |     |
+| Medium (10-100 kg)      | table, bicycle, human, mattress, fridge, tripod machine gun   | -           | 7.5 |
+| Large (100-1000 kg)     | motorcycle, small car, horse, small shed                      | +1 WL       | 16  |
+| Huge (1-5 tons)         | large SUV, hippo, small cabin                                 | +3 WL       | 22  |
+| V. Huge (5-20 tons)     | fire truck, elephant, 1000 sq ft tailer                       | +4 WL       |     |
+| Massive (20-40 tons)    | whale, battle tank, 1000 sq ft wood structure                 | +6 WL       |     |
+| V. Massive (40-60 tons) | single family home, 1000 sq ft brick/stone/concrete structure | +7 WL       |     |
 
 Adding the following features **increases** the WL by 1 each.
 1) **Delayed Reappearance**: The time between disappearance and reappearance is not instant, and occurs after a stated (and purchased)  duration. This would be a separate purchased duration from the duration, of, say, a set of portals.
@@ -28,6 +28,7 @@ Adding the following features **reduces** the WL by 1 each, to a minimum of WL 3
 8) **Familiar Destination**: You must have been to the destination before 
 9) **Unseen**: Nobody is visually seeing you disappear/appear 
 
+line of sight, sound/popping
 # Locate spell WL Point Buy
 
 LOCATE PERSON
@@ -90,7 +91,7 @@ If you have directly seen the location where such information could be learned, 
 - WL 3: Knowing the WL of the magic you’re sensing, and how many successes the caster had. If it is a magical artifact, how many spells are inside it, the WL levels, and how many successes the caster had.
 - WL 4+: Get (WL + 4) dice to roll to understand a spell. The roll is modified by half the WL of the target spell (e.g. target WL 2 = -1 DM; target WL 8 = -4 DM). Each success reveals 1d6 of the following, caster's choice.
 	- Effect  
-	- Number of casters  
+	- Number of casters ??
 	- Duration  
 	- Range, aoe/rel 
 	- Any modified casting time  
