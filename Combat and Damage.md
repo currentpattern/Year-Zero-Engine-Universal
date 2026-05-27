@@ -352,9 +352,9 @@ Bows don’t need reloading, but before you fire a bow, you need to prepare the 
 Thrown weapons don’t need to be prepared before an attack.
 
 ### **EXPLOSIONS** 
-The strength of an explosion is measured by its blast power, **which is always Armor Piercing**, typically ranging from 2d12 to 2d6, where 2d12 is the most powerful explosion. The blast power has its full value in the 10m area where the detonation takes place,  and is reduced by one step towards 2d6 for every 10m away from the detonation point. If it is reduced below 2d6, it had no effect. 
+The strength of an explosion is measured by its blast power, **which is always Armor Piercing**, typically ranging from 2d12 to 2d6, where 2d12 is the most powerful explosion. The blast power has its full value within 3m where the detonation takes place,  and is reduced by one step towards 2d6 for every 3m away from the detonation point. If it is reduced below 2d6, it had no effect. 
 
-When an explosive detonates, roll the two dice once for each person within range of the explosion. If one or X more is rolled, the target is hit by the blast. The damage done is increased by 1 for each additional X rolled beyond the first. Note that explosions are always Armor Piercing, so Light cover and Armor ratings are reduced by the explosion's Base Damage. Roll the hit location normally.
+When an explosive detonates, roll the 3 dice once for each person within range of the explosion. If one or X more is rolled, the target is hit by the blast. The damage done is increased by 1 for each additional X rolled beyond the first. Note that explosions are always Armor Piercing, so Light cover and Armor ratings are reduced by the explosion's Base Damage. Roll the hit location normally.
 
 SUPPRESSION: Any person in the blast area of an explosion, even if they are not hit, is automatically knocked prone and must make an immediate INSIGHT: Calm roll or be suppressed. This does not apply to targets inside vehicles or behind cover that the blast cannot penetrate.
 
@@ -362,26 +362,17 @@ PRONE: If the target is already prone, the blast power is reduced one step.
 
 COVER: Solid cover provides protection against shielded hit locations, just like for a ranged attack – unless the explosion occurs within 10m of the target.
 
-|               Example Weapons                |     Blast Power     |       1 hit       |      2 hits       |      3 hits       |      4 hits       |      5+ hits       |     Base Damage     | Radius         |
-| :------------------------------------------: | :-----------------: | :---------------: | :---------------: | :---------------: | :---------------: | :----------------: | :-----------------: | -------------- |
-|      64 units explosives; heavy mortar       |        2D12         |   4 damage, 83%   |   5 damage, 69%   |   6 damage, 52%   |   7 damage, 33%   |   8+ damage, 17%   |          4          | 20             |
-|      phosphorus grenade; claymore mine       |        2D10         |   3 damage, 75%   |   4 damage, 55%   |   5 damage, 31%   |   6 damage, 13%   |   7+ damage, 5%    |          3          | 15             |
-|           hand grenade; RPG round            |         2D8         |   2 damage, 61%   |   3 damage, 30%   |   4 damage, 8%    |   5 damage, 2%    |         --         |          2          | 10             |
-|               grenade launcher               |         2D6         |   1 damage, 31%   |   2 damage, 3%    |        --         |        --         |         --         |          1          | 5              |
-|                                              |                     |                   |                   |                   |                   |                    |                     |                |
-|           ==**Example Weapons**==            | ==**Blast Power**== |  ==**% 1 hit**==  | ==**% 2 hits**==  | ==**% 3 hits**==  | ==**% 4 hits**==  | ==**% 5+ hits**==  | ==**Base Damage**== | ==**Radius**== |
-|    ==64 units explosives; heavy mortar==     |      ==3D12==       | ==4 damage, 93%== | ==5 damage, 84%== | ==6 damage, 72%== | ==7 damage, 56%== | ==8+ damage, 40%== |        ==4==        | ==12==         |
-|    ==phosphorus grenade; claymore mine==     |      ==3D10==       | ==3 damage, 88%== | ==4 damage, 73%== | ==5 damage, 52%== | ==6 damage, 31%== | ==7+ damage, 17%== |        ==3==        | ==9==          |
-|         ==hand grenade; RPG round==          |       ==3D8==       | ==2 damage, 76%== | ==3 damage, 46%== | ==4 damage, 20%== | ==5 damage, 7%==  |  ==6 damage, 1%==  |        ==2==        | ==6==          |
-| ==grenade launcher; anti tank round splash== |       ==3D6==       | ==1 damage, 42%== | ==2 damage, 7%==  | ==3 damage, 1%==  |      ==--==       |       ==--==       |        ==1==        | ==3==          |
-|                                              |                     |                   |                   |                   |                   |                    |                     |                |
-|             **Example Weapons**              |   **Blast Power**   |    **% 1 hit**    |   **% 2 hits**    |   **% 3 hits**    |   **% 4 hits**    |   **% 5+ hits**    |   **Base Damage**   | **Radius**     |
-|      64 units explosives; heavy mortar       |        3D12         |   3 damage, 93%   |   4 damage, 84%   |   5 damage, 72%   |   6 damage, 56%   |   7+ damage, 40%   |          3          | 12             |
-|      phosphorus grenade; claymore mine       |        3D10         |   2 damage, 88%   |   3 damage, 73%   |   4 damage, 52%   |   5 damage, 31%   |   6+ damage, 17%   |          2          | 9              |
-|           hand grenade; RPG round            |         3D8         |   1 damage, 76%   |   2 damage, 46%   |   3 damage, 20%   |   4 damage, 7%    |    5 damage, 1%    |          1          | 6              |
-|   grenade launcher; anti tank round splash   |         3D6         |   1 damage, 42%   |   2 damage, 7%    |   3 damage, 1%    |        --         |         --         |          1          | 3              |
-**Automatic damage rule proposal**
-Any target within the first range band (0–3m) of a detonation who does not Dodge automatically suffers half of the Base Damage (rounded up), in addition to the normal blast roll.
+POINT BLANK DAMAGE: Any target within the first range band (0–3m) of a detonation who does not Dodge automatically suffers half of the Base Damage (rounded up), in addition to the normal blast roll.
+
+CONFINED EXPLOSIONS: Explosion in a CRAMPED area increases the Blast Power by 1 tier. e.g. from 3D6 to 3D8. "CRAMPED" is a zone with 2 or more confining surfaces (walls, ceiling) within 3 meters).
+
+|           **Example Weapons**            | **Blast Power** | **Base Damage** |
+| :--------------------------------------: | :-------------: | :-------------: |
+|    64 units explosives; heavy mortar     |      3D12       |        4        |
+|    phosphorus grenade; claymore mine     |      3D10       |        3        |
+|         hand grenade; RPG round          |       3D8       |        2        |
+| grenade launcher; anti tank round splash |       3D6       |        1        |
+
 
 **STRUCTURAL DAMAGE**
 A building, bridge, wall, or other structure may suffer structural damage when subject to explosions or targeted by destructive weaponry. When this happens you and your group can resolve the damage **narratively** - there's nothing stopping a GM from ruling that structures collapse as a result of story-driving events or that there are "enough explosives" to destroy the targeted building regardless of die rolls. Or the GM may use the **Simulationist** rules, calculating structural damage:
