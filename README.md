@@ -20,7 +20,8 @@
 
 [Hacking](Hacking.md)  
 
-Hirelings, Followers, Cohorts    
+[Social Factors- Enemies, Reputation, Followers](Social%20Factors-%20Enemies,%20Reputation,%20Followers.md)
+
 Mass Combat  
 
 
