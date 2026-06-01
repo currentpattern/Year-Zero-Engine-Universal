@@ -657,6 +657,38 @@ Electric stun weapons: -6
 Insight: Calm to prevent becoming suppressed.
 ✥ LIMITED EFFECT: Suffer -2 on your next action. 
 ### **CONDITIONS**
+
+**HUNGRY**  
+You must eat a ration of food at least once every day. After a day without food, you become HUNGRY. Being HUNGRY has sev- eral effects:  
+✥✥ You cannot recover Strength in any way, except through magic. You can recover other attributes.  
+✥✥ You suffer one point of damage to Strength per week. If your Strength is Broken while HUNGRY, you die after anoth- er week without food.  
+✥✥ As soon as you have eaten, you are no lon- ger HUNGRY, and you can recover Strength normally.
+
+**THIRSTY**  
+You must drink a ration of water at least once per day. After a day without water, you become THIRSTY. Being THIRSTY has sev- eral effects:  
+✥✥ You cannot recover any attributes, except through magic. If you are Broken, you need to drink water to get back up again.  
+✥✥ You suffer one point of damage to both Strength and Agility every day. If either of your Strength or Agility are Broken while THIRSTY, you die after another day without water.  
+✥✥ As soon as you drink, you are no longer THIRSTY, and you can recover your attri- butes normally.
+
+**SLEEPY**  
+You need to SLEEP for at least one Quarter Day of each day. After one day without sleep, you become SLEEPY. Being SLEEPY has several effects:  
+✥✥ You cannot recover Wits, except through magic. If your Wits are Broken while SLEEPY, you must sleep for at least one Quarter Day to get back up again.  
+✥✥ You suffer one point of damage to your Wits each day. If this damage breaks your Wits, you collapse and sleep for at least one Quarter Day.  
+✥✥ As soon as you have slept for at least a Quarter Day, you are no longer SLEEPY, and you can recover Wits normally.
+
+**COLD**  
+When the cold is bitter and you don’t have enough shelter, you have to roll ENDUR ANCE regularly. The colder it is, the more frequent- ly you need to roll. A chilly fall day requires a roll per day; in the depth of winter, you might have to roll once every hour. Extra protection, like a blanket, can give you Gear Dice to roll. If you fail your roll, you become COLD. Being COLD has several effects:  
+✥ ✥ You immediately take one point of dam- age to both your Strength and Wits – as the cold seeps into your body and makes the blood run slower to your brain, you are unable to think clearly.  
+✥ ✥ You can even hallucinate, causing you to act irrationally – details are up to the GM to decide. Some say that when you are close to freezing to death, you feel a strong burning sensation that can make you tear your clothes off.  
+✥ ✥ You must keep rolling ENDURANCE at the same interval, and with the same effect if you fail. If your Strength is Broken while you are COLD, you die the next time you have to roll.  
+✥ ✥ You cannot recover Strength or Wits. Only after you have warmed up again, if only by a campfire (for 1 hour), are you able to recover those attributes.
+
+**INTOXICATED**  
+Whenever you consume an alcohol or narcotics resource, you must successfully roll for endurance or become in- toxicated. If you become intoxicated while already intox- icated, you vomit uncontrollably and set your Agility to zero. Being intoxicated has several effects:  
+✥ ✥ Take a – 2 penalty to all skills.  
+✥ ✥ When you use Strength, Wits or Empathy, you always roll your full die pool, even if your attrib- utes have been reduced.  
+✥ ✥ You may ignore 1 point of pain/shock. This works just like if you had an extra rank in the pain re- sistant talent, stacking with any existing ranks.  
+✥ ✥ After a Quarter day, remove intoxicated.
 ### **FALLING**
  If you fall from 3+ meters and hit a hard surface, you suffer 1 damage, plus an attack with a number of Base Dice equal to the height of the fall in meters, minus 2. You take one point of damage to Strength for every X rolled. Blastweak or Bluntweak armor offers no protection. You may reduce the damage by successes in a MOVE roll, and by a further 1 damage if you spent a fast action to controllably jump down. You land prone, but may take a -2 penalty to land standing, but this only succeeds if you avoid taking a critical injury.
 ### **DROWNING**

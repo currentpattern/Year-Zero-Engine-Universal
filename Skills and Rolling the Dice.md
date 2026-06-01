@@ -901,21 +901,23 @@ If you succeed, your adversary must either do what you want or immediately attac
 
 NEGOTIATING POSITION  
 Your chances of MANIPULATING someone successfully are affected by your negotiating position, which is determined by the GM. Each of following factors modifies your roll by +1:  
-+ You have more people on your side.  
++ You have more people on your side. (Physically present, visibly staged nearby, or reachable in under 5 min)
 + What you ask for doesn’t cost your opponent anything.  
 + Your opponent has suffered damage to any attribute.  
 + You have helped your opponent previously.  
-+ You present your case very well (determined by the GM)  
+	+ Your help included an genuine personal sacrifice
++ You present your case very well (determined by the GM. E.g. addressing a known fear, grievance, or desire of the target)  
 + You have more reputation (Village or Regional, whichever is highest) than your opponent.  
 + You have twice the reputation (Village or Regional, whichever is highest) than your opponent.  
 + You have more Global reputation than your opponent 
 
 Each of the following factors modifies your roll by –1.  
-- Your opponent has more people on their side.  
+- Your opponent has more people on their side (Physically present, visibly staged nearby, or reachable in under 5 min)
 + Your opponent has more reputation (Village or Regional, whichever is highest) than you.  
 + Your opponent has twice the reputation (Village or Regional, whichever is highest) than you.  
 + Your opponent has more Global reputation than you.
 - You ask for something valuable or dangerous.  
+	- You're asking for something that risks going against their core interest.
 - Your opponent has nothing to gain by helping you.  
 - You are having trouble understanding each other.  
 - The range between you is SHORT or longer.

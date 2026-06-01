@@ -48,3 +48,14 @@ Sometimes, you might want to make a quick search for scrap in a smaller area, wi
 | HUNTING                     | As terrain | +1      | +1      | 0       | –1        | 0          | 0       | –1      |
 | SCROUNGING                  | +1         | –       | –1      | –1      | –2        | –          | –2      | +2      |
 | ENCOUNTER DISTANCE (METERS) | 2D10x20    | 2D10x40 | 2D10x10 | 2D10x20 | 2D10x30   | 2D10x40    | 2D10x20 | 2D10x10 |
+
+
+### **REST**
+
+Resting means your character sits idle in **a safe area that is secured from enemies as far as you know**, generally not much much, and making no rolls beyond some non-strenuous or non-stressful Wits or Empathy rolls. RESTING for a quarter day **regains all lost attribute points, and heal 1D worth of Stress Points**. Critical injuries remain. If your REST is interrupted by something dramatic, like combat or other similar activity, your activity during the Quarter Day no longer counts as REST. You can also spend XP to improve any skills that you've previously practiced, or succeeded on during the day.
+
+### **SLEEP**
+You have to SLEEP at least one Quarter Day per day (usually during the Night) to avoid becoming SLEEPY. If your SLEEP is interrupted by something dramatic, like combat or other similar activity, your activity during the Quarter Day no longer counts as SLEEP. SLEEP also counts as REST, so you **regain all lost attribute points, heal 1D worth of Stress Points**, though critical injuries remain. You can also spend XP to improve any skills that you've previously practiced, or succeeded on during the day.
+
+**SLEEPING ON BARE GROUND**  
+It is possible to SLEEP in the wilderness without MAKING CAMP – you simply find a suitable tree to SLEEP under. You save the time it takes to MAKE CAMP , but everyone in the group must make a SURVIVAL roll to find a good spot to SLEEP. Failure means the individual doesn’t SLEEP at all, and thus becomes SLEEPY. Since you don’t have a fire to keep the cold away, you all also suffer the effects of cold.
